@@ -1,0 +1,1388 @@
+[
+  {
+    "termA": {
+      "name": "Avocat",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "femme battue",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "D'",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Chef",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "groupe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Médecin",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "patient",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Enseignant",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "élèves",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DES",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Parent",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "enfant",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "D'",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Ami",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'ami",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Patron",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'employé",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Capitaine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'équipe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Avocat",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "prévenu",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Mentor",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "stagiaire",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Infirmier",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "malade",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Leader",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "mouvement",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Frère",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "la sœur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Mère",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "bébé",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Coach",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "athlètes",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DES",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Directeur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'entreprise",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Avocat",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'accusé",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Conseiller",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "client",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Juge",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'audience",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Capitaine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "navire",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Professeur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "étudiants",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DES",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Manager",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "projet",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Tuteur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "mineur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Époux",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'épouse",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Guide",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "touriste",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Médecin",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "famille",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Prêtre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "la paroisse",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Ami",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "voisin",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Superviseur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "ouvriers",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DES",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Entraîneur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "joueur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Président",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "comité",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Avocat",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "plaignant",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Mentor",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'apprenti",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Infirmière",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "patient",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Leader",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'équipe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Sœur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "frère",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Père",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'enfant",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Coach",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "coureur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Directeur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "département",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Avocat",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "la victime",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Conseiller",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "président",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Juge",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "tribunal",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Capitaine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'avion",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Professeur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'école",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Manager",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'équipe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Tuteur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'étudiant",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Épouse",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "mari",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Guide",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "randonneurs",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DES",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Médecin",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "village",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Prêtre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "diocèse",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Ami",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'ami d'enfance",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Superviseur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "chantier",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Entraîneur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'équipe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Président",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'association",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Avocat",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "justiciable",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Mentor",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "jeune",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Infirmier",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'hôpital",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Leader",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "parti",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Frère",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "cadet",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Mère",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'adolescent",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Coach",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "gymnaste",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Directeur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'école",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Avocat",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'entreprise",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Conseiller",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "maire",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Juge",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "la cour",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Capitaine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "bateau",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Professeur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'université",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Manager",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "magasin",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Tuteur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "lycéen",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Époux",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "la femme",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Guide",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "groupe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Médecin",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'enfant",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Prêtre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'église",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Ami",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "collègue",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Superviseur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'atelier",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Entraîneur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "boxeur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Président",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "conseil",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Avocat",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "citoyen",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Mentor",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "novice",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Infirmière",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "la clinique",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Leader",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "projet",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Sœur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'aînée",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Père",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "bébé",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Coach",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'équipe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Directeur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "musée",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Avocat",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "client",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Conseiller",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'étudiant",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Juge",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "procès",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Capitaine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'escouade",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Professeur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "collège",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Manager",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "la boutique",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Tuteur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'apprenant",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Épouse",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "conjoint",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Guide",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "visiteurs",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DES",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Médecin",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'adulte",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Prêtre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "monastère",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Ami",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "camarade",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Superviseur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "l'équipe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_social_tie"
+  },
+  {
+    "termA": {
+      "name": "Entraîneur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "nageur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_social_tie"
+  }
+]

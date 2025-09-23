@@ -1,0 +1,1360 @@
+[
+  {
+    "termA": {
+      "name": "Coque",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "bateau",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Écaille",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "poisson",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Roue",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "vélo",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Page",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "livre",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Branche",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "arbre",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "D'",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Aile",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "avion",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "D'",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Tête",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "corps",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Fenêtre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "maison",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Feuille",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "plante",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Clé",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "clavier",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Pneu",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "voiture",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Touche",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "piano",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Cheveu",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "tête",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Dalle",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "sol",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Vis",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "meuble",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Corde",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "guitare",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Plume",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "oiseau",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "D'",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Croc",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "serpent",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Épine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "cactus",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Écorce",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "arbre",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "D'",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Racine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "plante",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Graine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "fruit",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Peau",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "corps",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Os",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "squelette",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Muscle",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "bras",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Veine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "sang",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Nerf",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "système",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Cellule",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "tissu",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Atome",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "molécule",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Proton",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "noyau",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Électron",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "atome",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Rouage",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "machine",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Vis",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "moteur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Batterie",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "téléphone",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Écran",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "ordinateur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "D'",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Touche",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "clavier",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Fil",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "câble",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Ampoule",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "lampe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Prise",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "mur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Brique",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "mur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Tuile",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "toit",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Porte",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "maison",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Fenêtre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "immeuble",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "D'",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Escalier",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "bâtiment",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Ascenseur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "tour",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Chambre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "hôtel",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Lit",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "chambre",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Oreiller",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "lit",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Drap",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "lit",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Matelas",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "sommier",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Roue",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "chaise",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Dossier",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "siège",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Accoudoir",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "fauteuil",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Tiroir",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "bureau",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Étage",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "bibliothèque",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Rayon",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "étagère",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Livre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "bibliothèque",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Chapitre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "livre",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Mot",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "phrase",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Lettre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "mot",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Point",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "phrase",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Virgule",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "texte",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Ligne",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "paragraphe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Page",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "chapitre",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Couverture",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "livre",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Dos",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "livre",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Reliure",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "cahier",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Spirale",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "cahier",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Feuille",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "cahier",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Crayon",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "stylo",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Encre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "stylo",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Mine",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "crayon",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Gomme",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "crayon",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Brosse",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "pinceau",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Poil",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "pinceau",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Toile",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "tableau",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Cadre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "tableau",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Couleur",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "peinture",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Pinceau",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "palette",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Tube",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "peinture",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Chevalet",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "artiste",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Statue",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "musée",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Œuvre",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "art",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "D'",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Note",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "musique",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Accord",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "chanson",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Strophe",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "poème",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Vers",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "strophe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Rime",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "poème",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Mot",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "vers",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Syllabe",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "mot",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Son",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "syllabe",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Voix",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "chanteur",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Instrument",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "orchestre",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Violon",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "quatuor",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Corde",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "violon",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DU",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Arche",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "violon",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  },
+  {
+    "termA": {
+      "name": "Clé",
+      "hypernym": [],
+      "trt": []
+    },
+    "termB": {
+      "name": "violon",
+      "hypernym": [],
+      "trt": []
+    },
+    "prep": "DE",
+    "rel_type": "r_holo"
+  }
+]

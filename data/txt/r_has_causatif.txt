@@ -1,0 +1,98 @@
+Épuisé DE stress | r_has_causatif
+Trempé DE pluie | r_has_causatif
+Malade DE froid | r_has_causatif
+Étourdi DE chaleur | r_has_causatif
+Affaibli DE faim | r_has_causatif
+Blessé DE chute | r_has_causatif
+Enroué DE cris | r_has_causatif
+Aveuglé DE lumière | r_has_causatif
+Épuisé DE travail | r_has_causatif
+Gelé DE vent | r_has_causatif
+Épuisé DU surmenage | r_has_causatif
+Couvert DE boue | r_has_causatif
+Ébloui DU soleil | r_has_causatif
+Éreinté DE fatigue | r_has_causatif
+Tremblant D'émotion | r_has_causatif
+Écorché DE ronces | r_has_causatif
+Épuisé D'efforts | r_has_causatif
+Glacé DE peur | r_has_causatif
+Brûlé DU feu | r_has_causatif
+Émerveillé DE beauté | r_has_causatif
+Souillé DE peinture | r_has_causatif
+Étourdi D'altitude | r_has_causatif
+Étouffé DE fumée | r_has_causatif
+Affamé DE privation | r_has_causatif
+Épuisé DE course | r_has_causatif
+Enroué DU chant | r_has_causatif
+Ébloui D'éclat | r_has_causatif
+Trempé D'eau | r_has_causatif
+Gelé DU froid | r_has_causatif
+Épuisé DE chaleur | r_has_causatif
+Blessé D'accident | r_has_causatif
+Ému DE joie | r_has_causatif
+Épuisé DU voyage | r_has_causatif
+Criblé DE dettes | r_has_causatif
+Éreinté DE labeur | r_has_causatif
+Aveuglé DU flash | r_has_causatif
+Tremblant DE froid | r_has_causatif
+Épuisé D'insomnie | r_has_causatif
+Étourdi DE vertige | r_has_causatif
+Écorché DU frottement | r_has_causatif
+Malade DE fièvre | r_has_causatif
+Épuisé DE jeûne | r_has_causatif
+Glacé D'effroi | r_has_causatif
+Souillé D'huile | r_has_causatif
+Ébloui DE splendeur | r_has_causatif
+Épuisé DU combat | r_has_causatif
+Trempé DE sueur | r_has_causatif
+Gelé DE glace | r_has_causatif
+Éreinté DE marche | r_has_causatif
+Blessé DE coup | r_has_causatif
+Ému D'émotion | r_has_causatif
+Épuisé DE tension | r_has_causatif
+Couvert DE poussière | r_has_causatif
+Ébloui DU projecteur | r_has_causatif
+Tremblant DE colère | r_has_causatif
+Écorché DE griffures | r_has_causatif
+Malade D'angoisse | r_has_causatif
+Épuisé DU marathon | r_has_causatif
+Glacé DE terreur | r_has_causatif
+Souillé DE graisse | r_has_causatif
+Ébloui DE couleurs | r_has_causatif
+Épuisé DE douleur | r_has_causatif
+Trempé D'averse | r_has_causatif
+Gelé D'hiver | r_has_causatif
+Éreinté DE sport | r_has_causatif
+Blessé D'éraflure | r_has_causatif
+Ému DE tristesse | r_has_causatif
+Épuisé DU stress | r_has_causatif
+Couvert DE sable | r_has_causatif
+Ébloui D'étincelles | r_has_causatif
+Tremblant D'excitation | r_has_causatif
+Écorché DE pierres | r_has_causatif
+Malade DE surmenage | r_has_causatif
+Épuisé D'attente | r_has_causatif
+Glacé DE frissons | r_has_causatif
+Souillé DE terre | r_has_causatif
+Ébloui DE reflets | r_has_causatif
+Épuisé DE cris | r_has_causatif
+Trempé DE vagues | r_has_causatif
+Gelé DE neige | r_has_causatif
+Éreinté D'effort | r_has_causatif
+Blessé DE brûlure | r_has_causatif
+Ému DE nostalgie | r_has_causatif
+Épuisé DE chaleur | r_has_causatif
+Couvert DE suie | r_has_causatif
+Ébloui DU néon | r_has_causatif
+Tremblant DE fièvre | r_has_causatif
+Écorché DE branches | r_has_causatif
+Malade D'épuisement | r_has_causatif
+Épuisé DU labeur | r_has_causatif
+Glacé DE solitude | r_has_causatif
+Souillé DE cendres | r_has_causatif
+Ébloui DE clarté | r_has_causatifù
+Épuisé DE danse | r_has_causatif
+Trempé DE rosée | r_has_causatif
+Gelé D'humidité | r_has_causatif
+Éreinté DE fatigue | r_has_causatif
+Blessé D'impact | r_has_causatif
