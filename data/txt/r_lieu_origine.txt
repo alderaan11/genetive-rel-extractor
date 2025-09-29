@@ -1,100 +1,100 @@
-- Vin DE France | r_lieu>origine  
-- Café DU Brésil | r_lieu>origine  
-- Fromage DE Suisse | r_lieu>origine  
-- Thé DE Chine | r_lieu>origine  
-- Bière D'Allemagne | r_lieu>origine  
-- Riz DU Japon | r_lieu>origine  
-- Huile D'olive D'Italie | r_lieu>origine  
-- Cacao DE Côte d'Ivoire | r_lieu>origine  
-- Bananes DU Costa Rica | r_lieu>origine  
-- Oranges D'Espagne | r_lieu>origine  
-- Vin DU Chili | r_lieu>origine  
-- Thé DU Sri Lanka | r_lieu>origine  
-- Café DE Colombie | r_lieu>origine  
-- Fromage DU Royaume-Uni | r_lieu>origine  
-- Bière DE Belgique | r_lieu>origine  
-- Riz DE Thaïlande | r_lieu>origine  
-- Huile D'olive DE Grèce | r_lieu>origine  
-- Cacao DU Ghana | r_lieu>origine  
-- Bananes D'Équateur | r_lieu>origine  
-- Oranges DU Maroc | r_lieu>origine  
-- Vin D'Australie | r_lieu>origine  
-- Thé D'Inde | r_lieu>origine  
-- Café DU Vietnam | r_lieu>origine  
-- Fromage DE Hollande | r_lieu>origine  
-- Bière DU Mexique | r_lieu>origine  
-- Riz DU Vietnam | r_lieu>origine  
-- Huile D'olive D'Espagne | r_lieu>origine  
-- Cacao D'Indonésie | r_lieu>origine  
-- Bananes DES Philippines | r_lieu>origine  
-- Oranges DE Floride | r_lieu>origine  
-- Vin DE Californie | r_lieu>origine  
-- Thé DU Kenya | r_lieu>origine  
-- Café D'Éthiopie | r_lieu>origine  
-- Fromage D'Italie | r_lieu>origine  
-- Bière D'Irlande | r_lieu>origine  
-- Riz D'Inde | r_lieu>origine  
-- Huile D'olive DE Tunisie | r_lieu>origine  
-- Cacao DU Cameroun | r_lieu>origine  
-- Bananes DU Guatemala | r_lieu>origine  
-- Oranges D'Afrique du Sud | r_lieu>origine  
-- Vin D'Argentine | r_lieu>origine  
-- Thé D'Argentine | r_lieu>origine  
-- Café DU Guatemala | r_lieu>origine  
-- Fromage DE Grèce | r_lieu>origine  
-- Bière DE République Tchèque | r_lieu>origine  
-- Riz DE Chine | r_lieu>origine  
-- Huile D'olive DU Portugal | r_lieu>origine  
-- Cacao DE Pérou | r_lieu>origine  
-- Bananes D'Inde | r_lieu>origine  
-- Oranges DU Brésil | r_lieu>origine  
-- Vin DU Portugal | r_lieu>origine  
-- Thé DE Turquie | r_lieu>origine  
-- Café DU Honduras | r_lieu>origine  
-- Fromage DU Danemark | r_lieu>origine  
-- Bière DU Canada | r_lieu>origine  
-- Riz DU Pakistan | r_lieu>origine  
-- Huile D'olive DE Turquie | r_lieu>origine  
-- Cacao DU Nigeria | r_lieu>origine  
-- Bananes DU Mexique | r_lieu>origine  
-- Oranges D'Israël | r_lieu>origine  
-- Vin DE Nouvelle-Zélande | r_lieu>origine  
-- Thé DU Malawi | r_lieu>origine  
-- Café DU Kenya | r_lieu>origine  
-- Fromage DE Norvège | r_lieu>origine  
-- Bière D'Angleterre | r_lieu>origine  
-- Riz DU Bangladesh | r_lieu>origine  
-- Huile D'olive D'Australie | r_lieu>origine  
-- Cacao DE Madagascar | r_lieu>origine  
-- Bananes DU Panama | r_lieu>origine  
-- Oranges DE Californie | r_lieu>origine  
-- Vin D'Afrique du Sud | r_lieu>origine  
-- Thé D'Iran | r_lieu>origine  
-- Café DU Pérou | r_lieu>origine  
-- Fromage DE Suède | r_lieu>origine  
-- Bière DU Japon | r_lieu>origine  
-- Riz D'Égypte | r_lieu>origine  
-- Huile D'olive DE Syrie | r_lieu>origine  
-- Cacao DU Brésil | r_lieu>origine  
-- Bananes D'Honduras | r_lieu>origine  
-- Oranges DU Mexique | r_lieu>origine  
-- Vin DU Liban | r_lieu>origine  
-- Thé DU Népal | r_lieu>origine  
-- Café D'Indonésie | r_lieu>origine  
-- Fromage D'Espagne | r_lieu>origine  
-- Bière DE Pologne | r_lieu>origine  
-- Riz DU Cambodge | r_lieu>origine  
-- Huile D'olive DU Liban | r_lieu>origine  
-- Cacao D'Équateur | r_lieu>origine  
-- Bananes DU Brésil | r_lieu>origine  
-- Oranges D'Australie | r_lieu>origine  
-- Vin DE Hongrie | r_lieu>origine  
-- Thé DU Rwanda | r_lieu>origine  
-- Café DU Nicaragua | r_lieu>origine  
-- Fromage DE Finlande | r_lieu>origine  
-- Bière DE Russie | r_lieu>origine  
-- Riz DU Myanmar | r_lieu>origine  
-- Huile D'olive D'Argentine | r_lieu>origine  
-- Cacao DU Venezuela | r_lieu>origine  
-- Bananes DU Nicaragua | r_lieu>origine  
-- Oranges DE Turquie | r_lieu>origine
+Vin DE France | r_lieu>origine  
+Café DU Brésil | r_lieu>origine  
+Fromage DE Suisse | r_lieu>origine  
+Thé DE Chine | r_lieu>origine  
+Bière D'Allemagne | r_lieu>origine  
+Riz DU Japon | r_lieu>origine  
+Huile D'olive D'Italie | r_lieu>origine  
+Cacao DE Côte d'Ivoire | r_lieu>origine  
+Bananes DU Costa Rica | r_lieu>origine  
+Oranges D'Espagne | r_lieu>origine  
+Vin DU Chili | r_lieu>origine  
+Thé DU Sri Lanka | r_lieu>origine  
+Café DE Colombie | r_lieu>origine  
+Fromage DU Royaume-Uni | r_lieu>origine  
+Bière DE Belgique | r_lieu>origine  
+Riz DE Thaïlande | r_lieu>origine  
+Huile D'olive DE Grèce | r_lieu>origine  
+Cacao DU Ghana | r_lieu>origine  
+Bananes D'Équateur | r_lieu>origine  
+Oranges DU Maroc | r_lieu>origine  
+Vin D'Australie | r_lieu>origine  
+Thé D'Inde | r_lieu>origine  
+Café DU Vietnam | r_lieu>origine  
+Fromage DE Hollande | r_lieu>origine  
+Bière DU Mexique | r_lieu>origine  
+Riz DU Vietnam | r_lieu>origine  
+Huile D'olive D'Espagne | r_lieu>origine  
+Cacao D'Indonésie | r_lieu>origine  
+Bananes DES Philippines | r_lieu>origine  
+Oranges DE Floride | r_lieu>origine  
+Vin DE Californie | r_lieu>origine  
+Thé DU Kenya | r_lieu>origine  
+Café D'Éthiopie | r_lieu>origine  
+Fromage D'Italie | r_lieu>origine  
+Bière D'Irlande | r_lieu>origine  
+Riz D'Inde | r_lieu>origine  
+Huile D'olive DE Tunisie | r_lieu>origine  
+Cacao DU Cameroun | r_lieu>origine  
+Bananes DU Guatemala | r_lieu>origine  
+Oranges D'Afrique du Sud | r_lieu>origine  
+Vin D'Argentine | r_lieu>origine  
+Thé D'Argentine | r_lieu>origine  
+Café DU Guatemala | r_lieu>origine  
+Fromage DE Grèce | r_lieu>origine  
+Bière DE République Tchèque | r_lieu>origine  
+Riz DE Chine | r_lieu>origine  
+Huile D'olive DU Portugal | r_lieu>origine  
+Cacao DE Pérou | r_lieu>origine  
+Bananes D'Inde | r_lieu>origine  
+Oranges DU Brésil | r_lieu>origine  
+Vin DU Portugal | r_lieu>origine  
+Thé DE Turquie | r_lieu>origine  
+Café DU Honduras | r_lieu>origine  
+Fromage DU Danemark | r_lieu>origine  
+Bière DU Canada | r_lieu>origine  
+Riz DU Pakistan | r_lieu>origine  
+Huile D'olive DE Turquie | r_lieu>origine  
+Cacao DU Nigeria | r_lieu>origine  
+Bananes DU Mexique | r_lieu>origine  
+Oranges D'Israël | r_lieu>origine  
+Vin DE Nouvelle-Zélande | r_lieu>origine  
+Thé DU Malawi | r_lieu>origine  
+Café DU Kenya | r_lieu>origine  
+Fromage DE Norvège | r_lieu>origine  
+Bière D'Angleterre | r_lieu>origine  
+Riz DU Bangladesh | r_lieu>origine  
+Huile D'olive D'Australie | r_lieu>origine  
+Cacao DE Madagascar | r_lieu>origine  
+Bananes DU Panama | r_lieu>origine  
+Oranges DE Californie | r_lieu>origine  
+Vin D'Afrique du Sud | r_lieu>origine  
+Thé D'Iran | r_lieu>origine  
+Café DU Pérou | r_lieu>origine  
+Fromage DE Suède | r_lieu>origine  
+Bière DU Japon | r_lieu>origine  
+Riz D'Égypte | r_lieu>origine  
+Huile D'olive DE Syrie | r_lieu>origine  
+Cacao DU Brésil | r_lieu>origine  
+Bananes D'Honduras | r_lieu>origine  
+Oranges DU Mexique | r_lieu>origine  
+Vin DU Liban | r_lieu>origine  
+Thé DU Népal | r_lieu>origine  
+Café D'Indonésie | r_lieu>origine  
+Fromage D'Espagne | r_lieu>origine  
+Bière DE Pologne | r_lieu>origine  
+Riz DU Cambodge | r_lieu>origine  
+Huile D'olive DU Liban | r_lieu>origine  
+Cacao D'Équateur | r_lieu>origine  
+Bananes DU Brésil | r_lieu>origine  
+Oranges D'Australie | r_lieu>origine  
+Vin DE Hongrie | r_lieu>origine  
+Thé DU Rwanda | r_lieu>origine  
+Café DU Nicaragua | r_lieu>origine  
+Fromage DE Finlande | r_lieu>origine  
+Bière DE Russie | r_lieu>origine  
+Riz DU Myanmar | r_lieu>origine  
+Huile D'olive D'Argentine | r_lieu>origine  
+Cacao DU Venezuela | r_lieu>origine  
+Bananes DU Nicaragua | r_lieu>origine  
+Oranges DE Turquie | r_lieu>origine

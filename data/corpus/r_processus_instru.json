@@ -1,0 +1,1617 @@
+[
+  {
+    "termA": {
+      "name": "clé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "porte",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": true
+  },
+  {
+    "termA": {
+      "name": "pinceau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "marteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "frappe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "couteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "coupe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "creusement",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aiguille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "couture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tournevis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "vissage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pince",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "serrage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "scie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "découpe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "brosse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "nettoyage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ciseau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sculpture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "râteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ramassage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "hache",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "coupe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "foret",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "perçage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "mélange",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fouet",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "battage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "rouleau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "balai",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "balayage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "clé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "serrage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "burin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "truelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "maçonnerie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ciseaux",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "coupe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "spatule",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "cuisine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pinceau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "vernissage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "marteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "forgeage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "couteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sculpture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "jardinage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aiguille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tricot",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tournevis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "montage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pince",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "modelage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "scie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sciage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "brosse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "polissage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ciseau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "taille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "stylo",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "dessin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "râteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "nivellement",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "hache",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fendage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "foret",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "forage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "service",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fouet",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "cuisine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "rouleau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pâtisserie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "balai",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "nettoyage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "clé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "réglage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "burin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sculpture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "truelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bétonnage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ciseaux",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "couture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "spatule",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "maçonnerie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pinceau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "laquage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "marteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "clouage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "couteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "découpe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "terrassement",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aiguille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "broderie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tournevis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "démontage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pince",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "préhension",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "scie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "taille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "brosse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "dépoussiérage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ciseau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "stylo",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "calligraphie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "râteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "jardinage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "hache",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bûcheron",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "foret",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "perçage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "dégustation",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fouet",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "mélange",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "rouleau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lissage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "balai",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ramassage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "burin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "taille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "truelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "plâtrage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ciseaux",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "papier",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "spatule",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pinceau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "retouche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "marteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "martelage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "couteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "boucherie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "déneigement",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aiguille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tapisserie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tournevis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "précision",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pince",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "découpe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "scie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "menuiserie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "brosse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lissage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ciseau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "modelage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "stylo",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "marquage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "râteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ramassage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "hache",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "défrichage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "foret",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "maçonnerie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "mesure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fouet",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pâtisserie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "rouleau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pressage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "balai",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lavage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "clé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "boulonnage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "burin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "découpe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "truelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "jardinage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ciseaux",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tailleur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "spatule",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "glaçage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pinceau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "maquillage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "marteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "façonnage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "couteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sable",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_processus>instru-1",
+    "det": false
+  }
+]

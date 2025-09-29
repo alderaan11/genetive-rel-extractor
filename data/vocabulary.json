@@ -1,0 +1,7196 @@
+[
+  {
+    "name": "accord",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "accoudoir",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "accusé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "acidité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "acier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "acteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "adolescent",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "adulte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "affaibli",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "affamé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "affiche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "aigle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "aiguille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "aiguisage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "air",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "alpes",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "amertume",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ami",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ami d'enfance",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ampoule",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "analyse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ange",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "animateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "anneau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "année",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "appareil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "application",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "apprenant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "apprenti",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "aquarelle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "arbre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "arbres",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "arc",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "arc-en-ciel",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "arche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "architecte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "architecte d'intérieur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "archéologue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "argile",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "armoire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "article",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "artisan",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "artisane",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "artiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ascenseur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "assiette",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "association",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "astronome",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "atelier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "athlètes",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "atome",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "audience",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "aurore",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "auteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "auteur-compositeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "aventurier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "aveuglé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "avion",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "avocat",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "aînée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "badminton",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bague",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "baguette",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "balai",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "balayage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bali",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "balle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ballerine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bambou",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bananes",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "banc",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bangkok",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bangladesh",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "barcelone",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "basketteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bataille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bateau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "baton",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "battage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "batterie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "baudelaire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bavière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "baïkal",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "beauté",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "beethoven",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "belgique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "beurre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bibliothèque",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bibliothécaire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bijou",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bijoutier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "biologiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "blessé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "blog",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "blé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bois",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bol",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bora bora",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "borobudur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "botaniste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "boucher",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "boucherie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bouchée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "boucle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "boue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bougie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "boulanger",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "boulonnage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bouteille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "boutique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "boxeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "boîte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bracelet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "branches",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bras",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bricoleur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brillance",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brise",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "broderie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brodeuse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bronze",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brooklyn",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brosse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brouillard",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "broyage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brésil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brûlure",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "brûlé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "buisson",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bureau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "burin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bâche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bâtiment",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bâtisseur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bâton",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bébé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "béton",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bétonnage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "bûcheron",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cacao",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cactus",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cadenas",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cadet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cadre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "café",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cahier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "calcaire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "californie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "calligraphe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "calligraphie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "camarade",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cambodge",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cameroun",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "camion",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "campagne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "campeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "caméra",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "canada",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "canne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "canyon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "capitaine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cappadoce",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "capri",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "caricaturiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "carnaval",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "carnet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "carte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "carton",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cascade",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "casque",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cathédrale",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "caucase",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cavalier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ceinture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cellule",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cendres",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "centimètre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cerf",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chaise",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chaleur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chambre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "champ",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chanson",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chanteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chantier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chapeau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chapitre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "charbon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "charité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "charpentier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chasseur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chat",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chauffeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chaussures",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chaîne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chef",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chef d'orchestre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chercheur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cheval",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chevalet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chevalier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cheveu",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cheveux",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chili",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chimiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chisel",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chocolat",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chope",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "choriste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chorégraphe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chrome",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chroniqueur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chute",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chutes",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "château",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "chêne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ciel",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ciel étoilé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cinéaste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ciseau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ciseaux",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "citoyen",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "citron",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "clarté",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "clavier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "client",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "clinique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cloche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "clou",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "clouage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "clé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "clôture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coach",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "codeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coffre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coiffeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "colisée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "collier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "collège",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "collègue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "colombie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "colorado",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "colère",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "combat",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "comité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "compositeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "composition",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "comptable",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "comédie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "comédien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "concepteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "conception",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "concert",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "conduite",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "confectionneur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "confiseur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "confiture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "conférence",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "conférencier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "congo",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "conjoint",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "conseil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "conseiller",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "constructeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "construction",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "consultant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "conte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coordinateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "copacabana",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coque",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "corail",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "corde",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "corps",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "costa rica",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "costume",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coton",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coucher de soleil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "couleur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "couleurs",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coup",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coupe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "couple",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cour",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "coureur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cours",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "course",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "couteau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "couture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "couturier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "couturière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "couvert",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "couverture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "craie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "crayon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "creusement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "criblé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cris",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cristal",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "croc",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "croquis",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "crème",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "créateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "création",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cuillerée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cuillère",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cuir",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cuisine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cuisinier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cuisinière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cuisson",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cuivre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "culture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "curry",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cycliste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "câble",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cèdre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "céramique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "céramiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "cézanne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "côme",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "côte d'ivoire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dalle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "danemark",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "danse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "danse contemporaine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "danseur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "danube",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "degas",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "delta",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "densité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dentiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "design",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "designer",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dessin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dessinateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dettes",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "diamant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "diocèse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "directeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "direction",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "documentaire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dos",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dossier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "douceur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "douleur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dragon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dramaturge",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "drame",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "drap",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dresseur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dubaï",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dureté",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "décorateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "décoration",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "découpe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "défrichage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dégustation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "démontage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "déménageur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "déneigement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "département",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "dépoussiérage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "désert",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "détective",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "développeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "eau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "effort",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "employé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "encre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "enfant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "enquête",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "enregistrement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "enroué",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "enseignant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "enseignement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "entraînement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "entraîneur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "entreprise",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "escalier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "escouade",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "esquisse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "everest",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "explorateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "exploration",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "exposition",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fabricant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fabrication",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "facteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "faim",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "falaise",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "famille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fantasy",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "farine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fatigue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fauteuil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "façonnage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "faïence",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "femme",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "femme battue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fendage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fenêtre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fer",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fermier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "festival",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "feu",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "feuille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "filet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fileuse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "film",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "finlande",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fièvre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fjord",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fjords",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "flamme",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "flash",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fleur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fleuriste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "florence",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "floride",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fluidité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "flûte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fontaine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "forage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "foret",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "forgeage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "forgeron",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "formateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "formation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "formulateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "forêt",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fouet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "foule",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fragilité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "france",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "frappe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fraîcheur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fresque",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "frissons",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "froid",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fromage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "frottement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fruit",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fruits",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "frère",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fuji",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fumée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fusil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fusion",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "fée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "galápagos",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gardien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gastronome",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gastronomie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "geiranger",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gelé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "genève",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gestion",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ghana",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "glace",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "glacier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "glacé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "glaise",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "glaçage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gobelet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gobi",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "golfeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gomme",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "goutte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "grain",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "graine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "graisse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "granit",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "granite",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "graphiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "graveur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gravier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gravure",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "griffures",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "grimpeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "grottes",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "groupe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "grèce",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "grès",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "guatemala",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "guerre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "guide",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "guitare",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gymnaste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "gâteau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "géographe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "hache",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "haies",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "hawaï",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "heure",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "historien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "hiver",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "hivernant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "hollande",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "homme",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "honduras",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "hongrie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "horizon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "horloge",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "huile",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "hôpital",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "hôtel",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "icône",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "illustration",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "image",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "impression",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "infirmier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "infirmière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ingénieur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "instrument",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "interprète",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "interprétation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "istanbul",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jade",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jaipur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "japon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jardin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jardinage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jardinier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jasmin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jeune",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jeûne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "joaillier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "joie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jongleur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "joueur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jour",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "journal",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "journaliste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "joyau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "juge",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "jus",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "justiciable",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "kalahari",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "kenya",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "kilimandjaro",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "kilogramme",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "kilomètre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "kruger",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "kyoto",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "labeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lac",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lac gelé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "laine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lait",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lame",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lampe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "langue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lanterne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "laquage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lavage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lavande",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "leader",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lecture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lettre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lhassa",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "liban",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "liberté",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ligne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lion",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lisbonne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lissage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lit",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "litre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "littérateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "littérature",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "livre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "livreur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "logiciel",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "logo",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "loire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "londres",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "loup",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lourdeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lucerne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lumière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lune",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lunettes",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lustre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "lycéen",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "légereté",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "légumes",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "légèreté",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "machine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "machu picchu",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "madagascar",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "magasin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "magazine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "magicien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maison",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "malade",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "malawi",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maldives",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "manager",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "manuscrit",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maquette",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maquillage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maquilleur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marathon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marbre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marché",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mari",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mariée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marketing",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maroc",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marquage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marque",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marrakech",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "marteau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "martelage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "matelas",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mathématicien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mathématiques",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maçon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maçonnerie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maître",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maître parfumeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "maïs",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "menthe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mentor",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "menuiserie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "menuisier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mer",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mesure",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "metteur en scène",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "meuble",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mexique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "miami",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "michel-ange",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "microscope",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "miel",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "milford",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mineur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "miroir",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mode",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "modelage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "modeleur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "modiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mois",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mojave",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "molécule",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "monastère",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "monet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mont",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "montage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "montagne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "montre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "morceau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mosaïque",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "moscou",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mot",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "motard",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "moteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "moulin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mousse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mouvement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "muraille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "muraliste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "muscle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "musicien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "musique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "musée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "myanmar",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mère",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mètre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mécanicien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "médaille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "médecin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "médecine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mékong",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "mélange",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "métal",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nageur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "namib",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "napa",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "narrateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "navigateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "navigation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "navire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nectar",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "neige",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nerf",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nettoyage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "new york",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "niagara",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nicaragua",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nigeria",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nivellement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "noix",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "norvège",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nostalgie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "note",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nouvelle-zélande",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "novice",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "noyau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "nuage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "néon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "népal",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "océan",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "oiseau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "olive",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ombre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "once",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "opticien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "opéra",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "or",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "orange",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "oranges",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "orchestre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ordinateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "oreiller",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "orfèvre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "organisation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "os",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ours",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "outil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ouverture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ouvrier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ouvriers",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ouvrière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "page",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "paille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pain",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "paix",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pakistan",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "palais",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "palette",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "panama",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "panier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "papier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "papillon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "paragraphe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "parapluie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "parc",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "parent",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "parfum",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "parfumeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "paroisse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "parolier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "parquet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "parti",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "passant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "patagonie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "patient",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "patron",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pays",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "paysage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "paysagiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "peau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "peintre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "peinture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pelle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pendentif",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "performance",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "perles",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "perçage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "peur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "phare",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "phi phi",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "philippines",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "philosophie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "photographe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "photographie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "phrase",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "phuket",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "physicien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pianiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "piano",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "picasso",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pierre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pierres",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pilotage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pilote",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pilote automobile",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pince",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pinceau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pincée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pise",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pièce",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pièce de théâtre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plafond",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plaignant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plaine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plan",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "planche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plancher",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "planificateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plantation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plante",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plaque",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plastique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pliage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plomb",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pluie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plume",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plâtrage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "plâtre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pneu",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "podcast",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poids",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poignée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "point",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poisson",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poivre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "policier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "polissage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "politique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pollen",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pologne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pomme",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pompier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pont",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "porcelaine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "port",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "porte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "portrait",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "portraitiste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "portugal",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poterie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "potier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poussette",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poussière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poutre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poème",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poète",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "poésie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "prague",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "prairie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pressage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "prise",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "privation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "procès",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "producteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "professeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "programmation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "programmeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "projecteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "projet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "protestation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "proton",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "précision",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "préhension",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "présentation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "président",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "prévenu",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "prêtre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "psychologie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "puits",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pyrénées",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pâques",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pâte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pâtisserie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pâtissier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pâtissière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "père",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pékin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pérou",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pétra",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "pêcheur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "quartz",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "quatuor",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "racine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "radiateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ramassage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "randonneur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "randonneurs",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "raquette",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rayon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "recette",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "recherche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "reflets",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "reliure",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "renard",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "renoir",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "reporter",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "repos",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "restaurant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "retouche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rideau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rigidité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rime",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rio",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rivière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "riz",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "robe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "roc",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "roche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rocher",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rodin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "roman",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "romancier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rome",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ronces",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rose",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rossignol",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rosée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rotin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rouage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "roue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rougeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rouleau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "route",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "royaume-uni",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ruban",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rugosité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ruines",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ruisseau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "russie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "rwanda",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "râteau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "réalisateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "récolte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "réflexion",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "réglage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "réparation",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "république tchèque",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sable",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sac",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sacoche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "salade",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "salle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "samouraï",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "san francisco",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sang",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sangle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "santorin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "saphir",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "schwarzwald",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "schéma",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sciage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "scie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "science",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "science-fiction",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "scientifique",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sculpteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sculpture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sculptures",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "scène",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "scénariste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "seconde",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sel",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "serengeti",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "serpent",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "serrage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "service",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "siem reap",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "silence",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sirop",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "siège",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "skateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "skieur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sociologue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sogne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "soie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "soin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sol",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "soldat",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "soleil",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "solidité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "soliste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "solitude",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sommier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "son",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sorcier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sorcière",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "souillé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "souk",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "soupe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "source",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "spatule",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "spectacle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "spirale",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "splendeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sport",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sportif",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "squelette",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sri lanka",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "stagiaire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "statisticien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "statue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "stress",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "strophe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "stylet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "styliste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "stylo",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "stéthoscope",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "suavité",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sucre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sueur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "suie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "suisse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "superviseur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "surface",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "surfeur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "surmenage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sushis",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "suède",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sydney",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "syllabe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "symphonie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "système",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "séminaire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "séoul",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "série",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "sœur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "table",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tableau",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tabouret",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "taille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tailleur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tapis",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tapisserie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tapissier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tasse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "technicien",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "technologie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "teinture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "temple",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tennisman",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tension",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tenture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "terrain",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "terrassement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "terre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "terreur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "texte",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "thaïlande",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "thé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tibet",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tigre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tiroir",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tissage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tisserand",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tisserande",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tissu",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "titisee",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "toile",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "toit",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tokyo",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tonne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "touche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "touffe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tour",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "touriste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tournage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tournevis",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "traducteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "traduction",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "traiteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tranche",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "transparence",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "travail",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tremblant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "trempé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tressage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tribunal",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tricot",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tristesse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "trolltunga",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "trousse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "truelle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "trône",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tube",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tuile",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tulipe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "turquie",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tuteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "téléphone",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "téléscope",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "tête",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "université",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vacances",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vagues",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "valise",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vallée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "van gogh",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vase",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "veine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "velours",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "venezuela",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vent",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "verger",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "verlaine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vernissage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "verre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vers",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "versailles",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "versificateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vertige",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "viande",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "victime",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vidéaste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vieillard",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vienne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vietnam",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vigne",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vigneron",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "village",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ville",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vinaigre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "violon",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "violoniste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "virgule",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vis",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "visage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "visiteurs",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vissage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "viticulteur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vitrage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vitre",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vitres",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "voisin",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "voiture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "voix",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "volcan",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "voyage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "voyageur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vélo",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vétérinaire",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vêtement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "vêtements",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "yaourt",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "yellowstone",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "yoga",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "yogi",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "yosemite",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "zanzibar",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ébloui",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ébéniste",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écaille",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écharpe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "éclat",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "école",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écolier",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écorce",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écorché",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écran",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écriture",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écrivain",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écrivaine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "écuelle",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "éducateur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "église",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "élagage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "électron",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "élevage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "élèves",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "éléphant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "émerveillé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "émission",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "ému",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "épaisseur",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "épices",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "épine",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "épouse",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "époux",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "épuisé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "épée",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "équipe",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "éreinté",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étage",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étagère",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étoile",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étoiles",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étouffé",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étourdi",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étude",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étudiant",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étudiante",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "étudiants",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "été",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "événement",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "île",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "îles",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  },
+  {
+    "name": "œnologue",
+    "r_isa": [],
+    "r_raff_sem": [],
+    "r_pos": []
+  }
+]

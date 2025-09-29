@@ -1,1388 +1,1685 @@
 [
   {
     "termA": {
-      "name": "Avocat",
-      "hypernym": [],
-      "trt": []
+      "name": "avocat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "femme battue",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "D'",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Chef",
-      "hypernym": [],
-      "trt": []
+      "name": "chef",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "groupe",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Médecin",
-      "hypernym": [],
-      "trt": []
+      "name": "médecin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "patient",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Enseignant",
-      "hypernym": [],
-      "trt": []
+      "name": "enseignant",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "élèves",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DES",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Parent",
-      "hypernym": [],
-      "trt": []
+      "name": "parent",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "enfant",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "D'",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Ami",
-      "hypernym": [],
-      "trt": []
+      "name": "ami",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'ami",
-      "hypernym": [],
-      "trt": []
+      "name": "ami",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Patron",
-      "hypernym": [],
-      "trt": []
+      "name": "patron",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'employé",
-      "hypernym": [],
-      "trt": []
+      "name": "employé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Capitaine",
-      "hypernym": [],
-      "trt": []
+      "name": "capitaine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'équipe",
-      "hypernym": [],
-      "trt": []
+      "name": "équipe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Avocat",
-      "hypernym": [],
-      "trt": []
+      "name": "avocat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "prévenu",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Mentor",
-      "hypernym": [],
-      "trt": []
+      "name": "mentor",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "stagiaire",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Infirmier",
-      "hypernym": [],
-      "trt": []
+      "name": "infirmier",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "malade",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Leader",
-      "hypernym": [],
-      "trt": []
+      "name": "leader",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "mouvement",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Frère",
-      "hypernym": [],
-      "trt": []
+      "name": "frère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "la sœur",
-      "hypernym": [],
-      "trt": []
+      "name": "sœur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Mère",
-      "hypernym": [],
-      "trt": []
+      "name": "mère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "bébé",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Coach",
-      "hypernym": [],
-      "trt": []
+      "name": "coach",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "athlètes",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DES",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Directeur",
-      "hypernym": [],
-      "trt": []
+      "name": "directeur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'entreprise",
-      "hypernym": [],
-      "trt": []
+      "name": "entreprise",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Avocat",
-      "hypernym": [],
-      "trt": []
+      "name": "avocat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'accusé",
-      "hypernym": [],
-      "trt": []
+      "name": "accusé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Conseiller",
-      "hypernym": [],
-      "trt": []
+      "name": "conseiller",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "client",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Juge",
-      "hypernym": [],
-      "trt": []
+      "name": "juge",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'audience",
-      "hypernym": [],
-      "trt": []
+      "name": "audience",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Capitaine",
-      "hypernym": [],
-      "trt": []
+      "name": "capitaine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "navire",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Professeur",
-      "hypernym": [],
-      "trt": []
+      "name": "professeur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "étudiants",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DES",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Manager",
-      "hypernym": [],
-      "trt": []
+      "name": "manager",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "projet",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Tuteur",
-      "hypernym": [],
-      "trt": []
+      "name": "tuteur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "mineur",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Époux",
-      "hypernym": [],
-      "trt": []
+      "name": "époux",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'épouse",
-      "hypernym": [],
-      "trt": []
+      "name": "épouse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Guide",
-      "hypernym": [],
-      "trt": []
+      "name": "guide",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "touriste",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Médecin",
-      "hypernym": [],
-      "trt": []
+      "name": "médecin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "famille",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Prêtre",
-      "hypernym": [],
-      "trt": []
+      "name": "prêtre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "la paroisse",
-      "hypernym": [],
-      "trt": []
+      "name": "paroisse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Ami",
-      "hypernym": [],
-      "trt": []
+      "name": "ami",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "voisin",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Superviseur",
-      "hypernym": [],
-      "trt": []
+      "name": "superviseur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "ouvriers",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DES",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Entraîneur",
-      "hypernym": [],
-      "trt": []
+      "name": "entraîneur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "joueur",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Président",
-      "hypernym": [],
-      "trt": []
+      "name": "président",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "comité",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Avocat",
-      "hypernym": [],
-      "trt": []
+      "name": "avocat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "plaignant",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Mentor",
-      "hypernym": [],
-      "trt": []
+      "name": "mentor",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'apprenti",
-      "hypernym": [],
-      "trt": []
+      "name": "apprenti",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Infirmière",
-      "hypernym": [],
-      "trt": []
+      "name": "infirmière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "patient",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Leader",
-      "hypernym": [],
-      "trt": []
+      "name": "leader",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'équipe",
-      "hypernym": [],
-      "trt": []
+      "name": "équipe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Sœur",
-      "hypernym": [],
-      "trt": []
+      "name": "sœur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "frère",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Père",
-      "hypernym": [],
-      "trt": []
+      "name": "père",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'enfant",
-      "hypernym": [],
-      "trt": []
+      "name": "enfant",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Coach",
-      "hypernym": [],
-      "trt": []
+      "name": "coach",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "coureur",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Directeur",
-      "hypernym": [],
-      "trt": []
+      "name": "directeur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "département",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Avocat",
-      "hypernym": [],
-      "trt": []
+      "name": "avocat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "la victime",
-      "hypernym": [],
-      "trt": []
+      "name": "victime",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Conseiller",
-      "hypernym": [],
-      "trt": []
+      "name": "conseiller",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "président",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Juge",
-      "hypernym": [],
-      "trt": []
+      "name": "juge",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "tribunal",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Capitaine",
-      "hypernym": [],
-      "trt": []
+      "name": "capitaine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'avion",
-      "hypernym": [],
-      "trt": []
+      "name": "avion",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Professeur",
-      "hypernym": [],
-      "trt": []
+      "name": "professeur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'école",
-      "hypernym": [],
-      "trt": []
+      "name": "école",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Manager",
-      "hypernym": [],
-      "trt": []
+      "name": "manager",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'équipe",
-      "hypernym": [],
-      "trt": []
+      "name": "équipe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Tuteur",
-      "hypernym": [],
-      "trt": []
+      "name": "tuteur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'étudiant",
-      "hypernym": [],
-      "trt": []
+      "name": "étudiant",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Épouse",
-      "hypernym": [],
-      "trt": []
+      "name": "épouse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "mari",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Guide",
-      "hypernym": [],
-      "trt": []
+      "name": "guide",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "randonneurs",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DES",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Médecin",
-      "hypernym": [],
-      "trt": []
+      "name": "médecin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "village",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Prêtre",
-      "hypernym": [],
-      "trt": []
+      "name": "prêtre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "diocèse",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Ami",
-      "hypernym": [],
-      "trt": []
+      "name": "ami",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'ami d'enfance",
-      "hypernym": [],
-      "trt": []
+      "name": "ami d'enfance",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Superviseur",
-      "hypernym": [],
-      "trt": []
+      "name": "superviseur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "chantier",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Entraîneur",
-      "hypernym": [],
-      "trt": []
+      "name": "entraîneur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'équipe",
-      "hypernym": [],
-      "trt": []
+      "name": "équipe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Président",
-      "hypernym": [],
-      "trt": []
+      "name": "président",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'association",
-      "hypernym": [],
-      "trt": []
+      "name": "association",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Avocat",
-      "hypernym": [],
-      "trt": []
+      "name": "avocat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "justiciable",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Mentor",
-      "hypernym": [],
-      "trt": []
+      "name": "mentor",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "jeune",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Infirmier",
-      "hypernym": [],
-      "trt": []
+      "name": "infirmier",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'hôpital",
-      "hypernym": [],
-      "trt": []
+      "name": "hôpital",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Leader",
-      "hypernym": [],
-      "trt": []
+      "name": "leader",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "parti",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Frère",
-      "hypernym": [],
-      "trt": []
+      "name": "frère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "cadet",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Mère",
-      "hypernym": [],
-      "trt": []
+      "name": "mère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'adolescent",
-      "hypernym": [],
-      "trt": []
+      "name": "adolescent",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Coach",
-      "hypernym": [],
-      "trt": []
+      "name": "coach",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "gymnaste",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Directeur",
-      "hypernym": [],
-      "trt": []
+      "name": "directeur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'école",
-      "hypernym": [],
-      "trt": []
+      "name": "école",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Avocat",
-      "hypernym": [],
-      "trt": []
+      "name": "avocat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'entreprise",
-      "hypernym": [],
-      "trt": []
+      "name": "entreprise",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Conseiller",
-      "hypernym": [],
-      "trt": []
+      "name": "conseiller",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "maire",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Juge",
-      "hypernym": [],
-      "trt": []
+      "name": "juge",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "la cour",
-      "hypernym": [],
-      "trt": []
+      "name": "cour",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Capitaine",
-      "hypernym": [],
-      "trt": []
+      "name": "capitaine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "bateau",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Professeur",
-      "hypernym": [],
-      "trt": []
+      "name": "professeur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'université",
-      "hypernym": [],
-      "trt": []
+      "name": "université",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Manager",
-      "hypernym": [],
-      "trt": []
+      "name": "manager",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "magasin",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Tuteur",
-      "hypernym": [],
-      "trt": []
+      "name": "tuteur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "lycéen",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Époux",
-      "hypernym": [],
-      "trt": []
+      "name": "époux",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "la femme",
-      "hypernym": [],
-      "trt": []
+      "name": "femme",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Guide",
-      "hypernym": [],
-      "trt": []
+      "name": "guide",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "groupe",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Médecin",
-      "hypernym": [],
-      "trt": []
+      "name": "médecin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'enfant",
-      "hypernym": [],
-      "trt": []
+      "name": "enfant",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Prêtre",
-      "hypernym": [],
-      "trt": []
+      "name": "prêtre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'église",
-      "hypernym": [],
-      "trt": []
+      "name": "église",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Ami",
-      "hypernym": [],
-      "trt": []
+      "name": "ami",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "collègue",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Superviseur",
-      "hypernym": [],
-      "trt": []
+      "name": "superviseur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'atelier",
-      "hypernym": [],
-      "trt": []
+      "name": "atelier",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Entraîneur",
-      "hypernym": [],
-      "trt": []
+      "name": "entraîneur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "boxeur",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Président",
-      "hypernym": [],
-      "trt": []
+      "name": "président",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "conseil",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Avocat",
-      "hypernym": [],
-      "trt": []
+      "name": "avocat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "citoyen",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Mentor",
-      "hypernym": [],
-      "trt": []
+      "name": "mentor",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "novice",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Infirmière",
-      "hypernym": [],
-      "trt": []
+      "name": "infirmière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "la clinique",
-      "hypernym": [],
-      "trt": []
+      "name": "clinique",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Leader",
-      "hypernym": [],
-      "trt": []
+      "name": "leader",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "projet",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Sœur",
-      "hypernym": [],
-      "trt": []
+      "name": "sœur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'aînée",
-      "hypernym": [],
-      "trt": []
+      "name": "aînée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Père",
-      "hypernym": [],
-      "trt": []
+      "name": "père",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "bébé",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Coach",
-      "hypernym": [],
-      "trt": []
+      "name": "coach",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'équipe",
-      "hypernym": [],
-      "trt": []
+      "name": "équipe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Directeur",
-      "hypernym": [],
-      "trt": []
+      "name": "directeur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "musée",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Avocat",
-      "hypernym": [],
-      "trt": []
+      "name": "avocat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "client",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Conseiller",
-      "hypernym": [],
-      "trt": []
+      "name": "conseiller",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'étudiant",
-      "hypernym": [],
-      "trt": []
+      "name": "étudiant",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Juge",
-      "hypernym": [],
-      "trt": []
+      "name": "juge",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "procès",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Capitaine",
-      "hypernym": [],
-      "trt": []
+      "name": "capitaine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'escouade",
-      "hypernym": [],
-      "trt": []
+      "name": "escouade",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Professeur",
-      "hypernym": [],
-      "trt": []
+      "name": "professeur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "collège",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Manager",
-      "hypernym": [],
-      "trt": []
+      "name": "manager",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "la boutique",
-      "hypernym": [],
-      "trt": []
+      "name": "boutique",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Tuteur",
-      "hypernym": [],
-      "trt": []
+      "name": "tuteur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'apprenant",
-      "hypernym": [],
-      "trt": []
+      "name": "apprenant",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Épouse",
-      "hypernym": [],
-      "trt": []
+      "name": "épouse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "conjoint",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Guide",
-      "hypernym": [],
-      "trt": []
+      "name": "guide",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "visiteurs",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DES",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Médecin",
-      "hypernym": [],
-      "trt": []
+      "name": "médecin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'adulte",
-      "hypernym": [],
-      "trt": []
+      "name": "adulte",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Prêtre",
-      "hypernym": [],
-      "trt": []
+      "name": "prêtre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "monastère",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Ami",
-      "hypernym": [],
-      "trt": []
+      "name": "ami",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "camarade",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   },
   {
     "termA": {
-      "name": "Superviseur",
-      "hypernym": [],
-      "trt": []
+      "name": "superviseur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
-      "name": "l'équipe",
-      "hypernym": [],
-      "trt": []
+      "name": "équipe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DE",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": true
   },
   {
     "termA": {
-      "name": "Entraîneur",
-      "hypernym": [],
-      "trt": []
+      "name": "entraîneur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "termB": {
       "name": "nageur",
-      "hypernym": [],
-      "trt": []
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
     },
     "prep": "DU",
-    "rel_type": "r_social_tie"
+    "rel_type": "r_social_tie",
+    "det": false
   }
 ]

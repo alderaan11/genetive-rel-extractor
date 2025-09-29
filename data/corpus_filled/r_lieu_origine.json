@@ -1,0 +1,8963 @@
+[
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "vin",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 213.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 208.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 197.0
+        },
+        {
+          "name": "boisson alcoolique",
+          "weight": 193.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 193.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 191.0
+        },
+        {
+          "name": "boisson",
+          "weight": 136.0
+        },
+        {
+          "name": "aliment>2587820",
+          "weight": 107.0
+        },
+        {
+          "name": "liquide>57625",
+          "weight": 105.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 105.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "vin",
+          "weight": 7744
+        },
+        {
+          "name": "végétaux",
+          "weight": 2747
+        },
+        {
+          "name": "raisin",
+          "weight": 1375
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 74.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "france",
+      "r_isa": [
+        {
+          "name": "lieu",
+          "weight": 56.0
+        },
+        {
+          "name": "pays",
+          "weight": 29.0
+        },
+        {
+          "name": "en:country",
+          "weight": 10.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "france",
+          "weight": 17550
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 55.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "café",
+      "r_isa": [
+        {
+          "name": "liquide",
+          "weight": 461.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 182.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 130.0
+        },
+        {
+          "name": "couleur",
+          "weight": 129.0
+        },
+        {
+          "name": "boisson",
+          "weight": 129.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 109.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 100.0
+        },
+        {
+          "name": "plante",
+          "weight": 92.0
+        },
+        {
+          "name": "végétal",
+          "weight": 82.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33336
+        },
+        {
+          "name": "couleur",
+          "weight": 10232
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "café",
+          "weight": 4527
+        },
+        {
+          "name": "parfum",
+          "weight": 2449
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        },
+        {
+          "name": "débit de boissons",
+          "weight": 129
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 269.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 88.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 44.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "brésil",
+      "r_isa": [
+        {
+          "name": "matière",
+          "weight": 38.0
+        },
+        {
+          "name": "bois exotique",
+          "weight": 32.0
+        },
+        {
+          "name": "en:country",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "brésil",
+          "weight": 473
+        },
+        {
+          "name": "bois exotique",
+          "weight": 63
+        },
+        {
+          "name": "matière tinctoriale",
+          "weight": 9
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 92.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "fromage",
+      "r_isa": [
+        {
+          "name": "préparation culinaire",
+          "weight": 353.0
+        },
+        {
+          "name": "produit laitier",
+          "weight": 343.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 248.0
+        },
+        {
+          "name": "ingrédient",
+          "weight": 242.0
+        },
+        {
+          "name": "laitage",
+          "weight": 237.0
+        },
+        {
+          "name": "lieu",
+          "weight": 237.0
+        },
+        {
+          "name": "en:dairy product",
+          "weight": 237.0
+        },
+        {
+          "name": "en:milk product",
+          "weight": 237.0
+        },
+        {
+          "name": "Ingrédient de cuisine",
+          "weight": 237.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 235.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fromage",
+          "weight": 4498
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "charcuterie",
+          "weight": 1250
+        },
+        {
+          "name": "produit laitier",
+          "weight": 698
+        },
+        {
+          "name": "laitage",
+          "weight": 534
+        },
+        {
+          "name": "situation lucrative",
+          "weight": 62
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 325.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 105.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 79.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 34.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "suisse",
+      "r_isa": [
+        {
+          "name": "domestique",
+          "weight": 404.0
+        },
+        {
+          "name": "garde",
+          "weight": 399.0
+        },
+        {
+          "name": "pâtisserie",
+          "weight": 397.0
+        },
+        {
+          "name": "écureuil",
+          "weight": 340.0
+        },
+        {
+          "name": "soldat",
+          "weight": 295.0
+        },
+        {
+          "name": "individu",
+          "weight": 284.0
+        },
+        {
+          "name": "mammifère",
+          "weight": 184.0
+        },
+        {
+          "name": "tétrapode",
+          "weight": 183.0
+        },
+        {
+          "name": "amniote",
+          "weight": 183.0
+        },
+        {
+          "name": "vertébré",
+          "weight": 172.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "religion",
+          "weight": 9929
+        },
+        {
+          "name": "garde",
+          "weight": 6449
+        },
+        {
+          "name": "Suisse",
+          "weight": 4287
+        },
+        {
+          "name": "suisse",
+          "weight": 4004
+        },
+        {
+          "name": "domestique",
+          "weight": 1814
+        },
+        {
+          "name": "écureuil",
+          "weight": 500
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 119.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 101.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 65.0
+        },
+        {
+          "name": "Adj:InvGen+SG",
+          "weight": 55.0
+        },
+        {
+          "name": "Nom:InvGen+SG",
+          "weight": 54.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 47.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 46.0
+        },
+        {
+          "name": "Adj:Fem+SG",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Inv",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "thé",
+      "r_isa": [
+        {
+          "name": "boisson non alcoolisée",
+          "weight": 856.0
+        },
+        {
+          "name": "boisson",
+          "weight": 833.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 770.0
+        },
+        {
+          "name": "liquide",
+          "weight": 475.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 96.0
+        },
+        {
+          "name": "substance",
+          "weight": 67.0
+        },
+        {
+          "name": "produit de première nécessité",
+          "weight": 62.0
+        },
+        {
+          "name": "végétal",
+          "weight": 59.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 59.0
+        },
+        {
+          "name": "organisme vivant",
+          "weight": 58.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33337
+        },
+        {
+          "name": "couleur",
+          "weight": 10233
+        },
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "feuille",
+          "weight": 5348
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "thé",
+          "weight": 2749
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 203.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 64.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 61.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:InvGen+InvPL",
+          "weight": 15.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "chine",
+      "r_isa": [
+        {
+          "name": "lieu",
+          "weight": 55.0
+        },
+        {
+          "name": "porcelaine",
+          "weight": 35.0
+        },
+        {
+          "name": "papier",
+          "weight": 34.0
+        },
+        {
+          "name": "pays",
+          "weight": 30.0
+        },
+        {
+          "name": "papier de",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "chine",
+          "weight": 1640
+        },
+        {
+          "name": "porcelaine",
+          "weight": 407
+        },
+        {
+          "name": "brocante",
+          "weight": 137
+        },
+        {
+          "name": "papier de Chine",
+          "weight": 51
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "alphabet hébreu",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 130.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 54.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "riz",
+      "r_isa": [
+        {
+          "name": "céréale",
+          "weight": 232.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 210.0
+        },
+        {
+          "name": "aliment",
+          "weight": 209.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "poacée",
+          "weight": 170.0
+        },
+        {
+          "name": "aliment de base",
+          "weight": 160.0
+        },
+        {
+          "name": "graminée",
+          "weight": 151.0
+        },
+        {
+          "name": "monocotylédone",
+          "weight": 150.0
+        },
+        {
+          "name": "plante>3674",
+          "weight": 149.0
+        },
+        {
+          "name": "plante",
+          "weight": 129.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "riz",
+          "weight": 2451
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 219.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 33.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "japon",
+      "r_isa": [
+        {
+          "name": "papier",
+          "weight": 45.0
+        },
+        {
+          "name": "porcelaine",
+          "weight": 45.0
+        },
+        {
+          "name": "papier blanc",
+          "weight": 34.0
+        },
+        {
+          "name": "personne",
+          "weight": 32.0
+        },
+        {
+          "name": "matériau",
+          "weight": 30.0
+        },
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "papier",
+          "weight": 7344
+        },
+        {
+          "name": "japon",
+          "weight": 682
+        },
+        {
+          "name": "porcelaine",
+          "weight": 407
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 117.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 55.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 53.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "cacao",
+      "r_isa": [
+        {
+          "name": "aliment",
+          "weight": 150.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 135.0
+        },
+        {
+          "name": "couleur",
+          "weight": 124.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 120.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 119.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruit",
+          "weight": 110.0
+        },
+        {
+          "name": "fève",
+          "weight": 88.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 81.0
+        },
+        {
+          "name": "graine",
+          "weight": 77.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "poudre",
+          "weight": 2469
+        },
+        {
+          "name": "cacao",
+          "weight": 1059
+        },
+        {
+          "name": "fève",
+          "weight": 308
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 242.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 31.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "côte d'ivoire",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 27.0
+        },
+        {
+          "name": "côte",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "côte d'ivoire",
+          "weight": 25
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 30.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 25.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 25.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 25.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bananes",
+      "r_isa": [
+        {
+          "name": "fruits",
+          "weight": 102.0
+        },
+        {
+          "name": "ingrédients de recette de cuisine",
+          "weight": 40.0
+        },
+        {
+          "name": "ingrédients",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "bananes",
+          "weight": 93
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 87.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 75.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 75.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 47.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 44.0
+        },
+        {
+          "name": "VerbalNumber:SG",
+          "weight": 38.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:SPre+SG+P2",
+          "weight": 35.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "costa rica",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "costa rica",
+          "weight": 70
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 25.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "vin",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 213.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 208.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 197.0
+        },
+        {
+          "name": "boisson alcoolique",
+          "weight": 193.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 193.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 191.0
+        },
+        {
+          "name": "boisson",
+          "weight": 136.0
+        },
+        {
+          "name": "aliment>2587820",
+          "weight": 107.0
+        },
+        {
+          "name": "liquide>57625",
+          "weight": 105.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 105.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "vin",
+          "weight": 7744
+        },
+        {
+          "name": "végétaux",
+          "weight": 2747
+        },
+        {
+          "name": "raisin",
+          "weight": 1375
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 74.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "chili",
+      "r_isa": [
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 114.0
+        },
+        {
+          "name": "épice",
+          "weight": 87.0
+        },
+        {
+          "name": "aromate",
+          "weight": 55.0
+        },
+        {
+          "name": "mélange d'épices",
+          "weight": 54.0
+        },
+        {
+          "name": "mélange",
+          "weight": 53.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 52.0
+        },
+        {
+          "name": "plat",
+          "weight": 38.0
+        },
+        {
+          "name": "piment",
+          "weight": 31.0
+        },
+        {
+          "name": "pays",
+          "weight": 29.0
+        },
+        {
+          "name": "en:spicery",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "plat",
+          "weight": 4666
+        },
+        {
+          "name": "chili",
+          "weight": 202
+        },
+        {
+          "name": "mélange d'épices",
+          "weight": 79
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 88.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 41.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 30.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "thé",
+      "r_isa": [
+        {
+          "name": "boisson non alcoolisée",
+          "weight": 856.0
+        },
+        {
+          "name": "boisson",
+          "weight": 833.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 770.0
+        },
+        {
+          "name": "liquide",
+          "weight": 475.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 96.0
+        },
+        {
+          "name": "substance",
+          "weight": 67.0
+        },
+        {
+          "name": "produit de première nécessité",
+          "weight": 62.0
+        },
+        {
+          "name": "végétal",
+          "weight": 59.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 59.0
+        },
+        {
+          "name": "organisme vivant",
+          "weight": 58.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33337
+        },
+        {
+          "name": "couleur",
+          "weight": 10233
+        },
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "feuille",
+          "weight": 5348
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "thé",
+          "weight": 2749
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 203.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 64.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 61.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:InvGen+InvPL",
+          "weight": 15.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sri lanka",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 29.0
+        },
+        {
+          "name": "sri",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sri lanka",
+          "weight": 51
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 36.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "café",
+      "r_isa": [
+        {
+          "name": "liquide",
+          "weight": 461.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 182.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 130.0
+        },
+        {
+          "name": "couleur",
+          "weight": 129.0
+        },
+        {
+          "name": "boisson",
+          "weight": 129.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 109.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 100.0
+        },
+        {
+          "name": "plante",
+          "weight": 92.0
+        },
+        {
+          "name": "végétal",
+          "weight": 82.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33336
+        },
+        {
+          "name": "couleur",
+          "weight": 10232
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "café",
+          "weight": 4527
+        },
+        {
+          "name": "parfum",
+          "weight": 2449
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        },
+        {
+          "name": "débit de boissons",
+          "weight": 129
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 269.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 88.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 44.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "colombie",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "colombie",
+          "weight": 164
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 56.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "fromage",
+      "r_isa": [
+        {
+          "name": "préparation culinaire",
+          "weight": 353.0
+        },
+        {
+          "name": "produit laitier",
+          "weight": 343.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 248.0
+        },
+        {
+          "name": "ingrédient",
+          "weight": 242.0
+        },
+        {
+          "name": "laitage",
+          "weight": 237.0
+        },
+        {
+          "name": "lieu",
+          "weight": 237.0
+        },
+        {
+          "name": "en:dairy product",
+          "weight": 237.0
+        },
+        {
+          "name": "en:milk product",
+          "weight": 237.0
+        },
+        {
+          "name": "Ingrédient de cuisine",
+          "weight": 237.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 235.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fromage",
+          "weight": 4498
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "charcuterie",
+          "weight": 1250
+        },
+        {
+          "name": "produit laitier",
+          "weight": 698
+        },
+        {
+          "name": "laitage",
+          "weight": 534
+        },
+        {
+          "name": "situation lucrative",
+          "weight": 62
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 325.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 105.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 79.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 34.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "royaume-uni",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "royaume-uni",
+          "weight": 938
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 20.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bière",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 234.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 170.0
+        },
+        {
+          "name": "boisson",
+          "weight": 87.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 76.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 65.0
+        },
+        {
+          "name": "boisson froide",
+          "weight": 63.0
+        },
+        {
+          "name": "boisson gazeuse",
+          "weight": 62.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 61.0
+        },
+        {
+          "name": "boisson fraîche",
+          "weight": 61.0
+        },
+        {
+          "name": "liquide",
+          "weight": 59.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "bière",
+          "weight": 2881
+        },
+        {
+          "name": "cercueil",
+          "weight": 746
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 153.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 25.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "belgique",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "belgique",
+          "weight": 499
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 46.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 39.0
+        },
+        {
+          "name": "Adj:Qual",
+          "weight": 34.0
+        },
+        {
+          "name": "Adj:Mas+SG",
+          "weight": 32.0
+        },
+        {
+          "name": "Adj:Fem+SG",
+          "weight": 32.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 28.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 28.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 28.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "riz",
+      "r_isa": [
+        {
+          "name": "céréale",
+          "weight": 232.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 210.0
+        },
+        {
+          "name": "aliment",
+          "weight": 209.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "poacée",
+          "weight": 170.0
+        },
+        {
+          "name": "aliment de base",
+          "weight": 160.0
+        },
+        {
+          "name": "graminée",
+          "weight": 151.0
+        },
+        {
+          "name": "monocotylédone",
+          "weight": 150.0
+        },
+        {
+          "name": "plante>3674",
+          "weight": 149.0
+        },
+        {
+          "name": "plante",
+          "weight": 129.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "riz",
+          "weight": 2451
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 219.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 33.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "thaïlande",
+      "r_isa": [
+        {
+          "name": "en:country",
+          "weight": 48.0
+        },
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "thaïlande",
+          "weight": 189
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 58.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "cacao",
+      "r_isa": [
+        {
+          "name": "aliment",
+          "weight": 150.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 135.0
+        },
+        {
+          "name": "couleur",
+          "weight": 124.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 120.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 119.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruit",
+          "weight": 110.0
+        },
+        {
+          "name": "fève",
+          "weight": 88.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 81.0
+        },
+        {
+          "name": "graine",
+          "weight": 77.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "poudre",
+          "weight": 2469
+        },
+        {
+          "name": "cacao",
+          "weight": 1059
+        },
+        {
+          "name": "fève",
+          "weight": 308
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 242.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 31.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "ghana",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "ghana",
+          "weight": 90
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 35.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "oranges",
+      "r_isa": [
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruits",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "oranges",
+          "weight": 81
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 89.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 59.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 57.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2:SPre+SG+P2",
+          "weight": 55.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "maroc",
+      "r_isa": [
+        {
+          "name": "étoffe",
+          "weight": 43.0
+        },
+        {
+          "name": "lieu géographique",
+          "weight": 27.0
+        },
+        {
+          "name": "pays",
+          "weight": 15.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "maroc",
+          "weight": 327
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 52.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "café",
+      "r_isa": [
+        {
+          "name": "liquide",
+          "weight": 461.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 182.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 130.0
+        },
+        {
+          "name": "couleur",
+          "weight": 129.0
+        },
+        {
+          "name": "boisson",
+          "weight": 129.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 109.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 100.0
+        },
+        {
+          "name": "plante",
+          "weight": 92.0
+        },
+        {
+          "name": "végétal",
+          "weight": 82.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33336
+        },
+        {
+          "name": "couleur",
+          "weight": 10232
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "café",
+          "weight": 4527
+        },
+        {
+          "name": "parfum",
+          "weight": 2449
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        },
+        {
+          "name": "débit de boissons",
+          "weight": 129
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 269.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 88.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 44.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "vietnam",
+      "r_isa": null,
+      "r_raff_sem": [
+        {
+          "name": "vietnam",
+          "weight": 213
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 48.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "fromage",
+      "r_isa": [
+        {
+          "name": "préparation culinaire",
+          "weight": 353.0
+        },
+        {
+          "name": "produit laitier",
+          "weight": 343.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 248.0
+        },
+        {
+          "name": "ingrédient",
+          "weight": 242.0
+        },
+        {
+          "name": "laitage",
+          "weight": 237.0
+        },
+        {
+          "name": "lieu",
+          "weight": 237.0
+        },
+        {
+          "name": "en:dairy product",
+          "weight": 237.0
+        },
+        {
+          "name": "en:milk product",
+          "weight": 237.0
+        },
+        {
+          "name": "Ingrédient de cuisine",
+          "weight": 237.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 235.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fromage",
+          "weight": 4498
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "charcuterie",
+          "weight": 1250
+        },
+        {
+          "name": "produit laitier",
+          "weight": 698
+        },
+        {
+          "name": "laitage",
+          "weight": 534
+        },
+        {
+          "name": "situation lucrative",
+          "weight": 62
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 325.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 105.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 79.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 34.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "hollande",
+      "r_isa": [
+        {
+          "name": "pomme de terre",
+          "weight": 47.0
+        },
+        {
+          "name": "porcelaine",
+          "weight": 35.0
+        },
+        {
+          "name": "papier de luxe",
+          "weight": 35.0
+        },
+        {
+          "name": "toile",
+          "weight": 31.0
+        },
+        {
+          "name": "fromage",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "hollande",
+          "weight": 140
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 98.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 58.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 53.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 52.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 46.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bière",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 234.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 170.0
+        },
+        {
+          "name": "boisson",
+          "weight": 87.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 76.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 65.0
+        },
+        {
+          "name": "boisson froide",
+          "weight": 63.0
+        },
+        {
+          "name": "boisson gazeuse",
+          "weight": 62.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 61.0
+        },
+        {
+          "name": "boisson fraîche",
+          "weight": 61.0
+        },
+        {
+          "name": "liquide",
+          "weight": 59.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "bière",
+          "weight": 2881
+        },
+        {
+          "name": "cercueil",
+          "weight": 746
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 153.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 25.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "mexique",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "mexique",
+          "weight": 63
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 36.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 31.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 30.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 28.0
+        },
+        {
+          "name": "Adj:Mas+SG",
+          "weight": 27.0
+        },
+        {
+          "name": "Adj:Fem+SG",
+          "weight": 27.0
+        },
+        {
+          "name": "Adj:Qual",
+          "weight": 27.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "riz",
+      "r_isa": [
+        {
+          "name": "céréale",
+          "weight": 232.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 210.0
+        },
+        {
+          "name": "aliment",
+          "weight": 209.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "poacée",
+          "weight": 170.0
+        },
+        {
+          "name": "aliment de base",
+          "weight": 160.0
+        },
+        {
+          "name": "graminée",
+          "weight": 151.0
+        },
+        {
+          "name": "monocotylédone",
+          "weight": 150.0
+        },
+        {
+          "name": "plante>3674",
+          "weight": 149.0
+        },
+        {
+          "name": "plante",
+          "weight": 129.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "riz",
+          "weight": 2451
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 219.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 33.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "vietnam",
+      "r_isa": null,
+      "r_raff_sem": [
+        {
+          "name": "vietnam",
+          "weight": 213
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 48.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DES",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bananes",
+      "r_isa": [
+        {
+          "name": "fruits",
+          "weight": 102.0
+        },
+        {
+          "name": "ingrédients de recette de cuisine",
+          "weight": 40.0
+        },
+        {
+          "name": "ingrédients",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "bananes",
+          "weight": 93
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 87.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 75.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 75.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 47.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 44.0
+        },
+        {
+          "name": "VerbalNumber:SG",
+          "weight": 38.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:SPre+SG+P2",
+          "weight": 35.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "philippines",
+      "r_isa": [
+        {
+          "name": "en:country",
+          "weight": 73.0
+        },
+        {
+          "name": "en:geographic area",
+          "weight": 48.0
+        },
+        {
+          "name": "pays",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "philippines",
+          "weight": 115
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Adj:",
+          "weight": 56.0
+        },
+        {
+          "name": "Nom:",
+          "weight": 56.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 54.0
+        },
+        {
+          "name": "Adj:Fem+PL",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 46.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 46.0
+        },
+        {
+          "name": "Adj:Qual",
+          "weight": 27.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "oranges",
+      "r_isa": [
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruits",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "oranges",
+          "weight": 81
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 89.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 59.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 57.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2:SPre+SG+P2",
+          "weight": 55.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "floride",
+      "r_isa": null,
+      "r_raff_sem": [
+        {
+          "name": "floride",
+          "weight": 180
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Adj:",
+          "weight": 150.0
+        },
+        {
+          "name": "Nom:",
+          "weight": 35.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "vin",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 213.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 208.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 197.0
+        },
+        {
+          "name": "boisson alcoolique",
+          "weight": 193.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 193.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 191.0
+        },
+        {
+          "name": "boisson",
+          "weight": 136.0
+        },
+        {
+          "name": "aliment>2587820",
+          "weight": 107.0
+        },
+        {
+          "name": "liquide>57625",
+          "weight": 105.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 105.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "vin",
+          "weight": 7744
+        },
+        {
+          "name": "végétaux",
+          "weight": 2747
+        },
+        {
+          "name": "raisin",
+          "weight": 1375
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 74.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "californie",
+      "r_isa": null,
+      "r_raff_sem": [
+        {
+          "name": "californie",
+          "weight": 583
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 55.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "thé",
+      "r_isa": [
+        {
+          "name": "boisson non alcoolisée",
+          "weight": 856.0
+        },
+        {
+          "name": "boisson",
+          "weight": 833.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 770.0
+        },
+        {
+          "name": "liquide",
+          "weight": 475.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 96.0
+        },
+        {
+          "name": "substance",
+          "weight": 67.0
+        },
+        {
+          "name": "produit de première nécessité",
+          "weight": 62.0
+        },
+        {
+          "name": "végétal",
+          "weight": 59.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 59.0
+        },
+        {
+          "name": "organisme vivant",
+          "weight": 58.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33337
+        },
+        {
+          "name": "couleur",
+          "weight": 10233
+        },
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "feuille",
+          "weight": 5348
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "thé",
+          "weight": 2749
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 203.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 64.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 61.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:InvGen+InvPL",
+          "weight": 15.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "kenya",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "kenya",
+          "weight": 140
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 38.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "cacao",
+      "r_isa": [
+        {
+          "name": "aliment",
+          "weight": 150.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 135.0
+        },
+        {
+          "name": "couleur",
+          "weight": 124.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 120.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 119.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruit",
+          "weight": 110.0
+        },
+        {
+          "name": "fève",
+          "weight": 88.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 81.0
+        },
+        {
+          "name": "graine",
+          "weight": 77.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "poudre",
+          "weight": 2469
+        },
+        {
+          "name": "cacao",
+          "weight": 1059
+        },
+        {
+          "name": "fève",
+          "weight": 308
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 242.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 31.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "cameroun",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cameroun",
+          "weight": 80
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bananes",
+      "r_isa": [
+        {
+          "name": "fruits",
+          "weight": 102.0
+        },
+        {
+          "name": "ingrédients de recette de cuisine",
+          "weight": 40.0
+        },
+        {
+          "name": "ingrédients",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "bananes",
+          "weight": 93
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 87.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 75.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 75.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 47.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 44.0
+        },
+        {
+          "name": "VerbalNumber:SG",
+          "weight": 38.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:SPre+SG+P2",
+          "weight": 35.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "guatemala",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "guatemala",
+          "weight": 49
+        }
+      ],
+      "r_pos": null
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "café",
+      "r_isa": [
+        {
+          "name": "liquide",
+          "weight": 461.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 182.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 130.0
+        },
+        {
+          "name": "couleur",
+          "weight": 129.0
+        },
+        {
+          "name": "boisson",
+          "weight": 129.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 109.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 100.0
+        },
+        {
+          "name": "plante",
+          "weight": 92.0
+        },
+        {
+          "name": "végétal",
+          "weight": 82.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33336
+        },
+        {
+          "name": "couleur",
+          "weight": 10232
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "café",
+          "weight": 4527
+        },
+        {
+          "name": "parfum",
+          "weight": 2449
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        },
+        {
+          "name": "débit de boissons",
+          "weight": 129
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 269.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 88.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 44.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "guatemala",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "guatemala",
+          "weight": 49
+        }
+      ],
+      "r_pos": null
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "fromage",
+      "r_isa": [
+        {
+          "name": "préparation culinaire",
+          "weight": 353.0
+        },
+        {
+          "name": "produit laitier",
+          "weight": 343.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 248.0
+        },
+        {
+          "name": "ingrédient",
+          "weight": 242.0
+        },
+        {
+          "name": "laitage",
+          "weight": 237.0
+        },
+        {
+          "name": "lieu",
+          "weight": 237.0
+        },
+        {
+          "name": "en:dairy product",
+          "weight": 237.0
+        },
+        {
+          "name": "en:milk product",
+          "weight": 237.0
+        },
+        {
+          "name": "Ingrédient de cuisine",
+          "weight": 237.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 235.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fromage",
+          "weight": 4498
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "charcuterie",
+          "weight": 1250
+        },
+        {
+          "name": "produit laitier",
+          "weight": 698
+        },
+        {
+          "name": "laitage",
+          "weight": 534
+        },
+        {
+          "name": "situation lucrative",
+          "weight": 62
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 325.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 105.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 79.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 34.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "grèce",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "grèce",
+          "weight": 289
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 51.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bière",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 234.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 170.0
+        },
+        {
+          "name": "boisson",
+          "weight": 87.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 76.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 65.0
+        },
+        {
+          "name": "boisson froide",
+          "weight": 63.0
+        },
+        {
+          "name": "boisson gazeuse",
+          "weight": 62.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 61.0
+        },
+        {
+          "name": "boisson fraîche",
+          "weight": 61.0
+        },
+        {
+          "name": "liquide",
+          "weight": 59.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "bière",
+          "weight": 2881
+        },
+        {
+          "name": "cercueil",
+          "weight": 746
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 153.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 25.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "république tchèque",
+      "r_isa": [
+        {
+          "name": "::>66:22243>17:133328",
+          "weight": 218.0
+        },
+        {
+          "name": "pays",
+          "weight": 66.0
+        },
+        {
+          "name": "pays>145735",
+          "weight": 60.0
+        },
+        {
+          "name": "république",
+          "weight": 51.0
+        },
+        {
+          "name": "lieu",
+          "weight": 49.0
+        },
+        {
+          "name": "lieu>134218",
+          "weight": 32.0
+        },
+        {
+          "name": "partie de l'espace",
+          "weight": 30.0
+        },
+        {
+          "name": "nation",
+          "weight": 28.0
+        },
+        {
+          "name": "lieu géographique",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "république tchèque",
+          "weight": 103
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 55.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 43.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 28.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 26.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "riz",
+      "r_isa": [
+        {
+          "name": "céréale",
+          "weight": 232.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 210.0
+        },
+        {
+          "name": "aliment",
+          "weight": 209.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "poacée",
+          "weight": 170.0
+        },
+        {
+          "name": "aliment de base",
+          "weight": 160.0
+        },
+        {
+          "name": "graminée",
+          "weight": 151.0
+        },
+        {
+          "name": "monocotylédone",
+          "weight": 150.0
+        },
+        {
+          "name": "plante>3674",
+          "weight": 149.0
+        },
+        {
+          "name": "plante",
+          "weight": 129.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "riz",
+          "weight": 2451
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 219.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 33.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "chine",
+      "r_isa": [
+        {
+          "name": "lieu",
+          "weight": 55.0
+        },
+        {
+          "name": "porcelaine",
+          "weight": 35.0
+        },
+        {
+          "name": "papier",
+          "weight": 34.0
+        },
+        {
+          "name": "pays",
+          "weight": 30.0
+        },
+        {
+          "name": "papier de",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "chine",
+          "weight": 1640
+        },
+        {
+          "name": "porcelaine",
+          "weight": 407
+        },
+        {
+          "name": "brocante",
+          "weight": 137
+        },
+        {
+          "name": "papier de Chine",
+          "weight": 51
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "alphabet hébreu",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 130.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 54.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "cacao",
+      "r_isa": [
+        {
+          "name": "aliment",
+          "weight": 150.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 135.0
+        },
+        {
+          "name": "couleur",
+          "weight": 124.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 120.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 119.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruit",
+          "weight": 110.0
+        },
+        {
+          "name": "fève",
+          "weight": 88.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 81.0
+        },
+        {
+          "name": "graine",
+          "weight": 77.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "poudre",
+          "weight": 2469
+        },
+        {
+          "name": "cacao",
+          "weight": 1059
+        },
+        {
+          "name": "fève",
+          "weight": 308
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 242.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 31.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "pérou",
+      "r_isa": [
+        {
+          "name": "destination touristique",
+          "weight": 60.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "pays",
+          "weight": 30.0
+        },
+        {
+          "name": "nom de famille",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "pérou",
+          "weight": 176
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 51.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "oranges",
+      "r_isa": [
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruits",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "oranges",
+          "weight": 81
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 89.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 59.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 57.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2:SPre+SG+P2",
+          "weight": 55.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "brésil",
+      "r_isa": [
+        {
+          "name": "matière",
+          "weight": 38.0
+        },
+        {
+          "name": "bois exotique",
+          "weight": 32.0
+        },
+        {
+          "name": "en:country",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "brésil",
+          "weight": 473
+        },
+        {
+          "name": "bois exotique",
+          "weight": 63
+        },
+        {
+          "name": "matière tinctoriale",
+          "weight": 9
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 92.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "vin",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 213.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 208.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 197.0
+        },
+        {
+          "name": "boisson alcoolique",
+          "weight": 193.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 193.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 191.0
+        },
+        {
+          "name": "boisson",
+          "weight": 136.0
+        },
+        {
+          "name": "aliment>2587820",
+          "weight": 107.0
+        },
+        {
+          "name": "liquide>57625",
+          "weight": 105.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 105.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "vin",
+          "weight": 7744
+        },
+        {
+          "name": "végétaux",
+          "weight": 2747
+        },
+        {
+          "name": "raisin",
+          "weight": 1375
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 74.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "portugal",
+      "r_isa": [
+        {
+          "name": "en:west european country",
+          "weight": 55.0
+        },
+        {
+          "name": "en:country",
+          "weight": 46.0
+        },
+        {
+          "name": "pays",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "portugal",
+          "weight": 211
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Adj:",
+          "weight": 48.0
+        },
+        {
+          "name": "Nom:",
+          "weight": 42.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "thé",
+      "r_isa": [
+        {
+          "name": "boisson non alcoolisée",
+          "weight": 856.0
+        },
+        {
+          "name": "boisson",
+          "weight": 833.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 770.0
+        },
+        {
+          "name": "liquide",
+          "weight": 475.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 96.0
+        },
+        {
+          "name": "substance",
+          "weight": 67.0
+        },
+        {
+          "name": "produit de première nécessité",
+          "weight": 62.0
+        },
+        {
+          "name": "végétal",
+          "weight": 59.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 59.0
+        },
+        {
+          "name": "organisme vivant",
+          "weight": 58.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33337
+        },
+        {
+          "name": "couleur",
+          "weight": 10233
+        },
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "feuille",
+          "weight": 5348
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "thé",
+          "weight": 2749
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 203.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 64.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 61.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:InvGen+InvPL",
+          "weight": 15.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "turquie",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "turquie",
+          "weight": 647
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 43.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "café",
+      "r_isa": [
+        {
+          "name": "liquide",
+          "weight": 461.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 182.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 130.0
+        },
+        {
+          "name": "couleur",
+          "weight": 129.0
+        },
+        {
+          "name": "boisson",
+          "weight": 129.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 109.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 100.0
+        },
+        {
+          "name": "plante",
+          "weight": 92.0
+        },
+        {
+          "name": "végétal",
+          "weight": 82.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33336
+        },
+        {
+          "name": "couleur",
+          "weight": 10232
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "café",
+          "weight": 4527
+        },
+        {
+          "name": "parfum",
+          "weight": 2449
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        },
+        {
+          "name": "débit de boissons",
+          "weight": 129
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 269.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 88.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 44.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "honduras",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "honduras",
+          "weight": 54
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 41.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "fromage",
+      "r_isa": [
+        {
+          "name": "préparation culinaire",
+          "weight": 353.0
+        },
+        {
+          "name": "produit laitier",
+          "weight": 343.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 248.0
+        },
+        {
+          "name": "ingrédient",
+          "weight": 242.0
+        },
+        {
+          "name": "laitage",
+          "weight": 237.0
+        },
+        {
+          "name": "lieu",
+          "weight": 237.0
+        },
+        {
+          "name": "en:dairy product",
+          "weight": 237.0
+        },
+        {
+          "name": "en:milk product",
+          "weight": 237.0
+        },
+        {
+          "name": "Ingrédient de cuisine",
+          "weight": 237.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 235.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fromage",
+          "weight": 4498
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "charcuterie",
+          "weight": 1250
+        },
+        {
+          "name": "produit laitier",
+          "weight": 698
+        },
+        {
+          "name": "laitage",
+          "weight": 534
+        },
+        {
+          "name": "situation lucrative",
+          "weight": 62
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 325.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 105.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 79.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 34.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "danemark",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "danemark",
+          "weight": 272
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 38.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bière",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 234.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 170.0
+        },
+        {
+          "name": "boisson",
+          "weight": 87.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 76.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 65.0
+        },
+        {
+          "name": "boisson froide",
+          "weight": 63.0
+        },
+        {
+          "name": "boisson gazeuse",
+          "weight": 62.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 61.0
+        },
+        {
+          "name": "boisson fraîche",
+          "weight": 61.0
+        },
+        {
+          "name": "liquide",
+          "weight": 59.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "bière",
+          "weight": 2881
+        },
+        {
+          "name": "cercueil",
+          "weight": 746
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 153.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 25.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "canada",
+      "r_isa": [
+        {
+          "name": "pomme",
+          "weight": 95.0
+        },
+        {
+          "name": "pomme>87286",
+          "weight": 95.0
+        },
+        {
+          "name": "fruit",
+          "weight": 84.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 80.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 74.0
+        },
+        {
+          "name": "pays",
+          "weight": 29.0
+        },
+        {
+          "name": "en:plant product",
+          "weight": 27.0
+        },
+        {
+          "name": "en:country",
+          "weight": 10.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "canada",
+          "weight": 856
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 106.0
+        },
+        {
+          "name": "Nom:Fem+InvPL",
+          "weight": 51.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 32.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 26.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "riz",
+      "r_isa": [
+        {
+          "name": "céréale",
+          "weight": 232.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 210.0
+        },
+        {
+          "name": "aliment",
+          "weight": 209.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "poacée",
+          "weight": 170.0
+        },
+        {
+          "name": "aliment de base",
+          "weight": 160.0
+        },
+        {
+          "name": "graminée",
+          "weight": 151.0
+        },
+        {
+          "name": "monocotylédone",
+          "weight": 150.0
+        },
+        {
+          "name": "plante>3674",
+          "weight": 149.0
+        },
+        {
+          "name": "plante",
+          "weight": 129.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "riz",
+          "weight": 2451
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 219.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 33.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "pakistan",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "pakistan",
+          "weight": 91
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 42.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "cacao",
+      "r_isa": [
+        {
+          "name": "aliment",
+          "weight": 150.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 135.0
+        },
+        {
+          "name": "couleur",
+          "weight": 124.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 120.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 119.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruit",
+          "weight": 110.0
+        },
+        {
+          "name": "fève",
+          "weight": 88.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 81.0
+        },
+        {
+          "name": "graine",
+          "weight": 77.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "poudre",
+          "weight": 2469
+        },
+        {
+          "name": "cacao",
+          "weight": 1059
+        },
+        {
+          "name": "fève",
+          "weight": 308
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 242.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 31.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "nigeria",
+      "r_isa": null,
+      "r_raff_sem": [
+        {
+          "name": "nigeria",
+          "weight": 114
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 24.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bananes",
+      "r_isa": [
+        {
+          "name": "fruits",
+          "weight": 102.0
+        },
+        {
+          "name": "ingrédients de recette de cuisine",
+          "weight": 40.0
+        },
+        {
+          "name": "ingrédients",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "bananes",
+          "weight": 93
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 87.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 75.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 75.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 47.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 44.0
+        },
+        {
+          "name": "VerbalNumber:SG",
+          "weight": 38.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:SPre+SG+P2",
+          "weight": 35.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "mexique",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "mexique",
+          "weight": 63
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 36.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 31.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 30.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 28.0
+        },
+        {
+          "name": "Adj:Mas+SG",
+          "weight": 27.0
+        },
+        {
+          "name": "Adj:Fem+SG",
+          "weight": 27.0
+        },
+        {
+          "name": "Adj:Qual",
+          "weight": 27.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "vin",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 213.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 208.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 197.0
+        },
+        {
+          "name": "boisson alcoolique",
+          "weight": 193.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 193.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 191.0
+        },
+        {
+          "name": "boisson",
+          "weight": 136.0
+        },
+        {
+          "name": "aliment>2587820",
+          "weight": 107.0
+        },
+        {
+          "name": "liquide>57625",
+          "weight": 105.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 105.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "vin",
+          "weight": 7744
+        },
+        {
+          "name": "végétaux",
+          "weight": 2747
+        },
+        {
+          "name": "raisin",
+          "weight": 1375
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 74.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "nouvelle-zélande",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "nouvelle-zélande",
+          "weight": 185
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 20.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "thé",
+      "r_isa": [
+        {
+          "name": "boisson non alcoolisée",
+          "weight": 856.0
+        },
+        {
+          "name": "boisson",
+          "weight": 833.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 770.0
+        },
+        {
+          "name": "liquide",
+          "weight": 475.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 96.0
+        },
+        {
+          "name": "substance",
+          "weight": 67.0
+        },
+        {
+          "name": "produit de première nécessité",
+          "weight": 62.0
+        },
+        {
+          "name": "végétal",
+          "weight": 59.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 59.0
+        },
+        {
+          "name": "organisme vivant",
+          "weight": 58.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33337
+        },
+        {
+          "name": "couleur",
+          "weight": 10233
+        },
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "feuille",
+          "weight": 5348
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "thé",
+          "weight": 2749
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 203.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 64.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 61.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:InvGen+InvPL",
+          "weight": 15.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "malawi",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "malawi",
+          "weight": 54
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 37.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "café",
+      "r_isa": [
+        {
+          "name": "liquide",
+          "weight": 461.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 182.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 130.0
+        },
+        {
+          "name": "couleur",
+          "weight": 129.0
+        },
+        {
+          "name": "boisson",
+          "weight": 129.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 109.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 100.0
+        },
+        {
+          "name": "plante",
+          "weight": 92.0
+        },
+        {
+          "name": "végétal",
+          "weight": 82.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33336
+        },
+        {
+          "name": "couleur",
+          "weight": 10232
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "café",
+          "weight": 4527
+        },
+        {
+          "name": "parfum",
+          "weight": 2449
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        },
+        {
+          "name": "débit de boissons",
+          "weight": 129
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 269.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 88.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 44.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "kenya",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "kenya",
+          "weight": 140
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 38.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "fromage",
+      "r_isa": [
+        {
+          "name": "préparation culinaire",
+          "weight": 353.0
+        },
+        {
+          "name": "produit laitier",
+          "weight": 343.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 248.0
+        },
+        {
+          "name": "ingrédient",
+          "weight": 242.0
+        },
+        {
+          "name": "laitage",
+          "weight": 237.0
+        },
+        {
+          "name": "lieu",
+          "weight": 237.0
+        },
+        {
+          "name": "en:dairy product",
+          "weight": 237.0
+        },
+        {
+          "name": "en:milk product",
+          "weight": 237.0
+        },
+        {
+          "name": "Ingrédient de cuisine",
+          "weight": 237.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 235.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fromage",
+          "weight": 4498
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "charcuterie",
+          "weight": 1250
+        },
+        {
+          "name": "produit laitier",
+          "weight": 698
+        },
+        {
+          "name": "laitage",
+          "weight": 534
+        },
+        {
+          "name": "situation lucrative",
+          "weight": 62
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 325.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 105.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 79.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 34.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "norvège",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "norvège",
+          "weight": 215
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 56.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "riz",
+      "r_isa": [
+        {
+          "name": "céréale",
+          "weight": 232.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 210.0
+        },
+        {
+          "name": "aliment",
+          "weight": 209.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "poacée",
+          "weight": 170.0
+        },
+        {
+          "name": "aliment de base",
+          "weight": 160.0
+        },
+        {
+          "name": "graminée",
+          "weight": 151.0
+        },
+        {
+          "name": "monocotylédone",
+          "weight": 150.0
+        },
+        {
+          "name": "plante>3674",
+          "weight": 149.0
+        },
+        {
+          "name": "plante",
+          "weight": 129.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "riz",
+          "weight": 2451
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 219.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 33.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "bangladesh",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "bangladesh",
+          "weight": 66
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 60.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "cacao",
+      "r_isa": [
+        {
+          "name": "aliment",
+          "weight": 150.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 135.0
+        },
+        {
+          "name": "couleur",
+          "weight": 124.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 120.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 119.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruit",
+          "weight": 110.0
+        },
+        {
+          "name": "fève",
+          "weight": 88.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 81.0
+        },
+        {
+          "name": "graine",
+          "weight": 77.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "poudre",
+          "weight": 2469
+        },
+        {
+          "name": "cacao",
+          "weight": 1059
+        },
+        {
+          "name": "fève",
+          "weight": 308
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 242.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 31.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "madagascar",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "madagascar",
+          "weight": 316
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 51.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 35.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 28.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 28.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bananes",
+      "r_isa": [
+        {
+          "name": "fruits",
+          "weight": 102.0
+        },
+        {
+          "name": "ingrédients de recette de cuisine",
+          "weight": 40.0
+        },
+        {
+          "name": "ingrédients",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "bananes",
+          "weight": 93
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 87.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 75.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 75.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 47.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 44.0
+        },
+        {
+          "name": "VerbalNumber:SG",
+          "weight": 38.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:SPre+SG+P2",
+          "weight": 35.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "panama",
+      "r_isa": [
+        {
+          "name": "chapeau de paille",
+          "weight": 127.0
+        },
+        {
+          "name": "chapeau>18557",
+          "weight": 126.0
+        },
+        {
+          "name": "tissu>94609",
+          "weight": 75.0
+        },
+        {
+          "name": "toile>63936",
+          "weight": 68.0
+        },
+        {
+          "name": "tissu",
+          "weight": 66.0
+        },
+        {
+          "name": "chapeau",
+          "weight": 64.0
+        },
+        {
+          "name": "couvre-chef",
+          "weight": 52.0
+        },
+        {
+          "name": "en:head-gear",
+          "weight": 37.0
+        },
+        {
+          "name": "pays",
+          "weight": 29.0
+        },
+        {
+          "name": "en:headwear",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "toile",
+          "weight": 3558
+        },
+        {
+          "name": "chapeau",
+          "weight": 2111
+        },
+        {
+          "name": "panama",
+          "weight": 197
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 99.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "oranges",
+      "r_isa": [
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruits",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "oranges",
+          "weight": 81
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 89.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 59.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 57.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2:SPre+SG+P2",
+          "weight": 55.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "californie",
+      "r_isa": null,
+      "r_raff_sem": [
+        {
+          "name": "californie",
+          "weight": 583
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 55.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "café",
+      "r_isa": [
+        {
+          "name": "liquide",
+          "weight": 461.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 182.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 130.0
+        },
+        {
+          "name": "couleur",
+          "weight": 129.0
+        },
+        {
+          "name": "boisson",
+          "weight": 129.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 109.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 100.0
+        },
+        {
+          "name": "plante",
+          "weight": 92.0
+        },
+        {
+          "name": "végétal",
+          "weight": 82.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33336
+        },
+        {
+          "name": "couleur",
+          "weight": 10232
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "café",
+          "weight": 4527
+        },
+        {
+          "name": "parfum",
+          "weight": 2449
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        },
+        {
+          "name": "débit de boissons",
+          "weight": 129
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 269.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 88.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 44.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "pérou",
+      "r_isa": [
+        {
+          "name": "destination touristique",
+          "weight": 60.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "pays",
+          "weight": 30.0
+        },
+        {
+          "name": "nom de famille",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "pérou",
+          "weight": 176
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 51.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "fromage",
+      "r_isa": [
+        {
+          "name": "préparation culinaire",
+          "weight": 353.0
+        },
+        {
+          "name": "produit laitier",
+          "weight": 343.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 248.0
+        },
+        {
+          "name": "ingrédient",
+          "weight": 242.0
+        },
+        {
+          "name": "laitage",
+          "weight": 237.0
+        },
+        {
+          "name": "lieu",
+          "weight": 237.0
+        },
+        {
+          "name": "en:dairy product",
+          "weight": 237.0
+        },
+        {
+          "name": "en:milk product",
+          "weight": 237.0
+        },
+        {
+          "name": "Ingrédient de cuisine",
+          "weight": 237.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 235.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fromage",
+          "weight": 4498
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "charcuterie",
+          "weight": 1250
+        },
+        {
+          "name": "produit laitier",
+          "weight": 698
+        },
+        {
+          "name": "laitage",
+          "weight": 534
+        },
+        {
+          "name": "situation lucrative",
+          "weight": 62
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 325.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 105.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 79.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 34.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "suède",
+      "r_isa": [
+        {
+          "name": "cuir",
+          "weight": 112.0
+        },
+        {
+          "name": "en:leather",
+          "weight": 30.0
+        },
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "suède",
+          "weight": 292
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 94.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 60.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bière",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 234.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 170.0
+        },
+        {
+          "name": "boisson",
+          "weight": 87.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 76.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 65.0
+        },
+        {
+          "name": "boisson froide",
+          "weight": 63.0
+        },
+        {
+          "name": "boisson gazeuse",
+          "weight": 62.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 61.0
+        },
+        {
+          "name": "boisson fraîche",
+          "weight": 61.0
+        },
+        {
+          "name": "liquide",
+          "weight": 59.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "bière",
+          "weight": 2881
+        },
+        {
+          "name": "cercueil",
+          "weight": 746
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 153.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 25.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "japon",
+      "r_isa": [
+        {
+          "name": "papier",
+          "weight": 45.0
+        },
+        {
+          "name": "porcelaine",
+          "weight": 45.0
+        },
+        {
+          "name": "papier blanc",
+          "weight": 34.0
+        },
+        {
+          "name": "personne",
+          "weight": 32.0
+        },
+        {
+          "name": "matériau",
+          "weight": 30.0
+        },
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "papier",
+          "weight": 7344
+        },
+        {
+          "name": "japon",
+          "weight": 682
+        },
+        {
+          "name": "porcelaine",
+          "weight": 407
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 117.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 55.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 53.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "cacao",
+      "r_isa": [
+        {
+          "name": "aliment",
+          "weight": 150.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 135.0
+        },
+        {
+          "name": "couleur",
+          "weight": 124.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 120.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 119.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruit",
+          "weight": 110.0
+        },
+        {
+          "name": "fève",
+          "weight": 88.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 81.0
+        },
+        {
+          "name": "graine",
+          "weight": 77.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "poudre",
+          "weight": 2469
+        },
+        {
+          "name": "cacao",
+          "weight": 1059
+        },
+        {
+          "name": "fève",
+          "weight": 308
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 242.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 31.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "brésil",
+      "r_isa": [
+        {
+          "name": "matière",
+          "weight": 38.0
+        },
+        {
+          "name": "bois exotique",
+          "weight": 32.0
+        },
+        {
+          "name": "en:country",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "brésil",
+          "weight": 473
+        },
+        {
+          "name": "bois exotique",
+          "weight": 63
+        },
+        {
+          "name": "matière tinctoriale",
+          "weight": 9
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 92.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "oranges",
+      "r_isa": [
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruits",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "oranges",
+          "weight": 81
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 89.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 59.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 57.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2:SPre+SG+P2",
+          "weight": 55.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "mexique",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "mexique",
+          "weight": 63
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 36.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 31.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 30.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 28.0
+        },
+        {
+          "name": "Adj:Mas+SG",
+          "weight": 27.0
+        },
+        {
+          "name": "Adj:Fem+SG",
+          "weight": 27.0
+        },
+        {
+          "name": "Adj:Qual",
+          "weight": 27.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "vin",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 213.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 208.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 197.0
+        },
+        {
+          "name": "boisson alcoolique",
+          "weight": 193.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 193.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 191.0
+        },
+        {
+          "name": "boisson",
+          "weight": 136.0
+        },
+        {
+          "name": "aliment>2587820",
+          "weight": 107.0
+        },
+        {
+          "name": "liquide>57625",
+          "weight": 105.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 105.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "vin",
+          "weight": 7744
+        },
+        {
+          "name": "végétaux",
+          "weight": 2747
+        },
+        {
+          "name": "raisin",
+          "weight": 1375
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 74.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "liban",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "liban",
+          "weight": 210
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 56.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "thé",
+      "r_isa": [
+        {
+          "name": "boisson non alcoolisée",
+          "weight": 856.0
+        },
+        {
+          "name": "boisson",
+          "weight": 833.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 770.0
+        },
+        {
+          "name": "liquide",
+          "weight": 475.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 96.0
+        },
+        {
+          "name": "substance",
+          "weight": 67.0
+        },
+        {
+          "name": "produit de première nécessité",
+          "weight": 62.0
+        },
+        {
+          "name": "végétal",
+          "weight": 59.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 59.0
+        },
+        {
+          "name": "organisme vivant",
+          "weight": 58.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33337
+        },
+        {
+          "name": "couleur",
+          "weight": 10233
+        },
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "feuille",
+          "weight": 5348
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "thé",
+          "weight": 2749
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 203.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 64.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 61.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:InvGen+InvPL",
+          "weight": 15.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "népal",
+      "r_isa": [
+        {
+          "name": "en:country",
+          "weight": 94.0
+        },
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "népal",
+          "weight": 43
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 49.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bière",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 234.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 170.0
+        },
+        {
+          "name": "boisson",
+          "weight": 87.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 76.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 65.0
+        },
+        {
+          "name": "boisson froide",
+          "weight": 63.0
+        },
+        {
+          "name": "boisson gazeuse",
+          "weight": 62.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 61.0
+        },
+        {
+          "name": "boisson fraîche",
+          "weight": 61.0
+        },
+        {
+          "name": "liquide",
+          "weight": 59.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "bière",
+          "weight": 2881
+        },
+        {
+          "name": "cercueil",
+          "weight": 746
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 153.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 25.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "pologne",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "pologne",
+          "weight": 57
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 55.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "riz",
+      "r_isa": [
+        {
+          "name": "céréale",
+          "weight": 232.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 210.0
+        },
+        {
+          "name": "aliment",
+          "weight": 209.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "poacée",
+          "weight": 170.0
+        },
+        {
+          "name": "aliment de base",
+          "weight": 160.0
+        },
+        {
+          "name": "graminée",
+          "weight": 151.0
+        },
+        {
+          "name": "monocotylédone",
+          "weight": 150.0
+        },
+        {
+          "name": "plante>3674",
+          "weight": 149.0
+        },
+        {
+          "name": "plante",
+          "weight": 129.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "riz",
+          "weight": 2451
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 219.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 33.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "cambodge",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cambodge",
+          "weight": 151
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bananes",
+      "r_isa": [
+        {
+          "name": "fruits",
+          "weight": 102.0
+        },
+        {
+          "name": "ingrédients de recette de cuisine",
+          "weight": 40.0
+        },
+        {
+          "name": "ingrédients",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "bananes",
+          "weight": 93
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 87.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 75.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 75.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 47.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 44.0
+        },
+        {
+          "name": "VerbalNumber:SG",
+          "weight": 38.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:SPre+SG+P2",
+          "weight": 35.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "brésil",
+      "r_isa": [
+        {
+          "name": "matière",
+          "weight": 38.0
+        },
+        {
+          "name": "bois exotique",
+          "weight": 32.0
+        },
+        {
+          "name": "en:country",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "brésil",
+          "weight": 473
+        },
+        {
+          "name": "bois exotique",
+          "weight": 63
+        },
+        {
+          "name": "matière tinctoriale",
+          "weight": 9
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 92.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "vin",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 213.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 208.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 197.0
+        },
+        {
+          "name": "boisson alcoolique",
+          "weight": 193.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 193.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 191.0
+        },
+        {
+          "name": "boisson",
+          "weight": 136.0
+        },
+        {
+          "name": "aliment>2587820",
+          "weight": 107.0
+        },
+        {
+          "name": "liquide>57625",
+          "weight": 105.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 105.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "vin",
+          "weight": 7744
+        },
+        {
+          "name": "végétaux",
+          "weight": 2747
+        },
+        {
+          "name": "raisin",
+          "weight": 1375
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 74.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "hongrie",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "hongrie",
+          "weight": 122
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 37.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "thé",
+      "r_isa": [
+        {
+          "name": "boisson non alcoolisée",
+          "weight": 856.0
+        },
+        {
+          "name": "boisson",
+          "weight": 833.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 770.0
+        },
+        {
+          "name": "liquide",
+          "weight": 475.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 96.0
+        },
+        {
+          "name": "substance",
+          "weight": 67.0
+        },
+        {
+          "name": "produit de première nécessité",
+          "weight": 62.0
+        },
+        {
+          "name": "végétal",
+          "weight": 59.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 59.0
+        },
+        {
+          "name": "organisme vivant",
+          "weight": 58.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33337
+        },
+        {
+          "name": "couleur",
+          "weight": 10233
+        },
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "feuille",
+          "weight": 5348
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "thé",
+          "weight": 2749
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 203.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 64.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 61.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:InvGen+InvPL",
+          "weight": 15.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "rwanda",
+      "r_isa": [
+        {
+          "name": "en:country",
+          "weight": 35.0
+        },
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "rwanda",
+          "weight": 154
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 64.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 52.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 38.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 32.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 20.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 20.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "café",
+      "r_isa": [
+        {
+          "name": "liquide",
+          "weight": 461.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 182.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 130.0
+        },
+        {
+          "name": "couleur",
+          "weight": 129.0
+        },
+        {
+          "name": "boisson",
+          "weight": 129.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 109.0
+        },
+        {
+          "name": "boisson chaude",
+          "weight": 100.0
+        },
+        {
+          "name": "plante",
+          "weight": 92.0
+        },
+        {
+          "name": "végétal",
+          "weight": 82.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "moment",
+          "weight": 33336
+        },
+        {
+          "name": "couleur",
+          "weight": 10232
+        },
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "café",
+          "weight": 4527
+        },
+        {
+          "name": "parfum",
+          "weight": 2449
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        },
+        {
+          "name": "débit de boissons",
+          "weight": 129
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 269.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 88.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 44.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "nicaragua",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "nicaragua",
+          "weight": 38
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 40.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "fromage",
+      "r_isa": [
+        {
+          "name": "préparation culinaire",
+          "weight": 353.0
+        },
+        {
+          "name": "produit laitier",
+          "weight": 343.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 248.0
+        },
+        {
+          "name": "ingrédient",
+          "weight": 242.0
+        },
+        {
+          "name": "laitage",
+          "weight": 237.0
+        },
+        {
+          "name": "lieu",
+          "weight": 237.0
+        },
+        {
+          "name": "en:dairy product",
+          "weight": 237.0
+        },
+        {
+          "name": "en:milk product",
+          "weight": 237.0
+        },
+        {
+          "name": "Ingrédient de cuisine",
+          "weight": 237.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 235.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fromage",
+          "weight": 4498
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "charcuterie",
+          "weight": 1250
+        },
+        {
+          "name": "produit laitier",
+          "weight": 698
+        },
+        {
+          "name": "laitage",
+          "weight": 534
+        },
+        {
+          "name": "situation lucrative",
+          "weight": 62
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 325.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 105.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 95.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 79.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 34.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "finlande",
+      "r_isa": [
+        {
+          "name": "en:country",
+          "weight": 76.0
+        },
+        {
+          "name": "en:west european country",
+          "weight": 60.0
+        },
+        {
+          "name": "pays",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "finlande",
+          "weight": 147
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 51.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bière",
+      "r_isa": [
+        {
+          "name": "alcool",
+          "weight": 234.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 170.0
+        },
+        {
+          "name": "boisson",
+          "weight": 87.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 76.0
+        },
+        {
+          "name": "alcool>155326",
+          "weight": 65.0
+        },
+        {
+          "name": "boisson froide",
+          "weight": 63.0
+        },
+        {
+          "name": "boisson gazeuse",
+          "weight": 62.0
+        },
+        {
+          "name": "boisson alcoolisée",
+          "weight": 61.0
+        },
+        {
+          "name": "boisson fraîche",
+          "weight": 61.0
+        },
+        {
+          "name": "liquide",
+          "weight": 59.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "bière",
+          "weight": 2881
+        },
+        {
+          "name": "cercueil",
+          "weight": 746
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 153.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 25.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "russie",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 84.0
+        },
+        {
+          "name": "pays>145735",
+          "weight": 76.0
+        },
+        {
+          "name": "lieu",
+          "weight": 74.0
+        },
+        {
+          "name": "partie de l'espace",
+          "weight": 34.0
+        },
+        {
+          "name": "nation",
+          "weight": 28.0
+        },
+        {
+          "name": "lieu>134218",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu géographique",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "russie",
+          "weight": 208
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 65.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 34.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 28.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 26.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "riz",
+      "r_isa": [
+        {
+          "name": "céréale",
+          "weight": 232.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 210.0
+        },
+        {
+          "name": "aliment",
+          "weight": 209.0
+        },
+        {
+          "name": "matière première",
+          "weight": 188.0
+        },
+        {
+          "name": "poacée",
+          "weight": 170.0
+        },
+        {
+          "name": "aliment de base",
+          "weight": 160.0
+        },
+        {
+          "name": "graminée",
+          "weight": 151.0
+        },
+        {
+          "name": "monocotylédone",
+          "weight": 150.0
+        },
+        {
+          "name": "plante>3674",
+          "weight": 149.0
+        },
+        {
+          "name": "plante",
+          "weight": 129.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "plante",
+          "weight": 7787
+        },
+        {
+          "name": "riz",
+          "weight": 2451
+        },
+        {
+          "name": "aliment",
+          "weight": 2298
+        },
+        {
+          "name": "grain",
+          "weight": 2114
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 219.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 33.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "myanmar",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "myanmar",
+          "weight": 99
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 43.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "cacao",
+      "r_isa": [
+        {
+          "name": "aliment",
+          "weight": 150.0
+        },
+        {
+          "name": "boisson>103255",
+          "weight": 135.0
+        },
+        {
+          "name": "couleur",
+          "weight": 124.0
+        },
+        {
+          "name": "couleur>17226",
+          "weight": 120.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 119.0
+        },
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruit",
+          "weight": 110.0
+        },
+        {
+          "name": "fève",
+          "weight": 88.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 81.0
+        },
+        {
+          "name": "graine",
+          "weight": 77.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "boisson",
+          "weight": 4558
+        },
+        {
+          "name": "poudre",
+          "weight": 2469
+        },
+        {
+          "name": "cacao",
+          "weight": 1059
+        },
+        {
+          "name": "fève",
+          "weight": 308
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 242.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 31.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "venezuela",
+      "r_isa": null,
+      "r_raff_sem": [
+        {
+          "name": "venezuela",
+          "weight": 120
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 10.0
+        },
+        {
+          "name": "Nom:",
+          "weight": 10.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 10.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 10.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DU",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "bananes",
+      "r_isa": [
+        {
+          "name": "fruits",
+          "weight": 102.0
+        },
+        {
+          "name": "ingrédients de recette de cuisine",
+          "weight": 40.0
+        },
+        {
+          "name": "ingrédients",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "bananes",
+          "weight": 93
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 287.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 87.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 75.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 75.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 47.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 44.0
+        },
+        {
+          "name": "VerbalNumber:SG",
+          "weight": 38.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:SPre+SG+P2",
+          "weight": 35.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "nicaragua",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "nicaragua",
+          "weight": 38
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 40.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_lieu>origine",
+    "det": false,
+    "termA": {
+      "name": "oranges",
+      "r_isa": [
+        {
+          "name": "ingrédient de recette de cuisine",
+          "weight": 113.0
+        },
+        {
+          "name": "fruits",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "oranges",
+          "weight": 81
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 89.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 59.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 57.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:IPre+SG+P2:SPre+SG+P2",
+          "weight": 55.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "turquie",
+      "r_isa": [
+        {
+          "name": "pays",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "turquie",
+          "weight": 647
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 43.0
+        }
+      ]
+    }
+  }
+]

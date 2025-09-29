@@ -10,8 +10,9 @@ class Prep(str, Enum):
 
 class Term(BaseModel):
     name: str
-    hypernym: Optional[Dict[str, float]] = Field(default_factory=dict) #r_isa n° 6
-    trt: Optional[List[str]] = Field(default_factory=list)
+    r_isa: Optional[List[Dict[str, Any]]] = Field(default_factory=list)
+    r_raff_sem: Optional[List[Dict[str, Any]]] = Field(default_factory=list)
+    r_pos: Optional[List[Dict[str, Any]]] = Field(default_factory=list)
 
 
 class Relation(BaseModel):
@@ -19,6 +20,7 @@ class Relation(BaseModel):
     termB: Term
     prep: Prep 
     rel_type: str 
+    det: bool
    
 
 

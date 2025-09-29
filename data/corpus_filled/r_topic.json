@@ -1,0 +1,8973 @@
+[
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "restaurant",
+      "r_isa": [
+        {
+          "name": "lieu de restauration",
+          "weight": 158.0
+        },
+        {
+          "name": "établissement commercial",
+          "weight": 153.0
+        },
+        {
+          "name": "commerce",
+          "weight": 147.0
+        },
+        {
+          "name": "établissement",
+          "weight": 144.0
+        },
+        {
+          "name": "lieu",
+          "weight": 130.0
+        },
+        {
+          "name": "établissement de commerce",
+          "weight": 104.0
+        },
+        {
+          "name": "lieu>134218",
+          "weight": 90.0
+        },
+        {
+          "name": "endroit",
+          "weight": 80.0
+        },
+        {
+          "name": "établissement de restauration",
+          "weight": 63.0
+        },
+        {
+          "name": "pain",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "restaurant",
+          "weight": 6017
+        },
+        {
+          "name": "repas",
+          "weight": 5956
+        },
+        {
+          "name": "pain",
+          "weight": 5703
+        },
+        {
+          "name": "établissement",
+          "weight": 3379
+        },
+        {
+          "name": "restaurer",
+          "weight": 663
+        },
+        {
+          "name": "restau",
+          "weight": 182
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 171.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 111.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 83.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 54.0
+        },
+        {
+          "name": "Ver:PPre",
+          "weight": 51.0
+        },
+        {
+          "name": "Adj:Mas+SG",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 30.0
+        },
+        {
+          "name": "Adj:Qual",
+          "weight": 27.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sushis",
+      "r_isa": [
+        {
+          "name": "préparations culinaires",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sushis",
+          "weight": 12
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 65.0
+        },
+        {
+          "name": "Nom:Mas+PL",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "livre",
+      "r_isa": [
+        {
+          "name": "assemblage de feuilles",
+          "weight": 783.0
+        },
+        {
+          "name": "ouvrage",
+          "weight": 748.0
+        },
+        {
+          "name": "texte imprimé",
+          "weight": 707.0
+        },
+        {
+          "name": "texte",
+          "weight": 695.0
+        },
+        {
+          "name": "oeuvre de l'esprit",
+          "weight": 683.0
+        },
+        {
+          "name": "assemblage",
+          "weight": 676.0
+        },
+        {
+          "name": "monnaie de compte",
+          "weight": 591.0
+        },
+        {
+          "name": "monnaie",
+          "weight": 579.0
+        },
+        {
+          "name": "argent",
+          "weight": 468.0
+        },
+        {
+          "name": "devise",
+          "weight": 466.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "livre",
+          "weight": 16795
+        },
+        {
+          "name": "commerce",
+          "weight": 10473
+        },
+        {
+          "name": "monnaie",
+          "weight": 6388
+        },
+        {
+          "name": "lecture",
+          "weight": 6344
+        },
+        {
+          "name": "diplomatie",
+          "weight": 3821
+        },
+        {
+          "name": "unité de masse",
+          "weight": 107
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 147.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 60.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 60.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 58.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 55.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 48.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "science-fiction",
+      "r_isa": [
+        {
+          "name": "genre narratif",
+          "weight": 236.0
+        },
+        {
+          "name": "littérature",
+          "weight": 189.0
+        },
+        {
+          "name": "genre cinématographique",
+          "weight": 172.0
+        },
+        {
+          "name": "genre",
+          "weight": 83.0
+        },
+        {
+          "name": "genre littéraire",
+          "weight": 77.0
+        },
+        {
+          "name": "en:literary genre",
+          "weight": 71.0
+        },
+        {
+          "name": "entité biologique",
+          "weight": 40.0
+        },
+        {
+          "name": "thème majeur",
+          "weight": 37.0
+        },
+        {
+          "name": "Genre littéraire",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "science-fiction",
+          "weight": 3191
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 123.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "émission",
+      "r_isa": [
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "reportage",
+          "weight": 38.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "programme télévisé",
+          "weight": 31.0
+        },
+        {
+          "name": "programme",
+          "weight": 29.0
+        },
+        {
+          "name": "processus physique",
+          "weight": 26.0
+        },
+        {
+          "name": "débat télévisé",
+          "weight": 20.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "physique",
+          "weight": 7948
+        },
+        {
+          "name": "médias",
+          "weight": 6953
+        },
+        {
+          "name": "biologie",
+          "weight": 6296
+        },
+        {
+          "name": "émission",
+          "weight": 3908
+        },
+        {
+          "name": "finances",
+          "weight": 3121
+        },
+        {
+          "name": "émettre",
+          "weight": 2192
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 107.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 61.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "cuisine",
+      "r_isa": [
+        {
+          "name": "salle",
+          "weight": 69.0
+        },
+        {
+          "name": "pièce>139209",
+          "weight": 69.0
+        },
+        {
+          "name": "pièce",
+          "weight": 68.0
+        },
+        {
+          "name": "batterie",
+          "weight": 59.0
+        },
+        {
+          "name": "art",
+          "weight": 57.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "loisir",
+          "weight": 53.0
+        },
+        {
+          "name": "lieu>134218",
+          "weight": 42.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "endroit>135190",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cuisine",
+          "weight": 15773
+        },
+        {
+          "name": "pièce",
+          "weight": 8144
+        },
+        {
+          "name": "personnel",
+          "weight": 5568
+        },
+        {
+          "name": "art culinaire",
+          "weight": 1155
+        },
+        {
+          "name": "intrigue",
+          "weight": 1018
+        },
+        {
+          "name": "ustensiles",
+          "weight": 167
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 151.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 67.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 55.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 55.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 55.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 53.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 49.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "article",
+      "r_isa": [
+        {
+          "name": "pièce jointe",
+          "weight": 189.0
+        },
+        {
+          "name": "PJ",
+          "weight": 94.0
+        },
+        {
+          "name": "nature",
+          "weight": 88.0
+        },
+        {
+          "name": "texte",
+          "weight": 59.0
+        },
+        {
+          "name": "mot",
+          "weight": 57.0
+        },
+        {
+          "name": "document",
+          "weight": 54.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "catégorie lexicale",
+          "weight": 46.0
+        },
+        {
+          "name": "en:enclosed document",
+          "weight": 35.0
+        },
+        {
+          "name": "en:document",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "loi",
+          "weight": 17508
+        },
+        {
+          "name": "article",
+          "weight": 12588
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727
+        },
+        {
+          "name": "magasin",
+          "weight": 4138
+        },
+        {
+          "name": "botanique",
+          "weight": 4092
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385
+        },
+        {
+          "name": "mycologie",
+          "weight": 282
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 117.0
+        },
+        {
+          "name": "Nom:",
+          "weight": 113.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 65.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 63.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 37.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "politique",
+      "r_isa": [
+        {
+          "name": "gestion",
+          "weight": 161.0
+        },
+        {
+          "name": "organisation sociale",
+          "weight": 61.0
+        },
+        {
+          "name": "individu",
+          "weight": 51.0
+        },
+        {
+          "name": "homme>24956",
+          "weight": 35.0
+        },
+        {
+          "name": "jeu",
+          "weight": 32.0
+        },
+        {
+          "name": "traitement",
+          "weight": 32.0
+        },
+        {
+          "name": "activité humaine",
+          "weight": 32.0
+        },
+        {
+          "name": "personne",
+          "weight": 31.0
+        },
+        {
+          "name": "dirigeant",
+          "weight": 28.0
+        },
+        {
+          "name": "eumétazoaire",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "politique",
+          "weight": 30812
+        },
+        {
+          "name": "stratégie",
+          "weight": 24557
+        },
+        {
+          "name": "individu",
+          "weight": 10637
+        },
+        {
+          "name": "prisonnier",
+          "weight": 2922
+        },
+        {
+          "name": "habile",
+          "weight": 300
+        },
+        {
+          "name": "affaires publiques",
+          "weight": 239
+        },
+        {
+          "name": "manière de gouverner",
+          "weight": 71
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 187.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 182.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 69.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 61.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 60.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 59.0
+        },
+        {
+          "name": "Adj:InvGen+SG",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 49.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 49.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 49.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "magazine",
+      "r_isa": [
+        {
+          "name": "journal",
+          "weight": 53.0
+        },
+        {
+          "name": "document",
+          "weight": 53.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 36.0
+        },
+        {
+          "name": "publication",
+          "weight": 33.0
+        },
+        {
+          "name": "en:document",
+          "weight": 26.0
+        },
+        {
+          "name": "en:periodic publication",
+          "weight": 25.0
+        },
+        {
+          "name": "Publication périodique",
+          "weight": 25.0
+        },
+        {
+          "name": "publication>26038",
+          "weight": 1.0
+        },
+        {
+          "name": "publication>26038>14372",
+          "weight": 1.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "magazine",
+          "weight": 3447
+        },
+        {
+          "name": "audiovisuel",
+          "weight": 1110
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 74.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 67.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "mode",
+      "r_isa": [
+        {
+          "name": "vague",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "phénomène social",
+          "weight": 26.0
+        },
+        {
+          "name": "phénomène",
+          "weight": 25.0
+        },
+        {
+          "name": "américanisme",
+          "weight": 24.0
+        },
+        {
+          "name": "trait grammatical",
+          "weight": 19.0
+        },
+        {
+          "name": "stylisme",
+          "weight": 16.0
+        },
+        {
+          "name": "style",
+          "weight": 13.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20837
+        },
+        {
+          "name": "manière",
+          "weight": 9978
+        },
+        {
+          "name": "méthode",
+          "weight": 8650
+        },
+        {
+          "name": "physique",
+          "weight": 7948
+        },
+        {
+          "name": "mode",
+          "weight": 7290
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727
+        },
+        {
+          "name": "statistiques",
+          "weight": 5546
+        },
+        {
+          "name": "informatique",
+          "weight": 5324
+        },
+        {
+          "name": "onde",
+          "weight": 2455
+        },
+        {
+          "name": "astrologie",
+          "weight": 852
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 273.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 102.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 54.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "droit",
+          "weight": 21838
+        },
+        {
+          "name": "évolution",
+          "weight": 19386
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539
+        },
+        {
+          "name": "cours",
+          "weight": 13498
+        },
+        {
+          "name": "durée",
+          "weight": 6492
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768
+        },
+        {
+          "name": "étendue",
+          "weight": 3390
+        },
+        {
+          "name": "avenue",
+          "weight": 1618
+        },
+        {
+          "name": "écoulement",
+          "weight": 566
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 112.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P2:ImPre+SG+P2",
+          "weight": 57.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 56.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "mathématiques",
+      "r_isa": [
+        {
+          "name": "discipline>79255",
+          "weight": 237.0
+        },
+        {
+          "name": "science grecque",
+          "weight": 210.0
+        },
+        {
+          "name": "science",
+          "weight": 205.0
+        },
+        {
+          "name": "Science",
+          "weight": 124.0
+        },
+        {
+          "name": "matière>83855",
+          "weight": 106.0
+        },
+        {
+          "name": "savoir",
+          "weight": 101.0
+        },
+        {
+          "name": "science formelle",
+          "weight": 35.0
+        },
+        {
+          "name": "discipline",
+          "weight": 32.0
+        },
+        {
+          "name": "discipline académique",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cours",
+          "weight": 13498
+        },
+        {
+          "name": "mathématiques",
+          "weight": 11821
+        },
+        {
+          "name": "science",
+          "weight": 11552
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 122.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 74.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 68.0
+        },
+        {
+          "name": "Adj:InvGen+PL",
+          "weight": 62.0
+        },
+        {
+          "name": "Adj:Mas+PL",
+          "weight": 61.0
+        },
+        {
+          "name": "Adj:Fem+PL",
+          "weight": 58.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 56.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 47.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 47.0
+        },
+        {
+          "name": "Gender:Inv",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "exposition",
+      "r_isa": [
+        {
+          "name": "galerie",
+          "weight": 68.0
+        },
+        {
+          "name": "salon",
+          "weight": 53.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "technique",
+          "weight": 34.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "grandeur",
+          "weight": 26.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        },
+        {
+          "name": "degré",
+          "weight": 25.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "art",
+          "weight": 12941
+        },
+        {
+          "name": "exposition",
+          "weight": 5671
+        },
+        {
+          "name": "orientation",
+          "weight": 2368
+        },
+        {
+          "name": "exposer",
+          "weight": 2057
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 132.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "peinture",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 75.0
+        },
+        {
+          "name": "tableau",
+          "weight": 74.0
+        },
+        {
+          "name": "lieu",
+          "weight": 59.0
+        },
+        {
+          "name": "hobby",
+          "weight": 58.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 58.0
+        },
+        {
+          "name": "architecture",
+          "weight": 55.0
+        },
+        {
+          "name": "exposition",
+          "weight": 55.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 51.0
+        },
+        {
+          "name": "substance",
+          "weight": 35.0
+        },
+        {
+          "name": "description",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "art",
+          "weight": 12941
+        },
+        {
+          "name": "peinture",
+          "weight": 6523
+        },
+        {
+          "name": "tableau",
+          "weight": 4994
+        },
+        {
+          "name": "description",
+          "weight": 3974
+        },
+        {
+          "name": "substance pigmentée",
+          "weight": 52
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 110.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 56.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Impératif",
+          "weight": 35.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 34.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "spectacle",
+      "r_isa": [
+        {
+          "name": "art dramatique",
+          "weight": 55.0
+        },
+        {
+          "name": "art",
+          "weight": 54.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "en:dramatic art",
+          "weight": 40.0
+        },
+        {
+          "name": "jeu de scène",
+          "weight": 35.0
+        },
+        {
+          "name": "arts du spectacle",
+          "weight": 32.0
+        },
+        {
+          "name": "en:performing arts",
+          "weight": 32.0
+        },
+        {
+          "name": "performance",
+          "weight": 31.0
+        },
+        {
+          "name": "en:theater arts",
+          "weight": 31.0
+        },
+        {
+          "name": "en:acting",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "spectacle",
+          "weight": 5930
+        },
+        {
+          "name": "divertissement",
+          "weight": 3280
+        },
+        {
+          "name": "vue d'ensemble",
+          "weight": 73
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 148.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 66.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "danse",
+      "r_isa": [
+        {
+          "name": "art vivant",
+          "weight": 221.0
+        },
+        {
+          "name": "art",
+          "weight": 219.0
+        },
+        {
+          "name": "sport>233029",
+          "weight": 148.0
+        },
+        {
+          "name": "enseignement optionnel",
+          "weight": 133.0
+        },
+        {
+          "name": "Sport",
+          "weight": 98.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 84.0
+        },
+        {
+          "name": "sport",
+          "weight": 80.0
+        },
+        {
+          "name": "lieu",
+          "weight": 55.0
+        },
+        {
+          "name": "en:musical style",
+          "weight": 43.0
+        },
+        {
+          "name": "air de musique",
+          "weight": 41.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "danse",
+          "weight": 4314
+        },
+        {
+          "name": "raclée",
+          "weight": 237
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "art de mouvoir le corps",
+          "weight": 25
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 335.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 85.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 85.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 85.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 66.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 59.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 52.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "blog",
+      "r_isa": [
+        {
+          "name": "lieu",
+          "weight": 70.0
+        },
+        {
+          "name": "site web",
+          "weight": 51.0
+        },
+        {
+          "name": "site Web",
+          "weight": 50.0
+        },
+        {
+          "name": "Site web",
+          "weight": 46.0
+        },
+        {
+          "name": "en:Web/Internet property",
+          "weight": 46.0
+        },
+        {
+          "name": "en:Web site",
+          "weight": 44.0
+        },
+        {
+          "name": "site internet",
+          "weight": 41.0
+        },
+        {
+          "name": "site Internet",
+          "weight": 34.0
+        },
+        {
+          "name": "en:website",
+          "weight": 26.0
+        },
+        {
+          "name": "website",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "blog",
+          "weight": 574
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 33.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1",
+          "weight": 10.0
+        },
+        {
+          "name": "Ver:IPre+SG+P3",
+          "weight": 10.0
+        },
+        {
+          "name": "Ver:SPre+SG+P1",
+          "weight": 10.0
+        },
+        {
+          "name": "Ver:SPre+SG+P3",
+          "weight": 10.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 10.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 10.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "voyage",
+      "r_isa": [
+        {
+          "name": "passe-temps",
+          "weight": 69.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "déplacement dans l'espace",
+          "weight": 34.0
+        },
+        {
+          "name": "exploration",
+          "weight": 32.0
+        },
+        {
+          "name": "événement positif",
+          "weight": 31.0
+        },
+        {
+          "name": "action",
+          "weight": 30.0
+        },
+        {
+          "name": "activité",
+          "weight": 29.0
+        },
+        {
+          "name": "fantasme",
+          "weight": 28.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "en:time killer",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "voyage",
+          "weight": 9744
+        },
+        {
+          "name": "tourisme",
+          "weight": 6329
+        },
+        {
+          "name": "déplacement",
+          "weight": 5858
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 132.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 67.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 56.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 35.0
+        },
+        {
+          "name": "VerbalMode:Impératif",
+          "weight": 35.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "en:workplace",
+          "weight": 57.0
+        },
+        {
+          "name": "en:worksite",
+          "weight": 56.0
+        },
+        {
+          "name": "en:place of work",
+          "weight": 56.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "rencontre",
+          "weight": 6604
+        },
+        {
+          "name": "artiste",
+          "weight": 5462
+        },
+        {
+          "name": "usine",
+          "weight": 3050
+        },
+        {
+          "name": "atelier",
+          "weight": 1854
+        },
+        {
+          "name": "garage",
+          "weight": 1388
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 90.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "poterie",
+      "r_isa": [
+        {
+          "name": "céramique",
+          "weight": 60.0
+        },
+        {
+          "name": "architecture",
+          "weight": 59.0
+        },
+        {
+          "name": "histoire",
+          "weight": 57.0
+        },
+        {
+          "name": "art",
+          "weight": 55.0
+        },
+        {
+          "name": "industrie",
+          "weight": 55.0
+        },
+        {
+          "name": "métier",
+          "weight": 55.0
+        },
+        {
+          "name": "vente",
+          "weight": 55.0
+        },
+        {
+          "name": "tournage",
+          "weight": 54.0
+        },
+        {
+          "name": "commerce",
+          "weight": 54.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "objet",
+          "weight": 8719
+        },
+        {
+          "name": "fabrication",
+          "weight": 4795
+        },
+        {
+          "name": "poterie",
+          "weight": 459
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 78.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 58.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "journal",
+      "r_isa": [
+        {
+          "name": "périodique",
+          "weight": 90.0
+        },
+        {
+          "name": "papier",
+          "weight": 84.0
+        },
+        {
+          "name": "livre",
+          "weight": 83.0
+        },
+        {
+          "name": "publication",
+          "weight": 80.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 70.0
+        },
+        {
+          "name": "mensuel",
+          "weight": 68.0
+        },
+        {
+          "name": "lecture",
+          "weight": 68.0
+        },
+        {
+          "name": "média",
+          "weight": 62.0
+        },
+        {
+          "name": "media",
+          "weight": 62.0
+        },
+        {
+          "name": "information",
+          "weight": 60.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "agriculture",
+          "weight": 9915
+        },
+        {
+          "name": "journal",
+          "weight": 8840
+        },
+        {
+          "name": "publication",
+          "weight": 6145
+        },
+        {
+          "name": "informatique",
+          "weight": 5324
+        },
+        {
+          "name": "émission",
+          "weight": 3908
+        },
+        {
+          "name": "comptabilité",
+          "weight": 577
+        },
+        {
+          "name": "journal intime",
+          "weight": 296
+        },
+        {
+          "name": "journal de bord",
+          "weight": 84
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 206.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 108.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 60.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 55.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sport",
+      "r_isa": [
+        {
+          "name": "activité",
+          "weight": 86.0
+        },
+        {
+          "name": "loisir",
+          "weight": 80.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 79.0
+        },
+        {
+          "name": "passion",
+          "weight": 75.0
+        },
+        {
+          "name": "jeu",
+          "weight": 72.0
+        },
+        {
+          "name": "passe-temps",
+          "weight": 72.0
+        },
+        {
+          "name": "discipline",
+          "weight": 69.0
+        },
+        {
+          "name": "activité physique",
+          "weight": 67.0
+        },
+        {
+          "name": "hobby",
+          "weight": 64.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 53.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sport",
+          "weight": 8679
+        },
+        {
+          "name": "activité physique",
+          "weight": 1222
+        },
+        {
+          "name": "agitation",
+          "weight": 493
+        },
+        {
+          "name": "fair-play",
+          "weight": 295
+        },
+        {
+          "name": "décontracté",
+          "weight": 212
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 210.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 63.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 37.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 30.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "événement",
+      "r_isa": [
+        {
+          "name": "fait",
+          "weight": 180.0
+        },
+        {
+          "name": "action",
+          "weight": 105.0
+        },
+        {
+          "name": "issue>15067",
+          "weight": 105.0
+        },
+        {
+          "name": "issue",
+          "weight": 95.0
+        },
+        {
+          "name": "concept",
+          "weight": 90.0
+        },
+        {
+          "name": "sous-ensemble",
+          "weight": 37.0
+        },
+        {
+          "name": "en:performance",
+          "weight": 27.0
+        },
+        {
+          "name": "performance",
+          "weight": 25.0
+        },
+        {
+          "name": "en:business",
+          "weight": 24.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 23.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "événement",
+          "weight": 9496
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 83.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 55.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 20.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "charité",
+      "r_isa": [
+        {
+          "name": "hôpital",
+          "weight": 34.0
+        },
+        {
+          "name": "vertu",
+          "weight": 30.0
+        },
+        {
+          "name": "qualité",
+          "weight": 1.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "charité",
+          "weight": 495
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 61.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "droit",
+          "weight": 21838
+        },
+        {
+          "name": "évolution",
+          "weight": 19386
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539
+        },
+        {
+          "name": "cours",
+          "weight": 13498
+        },
+        {
+          "name": "durée",
+          "weight": 6492
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768
+        },
+        {
+          "name": "étendue",
+          "weight": 3390
+        },
+        {
+          "name": "avenue",
+          "weight": 1618
+        },
+        {
+          "name": "écoulement",
+          "weight": 566
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 112.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P2:ImPre+SG+P2",
+          "weight": 57.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 56.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "yoga",
+      "r_isa": [
+        {
+          "name": "médecine douce",
+          "weight": 188.0
+        },
+        {
+          "name": "sport",
+          "weight": 98.0
+        },
+        {
+          "name": "lieu",
+          "weight": 98.0
+        },
+        {
+          "name": "technique",
+          "weight": 89.0
+        },
+        {
+          "name": "libération",
+          "weight": 85.0
+        },
+        {
+          "name": "en:six",
+          "weight": 35.0
+        },
+        {
+          "name": "médecine parallèle",
+          "weight": 34.0
+        },
+        {
+          "name": "discipline corps-esprit",
+          "weight": 31.0
+        },
+        {
+          "name": "pratique indienne",
+          "weight": 31.0
+        },
+        {
+          "name": "pratique de bien-être",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "yoga",
+          "weight": 363
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 114.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 97.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "film",
+      "r_isa": [
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 269.0
+        },
+        {
+          "name": "emballage",
+          "weight": 186.0
+        },
+        {
+          "name": "en:work of art",
+          "weight": 138.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 136.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 118.0
+        },
+        {
+          "name": "oeuvre audiovisuelle",
+          "weight": 115.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 108.0
+        },
+        {
+          "name": "oeuvre culturelle",
+          "weight": 108.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 106.0
+        },
+        {
+          "name": "pellicule",
+          "weight": 99.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "film",
+          "weight": 11371
+        },
+        {
+          "name": "photographie",
+          "weight": 5025
+        },
+        {
+          "name": "pellicule",
+          "weight": 329
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 100
+        },
+        {
+          "name": "industrie du cinéma",
+          "weight": 60
+        },
+        {
+          "name": "couche mince",
+          "weight": 52
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 150.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 63.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "science",
+      "r_isa": [
+        {
+          "name": "matière",
+          "weight": 145.0
+        },
+        {
+          "name": "domaine",
+          "weight": 145.0
+        },
+        {
+          "name": "technique",
+          "weight": 139.0
+        },
+        {
+          "name": "savoir",
+          "weight": 139.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "science",
+          "weight": 11555
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 143.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 65.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "conférence",
+      "r_isa": [
+        {
+          "name": "évènement",
+          "weight": 242.0
+        },
+        {
+          "name": "réunion",
+          "weight": 162.0
+        },
+        {
+          "name": "événement",
+          "weight": 156.0
+        },
+        {
+          "name": "poire",
+          "weight": 58.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 54.0
+        },
+        {
+          "name": "poire>87286",
+          "weight": 52.0
+        },
+        {
+          "name": "fruit",
+          "weight": 51.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 51.0
+        },
+        {
+          "name": "en:goings-on",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "réunion",
+          "weight": 4357
+        },
+        {
+          "name": "conférence",
+          "weight": 4236
+        },
+        {
+          "name": "poire",
+          "weight": 1078
+        },
+        {
+          "name": "exposé public",
+          "weight": 58
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 139.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 58.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 53.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 46.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "technologie",
+      "r_isa": [
+        {
+          "name": "linguistique",
+          "weight": 147.0
+        },
+        {
+          "name": "discipline>79255",
+          "weight": 145.0
+        },
+        {
+          "name": "Science",
+          "weight": 78.0
+        },
+        {
+          "name": "science",
+          "weight": 51.0
+        },
+        {
+          "name": "concept",
+          "weight": 29.0
+        },
+        {
+          "name": "innovation",
+          "weight": 29.0
+        },
+        {
+          "name": "en:science",
+          "weight": 26.0
+        },
+        {
+          "name": "technique",
+          "weight": 13.0
+        },
+        {
+          "name": "Linguistique",
+          "weight": 13.0
+        },
+        {
+          "name": "discipline",
+          "weight": 3.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "technologie",
+          "weight": 17775
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 172.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 62.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "article",
+      "r_isa": [
+        {
+          "name": "pièce jointe",
+          "weight": 189.0
+        },
+        {
+          "name": "PJ",
+          "weight": 94.0
+        },
+        {
+          "name": "nature",
+          "weight": 88.0
+        },
+        {
+          "name": "texte",
+          "weight": 59.0
+        },
+        {
+          "name": "mot",
+          "weight": 57.0
+        },
+        {
+          "name": "document",
+          "weight": 54.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "catégorie lexicale",
+          "weight": 46.0
+        },
+        {
+          "name": "en:enclosed document",
+          "weight": 35.0
+        },
+        {
+          "name": "en:document",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "loi",
+          "weight": 17508
+        },
+        {
+          "name": "article",
+          "weight": 12588
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727
+        },
+        {
+          "name": "magasin",
+          "weight": 4138
+        },
+        {
+          "name": "botanique",
+          "weight": 4092
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385
+        },
+        {
+          "name": "mycologie",
+          "weight": 282
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 117.0
+        },
+        {
+          "name": "Nom:",
+          "weight": 113.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 65.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 63.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 37.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "culture",
+      "r_isa": [
+        {
+          "name": "savoir",
+          "weight": 836.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 834.0
+        },
+        {
+          "name": "domaine",
+          "weight": 85.0
+        },
+        {
+          "name": "éducation",
+          "weight": 69.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 35.0
+        },
+        {
+          "name": "technique de mesure biomédicale",
+          "weight": 35.0
+        },
+        {
+          "name": "ensemble de connaissances",
+          "weight": 35.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 32.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 31.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "culture",
+          "weight": 39518
+        },
+        {
+          "name": "éducation",
+          "weight": 29298
+        },
+        {
+          "name": "société",
+          "weight": 26895
+        },
+        {
+          "name": "connaissance",
+          "weight": 14947
+        },
+        {
+          "name": "agriculture",
+          "weight": 9915
+        },
+        {
+          "name": "biologie",
+          "weight": 6294
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "secteur institutionnel",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 297.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 89.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 43.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 35.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 35.0
+        },
+        {
+          "name": "VerbalNumber:SG",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:IPre+SG+P3",
+          "weight": 34.0
+        },
+        {
+          "name": "Ver:SPre+SG+P1",
+          "weight": 34.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "podcast",
+      "r_isa": [
+        {
+          "name": "contenu audio",
+          "weight": 78.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "podcast",
+          "weight": 342
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 42.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "littérature",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 101.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 55.0
+        },
+        {
+          "name": "culture",
+          "weight": 42.0
+        },
+        {
+          "name": "domaine",
+          "weight": 40.0
+        },
+        {
+          "name": "oeuvres",
+          "weight": 32.0
+        },
+        {
+          "name": "expression artistique",
+          "weight": 31.0
+        },
+        {
+          "name": "sous-catégorie",
+          "weight": 29.0
+        },
+        {
+          "name": "domaine culturel",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "culture",
+          "weight": 39518
+        },
+        {
+          "name": "littérature",
+          "weight": 7825
+        },
+        {
+          "name": "bibliographie",
+          "weight": 1097
+        },
+        {
+          "name": "histoire littéraire",
+          "weight": 86
+        },
+        {
+          "name": "production littéraire",
+          "weight": 64
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "développement bavard",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 134.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 61.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1",
+          "weight": 43.0
+        },
+        {
+          "name": "Ver:SPre+SG+P1",
+          "weight": 35.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:ImPre+SG+P2",
+          "weight": 35.0
+        },
+        {
+          "name": "VerbalPers:P1",
+          "weight": 34.0
+        },
+        {
+          "name": "VerbalPers:P2",
+          "weight": 34.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "documentaire",
+      "r_isa": [
+        {
+          "name": "émission de radio",
+          "weight": 210.0
+        },
+        {
+          "name": "émission de télévision",
+          "weight": 148.0
+        },
+        {
+          "name": "émission",
+          "weight": 147.0
+        },
+        {
+          "name": "genre cinématographique",
+          "weight": 112.0
+        },
+        {
+          "name": "en:radio broadcast",
+          "weight": 85.0
+        },
+        {
+          "name": "en:radio program",
+          "weight": 80.0
+        },
+        {
+          "name": "film",
+          "weight": 40.0
+        },
+        {
+          "name": "film>217196",
+          "weight": 38.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 36.0
+        },
+        {
+          "name": "en:television programme",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "documentaire",
+          "weight": 2825
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 85.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 80.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 55.0
+        },
+        {
+          "name": "Adj:InvGen+SG",
+          "weight": 51.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 49.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 48.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 47.0
+        },
+        {
+          "name": "Gender:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:Mas+SG",
+          "weight": 34.0
+        },
+        {
+          "name": "Adj:Fem+SG",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "guerre",
+      "r_isa": [
+        {
+          "name": "conflit armé",
+          "weight": 264.0
+        },
+        {
+          "name": "conflit",
+          "weight": 234.0
+        },
+        {
+          "name": "évènement",
+          "weight": 210.0
+        },
+        {
+          "name": "épisode",
+          "weight": 200.0
+        },
+        {
+          "name": "catastrophe",
+          "weight": 200.0
+        },
+        {
+          "name": "événement",
+          "weight": 143.0
+        },
+        {
+          "name": "opposition",
+          "weight": 68.0
+        },
+        {
+          "name": "désaccord",
+          "weight": 68.0
+        },
+        {
+          "name": "lutte armée",
+          "weight": 60.0
+        },
+        {
+          "name": "combat",
+          "weight": 58.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "guerre",
+          "weight": 19607
+        },
+        {
+          "name": "conflit armé",
+          "weight": 801
+        },
+        {
+          "name": "querelle",
+          "weight": 475
+        },
+        {
+          "name": "prédation",
+          "weight": 191
+        },
+        {
+          "name": "art militaire",
+          "weight": 94
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 381.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 116.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 85.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 85.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 51.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 37.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1",
+          "weight": 32.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 32.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 32.0
+        },
+        {
+          "name": "Ver:SPre+SG+P1",
+          "weight": 31.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "série",
+      "r_isa": [
+        {
+          "name": "ensemble",
+          "weight": 98.0
+        },
+        {
+          "name": "succession",
+          "weight": 92.0
+        },
+        {
+          "name": "production",
+          "weight": 88.0
+        },
+        {
+          "name": "suite",
+          "weight": 88.0
+        },
+        {
+          "name": "programme",
+          "weight": 88.0
+        },
+        {
+          "name": "émission",
+          "weight": 78.0
+        },
+        {
+          "name": "feuilleton",
+          "weight": 68.0
+        },
+        {
+          "name": "émission>67415",
+          "weight": 50.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 35.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 34.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20841
+        },
+        {
+          "name": "ensemble",
+          "weight": 12169
+        },
+        {
+          "name": "mathématiques",
+          "weight": 11821
+        },
+        {
+          "name": "biologie",
+          "weight": 6296
+        },
+        {
+          "name": "télévision",
+          "weight": 5791
+        },
+        {
+          "name": "série",
+          "weight": 5592
+        },
+        {
+          "name": "informatique",
+          "weight": 5324
+        },
+        {
+          "name": "chimie",
+          "weight": 5187
+        },
+        {
+          "name": "électricité",
+          "weight": 4701
+        },
+        {
+          "name": "électronique",
+          "weight": 3980
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 111.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 55.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalPers:P2",
+          "weight": 41.0
+        },
+        {
+          "name": "VerbalPers:P1",
+          "weight": 39.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "fantasy",
+      "r_isa": [
+        {
+          "name": "genre littéraire",
+          "weight": 59.0
+        },
+        {
+          "name": "genre artistique",
+          "weight": 42.0
+        },
+        {
+          "name": "en:literary genre",
+          "weight": 41.0
+        },
+        {
+          "name": "jeu",
+          "weight": 40.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fantasy",
+          "weight": 379
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 54.0
+        },
+        {
+          "name": "Nom:",
+          "weight": 46.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1",
+          "weight": 10.0
+        },
+        {
+          "name": "Ver:IPre+SG+P3",
+          "weight": 10.0
+        },
+        {
+          "name": "Ver:SPre+SG+P1",
+          "weight": 10.0
+        },
+        {
+          "name": "Ver:SPre+SG+P3",
+          "weight": 10.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 10.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 10.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "chanson",
+      "r_isa": [
+        {
+          "name": "air",
+          "weight": 828.0
+        },
+        {
+          "name": "mélodie",
+          "weight": 818.0
+        },
+        {
+          "name": "texte",
+          "weight": 255.0
+        },
+        {
+          "name": "air>2050",
+          "weight": 226.0
+        },
+        {
+          "name": "art",
+          "weight": 164.0
+        },
+        {
+          "name": "lieu",
+          "weight": 122.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 109.0
+        },
+        {
+          "name": "en:piece of music",
+          "weight": 105.0
+        },
+        {
+          "name": "en:musical genre",
+          "weight": 36.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20837
+        },
+        {
+          "name": "chanson",
+          "weight": 5372
+        },
+        {
+          "name": "propos futiles",
+          "weight": 25
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 84.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 62.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 29.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "protestation",
+      "r_isa": [
+        {
+          "name": "processus",
+          "weight": 33.0
+        },
+        {
+          "name": "action",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "protestation",
+          "weight": 1341
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 82.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "séminaire",
+      "r_isa": [
+        {
+          "name": "établissement",
+          "weight": 49.0
+        },
+        {
+          "name": "établissement d'enseignement supérieur",
+          "weight": 32.0
+        },
+        {
+          "name": "en:educational establishment",
+          "weight": 32.0
+        },
+        {
+          "name": "cours spécialisé",
+          "weight": 30.0
+        },
+        {
+          "name": "groupe",
+          "weight": 29.0
+        },
+        {
+          "name": "établissement d'enseignement",
+          "weight": 28.0
+        },
+        {
+          "name": "événement",
+          "weight": 27.0
+        },
+        {
+          "name": "réunion",
+          "weight": 26.0
+        },
+        {
+          "name": "évènement",
+          "weight": 26.0
+        },
+        {
+          "name": "en:institution of higher education",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "religion",
+          "weight": 9929
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768
+        },
+        {
+          "name": "réunion",
+          "weight": 4357
+        },
+        {
+          "name": "séminaire",
+          "weight": 570
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 92.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "marketing",
+      "r_isa": [
+        {
+          "name": "culture organisationnelle",
+          "weight": 70.0
+        },
+        {
+          "name": "technique",
+          "weight": 53.0
+        },
+        {
+          "name": "minéral",
+          "weight": 34.0
+        },
+        {
+          "name": "en:occupational activity",
+          "weight": 28.0
+        },
+        {
+          "name": "terme de jargon",
+          "weight": 25.0
+        },
+        {
+          "name": "techniques de",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "marketing",
+          "weight": 3514
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 90.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "droit",
+          "weight": 21838
+        },
+        {
+          "name": "évolution",
+          "weight": 19386
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539
+        },
+        {
+          "name": "cours",
+          "weight": 13498
+        },
+        {
+          "name": "durée",
+          "weight": 6492
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768
+        },
+        {
+          "name": "étendue",
+          "weight": 3390
+        },
+        {
+          "name": "avenue",
+          "weight": 1618
+        },
+        {
+          "name": "écoulement",
+          "weight": 566
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 112.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P2:ImPre+SG+P2",
+          "weight": 57.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 56.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "langue",
+      "r_isa": [
+        {
+          "name": "poisson>17559",
+          "weight": 115.0
+        },
+        {
+          "name": "organe musculaire",
+          "weight": 85.0
+        },
+        {
+          "name": "forme",
+          "weight": 70.0
+        },
+        {
+          "name": "partie du corps",
+          "weight": 56.0
+        },
+        {
+          "name": "forme>80897",
+          "weight": 56.0
+        },
+        {
+          "name": "langage",
+          "weight": 52.0
+        },
+        {
+          "name": "charcuterie",
+          "weight": 47.0
+        },
+        {
+          "name": "organe sensoriel",
+          "weight": 45.0
+        },
+        {
+          "name": "animal",
+          "weight": 44.0
+        },
+        {
+          "name": "poisson",
+          "weight": 42.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "forme",
+          "weight": 13384
+        },
+        {
+          "name": "langue",
+          "weight": 11671
+        },
+        {
+          "name": "langage",
+          "weight": 9467
+        },
+        {
+          "name": "poisson",
+          "weight": 8094
+        },
+        {
+          "name": "gastronomie",
+          "weight": 5177
+        },
+        {
+          "name": "glaciologie",
+          "weight": 116
+        },
+        {
+          "name": "organe musculaire",
+          "weight": 68
+        },
+        {
+          "name": "langue de terre",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 371.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 206.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 55.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 26.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "livre",
+      "r_isa": [
+        {
+          "name": "assemblage de feuilles",
+          "weight": 783.0
+        },
+        {
+          "name": "ouvrage",
+          "weight": 748.0
+        },
+        {
+          "name": "texte imprimé",
+          "weight": 707.0
+        },
+        {
+          "name": "texte",
+          "weight": 695.0
+        },
+        {
+          "name": "oeuvre de l'esprit",
+          "weight": 683.0
+        },
+        {
+          "name": "assemblage",
+          "weight": 676.0
+        },
+        {
+          "name": "monnaie de compte",
+          "weight": 591.0
+        },
+        {
+          "name": "monnaie",
+          "weight": 579.0
+        },
+        {
+          "name": "argent",
+          "weight": 468.0
+        },
+        {
+          "name": "devise",
+          "weight": 466.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "livre",
+          "weight": 16795
+        },
+        {
+          "name": "commerce",
+          "weight": 10473
+        },
+        {
+          "name": "monnaie",
+          "weight": 6388
+        },
+        {
+          "name": "lecture",
+          "weight": 6344
+        },
+        {
+          "name": "diplomatie",
+          "weight": 3821
+        },
+        {
+          "name": "unité de masse",
+          "weight": 107
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 147.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 60.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 60.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 58.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 55.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 48.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "poésie",
+      "r_isa": [
+        {
+          "name": "écriture",
+          "weight": 106.0
+        },
+        {
+          "name": "littérature",
+          "weight": 77.0
+        },
+        {
+          "name": "art",
+          "weight": 65.0
+        },
+        {
+          "name": "genre littéraire",
+          "weight": 48.0
+        },
+        {
+          "name": "en:literary genre",
+          "weight": 34.0
+        },
+        {
+          "name": "style littéraire",
+          "weight": 2.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "poésie",
+          "weight": 5243
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 124.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 69.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "émission",
+      "r_isa": [
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "reportage",
+          "weight": 38.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "programme télévisé",
+          "weight": 31.0
+        },
+        {
+          "name": "programme",
+          "weight": 29.0
+        },
+        {
+          "name": "processus physique",
+          "weight": 26.0
+        },
+        {
+          "name": "débat télévisé",
+          "weight": 20.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "physique",
+          "weight": 7948
+        },
+        {
+          "name": "médias",
+          "weight": 6953
+        },
+        {
+          "name": "biologie",
+          "weight": 6296
+        },
+        {
+          "name": "émission",
+          "weight": 3908
+        },
+        {
+          "name": "finances",
+          "weight": 3121
+        },
+        {
+          "name": "émettre",
+          "weight": 2192
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 107.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 61.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "jardinage",
+      "r_isa": [
+        {
+          "name": "hobby",
+          "weight": 59.0
+        },
+        {
+          "name": "en:avocation",
+          "weight": 43.0
+        },
+        {
+          "name": "art",
+          "weight": 41.0
+        },
+        {
+          "name": "pratique",
+          "weight": 31.0
+        },
+        {
+          "name": "loisir",
+          "weight": 30.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "en:hobby",
+          "weight": 28.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "jardinage",
+          "weight": 688
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 86.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 62.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "exposition",
+      "r_isa": [
+        {
+          "name": "galerie",
+          "weight": 68.0
+        },
+        {
+          "name": "salon",
+          "weight": 53.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "technique",
+          "weight": 34.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "grandeur",
+          "weight": 26.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        },
+        {
+          "name": "degré",
+          "weight": 25.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "art",
+          "weight": 12941
+        },
+        {
+          "name": "exposition",
+          "weight": 5671
+        },
+        {
+          "name": "orientation",
+          "weight": 2368
+        },
+        {
+          "name": "exposer",
+          "weight": 2057
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 132.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sculptures",
+      "r_isa": [
+        {
+          "name": "oeuvres",
+          "weight": 36.0
+        },
+        {
+          "name": "choses",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sculptures",
+          "weight": 1562
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 62.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 51.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "magazine",
+      "r_isa": [
+        {
+          "name": "journal",
+          "weight": 53.0
+        },
+        {
+          "name": "document",
+          "weight": 53.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 36.0
+        },
+        {
+          "name": "publication",
+          "weight": 33.0
+        },
+        {
+          "name": "en:document",
+          "weight": 26.0
+        },
+        {
+          "name": "en:periodic publication",
+          "weight": 25.0
+        },
+        {
+          "name": "Publication périodique",
+          "weight": 25.0
+        },
+        {
+          "name": "publication>26038",
+          "weight": 1.0
+        },
+        {
+          "name": "publication>26038>14372",
+          "weight": 1.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "magazine",
+          "weight": 3447
+        },
+        {
+          "name": "audiovisuel",
+          "weight": 1110
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 74.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 67.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "gastronomie",
+      "r_isa": [
+        {
+          "name": "cuisine",
+          "weight": 38.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 33.0
+        },
+        {
+          "name": "art culinaire",
+          "weight": 32.0
+        },
+        {
+          "name": "connaissance raisonnée",
+          "weight": 25.0
+        },
+        {
+          "name": "en:fine",
+          "weight": 15.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "gastronomie",
+          "weight": 5177
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 163.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 62.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "en:workplace",
+          "weight": 57.0
+        },
+        {
+          "name": "en:worksite",
+          "weight": 56.0
+        },
+        {
+          "name": "en:place of work",
+          "weight": 56.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "rencontre",
+          "weight": 6604
+        },
+        {
+          "name": "artiste",
+          "weight": 5462
+        },
+        {
+          "name": "usine",
+          "weight": 3050
+        },
+        {
+          "name": "atelier",
+          "weight": 1854
+        },
+        {
+          "name": "garage",
+          "weight": 1388
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 90.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "cuisine",
+      "r_isa": [
+        {
+          "name": "salle",
+          "weight": 69.0
+        },
+        {
+          "name": "pièce>139209",
+          "weight": 69.0
+        },
+        {
+          "name": "pièce",
+          "weight": 68.0
+        },
+        {
+          "name": "batterie",
+          "weight": 59.0
+        },
+        {
+          "name": "art",
+          "weight": 57.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "loisir",
+          "weight": 53.0
+        },
+        {
+          "name": "lieu>134218",
+          "weight": 42.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "endroit>135190",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cuisine",
+          "weight": 15773
+        },
+        {
+          "name": "pièce",
+          "weight": 8144
+        },
+        {
+          "name": "personnel",
+          "weight": 5568
+        },
+        {
+          "name": "art culinaire",
+          "weight": 1155
+        },
+        {
+          "name": "intrigue",
+          "weight": 1018
+        },
+        {
+          "name": "ustensiles",
+          "weight": 167
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 151.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 67.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 55.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 55.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 55.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 53.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 49.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "journal",
+      "r_isa": [
+        {
+          "name": "périodique",
+          "weight": 90.0
+        },
+        {
+          "name": "papier",
+          "weight": 84.0
+        },
+        {
+          "name": "livre",
+          "weight": 83.0
+        },
+        {
+          "name": "publication",
+          "weight": 80.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 70.0
+        },
+        {
+          "name": "mensuel",
+          "weight": 68.0
+        },
+        {
+          "name": "lecture",
+          "weight": 68.0
+        },
+        {
+          "name": "média",
+          "weight": 62.0
+        },
+        {
+          "name": "media",
+          "weight": 62.0
+        },
+        {
+          "name": "information",
+          "weight": 60.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "agriculture",
+          "weight": 9915
+        },
+        {
+          "name": "journal",
+          "weight": 8840
+        },
+        {
+          "name": "publication",
+          "weight": 6145
+        },
+        {
+          "name": "informatique",
+          "weight": 5324
+        },
+        {
+          "name": "émission",
+          "weight": 3908
+        },
+        {
+          "name": "comptabilité",
+          "weight": 577
+        },
+        {
+          "name": "journal intime",
+          "weight": 296
+        },
+        {
+          "name": "journal de bord",
+          "weight": 84
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 206.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 108.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 60.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 55.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "technologie",
+      "r_isa": [
+        {
+          "name": "linguistique",
+          "weight": 147.0
+        },
+        {
+          "name": "discipline>79255",
+          "weight": 145.0
+        },
+        {
+          "name": "Science",
+          "weight": 78.0
+        },
+        {
+          "name": "science",
+          "weight": 51.0
+        },
+        {
+          "name": "concept",
+          "weight": 29.0
+        },
+        {
+          "name": "innovation",
+          "weight": 29.0
+        },
+        {
+          "name": "en:science",
+          "weight": 26.0
+        },
+        {
+          "name": "technique",
+          "weight": 13.0
+        },
+        {
+          "name": "Linguistique",
+          "weight": 13.0
+        },
+        {
+          "name": "discipline",
+          "weight": 3.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "technologie",
+          "weight": 17775
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 172.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 62.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "chanson",
+      "r_isa": [
+        {
+          "name": "air",
+          "weight": 828.0
+        },
+        {
+          "name": "mélodie",
+          "weight": 818.0
+        },
+        {
+          "name": "texte",
+          "weight": 255.0
+        },
+        {
+          "name": "air>2050",
+          "weight": 226.0
+        },
+        {
+          "name": "art",
+          "weight": 164.0
+        },
+        {
+          "name": "lieu",
+          "weight": 122.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 109.0
+        },
+        {
+          "name": "en:piece of music",
+          "weight": 105.0
+        },
+        {
+          "name": "en:musical genre",
+          "weight": 36.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20837
+        },
+        {
+          "name": "chanson",
+          "weight": 5372
+        },
+        {
+          "name": "propos futiles",
+          "weight": 25
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 84.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 62.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 29.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "liberté",
+      "r_isa": [
+        {
+          "name": "concept",
+          "weight": 167.0
+        },
+        {
+          "name": "sentiment",
+          "weight": 109.0
+        },
+        {
+          "name": "notion",
+          "weight": 79.0
+        },
+        {
+          "name": "idéal",
+          "weight": 76.0
+        },
+        {
+          "name": "droit",
+          "weight": 72.0
+        },
+        {
+          "name": "autonomie",
+          "weight": 70.0
+        },
+        {
+          "name": "valeur",
+          "weight": 68.0
+        },
+        {
+          "name": "devise",
+          "weight": 68.0
+        },
+        {
+          "name": "personne",
+          "weight": 38.0
+        },
+        {
+          "name": "être animé",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "liberté",
+          "weight": 14357
+        },
+        {
+          "name": "possibilité",
+          "weight": 7898
+        },
+        {
+          "name": "indépendance",
+          "weight": 5286
+        },
+        {
+          "name": "juridique",
+          "weight": 3709
+        },
+        {
+          "name": "autorisation",
+          "weight": 1958
+        },
+        {
+          "name": "condition d'une personne",
+          "weight": 74
+        },
+        {
+          "name": "absence d'obligation",
+          "weight": 51
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 173.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 62.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "événement",
+      "r_isa": [
+        {
+          "name": "fait",
+          "weight": 180.0
+        },
+        {
+          "name": "action",
+          "weight": 105.0
+        },
+        {
+          "name": "issue>15067",
+          "weight": 105.0
+        },
+        {
+          "name": "issue",
+          "weight": 95.0
+        },
+        {
+          "name": "concept",
+          "weight": 90.0
+        },
+        {
+          "name": "sous-ensemble",
+          "weight": 37.0
+        },
+        {
+          "name": "en:performance",
+          "weight": 27.0
+        },
+        {
+          "name": "performance",
+          "weight": 25.0
+        },
+        {
+          "name": "en:business",
+          "weight": 24.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 23.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "événement",
+          "weight": 9496
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 83.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 55.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 20.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "danse",
+      "r_isa": [
+        {
+          "name": "art vivant",
+          "weight": 221.0
+        },
+        {
+          "name": "art",
+          "weight": 219.0
+        },
+        {
+          "name": "sport>233029",
+          "weight": 148.0
+        },
+        {
+          "name": "enseignement optionnel",
+          "weight": 133.0
+        },
+        {
+          "name": "Sport",
+          "weight": 98.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 84.0
+        },
+        {
+          "name": "sport",
+          "weight": 80.0
+        },
+        {
+          "name": "lieu",
+          "weight": 55.0
+        },
+        {
+          "name": "en:musical style",
+          "weight": 43.0
+        },
+        {
+          "name": "air de musique",
+          "weight": 41.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "danse",
+          "weight": 4314
+        },
+        {
+          "name": "raclée",
+          "weight": 237
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "art de mouvoir le corps",
+          "weight": 25
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 335.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 150.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 85.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 85.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 85.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 66.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 59.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 52.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "droit",
+          "weight": 21838
+        },
+        {
+          "name": "évolution",
+          "weight": 19386
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539
+        },
+        {
+          "name": "cours",
+          "weight": 13498
+        },
+        {
+          "name": "durée",
+          "weight": 6492
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768
+        },
+        {
+          "name": "étendue",
+          "weight": 3390
+        },
+        {
+          "name": "avenue",
+          "weight": 1618
+        },
+        {
+          "name": "écoulement",
+          "weight": 566
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 112.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P2:ImPre+SG+P2",
+          "weight": 57.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 56.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "musique",
+      "r_isa": [
+        {
+          "name": "art et",
+          "weight": 279.0
+        },
+        {
+          "name": "discipline>79255",
+          "weight": 216.0
+        },
+        {
+          "name": "disco",
+          "weight": 206.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 164.0
+        },
+        {
+          "name": "chanson",
+          "weight": 164.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 160.0
+        },
+        {
+          "name": "art",
+          "weight": 148.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 148.0
+        },
+        {
+          "name": "style de musique",
+          "weight": 143.0
+        },
+        {
+          "name": "style musical",
+          "weight": 141.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20837
+        },
+        {
+          "name": "art",
+          "weight": 12941
+        },
+        {
+          "name": "sons",
+          "weight": 3281
+        },
+        {
+          "name": "notation",
+          "weight": 2881
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "exécutants",
+          "weight": 27
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 311.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 163.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 75.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 75.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 59.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 54.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalPers:P2",
+          "weight": 43.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 39.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "film",
+      "r_isa": [
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 269.0
+        },
+        {
+          "name": "emballage",
+          "weight": 186.0
+        },
+        {
+          "name": "en:work of art",
+          "weight": 138.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 136.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 118.0
+        },
+        {
+          "name": "oeuvre audiovisuelle",
+          "weight": 115.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 108.0
+        },
+        {
+          "name": "oeuvre culturelle",
+          "weight": 108.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 106.0
+        },
+        {
+          "name": "pellicule",
+          "weight": 99.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "film",
+          "weight": 11371
+        },
+        {
+          "name": "photographie",
+          "weight": 5025
+        },
+        {
+          "name": "pellicule",
+          "weight": 329
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 100
+        },
+        {
+          "name": "industrie du cinéma",
+          "weight": 60
+        },
+        {
+          "name": "couche mince",
+          "weight": 52
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 150.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 63.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "comédie",
+      "r_isa": [
+        {
+          "name": "pièce de théâtre",
+          "weight": 420.0
+        },
+        {
+          "name": "genre théâtral",
+          "weight": 409.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 406.0
+        },
+        {
+          "name": "film",
+          "weight": 395.0
+        },
+        {
+          "name": "genre cinématographique",
+          "weight": 392.0
+        },
+        {
+          "name": "film>217196",
+          "weight": 390.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 388.0
+        },
+        {
+          "name": "théâtre",
+          "weight": 378.0
+        },
+        {
+          "name": "téléfilm",
+          "weight": 378.0
+        },
+        {
+          "name": "art",
+          "weight": 368.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cinéma",
+          "weight": 10741
+        },
+        {
+          "name": "théâtre",
+          "weight": 7614
+        },
+        {
+          "name": "comédie",
+          "weight": 3738
+        },
+        {
+          "name": "faux-semblant",
+          "weight": 232
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 137.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 77.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 55.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "conférence",
+      "r_isa": [
+        {
+          "name": "évènement",
+          "weight": 242.0
+        },
+        {
+          "name": "réunion",
+          "weight": 162.0
+        },
+        {
+          "name": "événement",
+          "weight": 156.0
+        },
+        {
+          "name": "poire",
+          "weight": 58.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 54.0
+        },
+        {
+          "name": "poire>87286",
+          "weight": 52.0
+        },
+        {
+          "name": "fruit",
+          "weight": 51.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "fruit>3674",
+          "weight": 51.0
+        },
+        {
+          "name": "en:goings-on",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "réunion",
+          "weight": 4357
+        },
+        {
+          "name": "conférence",
+          "weight": 4236
+        },
+        {
+          "name": "poire",
+          "weight": 1078
+        },
+        {
+          "name": "exposé public",
+          "weight": 58
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 139.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 58.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 53.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 46.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "médecine",
+      "r_isa": [
+        {
+          "name": "science",
+          "weight": 322.0
+        },
+        {
+          "name": "Science",
+          "weight": 98.0
+        },
+        {
+          "name": "en:science",
+          "weight": 70.0
+        },
+        {
+          "name": "domaine",
+          "weight": 68.0
+        },
+        {
+          "name": "substance",
+          "weight": 56.0
+        },
+        {
+          "name": "médecine",
+          "weight": 30.0
+        },
+        {
+          "name": "science grecque",
+          "weight": 26.0
+        },
+        {
+          "name": "affections non inflammatoires",
+          "weight": 25.0
+        },
+        {
+          "name": "affections non inflammatoires de la vulve",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "science",
+          "weight": 11552
+        },
+        {
+          "name": "médecine",
+          "weight": 10460
+        },
+        {
+          "name": "remède",
+          "weight": 936
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 1000.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 239.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 85.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 65.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 49.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "article",
+      "r_isa": [
+        {
+          "name": "pièce jointe",
+          "weight": 189.0
+        },
+        {
+          "name": "PJ",
+          "weight": 94.0
+        },
+        {
+          "name": "nature",
+          "weight": 88.0
+        },
+        {
+          "name": "texte",
+          "weight": 59.0
+        },
+        {
+          "name": "mot",
+          "weight": 57.0
+        },
+        {
+          "name": "document",
+          "weight": 54.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "catégorie lexicale",
+          "weight": 46.0
+        },
+        {
+          "name": "en:enclosed document",
+          "weight": 35.0
+        },
+        {
+          "name": "en:document",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "loi",
+          "weight": 17508
+        },
+        {
+          "name": "article",
+          "weight": 12588
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727
+        },
+        {
+          "name": "magasin",
+          "weight": 4138
+        },
+        {
+          "name": "botanique",
+          "weight": 4092
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385
+        },
+        {
+          "name": "mycologie",
+          "weight": 282
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 117.0
+        },
+        {
+          "name": "Nom:",
+          "weight": 113.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 65.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 63.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 37.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sport",
+      "r_isa": [
+        {
+          "name": "activité",
+          "weight": 86.0
+        },
+        {
+          "name": "loisir",
+          "weight": 80.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 79.0
+        },
+        {
+          "name": "passion",
+          "weight": 75.0
+        },
+        {
+          "name": "jeu",
+          "weight": 72.0
+        },
+        {
+          "name": "passe-temps",
+          "weight": 72.0
+        },
+        {
+          "name": "discipline",
+          "weight": 69.0
+        },
+        {
+          "name": "activité physique",
+          "weight": 67.0
+        },
+        {
+          "name": "hobby",
+          "weight": 64.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 53.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sport",
+          "weight": 8679
+        },
+        {
+          "name": "activité physique",
+          "weight": 1222
+        },
+        {
+          "name": "agitation",
+          "weight": 493
+        },
+        {
+          "name": "fair-play",
+          "weight": 295
+        },
+        {
+          "name": "décontracté",
+          "weight": 212
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 210.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 63.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 37.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 30.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "podcast",
+      "r_isa": [
+        {
+          "name": "contenu audio",
+          "weight": 78.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "podcast",
+          "weight": 342
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 42.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "philosophie",
+      "r_isa": [
+        {
+          "name": "discipline des sciences humaines",
+          "weight": 71.0
+        },
+        {
+          "name": "discipline",
+          "weight": 41.0
+        },
+        {
+          "name": "activité",
+          "weight": 34.0
+        },
+        {
+          "name": "discipline intellectuelle",
+          "weight": 33.0
+        },
+        {
+          "name": "en:science",
+          "weight": 32.0
+        },
+        {
+          "name": "doctrine",
+          "weight": 30.0
+        },
+        {
+          "name": "quête de sagesse",
+          "weight": 30.0
+        },
+        {
+          "name": "épreuve",
+          "weight": 29.0
+        },
+        {
+          "name": "science",
+          "weight": 29.0
+        },
+        {
+          "name": "réflexion intellectuelle",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "philosophie",
+          "weight": 6964
+        },
+        {
+          "name": "fondements",
+          "weight": 1693
+        },
+        {
+          "name": "imprimerie",
+          "weight": 550
+        },
+        {
+          "name": "état d'esprit",
+          "weight": 309
+        },
+        {
+          "name": "discipline scolaire",
+          "weight": 95
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "système de pensée",
+          "weight": 43
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 156.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 68.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 58.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 58.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 53.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 46.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "en:workplace",
+          "weight": 57.0
+        },
+        {
+          "name": "en:worksite",
+          "weight": 56.0
+        },
+        {
+          "name": "en:place of work",
+          "weight": 56.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "rencontre",
+          "weight": 6604
+        },
+        {
+          "name": "artiste",
+          "weight": 5462
+        },
+        {
+          "name": "usine",
+          "weight": 3050
+        },
+        {
+          "name": "atelier",
+          "weight": 1854
+        },
+        {
+          "name": "garage",
+          "weight": 1388
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 90.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "peinture",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 75.0
+        },
+        {
+          "name": "tableau",
+          "weight": 74.0
+        },
+        {
+          "name": "lieu",
+          "weight": 59.0
+        },
+        {
+          "name": "hobby",
+          "weight": 58.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 58.0
+        },
+        {
+          "name": "architecture",
+          "weight": 55.0
+        },
+        {
+          "name": "exposition",
+          "weight": 55.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 51.0
+        },
+        {
+          "name": "substance",
+          "weight": 35.0
+        },
+        {
+          "name": "description",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "art",
+          "weight": 12941
+        },
+        {
+          "name": "peinture",
+          "weight": 6523
+        },
+        {
+          "name": "tableau",
+          "weight": 4994
+        },
+        {
+          "name": "description",
+          "weight": 3974
+        },
+        {
+          "name": "substance pigmentée",
+          "weight": 52
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 110.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 56.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Impératif",
+          "weight": 35.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 34.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "chanson",
+      "r_isa": [
+        {
+          "name": "air",
+          "weight": 828.0
+        },
+        {
+          "name": "mélodie",
+          "weight": 818.0
+        },
+        {
+          "name": "texte",
+          "weight": 255.0
+        },
+        {
+          "name": "air>2050",
+          "weight": 226.0
+        },
+        {
+          "name": "art",
+          "weight": 164.0
+        },
+        {
+          "name": "lieu",
+          "weight": 122.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 109.0
+        },
+        {
+          "name": "en:piece of music",
+          "weight": 105.0
+        },
+        {
+          "name": "en:musical genre",
+          "weight": 36.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20837
+        },
+        {
+          "name": "chanson",
+          "weight": 5372
+        },
+        {
+          "name": "propos futiles",
+          "weight": 25
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 84.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 62.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 34.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 29.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "paix",
+      "r_isa": [
+        {
+          "name": "calme",
+          "weight": 55.0
+        },
+        {
+          "name": "concept abstrait",
+          "weight": 39.0
+        },
+        {
+          "name": "événement positif",
+          "weight": 31.0
+        },
+        {
+          "name": "concept",
+          "weight": 30.0
+        },
+        {
+          "name": "état",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "guerre",
+          "weight": 19607
+        },
+        {
+          "name": "paix",
+          "weight": 10041
+        },
+        {
+          "name": "calme",
+          "weight": 4746
+        },
+        {
+          "name": "entente",
+          "weight": 2011
+        },
+        {
+          "name": "sérénité",
+          "weight": 1590
+        },
+        {
+          "name": "taisez-vous",
+          "weight": 54
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 90.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 80.0
+        },
+        {
+          "name": "Nom:Fem+InvPL",
+          "weight": 60.0
+        },
+        {
+          "name": "Int:",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 28.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "droit",
+          "weight": 21838
+        },
+        {
+          "name": "évolution",
+          "weight": 19386
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539
+        },
+        {
+          "name": "cours",
+          "weight": 13498
+        },
+        {
+          "name": "durée",
+          "weight": 6492
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768
+        },
+        {
+          "name": "étendue",
+          "weight": 3390
+        },
+        {
+          "name": "avenue",
+          "weight": 1618
+        },
+        {
+          "name": "écoulement",
+          "weight": 566
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 112.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P2:ImPre+SG+P2",
+          "weight": 57.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 56.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "photographie",
+      "r_isa": [
+        {
+          "name": "pièce jointe",
+          "weight": 189.0
+        },
+        {
+          "name": "PJ",
+          "weight": 94.0
+        },
+        {
+          "name": "art visuel",
+          "weight": 64.0
+        },
+        {
+          "name": "art",
+          "weight": 61.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "technique",
+          "weight": 43.0
+        },
+        {
+          "name": "forme d'art visuel",
+          "weight": 36.0
+        },
+        {
+          "name": "en:enclosed document",
+          "weight": 35.0
+        },
+        {
+          "name": "en:Criminal Investigation Department",
+          "weight": 34.0
+        },
+        {
+          "name": "en:attached document",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "art",
+          "weight": 12941
+        },
+        {
+          "name": "image",
+          "weight": 10064
+        },
+        {
+          "name": "processus",
+          "weight": 9657
+        },
+        {
+          "name": "photographie",
+          "weight": 5025
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 169.0
+        },
+        {
+          "name": "Ver:IPre+SG+P3",
+          "weight": 59.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 58.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Ver:SPre+SG+P1",
+          "weight": 56.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1",
+          "weight": 54.0
+        },
+        {
+          "name": "Ver:Imp+SG+P2",
+          "weight": 51.0
+        },
+        {
+          "name": "Ver:SPre+SG+P3",
+          "weight": 51.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "livre",
+      "r_isa": [
+        {
+          "name": "assemblage de feuilles",
+          "weight": 783.0
+        },
+        {
+          "name": "ouvrage",
+          "weight": 748.0
+        },
+        {
+          "name": "texte imprimé",
+          "weight": 707.0
+        },
+        {
+          "name": "texte",
+          "weight": 695.0
+        },
+        {
+          "name": "oeuvre de l'esprit",
+          "weight": 683.0
+        },
+        {
+          "name": "assemblage",
+          "weight": 676.0
+        },
+        {
+          "name": "monnaie de compte",
+          "weight": 591.0
+        },
+        {
+          "name": "monnaie",
+          "weight": 579.0
+        },
+        {
+          "name": "argent",
+          "weight": 468.0
+        },
+        {
+          "name": "devise",
+          "weight": 466.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "livre",
+          "weight": 16795
+        },
+        {
+          "name": "commerce",
+          "weight": 10473
+        },
+        {
+          "name": "monnaie",
+          "weight": 6388
+        },
+        {
+          "name": "lecture",
+          "weight": 6344
+        },
+        {
+          "name": "diplomatie",
+          "weight": 3821
+        },
+        {
+          "name": "unité de masse",
+          "weight": 107
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 147.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 60.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 60.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 58.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 55.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 48.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "cuisine",
+      "r_isa": [
+        {
+          "name": "salle",
+          "weight": 69.0
+        },
+        {
+          "name": "pièce>139209",
+          "weight": 69.0
+        },
+        {
+          "name": "pièce",
+          "weight": 68.0
+        },
+        {
+          "name": "batterie",
+          "weight": 59.0
+        },
+        {
+          "name": "art",
+          "weight": 57.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "loisir",
+          "weight": 53.0
+        },
+        {
+          "name": "lieu>134218",
+          "weight": 42.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "endroit>135190",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cuisine",
+          "weight": 15773
+        },
+        {
+          "name": "pièce",
+          "weight": 8144
+        },
+        {
+          "name": "personnel",
+          "weight": 5568
+        },
+        {
+          "name": "art culinaire",
+          "weight": 1155
+        },
+        {
+          "name": "intrigue",
+          "weight": 1018
+        },
+        {
+          "name": "ustensiles",
+          "weight": 167
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 151.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 67.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 55.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 55.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 55.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 53.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 49.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "émission",
+      "r_isa": [
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "reportage",
+          "weight": 38.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "programme télévisé",
+          "weight": 31.0
+        },
+        {
+          "name": "programme",
+          "weight": 29.0
+        },
+        {
+          "name": "processus physique",
+          "weight": 26.0
+        },
+        {
+          "name": "débat télévisé",
+          "weight": 20.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "physique",
+          "weight": 7948
+        },
+        {
+          "name": "médias",
+          "weight": 6953
+        },
+        {
+          "name": "biologie",
+          "weight": 6296
+        },
+        {
+          "name": "émission",
+          "weight": 3908
+        },
+        {
+          "name": "finances",
+          "weight": 3121
+        },
+        {
+          "name": "émettre",
+          "weight": 2192
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 107.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 61.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "mode",
+      "r_isa": [
+        {
+          "name": "vague",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "phénomène social",
+          "weight": 26.0
+        },
+        {
+          "name": "phénomène",
+          "weight": 25.0
+        },
+        {
+          "name": "américanisme",
+          "weight": 24.0
+        },
+        {
+          "name": "trait grammatical",
+          "weight": 19.0
+        },
+        {
+          "name": "stylisme",
+          "weight": 16.0
+        },
+        {
+          "name": "style",
+          "weight": 13.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20837
+        },
+        {
+          "name": "manière",
+          "weight": 9978
+        },
+        {
+          "name": "méthode",
+          "weight": 8650
+        },
+        {
+          "name": "physique",
+          "weight": 7948
+        },
+        {
+          "name": "mode",
+          "weight": 7290
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727
+        },
+        {
+          "name": "statistiques",
+          "weight": 5546
+        },
+        {
+          "name": "informatique",
+          "weight": 5324
+        },
+        {
+          "name": "onde",
+          "weight": 2455
+        },
+        {
+          "name": "astrologie",
+          "weight": 852
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 273.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 102.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 59.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 54.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 54.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "exposition",
+      "r_isa": [
+        {
+          "name": "galerie",
+          "weight": 68.0
+        },
+        {
+          "name": "salon",
+          "weight": 53.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "technique",
+          "weight": 34.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "grandeur",
+          "weight": 26.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        },
+        {
+          "name": "degré",
+          "weight": 25.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "art",
+          "weight": 12941
+        },
+        {
+          "name": "exposition",
+          "weight": 5671
+        },
+        {
+          "name": "orientation",
+          "weight": 2368
+        },
+        {
+          "name": "exposer",
+          "weight": 2057
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 132.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 95.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "design",
+      "r_isa": [
+        {
+          "name": "création",
+          "weight": 48.0
+        },
+        {
+          "name": "lieu",
+          "weight": 46.0
+        },
+        {
+          "name": "activité",
+          "weight": 32.0
+        },
+        {
+          "name": "activité de création",
+          "weight": 25.0
+        },
+        {
+          "name": "création d'un projet",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": null,
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 86.0
+        },
+        {
+          "name": "Adj:InvGen+SG:InvGen+PL",
+          "weight": 54.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 34.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 34.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 29.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "magazine",
+      "r_isa": [
+        {
+          "name": "journal",
+          "weight": 53.0
+        },
+        {
+          "name": "document",
+          "weight": 53.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 36.0
+        },
+        {
+          "name": "publication",
+          "weight": 33.0
+        },
+        {
+          "name": "en:document",
+          "weight": 26.0
+        },
+        {
+          "name": "en:periodic publication",
+          "weight": 25.0
+        },
+        {
+          "name": "Publication périodique",
+          "weight": 25.0
+        },
+        {
+          "name": "publication>26038",
+          "weight": 1.0
+        },
+        {
+          "name": "publication>26038>14372",
+          "weight": 1.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "magazine",
+          "weight": 3447
+        },
+        {
+          "name": "audiovisuel",
+          "weight": 1110
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 74.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 67.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "voyage",
+      "r_isa": [
+        {
+          "name": "passe-temps",
+          "weight": 69.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "déplacement dans l'espace",
+          "weight": 34.0
+        },
+        {
+          "name": "exploration",
+          "weight": 32.0
+        },
+        {
+          "name": "événement positif",
+          "weight": 31.0
+        },
+        {
+          "name": "action",
+          "weight": 30.0
+        },
+        {
+          "name": "activité",
+          "weight": 29.0
+        },
+        {
+          "name": "fantasme",
+          "weight": 28.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "en:time killer",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "voyage",
+          "weight": 9744
+        },
+        {
+          "name": "tourisme",
+          "weight": 6329
+        },
+        {
+          "name": "déplacement",
+          "weight": 5858
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 132.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 67.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 56.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 53.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 35.0
+        },
+        {
+          "name": "VerbalMode:Impératif",
+          "weight": 35.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "en:workplace",
+          "weight": 57.0
+        },
+        {
+          "name": "en:worksite",
+          "weight": 56.0
+        },
+        {
+          "name": "en:place of work",
+          "weight": 56.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "rencontre",
+          "weight": 6604
+        },
+        {
+          "name": "artiste",
+          "weight": 5462
+        },
+        {
+          "name": "usine",
+          "weight": 3050
+        },
+        {
+          "name": "atelier",
+          "weight": 1854
+        },
+        {
+          "name": "garage",
+          "weight": 1388
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 90.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sculpture",
+      "r_isa": [
+        {
+          "name": "oeuvre d'art",
+          "weight": 93.0
+        },
+        {
+          "name": "architecture",
+          "weight": 86.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 84.0
+        },
+        {
+          "name": "activité artistique",
+          "weight": 59.0
+        },
+        {
+          "name": "art",
+          "weight": 55.0
+        },
+        {
+          "name": "objet>109527>139768",
+          "weight": 35.0
+        },
+        {
+          "name": "art tridimensionnel",
+          "weight": 33.0
+        },
+        {
+          "name": "forme d'art",
+          "weight": 31.0
+        },
+        {
+          "name": "art plastique",
+          "weight": 30.0
+        },
+        {
+          "name": "en:craft object",
+          "weight": 29.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "art",
+          "weight": 12941
+        },
+        {
+          "name": "objet",
+          "weight": 8719
+        },
+        {
+          "name": "sculpture",
+          "weight": 3175
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 89.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 56.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "journal",
+      "r_isa": [
+        {
+          "name": "périodique",
+          "weight": 90.0
+        },
+        {
+          "name": "papier",
+          "weight": 84.0
+        },
+        {
+          "name": "livre",
+          "weight": 83.0
+        },
+        {
+          "name": "publication",
+          "weight": 80.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 70.0
+        },
+        {
+          "name": "mensuel",
+          "weight": 68.0
+        },
+        {
+          "name": "lecture",
+          "weight": 68.0
+        },
+        {
+          "name": "média",
+          "weight": 62.0
+        },
+        {
+          "name": "media",
+          "weight": 62.0
+        },
+        {
+          "name": "information",
+          "weight": 60.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "agriculture",
+          "weight": 9915
+        },
+        {
+          "name": "journal",
+          "weight": 8840
+        },
+        {
+          "name": "publication",
+          "weight": 6145
+        },
+        {
+          "name": "informatique",
+          "weight": 5324
+        },
+        {
+          "name": "émission",
+          "weight": 3908
+        },
+        {
+          "name": "comptabilité",
+          "weight": 577
+        },
+        {
+          "name": "journal intime",
+          "weight": 296
+        },
+        {
+          "name": "journal de bord",
+          "weight": 84
+        },
+        {
+          "name": "Adj:",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 206.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 108.0
+        },
+        {
+          "name": "Adj:",
+          "weight": 60.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 55.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "culture",
+      "r_isa": [
+        {
+          "name": "savoir",
+          "weight": 836.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 834.0
+        },
+        {
+          "name": "domaine",
+          "weight": 85.0
+        },
+        {
+          "name": "éducation",
+          "weight": 69.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 35.0
+        },
+        {
+          "name": "technique de mesure biomédicale",
+          "weight": 35.0
+        },
+        {
+          "name": "ensemble de connaissances",
+          "weight": 35.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 32.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 31.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "culture",
+          "weight": 39518
+        },
+        {
+          "name": "éducation",
+          "weight": 29298
+        },
+        {
+          "name": "société",
+          "weight": 26895
+        },
+        {
+          "name": "connaissance",
+          "weight": 14947
+        },
+        {
+          "name": "agriculture",
+          "weight": 9915
+        },
+        {
+          "name": "biologie",
+          "weight": 6294
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "secteur institutionnel",
+          "weight": 50
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 297.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 89.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 43.0
+        },
+        {
+          "name": "VerbalMode:Subjonctif",
+          "weight": 35.0
+        },
+        {
+          "name": "VerbalPers:P3",
+          "weight": 35.0
+        },
+        {
+          "name": "VerbalNumber:SG",
+          "weight": 35.0
+        },
+        {
+          "name": "Ver:IPre+SG+P3",
+          "weight": 34.0
+        },
+        {
+          "name": "Ver:SPre+SG+P1",
+          "weight": 34.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "séminaire",
+      "r_isa": [
+        {
+          "name": "établissement",
+          "weight": 49.0
+        },
+        {
+          "name": "établissement d'enseignement supérieur",
+          "weight": 32.0
+        },
+        {
+          "name": "en:educational establishment",
+          "weight": 32.0
+        },
+        {
+          "name": "cours spécialisé",
+          "weight": 30.0
+        },
+        {
+          "name": "groupe",
+          "weight": 29.0
+        },
+        {
+          "name": "établissement d'enseignement",
+          "weight": 28.0
+        },
+        {
+          "name": "événement",
+          "weight": 27.0
+        },
+        {
+          "name": "réunion",
+          "weight": 26.0
+        },
+        {
+          "name": "évènement",
+          "weight": 26.0
+        },
+        {
+          "name": "en:institution of higher education",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "religion",
+          "weight": 9929
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768
+        },
+        {
+          "name": "réunion",
+          "weight": 4357
+        },
+        {
+          "name": "séminaire",
+          "weight": 570
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 92.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "psychologie",
+      "r_isa": [
+        {
+          "name": "science",
+          "weight": 339.0
+        },
+        {
+          "name": "Science",
+          "weight": 323.0
+        },
+        {
+          "name": "étude",
+          "weight": 319.0
+        },
+        {
+          "name": "discipline scientifique",
+          "weight": 55.0
+        },
+        {
+          "name": "spécialité médicale",
+          "weight": 44.0
+        },
+        {
+          "name": "en:science",
+          "weight": 34.0
+        },
+        {
+          "name": "étude des faits",
+          "weight": 34.0
+        },
+        {
+          "name": "Discipline scientifique",
+          "weight": 25.0
+        },
+        {
+          "name": "science humaine",
+          "weight": 16.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "psychologie",
+          "weight": 4980
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 297.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 86.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "droit",
+          "weight": 21838
+        },
+        {
+          "name": "évolution",
+          "weight": 19386
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539
+        },
+        {
+          "name": "cours",
+          "weight": 13498
+        },
+        {
+          "name": "durée",
+          "weight": 6492
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768
+        },
+        {
+          "name": "étendue",
+          "weight": 3390
+        },
+        {
+          "name": "avenue",
+          "weight": 1618
+        },
+        {
+          "name": "écoulement",
+          "weight": 566
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 112.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P2:ImPre+SG+P2",
+          "weight": 57.0
+        },
+        {
+          "name": "Nom:Mas+InvPL",
+          "weight": 56.0
+        },
+        {
+          "name": "Nom:Fem+PL",
+          "weight": 53.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 52.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Plur",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Inv",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "danse contemporaine",
+      "r_isa": [
+        {
+          "name": "danse",
+          "weight": 118.0
+        },
+        {
+          "name": "sport",
+          "weight": 112.0
+        },
+        {
+          "name": "spectacle expérimental",
+          "weight": 32.0
+        },
+        {
+          "name": "Danse",
+          "weight": 15.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "danse contemporaine",
+          "weight": 128
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 45.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 35.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "film",
+      "r_isa": [
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 269.0
+        },
+        {
+          "name": "emballage",
+          "weight": 186.0
+        },
+        {
+          "name": "en:work of art",
+          "weight": 138.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 136.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 118.0
+        },
+        {
+          "name": "oeuvre audiovisuelle",
+          "weight": 115.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 108.0
+        },
+        {
+          "name": "oeuvre culturelle",
+          "weight": 108.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 106.0
+        },
+        {
+          "name": "pellicule",
+          "weight": 99.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "film",
+          "weight": 11371
+        },
+        {
+          "name": "photographie",
+          "weight": 5025
+        },
+        {
+          "name": "pellicule",
+          "weight": 329
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 100
+        },
+        {
+          "name": "industrie du cinéma",
+          "weight": 60
+        },
+        {
+          "name": "couche mince",
+          "weight": 52
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 150.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 63.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "drame",
+      "r_isa": [
+        {
+          "name": "pièce de théâtre",
+          "weight": 72.0
+        },
+        {
+          "name": "film",
+          "weight": 67.0
+        },
+        {
+          "name": "théâtre",
+          "weight": 53.0
+        },
+        {
+          "name": "genre cinématographique",
+          "weight": 53.0
+        },
+        {
+          "name": "pièce",
+          "weight": 52.0
+        },
+        {
+          "name": "film>217196",
+          "weight": 51.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 45.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 44.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 36.0
+        },
+        {
+          "name": "ouvrage littéraire",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cinéma",
+          "weight": 10741
+        },
+        {
+          "name": "théâtre",
+          "weight": 7614
+        },
+        {
+          "name": "drame",
+          "weight": 4205
+        },
+        {
+          "name": "catastrophe",
+          "weight": 3630
+        },
+        {
+          "name": "genre théâtral",
+          "weight": 4
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 166.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 116.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "en:workplace",
+          "weight": 57.0
+        },
+        {
+          "name": "en:worksite",
+          "weight": 56.0
+        },
+        {
+          "name": "en:place of work",
+          "weight": 56.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "rencontre",
+          "weight": 6604
+        },
+        {
+          "name": "artiste",
+          "weight": 5462
+        },
+        {
+          "name": "usine",
+          "weight": 3050
+        },
+        {
+          "name": "atelier",
+          "weight": 1854
+        },
+        {
+          "name": "garage",
+          "weight": 1388
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 90.0
+        },
+        {
+          "name": "Nom:Mas+SG",
+          "weight": 57.0
+        },
+        {
+          "name": "Gender:Mas",
+          "weight": 45.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "musique",
+      "r_isa": [
+        {
+          "name": "art et",
+          "weight": 279.0
+        },
+        {
+          "name": "discipline>79255",
+          "weight": 216.0
+        },
+        {
+          "name": "disco",
+          "weight": 206.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 164.0
+        },
+        {
+          "name": "chanson",
+          "weight": 164.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 160.0
+        },
+        {
+          "name": "art",
+          "weight": 148.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 148.0
+        },
+        {
+          "name": "style de musique",
+          "weight": 143.0
+        },
+        {
+          "name": "style musical",
+          "weight": 141.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20837
+        },
+        {
+          "name": "art",
+          "weight": 12941
+        },
+        {
+          "name": "sons",
+          "weight": 3281
+        },
+        {
+          "name": "notation",
+          "weight": 2881
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 50
+        },
+        {
+          "name": "Nom:",
+          "weight": 50
+        },
+        {
+          "name": "exécutants",
+          "weight": 27
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "Nom:",
+          "weight": 311.0
+        },
+        {
+          "name": "Nom:Fem+SG",
+          "weight": 163.0
+        },
+        {
+          "name": "Gender:Fem",
+          "weight": 75.0
+        },
+        {
+          "name": "Number:Sing",
+          "weight": 75.0
+        },
+        {
+          "name": "Ver:Conjug",
+          "weight": 65.0
+        },
+        {
+          "name": "Ver:",
+          "weight": 59.0
+        },
+        {
+          "name": "Ver:IPre+SG+P1:IPre+SG+P3:SPre+SG+P1:SPre+SG+P3:ImPre+SG+P2",
+          "weight": 54.0
+        },
+        {
+          "name": "VerbalTime:Present",
+          "weight": 45.0
+        },
+        {
+          "name": "VerbalPers:P2",
+          "weight": 43.0
+        },
+        {
+          "name": "VerbalMode:Indicatif",
+          "weight": 39.0
+        }
+      ]
+    }
+  }
+]

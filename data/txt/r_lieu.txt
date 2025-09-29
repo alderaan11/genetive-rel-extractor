@@ -1,99 +1,99 @@
-- Tour DE Pise | r_lei  
-- Sahara D'Algérie | r_lei  
-- Pyramides D'Égypte | r_lei  
-- Muraille DE Chine | r_lei  
-- Carnaval DE Rio | r_lei  
-- Canals D'Amsterdam | r_lei  
-- Temple D'Angkor | r_lei  
-- Colisée DE Rome | r_lei  
-- Taj Mahal D'Inde | r_lei  
-- Fjords DE Norvège | r_lei  
-- Machu Picchu DU Pérou | r_lei  
-- Statue DE New York | r_lei  
-- Opéra DE Sydney | r_lei  
-- Montagne DU Kilimandjaro | r_lei  
-- Chutes DU Niagara | r_lei  
-- Forêt D'Amazonie | r_lei  
-- Désert D'Atacama | r_lei  
-- Palais DE Versailles | r_lei  
-- Acropole D'Athènes | r_lei  
-- Lac DU Baïkal | r_lei  
-- Volcan DE Hawaï | r_lei  
-- Pont DE Lisbonne | r_lei  
-- Îles DES Galápagos | r_lei  
-- Glacier DE Patagonie | r_lei  
-- Marché DE Marrakech | r_lei  
-- Tour DE Londres | r_lei  
-- Cathédrale DE Moscou | r_lei  
-- Plage DE Bali | r_lei  
-- Temple DE Kyoto | r_lei  
-- Canyon DU Colorado | r_lei  
-- Château DE Bavière | r_lei  
-- Falaise D'Irlande | r_lei  
-- Souk DE Dubaï | r_lei  
-- Pont DE San Francisco | r_lei  
-- Mont DU Fuji | r_lei  
-- Ruines DE Pétra | r_lei  
-- Delta DU Mékong | r_lei  
-- Grottes DE Cappadoce | r_lei  
-- Parc DE Yellowstone | r_lei  
-- Temple D'Égypte | r_lei  
-- Île DE Santorin | r_lei  
-- Vallée DE Napa | r_lei  
-- Forêt DE Schwarzwald | r_lei  
-- Plage DE Copacabana | r_lei  
-- Tour DE Dubaï | r_lei  
-- Lac DE Côme | r_lei  
-- Volcan D'Etna | r_lei  
-- Fjord DE Milford | r_lei  
-- Palais DE Bangkok | r_lei  
-- Désert DE Gobi | r_lei  
-- Îles DE Phi Phi | r_lei  
-- Cathédrale DE Barcelone | r_lei  
-- Montagne DES Alpes | r_lei  
-- Plage DE Miami | r_lei  
-- Temple DE Bali | r_lei  
-- Rivière DU Nil | r_lei  
-- Château DE Loire | r_lei  
-- Île DE Pâques | r_lei  
-- Parc DE Serengeti | r_lei  
-- Pont DE Brooklyn | r_lei  
-- Forêt DU Congo | r_lei  
-- Marché DE Istanbul | r_lei  
-- Mont DE l'Everest | r_lei  
-- Lac DE Genève | r_lei  
-- Ruines DE Machu Picchu | r_lei  
-- Désert DU Namib | r_lei  
-- Temple DE Lhassa | r_lei  
-- Plage DE Bora Bora | r_lei  
-- Cathédrale DE Florence | r_lei  
-- Fjord DE Geiranger | r_lei  
-- Palais DE Vienne | r_lei  
-- Îles DES Maldives | r_lei  
-- Montagne DU Caucase | r_lei  
-- Rivière D'Amazonie | r_lei  
-- Château D'Écosse | r_lei  
-- Parc DE Yosemite | r_lei  
-- Temple DE Borobudur | r_lei  
-- Plage DE Phuket | r_lei  
-- Tour DE Tokyo | r_lei  
-- Désert DE Mojave | r_lei  
-- Lac DU Titisee | r_lei  
-- Cathédrale DE Prague | r_lei  
-- Fjord DE Trolltunga | r_lei  
-- Palais DE Pékin | r_lei  
-- Île DE Capri | r_lei  
-- Montagne DES Pyrénées | r_lei  
-- Rivière DU Danube | r_lei  
-- Château DE Prague | r_lei  
-- Parc DU Kruger | r_lei  
-- Temple DE Siem Reap | r_lei  
-- Plage DE Zanzibar | r_lei  
-- Tour DE Séoul | r_lei  
-- Désert DU Kalahari | r_lei  
-- Lac DE Lucerne | r_lei  
-- Cathédrale DE Lisbonne | r_lei  
-- Fjord DE Sogne | r_lei  
-- Palais DE Jaipur | r_lei  
-- Île DE Hawaï | r_lei  
-- Montagne DU Tibet | r_lei
+Tour DE Pise | r_lieu  
+Sahara D'Algérie | r_lieu  
+Pyramides D'Égypte | r_lieu  
+Muraille DE Chine | r_lieu  
+Carnaval DE Rio | r_lieu  
+Canals D'Amsterdam | r_lieu  
+Temple D'Angkor | r_lieu  
+Colisée DE Rome | r_lieu  
+Taj Mahal D'Inde | r_lieu  
+Fjords DE Norvège | r_lieu  
+Machu Picchu DU Pérou | r_lieu  
+Statue DE New York | r_lieu  
+Opéra DE Sydney | r_lieu  
+Montagne DU Kilimandjaro | r_lieu  
+Chutes DU Niagara | r_lieu  
+Forêt D'Amazonie | r_lieu  
+Désert D'Atacama | r_lieu  
+Palais DE Versailles | r_lieu  
+Acropole D'Athènes | r_lieu  
+Lac DU Baïkal | r_lieu  
+Volcan DE Hawaï | r_lieu  
+Pont DE Lisbonne | r_lieu  
+Îles DES Galápagos | r_lieu  
+Glacier DE Patagonie | r_lieu  
+Marché DE Marrakech | r_lieu  
+Tour DE Londres | r_lieu  
+Cathédrale DE Moscou | r_lieu  
+Plage DE Bali | r_lieu  
+Temple DE Kyoto | r_lieu  
+Canyon DU Colorado | r_lieu  
+Château DE Bavière | r_lieu  
+Falaise D'Irlande | r_lieu  
+Souk DE Dubaï | r_lieu  
+Pont DE San Francisco | r_lieu  
+Mont DU Fuji | r_lieu  
+Ruines DE Pétra | r_lieu  
+Delta DU Mékong | r_lieu  
+Grottes DE Cappadoce | r_lieu  
+Parc DE Yellowstone | r_lieu  
+Temple D'Égypte | r_lieu  
+Île DE Santorin | r_lieu  
+Vallée DE Napa | r_lieu  
+Forêt DE Schwarzwald | r_lieu  
+Plage DE Copacabana | r_lieu  
+Tour DE Dubaï | r_lieu  
+Lac DE Côme | r_lieu  
+Volcan D'Etna | r_lieu  
+Fjord DE Milford | r_lieu  
+Palais DE Bangkok | r_lieu  
+Désert DE Gobi | r_lieu  
+Îles DE Phi Phi | r_lieu  
+Cathédrale DE Barcelone | r_lieu  
+Montagne DES Alpes | r_lieu  
+Plage DE Miami | r_lieu  
+Temple DE Bali | r_lieu  
+Rivière DU Nil | r_lieu  
+Château DE Loire | r_lieu  
+Île DE Pâques | r_lieu  
+Parc DE Serengeti | r_lieu  
+Pont DE Brooklyn | r_lieu  
+Forêt DU Congo | r_lieu  
+Marché DE Istanbul | r_lieu  
+Mont DE l'Everest | r_lieu  
+Lac DE Genève | r_lieu  
+Ruines DE Machu Picchu | r_lieu  
+Désert DU Namib | r_lieu  
+Temple DE Lhassa | r_lieu  
+Plage DE Bora Bora | r_lieu  
+Cathédrale DE Florence | r_lieu  
+Fjord DE Geiranger | r_lieu  
+Palais DE Vienne | r_lieu  
+Îles DES Maldives | r_lieu  
+Montagne DU Caucase | r_lieu  
+Rivière D'Amazonie | r_lieu  
+Château D'Écosse | r_lieu  
+Parc DE Yosemite | r_lieu  
+Temple DE Borobudur | r_lieu  
+Plage DE Phuket | r_lieu  
+Tour DE Tokyo | r_lieu  
+Désert DE Mojave | r_lieu  
+Lac DU Titisee | r_lieu  
+Cathédrale DE Prague | r_lieu  
+Fjord DE Trolltunga | r_lieu  
+Palais DE Pékin | r_lieu  
+Île DE Capri | r_lieu  
+Montagne DES Pyrénées | r_lieu  
+Rivière DU Danube | r_lieu  
+Château DE Prague | r_lieu  
+Parc DU Kruger | r_lieu  
+Temple DE Siem Reap | r_lieu  
+Plage DE Zanzibar | r_lieu  
+Tour DE Séoul | r_lieu  
+Désert DU Kalahari | r_lieu  
+Lac DE Lucerne | r_lieu  
+Cathédrale DE Lisbonne | r_lieu  
+Fjord DE Sogne | r_lieu  
+Palais DE Jaipur | r_lieu  
+Île DE Hawaï | r_lieu  
+Montagne DU Tibet | r_lieu
