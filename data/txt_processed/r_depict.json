@@ -1,0 +1,2008 @@
+[
+  {
+    "termA": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "paysage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "statue",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lion",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "dessin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fleur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "photographie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "montagne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "sculpture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "cheval",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "affiche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "film",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bateau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "portrait",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "femme",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "croquis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "arbre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "illustration",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "oiseau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fresque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bataille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "toile",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "coucher de soleil",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aquarelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "rivière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mosaïque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "poisson",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "esquisse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "visage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tableau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "forêt",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "image",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "château",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ville",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "océan",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "sculpture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ange",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "dessin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "chat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "photographie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "désert",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "affiche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "concert",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "portrait",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "enfant",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "croquis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "maison",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "illustration",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "dragon",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fresque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "marché",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "toile",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "prairie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aquarelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lac",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mosaïque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "étoile",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "esquisse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pont",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tableau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "village",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "image",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "cascade",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "temple",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "volcan",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "sculpture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "aigle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "dessin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "chien",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "photographie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "plage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "affiche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pièce de théâtre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "portrait",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "homme",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "croquis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "église",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "illustration",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fresque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "jardin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "toile",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "horizon",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aquarelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "île",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mosaïque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "arbre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "esquisse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tour",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tableau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "plaine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "image",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "glacier",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "palais",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ciel étoilé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "sculpture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ours",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "dessin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "rose",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "photographie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "forêt",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "affiche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "festival",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "portrait",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "couple",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "croquis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "port",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "illustration",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tigre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fresque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "carnaval",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "toile",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "vallée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aquarelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ruisseau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mosaïque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "soleil",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "esquisse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bateau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tableau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "champ",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "image",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "falaise",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "cathédrale",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lac gelé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "sculpture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "cerf",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "dessin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "papillon",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "photographie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "canyon",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "affiche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "exposition",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "portrait",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "famille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "croquis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "moulin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "illustration",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "loup",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fresque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "port",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "toile",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "mer",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aquarelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "nuage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mosaïque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lune",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "esquisse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "statue",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tableau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "verger",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "image",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "volcan",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "phare",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "aurore",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "sculpture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "éléphant",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "dessin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tulipe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "photographie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lac",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "affiche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "événement",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "portrait",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "vieillard",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "croquis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "château",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "illustration",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "renard",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fresque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "village",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "toile",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "désert",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "aquarelle",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "montagne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mosaïque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "oiseau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "esquisse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "arbre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tableau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "plage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "image",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "coucher de soleil",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fontaine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "peinture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "arc-en-ciel",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "D'",
+    "rel_type": "r_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "affiche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "concert",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "croquis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "maison",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "maquette",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "voiture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "schéma",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "moteur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "plan",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ville",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "icône",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "logiciel",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "logo",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "marque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gravure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pièce",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "illustration",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "conte",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "esquisse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "costume",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "affiche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "exposition",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "photographie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "rue",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "carte",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pays",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mosaïque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "poisson",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "croquis",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "meuble",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "illustration",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "scène",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fresque",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "village",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "affiche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "campagne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "logo",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "équipe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r\\_depict",
+    "det": false
+  }
+]

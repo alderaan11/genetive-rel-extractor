@@ -66,7 +66,6 @@ def parse_txt(corpus_dir: Path, output_dir: Path):
                 if prep_enum is None:
                     continue
 
-                # Détection déterminant
                 DET = False
                 if (relation_type == "r_own-1"): 
                     termB_strcopy = termB_str.lower()

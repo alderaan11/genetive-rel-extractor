@@ -1,0 +1,70 @@
+@startuml
+title Diagramme de classes - Classification des relations génitives
+
+class TextLoader {
+- base_dir : Path
+- _parse_line(line): Tuple
++ load_directory() : List<RelationInstance>
++ save_to_json(dataset, output_path)
+}
+
+
+class JdmCall{
+- BASE_URL: str
+- delay: float
+- node_cache: Dict
+- relation_types: List
+- rel_ids: Dict
+- _get_relation_types()
+- _get_required_relation_ids()
+- _fetch_relation(term, rel_type)
+- _getch_refinements(term)
++ enrich(dataset) : List<RelationInstance>
+}
+
+class Relation{
++ name: str
++ weight: float
+}
+
+class Term {
++ name: str
++ r_isa : List<Relation>
++ r_raff_sem : List<Relation>
++ r_pos : List<Relation>
++ build_vector(): Dict<str, float>
+}
+
+class RelationInstance{
++ prep: str
++ rel_type: str
++ det: bool
++ termA: Term
++ termB: Term
+}
+
+class FeatureExtractor{
+- global_vocab: set<str>
+- _to_vector_Sapce(vecA, vecB)
+- _cosine(x, y)
+- _jaccard(setA, setB)
++ extract_features(instance: RelationInstance): Dict<str, float>
++ vectorize_Features(features: List[Dict[str, float]]): (np.ndarray, List[str])
+}
+
+class StatisticsManager{
+- dataset : List<RelationInstance>
++ avg_relation_counts(): Dict<str, float>
++ weight_distributions(): Dict<str, List[float]>
++ plot_distirbutions()
++ relation_type_distribution()
+}
+
+
+TextLoader --> RelationInstance
+RelationInstance --> Term
+Term --> Relation
+JdmCall --> Term
+FeatureExtractor --> RelationInstance
+StatisticsManager --> RelationInstance
+@enduml

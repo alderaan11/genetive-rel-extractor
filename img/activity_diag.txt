@@ -1,0 +1,30 @@
+@startuml
+title Activity Diagram (Pipeline)
+
+start
+:Read .text files (15 classes of genetive);
+:Extract RelationInstance object;
+:Save as raw JSON;
+:Init JdmCall;
+repeat
+:for each RelationInstance;
+:API JDM call for termA and termB;
+:Add r_isa, r_raff_sem, r_pos;
+repeat while
+
+:Save enriched JSON;
+
+:With FeatureExtractor, construct semantic vectors;
+:Analyse distributions (StatisticsManager);
+
+:Extract the features;
+:Create matrix X;
+if (learning phase) then (yes)
+:Train RelationClassifier;
+:Save model;
+else(no)
+:Charge model;
+:Validation phase;
+endif
+stop
+@enduml

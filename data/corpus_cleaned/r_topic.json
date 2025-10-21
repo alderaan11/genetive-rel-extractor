@@ -1,0 +1,9773 @@
+[
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "restaurant",
+      "r_isa": [
+        {
+          "name": "commerce",
+          "weight": 147.0
+        },
+        {
+          "name": "pain",
+          "weight": 35.0
+        },
+        {
+          "name": "établissement",
+          "weight": 144.0
+        },
+        {
+          "name": "aliment",
+          "weight": 30.0
+        },
+        {
+          "name": "personne",
+          "weight": 28.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 25.0
+        },
+        {
+          "name": "endroit",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu",
+          "weight": 90.0
+        },
+        {
+          "name": "établissement commercial",
+          "weight": 153.0
+        },
+        {
+          "name": "établissement de commerce",
+          "weight": 104.0
+        },
+        {
+          "name": "établissement de restauration",
+          "weight": 63.0
+        },
+        {
+          "name": "lieu de restauration",
+          "weight": 158.0
+        },
+        {
+          "name": "partie de l'espace",
+          "weight": 34.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "restaurant",
+          "weight": 6017.0
+        },
+        {
+          "name": "pain",
+          "weight": 5703.0
+        },
+        {
+          "name": "repas",
+          "weight": 5956.0
+        },
+        {
+          "name": "établissement",
+          "weight": 3379.0
+        },
+        {
+          "name": "restaurer",
+          "weight": 663.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "restau",
+          "weight": 182.0
+        },
+        {
+          "name": "adj",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 171.0
+        },
+        {
+          "name": "adj",
+          "weight": 45.0
+        },
+        {
+          "name": "ver",
+          "weight": 54.0
+        },
+        {
+          "name": "number",
+          "weight": 65.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sushis",
+      "r_isa": [
+        {
+          "name": "préparations culinaires",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sushis",
+          "weight": 12.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 65.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "livre",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 190.0
+        },
+        {
+          "name": "monnaie",
+          "weight": 579.0
+        },
+        {
+          "name": "ouvrage",
+          "weight": 748.0
+        },
+        {
+          "name": "étalon",
+          "weight": 27.0
+        },
+        {
+          "name": "document",
+          "weight": 120.0
+        },
+        {
+          "name": "assemblage",
+          "weight": 676.0
+        },
+        {
+          "name": "texte",
+          "weight": 695.0
+        },
+        {
+          "name": "unité",
+          "weight": 30.0
+        },
+        {
+          "name": "pièce",
+          "weight": 30.0
+        },
+        {
+          "name": "unité monétaire",
+          "weight": 25.0
+        },
+        {
+          "name": "chanson",
+          "weight": 25.0
+        },
+        {
+          "name": "chose",
+          "weight": 106.0
+        },
+        {
+          "name": "collection",
+          "weight": 108.0
+        },
+        {
+          "name": "publication",
+          "weight": 127.0
+        },
+        {
+          "name": "poids",
+          "weight": 101.0
+        },
+        {
+          "name": "écrit",
+          "weight": 23.0
+        },
+        {
+          "name": "devise",
+          "weight": 181.0
+        },
+        {
+          "name": "lieu",
+          "weight": 106.0
+        },
+        {
+          "name": "objet d'art",
+          "weight": 108.0
+        },
+        {
+          "name": "argent",
+          "weight": 468.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 116.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 108.0
+        },
+        {
+          "name": "unité de mesure",
+          "weight": 72.0
+        },
+        {
+          "name": "unité de masse",
+          "weight": 74.0
+        },
+        {
+          "name": "support d'information",
+          "weight": 31.0
+        },
+        {
+          "name": "monnaie de compte",
+          "weight": 591.0
+        },
+        {
+          "name": "oeuvre littéraire",
+          "weight": 38.0
+        },
+        {
+          "name": "oeuvre de l'esprit",
+          "weight": 683.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 25.0
+        },
+        {
+          "name": "entité physique",
+          "weight": 31.0
+        },
+        {
+          "name": "texte imprimé",
+          "weight": 707.0
+        },
+        {
+          "name": "unité de monnaie",
+          "weight": 31.0
+        },
+        {
+          "name": "objet inanimé",
+          "weight": 116.0
+        },
+        {
+          "name": "document écrit",
+          "weight": 162.0
+        },
+        {
+          "name": "une unité de mesure",
+          "weight": 25.0
+        },
+        {
+          "name": "assemblage de feuilles",
+          "weight": 783.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "livre",
+          "weight": 16795.0
+        },
+        {
+          "name": "monnaie",
+          "weight": 6388.0
+        },
+        {
+          "name": "commerce",
+          "weight": 10473.0
+        },
+        {
+          "name": "lecture",
+          "weight": 6344.0
+        },
+        {
+          "name": "diplomatie",
+          "weight": 3821.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "unité de masse",
+          "weight": 107.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 147.0
+        },
+        {
+          "name": "ver",
+          "weight": 60.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 48.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 29.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "science-fiction",
+      "r_isa": [
+        {
+          "name": "littérature",
+          "weight": 189.0
+        },
+        {
+          "name": "genre",
+          "weight": 83.0
+        },
+        {
+          "name": "genre littéraire",
+          "weight": 25.0
+        },
+        {
+          "name": "genre cinématographique",
+          "weight": 172.0
+        },
+        {
+          "name": "genre narratif",
+          "weight": 236.0
+        },
+        {
+          "name": "entité biologique",
+          "weight": 40.0
+        },
+        {
+          "name": "thème majeur",
+          "weight": 37.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "science-fiction",
+          "weight": 3191.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 123.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "émission",
+      "r_isa": [
+        {
+          "name": "reportage",
+          "weight": 38.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "programme",
+          "weight": 29.0
+        },
+        {
+          "name": "débat télévisé",
+          "weight": 20.0
+        },
+        {
+          "name": "programme télévisé",
+          "weight": 31.0
+        },
+        {
+          "name": "processus physique",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "émission",
+          "weight": 3908.0
+        },
+        {
+          "name": "émettre",
+          "weight": 2192.0
+        },
+        {
+          "name": "physique",
+          "weight": 7948.0
+        },
+        {
+          "name": "finances",
+          "weight": 3121.0
+        },
+        {
+          "name": "biologie",
+          "weight": 6296.0
+        },
+        {
+          "name": "médias",
+          "weight": 6953.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 107.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "cuisine",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 57.0
+        },
+        {
+          "name": "batterie",
+          "weight": 59.0
+        },
+        {
+          "name": "loisir",
+          "weight": 53.0
+        },
+        {
+          "name": "ensemble",
+          "weight": 26.0
+        },
+        {
+          "name": "ensemble des techniques",
+          "weight": 28.0
+        },
+        {
+          "name": "pièce",
+          "weight": 69.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "endroit",
+          "weight": 29.0
+        },
+        {
+          "name": "lieu",
+          "weight": 42.0
+        },
+        {
+          "name": "salle",
+          "weight": 69.0
+        },
+        {
+          "name": "espace",
+          "weight": 28.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "portion de l'espace",
+          "weight": 28.0
+        },
+        {
+          "name": "partie de",
+          "weight": 25.0
+        },
+        {
+          "name": "partie de l'espace",
+          "weight": 26.0
+        },
+        {
+          "name": "partie de quelque chose",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cuisine",
+          "weight": 15773.0
+        },
+        {
+          "name": "personnel",
+          "weight": 5568.0
+        },
+        {
+          "name": "pièce",
+          "weight": 8144.0
+        },
+        {
+          "name": "intrigue",
+          "weight": 1018.0
+        },
+        {
+          "name": "art culinaire",
+          "weight": 1155.0
+        },
+        {
+          "name": "ustensiles",
+          "weight": 167.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 151.0
+        },
+        {
+          "name": "ver",
+          "weight": 55.0
+        },
+        {
+          "name": "number",
+          "weight": 55.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 49.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "article",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 31.0
+        },
+        {
+          "name": "pièce jointe",
+          "weight": 189.0
+        },
+        {
+          "name": "mot",
+          "weight": 57.0
+        },
+        {
+          "name": "document",
+          "weight": 54.0
+        },
+        {
+          "name": "pj",
+          "weight": 26.0
+        },
+        {
+          "name": "texte",
+          "weight": 59.0
+        },
+        {
+          "name": "écrit",
+          "weight": 28.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "nature",
+          "weight": 88.0
+        },
+        {
+          "name": "catégorie lexicale",
+          "weight": 46.0
+        },
+        {
+          "name": "document joint",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "article",
+          "weight": 12588.0
+        },
+        {
+          "name": "botanique",
+          "weight": 4092.0
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385.0
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727.0
+        },
+        {
+          "name": "mycologie",
+          "weight": 282.0
+        },
+        {
+          "name": "loi",
+          "weight": 17508.0
+        },
+        {
+          "name": "magasin",
+          "weight": 4138.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 117.0
+        },
+        {
+          "name": "ver",
+          "weight": 65.0
+        },
+        {
+          "name": "number",
+          "weight": 65.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 37.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 26.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "politique",
+      "r_isa": [
+        {
+          "name": "être",
+          "weight": 27.0
+        },
+        {
+          "name": "animal",
+          "weight": 26.0
+        },
+        {
+          "name": "être humain",
+          "weight": 16.0
+        },
+        {
+          "name": "gestion",
+          "weight": 161.0
+        },
+        {
+          "name": "jeu",
+          "weight": 32.0
+        },
+        {
+          "name": "eucaryote",
+          "weight": 27.0
+        },
+        {
+          "name": "métazoaire",
+          "weight": 26.0
+        },
+        {
+          "name": "mammifère",
+          "weight": 25.0
+        },
+        {
+          "name": "organisme vivant",
+          "weight": 26.0
+        },
+        {
+          "name": "individu",
+          "weight": 51.0
+        },
+        {
+          "name": "être vivant",
+          "weight": 16.0
+        },
+        {
+          "name": "traitement",
+          "weight": 32.0
+        },
+        {
+          "name": "homme",
+          "weight": 35.0
+        },
+        {
+          "name": "vertébré",
+          "weight": 25.0
+        },
+        {
+          "name": "tétrapode",
+          "weight": 25.0
+        },
+        {
+          "name": "gnathostome",
+          "weight": 25.0
+        },
+        {
+          "name": "être animé",
+          "weight": 23.0
+        },
+        {
+          "name": "euthérien",
+          "weight": 25.0
+        },
+        {
+          "name": "amniote",
+          "weight": 25.0
+        },
+        {
+          "name": "deutérostomien",
+          "weight": 26.0
+        },
+        {
+          "name": "personne",
+          "weight": 16.0
+        },
+        {
+          "name": "dirigeant",
+          "weight": 28.0
+        },
+        {
+          "name": "cordé",
+          "weight": 25.0
+        },
+        {
+          "name": "personne physique",
+          "weight": 27.0
+        },
+        {
+          "name": "personne humaine",
+          "weight": 25.0
+        },
+        {
+          "name": "activité humaine",
+          "weight": 32.0
+        },
+        {
+          "name": "organisation sociale",
+          "weight": 61.0
+        },
+        {
+          "name": "organisme",
+          "weight": 26.0
+        },
+        {
+          "name": "humain",
+          "weight": 25.0
+        },
+        {
+          "name": "chordé",
+          "weight": 25.0
+        },
+        {
+          "name": "entité vivante",
+          "weight": 26.0
+        },
+        {
+          "name": "bilatérien",
+          "weight": 25.0
+        },
+        {
+          "name": "crânié",
+          "weight": 25.0
+        },
+        {
+          "name": "eumétazoaire",
+          "weight": 28.0
+        },
+        {
+          "name": "épineurien",
+          "weight": 25.0
+        },
+        {
+          "name": "thérien",
+          "weight": 26.0
+        },
+        {
+          "name": "crâniate",
+          "weight": 25.0
+        },
+        {
+          "name": "synapside",
+          "weight": 25.0
+        },
+        {
+          "name": "entité physique",
+          "weight": 26.0
+        },
+        {
+          "name": "olfactorien",
+          "weight": 25.0
+        },
+        {
+          "name": "uniconte",
+          "weight": 26.0
+        },
+        {
+          "name": "opisthoconte",
+          "weight": 27.0
+        },
+        {
+          "name": "holozoaire",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "politique",
+          "weight": 30812.0
+        },
+        {
+          "name": "stratégie",
+          "weight": 24557.0
+        },
+        {
+          "name": "affaires publiques",
+          "weight": 239.0
+        },
+        {
+          "name": "individu",
+          "weight": 10637.0
+        },
+        {
+          "name": "prisonnier",
+          "weight": 2922.0
+        },
+        {
+          "name": "habile",
+          "weight": 300.0
+        },
+        {
+          "name": "adj",
+          "weight": 50.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "manière de gouverner",
+          "weight": 71.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 187.0
+        },
+        {
+          "name": "adj",
+          "weight": 182.0
+        },
+        {
+          "name": "ver",
+          "weight": 60.0
+        },
+        {
+          "name": "number",
+          "weight": 49.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 49.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 32.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "magazine",
+      "r_isa": [
+        {
+          "name": "journal",
+          "weight": 53.0
+        },
+        {
+          "name": "document",
+          "weight": 53.0
+        },
+        {
+          "name": "publication",
+          "weight": 1.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "magazine",
+          "weight": 3447.0
+        },
+        {
+          "name": "audiovisuel",
+          "weight": 1110.0
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 74.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "mode",
+      "r_isa": [
+        {
+          "name": "américanisme",
+          "weight": 24.0
+        },
+        {
+          "name": "vague",
+          "weight": 55.0
+        },
+        {
+          "name": "phénomène",
+          "weight": 25.0
+        },
+        {
+          "name": "stylisme",
+          "weight": 16.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "style",
+          "weight": 13.0
+        },
+        {
+          "name": "trait grammatical",
+          "weight": 19.0
+        },
+        {
+          "name": "phénomène social",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "mode",
+          "weight": 7290.0
+        },
+        {
+          "name": "statistiques",
+          "weight": 5546.0
+        },
+        {
+          "name": "onde",
+          "weight": 2455.0
+        },
+        {
+          "name": "manière",
+          "weight": 9978.0
+        },
+        {
+          "name": "vogue",
+          "weight": 132.0
+        },
+        {
+          "name": "physique",
+          "weight": 7948.0
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727.0
+        },
+        {
+          "name": "méthode",
+          "weight": 8650.0
+        },
+        {
+          "name": "musique",
+          "weight": 20837.0
+        },
+        {
+          "name": "astrologie",
+          "weight": 852.0
+        },
+        {
+          "name": "habillement",
+          "weight": 773.0
+        },
+        {
+          "name": "informatique",
+          "weight": 5324.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "adj",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 273.0
+        },
+        {
+          "name": "adj",
+          "weight": 54.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cours",
+          "weight": 13498.0
+        },
+        {
+          "name": "durée",
+          "weight": 6492.0
+        },
+        {
+          "name": "droit",
+          "weight": 21838.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768.0
+        },
+        {
+          "name": "avenue",
+          "weight": 1618.0
+        },
+        {
+          "name": "étendue",
+          "weight": 3390.0
+        },
+        {
+          "name": "écoulement",
+          "weight": 566.0
+        },
+        {
+          "name": "cote",
+          "weight": 184.0
+        },
+        {
+          "name": "évolution",
+          "weight": 19386.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 112.0
+        },
+        {
+          "name": "ver",
+          "weight": 57.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 36.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 29.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "mathématiques",
+      "r_isa": [
+        {
+          "name": "savoir",
+          "weight": 101.0
+        },
+        {
+          "name": "science",
+          "weight": 124.0
+        },
+        {
+          "name": "discipline",
+          "weight": 237.0
+        },
+        {
+          "name": "matière",
+          "weight": 106.0
+        },
+        {
+          "name": "science grecque",
+          "weight": 210.0
+        },
+        {
+          "name": "discipline académique",
+          "weight": 26.0
+        },
+        {
+          "name": "science formelle",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "mathématiques",
+          "weight": 11821.0
+        },
+        {
+          "name": "science",
+          "weight": 11552.0
+        },
+        {
+          "name": "adj",
+          "weight": 50.0
+        },
+        {
+          "name": "cours",
+          "weight": 13498.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 122.0
+        },
+        {
+          "name": "adj",
+          "weight": 62.0
+        },
+        {
+          "name": "number",
+          "weight": 68.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "exposition",
+      "r_isa": [
+        {
+          "name": "technique",
+          "weight": 34.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "galerie",
+          "weight": 68.0
+        },
+        {
+          "name": "salon",
+          "weight": 53.0
+        },
+        {
+          "name": "grandeur",
+          "weight": 26.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        },
+        {
+          "name": "degré",
+          "weight": 25.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "exposition",
+          "weight": 5671.0
+        },
+        {
+          "name": "art",
+          "weight": 12941.0
+        },
+        {
+          "name": "exposer",
+          "weight": 2057.0
+        },
+        {
+          "name": "orientation",
+          "weight": 2368.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 132.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "peinture",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 30.0
+        },
+        {
+          "name": "décoration",
+          "weight": 19.0
+        },
+        {
+          "name": "art",
+          "weight": 26.0
+        },
+        {
+          "name": "substance",
+          "weight": 35.0
+        },
+        {
+          "name": "description",
+          "weight": 35.0
+        },
+        {
+          "name": "représentation",
+          "weight": 28.0
+        },
+        {
+          "name": "hobby",
+          "weight": 58.0
+        },
+        {
+          "name": "tableau",
+          "weight": 74.0
+        },
+        {
+          "name": "architecture",
+          "weight": 55.0
+        },
+        {
+          "name": "exposition",
+          "weight": 55.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        },
+        {
+          "name": "passe-temps",
+          "weight": 14.0
+        },
+        {
+          "name": "lieu",
+          "weight": 59.0
+        },
+        {
+          "name": "objet d'art",
+          "weight": 16.0
+        },
+        {
+          "name": "forme",
+          "weight": 10.0
+        },
+        {
+          "name": "libellé",
+          "weight": 15.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 58.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 51.0
+        },
+        {
+          "name": "street art",
+          "weight": 17.0
+        },
+        {
+          "name": "art grec",
+          "weight": 26.0
+        },
+        {
+          "name": "expression artistique",
+          "weight": 30.0
+        },
+        {
+          "name": "substances",
+          "weight": 20.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "art visuel",
+          "weight": 29.0
+        },
+        {
+          "name": "forme artistique",
+          "weight": 10.0
+        },
+        {
+          "name": "forme d'art visuel",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "peinture",
+          "weight": 6523.0
+        },
+        {
+          "name": "substance pigmentée",
+          "weight": 52.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "art",
+          "weight": 12941.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "tableau",
+          "weight": 4994.0
+        },
+        {
+          "name": "description",
+          "weight": 3974.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 110.0
+        },
+        {
+          "name": "ver",
+          "weight": 56.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 32.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 26.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "spectacle",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 54.0
+        },
+        {
+          "name": "événement",
+          "weight": 27.0
+        },
+        {
+          "name": "représentation",
+          "weight": 9.0
+        },
+        {
+          "name": "performance",
+          "weight": 31.0
+        },
+        {
+          "name": "mot-valise",
+          "weight": 29.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "évènement",
+          "weight": 26.0
+        },
+        {
+          "name": "art dramatique",
+          "weight": 55.0
+        },
+        {
+          "name": "plaisir partagé",
+          "weight": 27.0
+        },
+        {
+          "name": "jeu d'acteur",
+          "weight": 27.0
+        },
+        {
+          "name": "jeu de scène",
+          "weight": 35.0
+        },
+        {
+          "name": "arts du spectacle",
+          "weight": 25.0
+        },
+        {
+          "name": "arts de la scène",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "spectacle",
+          "weight": 5930.0
+        },
+        {
+          "name": "vue d'ensemble",
+          "weight": 73.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 3280.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 148.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "danse",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 219.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 84.0
+        },
+        {
+          "name": "sport",
+          "weight": 148.0
+        },
+        {
+          "name": "performance",
+          "weight": 35.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 33.0
+        },
+        {
+          "name": "action",
+          "weight": 37.0
+        },
+        {
+          "name": "lieu",
+          "weight": 55.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 31.0
+        },
+        {
+          "name": "genre musical",
+          "weight": 26.0
+        },
+        {
+          "name": "spectacle vivant",
+          "weight": 13.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 34.0
+        },
+        {
+          "name": "activité artistique",
+          "weight": 26.0
+        },
+        {
+          "name": "air de musique",
+          "weight": 41.0
+        },
+        {
+          "name": "enseignement optionnel",
+          "weight": 133.0
+        },
+        {
+          "name": "style de musique",
+          "weight": 28.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "art vivant",
+          "weight": 221.0
+        },
+        {
+          "name": "style musical",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "danse",
+          "weight": 4314.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "art de mouvoir le corps",
+          "weight": 25.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "raclée",
+          "weight": 237.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 335.0
+        },
+        {
+          "name": "ver",
+          "weight": 85.0
+        },
+        {
+          "name": "number",
+          "weight": 85.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 59.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 35.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "blog",
+      "r_isa": [
+        {
+          "name": "lieu",
+          "weight": 70.0
+        },
+        {
+          "name": "site web",
+          "weight": 46.0
+        },
+        {
+          "name": "site internet",
+          "weight": 41.0
+        },
+        {
+          "name": "website",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "blog",
+          "weight": 574.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 58.0
+        },
+        {
+          "name": "ver",
+          "weight": 10.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 10.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 10.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 10.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 10.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "voyage",
+      "r_isa": [
+        {
+          "name": "déplacement",
+          "weight": 13.0
+        },
+        {
+          "name": "aventure",
+          "weight": 13.0
+        },
+        {
+          "name": "loisir",
+          "weight": 13.0
+        },
+        {
+          "name": "activité",
+          "weight": 29.0
+        },
+        {
+          "name": "exploration",
+          "weight": 32.0
+        },
+        {
+          "name": "fantasme",
+          "weight": 28.0
+        },
+        {
+          "name": "action",
+          "weight": 30.0
+        },
+        {
+          "name": "passe-temps",
+          "weight": 69.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "déplacement dans l'espace",
+          "weight": 34.0
+        },
+        {
+          "name": "événement positif",
+          "weight": 31.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "voyage",
+          "weight": 9744.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "déplacement",
+          "weight": 5858.0
+        },
+        {
+          "name": "tourisme",
+          "weight": 6329.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 132.0
+        },
+        {
+          "name": "ver",
+          "weight": 56.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 28.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 27.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "atelier",
+          "weight": 1854.0
+        },
+        {
+          "name": "garage",
+          "weight": 1388.0
+        },
+        {
+          "name": "artiste",
+          "weight": 5462.0
+        },
+        {
+          "name": "rencontre",
+          "weight": 6604.0
+        },
+        {
+          "name": "usine",
+          "weight": 3050.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 90.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "poterie",
+      "r_isa": [
+        {
+          "name": "tournage",
+          "weight": 54.0
+        },
+        {
+          "name": "art",
+          "weight": 55.0
+        },
+        {
+          "name": "commerce",
+          "weight": 54.0
+        },
+        {
+          "name": "artisanat",
+          "weight": 38.0
+        },
+        {
+          "name": "architecture",
+          "weight": 59.0
+        },
+        {
+          "name": "industrie",
+          "weight": 55.0
+        },
+        {
+          "name": "métier",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "vente",
+          "weight": 55.0
+        },
+        {
+          "name": "histoire",
+          "weight": 57.0
+        },
+        {
+          "name": "céramique",
+          "weight": 60.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "poterie",
+          "weight": 459.0
+        },
+        {
+          "name": "objet",
+          "weight": 8719.0
+        },
+        {
+          "name": "fabrication",
+          "weight": 4795.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 78.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "journal",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 46.0
+        },
+        {
+          "name": "partie",
+          "weight": 30.0
+        },
+        {
+          "name": "périodique",
+          "weight": 90.0
+        },
+        {
+          "name": "information",
+          "weight": 60.0
+        },
+        {
+          "name": "document",
+          "weight": 51.0
+        },
+        {
+          "name": "texte",
+          "weight": 54.0
+        },
+        {
+          "name": "mensuel",
+          "weight": 68.0
+        },
+        {
+          "name": "média",
+          "weight": 62.0
+        },
+        {
+          "name": "lecture",
+          "weight": 68.0
+        },
+        {
+          "name": "papier",
+          "weight": 84.0
+        },
+        {
+          "name": "publication",
+          "weight": 1.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "livre",
+          "weight": 83.0
+        },
+        {
+          "name": "media",
+          "weight": 62.0
+        },
+        {
+          "name": "unité de mesure",
+          "weight": 40.0
+        },
+        {
+          "name": "voie de communication",
+          "weight": 25.0
+        },
+        {
+          "name": "presse gratuite",
+          "weight": 25.0
+        },
+        {
+          "name": "document comptable",
+          "weight": 53.0
+        },
+        {
+          "name": "infos",
+          "weight": 31.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 25.0
+        },
+        {
+          "name": "une unité de mesure",
+          "weight": 25.0
+        },
+        {
+          "name": "partie d'un système",
+          "weight": 25.0
+        },
+        {
+          "name": "texte rédigé",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "journal",
+          "weight": 8840.0
+        },
+        {
+          "name": "comptabilité",
+          "weight": 577.0
+        },
+        {
+          "name": "agriculture",
+          "weight": 9915.0
+        },
+        {
+          "name": "informatique",
+          "weight": 5324.0
+        },
+        {
+          "name": "émission",
+          "weight": 3908.0
+        },
+        {
+          "name": "publication",
+          "weight": 6145.0
+        },
+        {
+          "name": "journal intime",
+          "weight": 296.0
+        },
+        {
+          "name": "journal de bord",
+          "weight": 84.0
+        },
+        {
+          "name": "adj",
+          "weight": 50.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 206.0
+        },
+        {
+          "name": "adj",
+          "weight": 60.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sport",
+      "r_isa": [
+        {
+          "name": "passion",
+          "weight": 75.0
+        },
+        {
+          "name": "élément",
+          "weight": 29.0
+        },
+        {
+          "name": "loisir",
+          "weight": 80.0
+        },
+        {
+          "name": "culture physique",
+          "weight": 25.0
+        },
+        {
+          "name": "jeu",
+          "weight": 72.0
+        },
+        {
+          "name": "activité",
+          "weight": 86.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 79.0
+        },
+        {
+          "name": "hobby",
+          "weight": 64.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 53.0
+        },
+        {
+          "name": "passe-temps",
+          "weight": 72.0
+        },
+        {
+          "name": "discipline",
+          "weight": 69.0
+        },
+        {
+          "name": "plante",
+          "weight": 25.0
+        },
+        {
+          "name": "exercice physique",
+          "weight": 35.0
+        },
+        {
+          "name": "activité physique",
+          "weight": 25.0
+        },
+        {
+          "name": "entraînement physique",
+          "weight": 25.0
+        },
+        {
+          "name": "dépense physique",
+          "weight": 25.0
+        },
+        {
+          "name": "élément important",
+          "weight": 29.0
+        },
+        {
+          "name": "activité populaire",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sport",
+          "weight": 8679.0
+        },
+        {
+          "name": "décontracté",
+          "weight": 212.0
+        },
+        {
+          "name": "activité physique",
+          "weight": 1222.0
+        },
+        {
+          "name": "agitation",
+          "weight": 493.0
+        },
+        {
+          "name": "fair-play",
+          "weight": 295.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 210.0
+        },
+        {
+          "name": "adj",
+          "weight": 63.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "événement",
+      "r_isa": [
+        {
+          "name": "sous-ensemble",
+          "weight": 37.0
+        },
+        {
+          "name": "concept",
+          "weight": 90.0
+        },
+        {
+          "name": "performance",
+          "weight": 25.0
+        },
+        {
+          "name": "fait",
+          "weight": 180.0
+        },
+        {
+          "name": "issue",
+          "weight": 105.0
+        },
+        {
+          "name": "action",
+          "weight": 105.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 10.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 23.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "événement",
+          "weight": 9496.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 83.0
+        },
+        {
+          "name": "adj",
+          "weight": 20.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "charité",
+      "r_isa": [
+        {
+          "name": "qualité",
+          "weight": 1.0
+        },
+        {
+          "name": "vertu",
+          "weight": 30.0
+        },
+        {
+          "name": "hôpital",
+          "weight": 34.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "charité",
+          "weight": 495.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 61.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cours",
+          "weight": 13498.0
+        },
+        {
+          "name": "durée",
+          "weight": 6492.0
+        },
+        {
+          "name": "droit",
+          "weight": 21838.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768.0
+        },
+        {
+          "name": "avenue",
+          "weight": 1618.0
+        },
+        {
+          "name": "étendue",
+          "weight": 3390.0
+        },
+        {
+          "name": "écoulement",
+          "weight": 566.0
+        },
+        {
+          "name": "cote",
+          "weight": 184.0
+        },
+        {
+          "name": "évolution",
+          "weight": 19386.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 112.0
+        },
+        {
+          "name": "ver",
+          "weight": 57.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 36.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 29.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "yoga",
+      "r_isa": [
+        {
+          "name": "technique",
+          "weight": 89.0
+        },
+        {
+          "name": "sport",
+          "weight": 98.0
+        },
+        {
+          "name": "lieu",
+          "weight": 98.0
+        },
+        {
+          "name": "libération",
+          "weight": 85.0
+        },
+        {
+          "name": "médecine douce",
+          "weight": 188.0
+        },
+        {
+          "name": "médecine alternative",
+          "weight": 26.0
+        },
+        {
+          "name": "médecine parallèle",
+          "weight": 34.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "traitement non médicamenteux",
+          "weight": 2.0
+        },
+        {
+          "name": "pratique de bien-être",
+          "weight": 30.0
+        },
+        {
+          "name": "discipline corps-esprit",
+          "weight": 31.0
+        },
+        {
+          "name": "pratique indienne",
+          "weight": 31.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "yoga",
+          "weight": 363.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 114.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "film",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 29.0
+        },
+        {
+          "name": "production",
+          "weight": 36.0
+        },
+        {
+          "name": "&oelig;uvre",
+          "weight": 25.0
+        },
+        {
+          "name": "support",
+          "weight": 36.0
+        },
+        {
+          "name": "bobine",
+          "weight": 87.0
+        },
+        {
+          "name": "représentation",
+          "weight": 69.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 81.0
+        },
+        {
+          "name": "récit",
+          "weight": 87.0
+        },
+        {
+          "name": "emballage",
+          "weight": 186.0
+        },
+        {
+          "name": "lieu",
+          "weight": 59.0
+        },
+        {
+          "name": "pellicule",
+          "weight": 23.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 36.0
+        },
+        {
+          "name": "histoire",
+          "weight": 89.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 136.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 269.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 118.0
+        },
+        {
+          "name": "representation",
+          "weight": 36.0
+        },
+        {
+          "name": "oeuvre audiovisuelle",
+          "weight": 115.0
+        },
+        {
+          "name": "oeuvre artistique",
+          "weight": 35.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 108.0
+        },
+        {
+          "name": "oeuvre culturelle",
+          "weight": 108.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "film",
+          "weight": 11371.0
+        },
+        {
+          "name": "couche mince",
+          "weight": 52.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 100.0
+        },
+        {
+          "name": "pellicule",
+          "weight": 329.0
+        },
+        {
+          "name": "photographie",
+          "weight": 5025.0
+        },
+        {
+          "name": "industrie du cinéma",
+          "weight": 60.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 150.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "science",
+      "r_isa": [
+        {
+          "name": "technique",
+          "weight": 139.0
+        },
+        {
+          "name": "matière",
+          "weight": 145.0
+        },
+        {
+          "name": "savoir",
+          "weight": 139.0
+        },
+        {
+          "name": "domaine",
+          "weight": 145.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "science",
+          "weight": 11555.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 143.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "conférence",
+      "r_isa": [
+        {
+          "name": "happening",
+          "weight": 25.0
+        },
+        {
+          "name": "événement",
+          "weight": 156.0
+        },
+        {
+          "name": "association",
+          "weight": 32.0
+        },
+        {
+          "name": "réunion",
+          "weight": 162.0
+        },
+        {
+          "name": "fruit",
+          "weight": 51.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "évènement",
+          "weight": 242.0
+        },
+        {
+          "name": "poire",
+          "weight": 27.0
+        },
+        {
+          "name": "société",
+          "weight": 36.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 54.0
+        },
+        {
+          "name": "présentation académique",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "conférence",
+          "weight": 4236.0
+        },
+        {
+          "name": "exposé public",
+          "weight": 58.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "réunion",
+          "weight": 4357.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "poire",
+          "weight": 1078.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 139.0
+        },
+        {
+          "name": "ver",
+          "weight": 58.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 53.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 30.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 29.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "technologie",
+      "r_isa": [
+        {
+          "name": "technique",
+          "weight": 13.0
+        },
+        {
+          "name": "linguistique",
+          "weight": 13.0
+        },
+        {
+          "name": "concept",
+          "weight": 29.0
+        },
+        {
+          "name": "science",
+          "weight": 78.0
+        },
+        {
+          "name": "innovation",
+          "weight": 29.0
+        },
+        {
+          "name": "discipline",
+          "weight": 145.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "technologie",
+          "weight": 17775.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 172.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "article",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 31.0
+        },
+        {
+          "name": "pièce jointe",
+          "weight": 189.0
+        },
+        {
+          "name": "mot",
+          "weight": 57.0
+        },
+        {
+          "name": "document",
+          "weight": 54.0
+        },
+        {
+          "name": "pj",
+          "weight": 26.0
+        },
+        {
+          "name": "texte",
+          "weight": 59.0
+        },
+        {
+          "name": "écrit",
+          "weight": 28.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "nature",
+          "weight": 88.0
+        },
+        {
+          "name": "catégorie lexicale",
+          "weight": 46.0
+        },
+        {
+          "name": "document joint",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "article",
+          "weight": 12588.0
+        },
+        {
+          "name": "botanique",
+          "weight": 4092.0
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385.0
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727.0
+        },
+        {
+          "name": "mycologie",
+          "weight": 282.0
+        },
+        {
+          "name": "loi",
+          "weight": 17508.0
+        },
+        {
+          "name": "magasin",
+          "weight": 4138.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 117.0
+        },
+        {
+          "name": "ver",
+          "weight": 65.0
+        },
+        {
+          "name": "number",
+          "weight": 65.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 37.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 26.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "culture",
+      "r_isa": [
+        {
+          "name": "film",
+          "weight": 27.0
+        },
+        {
+          "name": "savoir",
+          "weight": 836.0
+        },
+        {
+          "name": "pièce de théâtre",
+          "weight": 27.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 35.0
+        },
+        {
+          "name": "domaine",
+          "weight": 85.0
+        },
+        {
+          "name": "éducation",
+          "weight": 69.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 834.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 27.0
+        },
+        {
+          "name": "éducation nationale",
+          "weight": 30.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 31.0
+        },
+        {
+          "name": "ouvrage littéraire",
+          "weight": 28.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 32.0
+        },
+        {
+          "name": "technique de mesure biomédicale",
+          "weight": 35.0
+        },
+        {
+          "name": "ensemble de connaissances",
+          "weight": 35.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "culture",
+          "weight": 39518.0
+        },
+        {
+          "name": "biologie",
+          "weight": 6294.0
+        },
+        {
+          "name": "agriculture",
+          "weight": 9915.0
+        },
+        {
+          "name": "éducation",
+          "weight": 29298.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 14947.0
+        },
+        {
+          "name": "société",
+          "weight": 26895.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "secteur institutionnel",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 297.0
+        },
+        {
+          "name": "ver",
+          "weight": 34.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 43.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 35.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "podcast",
+      "r_isa": [
+        {
+          "name": "contenu audio",
+          "weight": 78.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "podcast",
+          "weight": 342.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 42.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "littérature",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 101.0
+        },
+        {
+          "name": "culture",
+          "weight": 42.0
+        },
+        {
+          "name": "domaine",
+          "weight": 40.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 55.0
+        },
+        {
+          "name": "oeuvres",
+          "weight": 32.0
+        },
+        {
+          "name": "expression artistique",
+          "weight": 31.0
+        },
+        {
+          "name": "sous-catégorie",
+          "weight": 29.0
+        },
+        {
+          "name": "domaine culturel",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "littérature",
+          "weight": 7825.0
+        },
+        {
+          "name": "culture",
+          "weight": 39518.0
+        },
+        {
+          "name": "bibliographie",
+          "weight": 1097.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "histoire littéraire",
+          "weight": 86.0
+        },
+        {
+          "name": "production littéraire",
+          "weight": 64.0
+        },
+        {
+          "name": "développement bavard",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 134.0
+        },
+        {
+          "name": "ver",
+          "weight": 43.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 28.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 31.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "documentaire",
+      "r_isa": [
+        {
+          "name": "film",
+          "weight": 38.0
+        },
+        {
+          "name": "émission",
+          "weight": 29.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 27.0
+        },
+        {
+          "name": "série télé",
+          "weight": 25.0
+        },
+        {
+          "name": "émission de radio",
+          "weight": 210.0
+        },
+        {
+          "name": "émission de télévision",
+          "weight": 148.0
+        },
+        {
+          "name": "émission de télé",
+          "weight": 20.0
+        },
+        {
+          "name": "programme télé",
+          "weight": 25.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 27.0
+        },
+        {
+          "name": "genre cinématographique",
+          "weight": 112.0
+        },
+        {
+          "name": "série tv",
+          "weight": 25.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 29.0
+        },
+        {
+          "name": "émission télévisée",
+          "weight": 25.0
+        },
+        {
+          "name": "programme radiophonique",
+          "weight": 26.0
+        },
+        {
+          "name": "émission radio",
+          "weight": 25.0
+        },
+        {
+          "name": "émission radiophonique",
+          "weight": 25.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "documentaire",
+          "weight": 2825.0
+        },
+        {
+          "name": "adj",
+          "weight": 50.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "adj",
+          "weight": 80.0
+        },
+        {
+          "name": "nom",
+          "weight": 85.0
+        },
+        {
+          "name": "number",
+          "weight": 49.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "guerre",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 16.0
+        },
+        {
+          "name": "processus",
+          "weight": 32.0
+        },
+        {
+          "name": "happening",
+          "weight": 25.0
+        },
+        {
+          "name": "événement",
+          "weight": 143.0
+        },
+        {
+          "name": "lutte armée",
+          "weight": 25.0
+        },
+        {
+          "name": "opposition",
+          "weight": 68.0
+        },
+        {
+          "name": "combat",
+          "weight": 34.0
+        },
+        {
+          "name": "lutte",
+          "weight": 26.0
+        },
+        {
+          "name": "conflit",
+          "weight": 26.0
+        },
+        {
+          "name": "action",
+          "weight": 16.0
+        },
+        {
+          "name": "affrontement",
+          "weight": 13.0
+        },
+        {
+          "name": "désaccord",
+          "weight": 68.0
+        },
+        {
+          "name": "épisode",
+          "weight": 200.0
+        },
+        {
+          "name": "évènement",
+          "weight": 27.0
+        },
+        {
+          "name": "catastrophe",
+          "weight": 200.0
+        },
+        {
+          "name": "conflit armé",
+          "weight": 264.0
+        },
+        {
+          "name": "chose pénible",
+          "weight": 26.0
+        },
+        {
+          "name": "catastrophe humanitaire",
+          "weight": 29.0
+        },
+        {
+          "name": "concept abstrait",
+          "weight": 40.0
+        },
+        {
+          "name": "événement négatif",
+          "weight": 34.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "guerre",
+          "weight": 19607.0
+        },
+        {
+          "name": "art militaire",
+          "weight": 94.0
+        },
+        {
+          "name": "prédation",
+          "weight": 191.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "conflit armé",
+          "weight": 801.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "querelle",
+          "weight": 475.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 381.0
+        },
+        {
+          "name": "ver",
+          "weight": 51.0
+        },
+        {
+          "name": "number",
+          "weight": 85.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 29.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 37.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 32.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 26.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "série",
+      "r_isa": [
+        {
+          "name": "production",
+          "weight": 88.0
+        },
+        {
+          "name": "taxon",
+          "weight": 25.0
+        },
+        {
+          "name": "succession",
+          "weight": 92.0
+        },
+        {
+          "name": "ensemble",
+          "weight": 98.0
+        },
+        {
+          "name": "feuilleton",
+          "weight": 68.0
+        },
+        {
+          "name": "suite",
+          "weight": 88.0
+        },
+        {
+          "name": "émission",
+          "weight": 50.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 34.0
+        },
+        {
+          "name": "programme",
+          "weight": 88.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 35.0
+        },
+        {
+          "name": "programme télévisé",
+          "weight": 29.0
+        },
+        {
+          "name": "fonds d'archives",
+          "weight": 30.0
+        },
+        {
+          "name": "fiction psychologique",
+          "weight": 27.0
+        },
+        {
+          "name": "oeuvre télévisuelle",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "série",
+          "weight": 5592.0
+        },
+        {
+          "name": "mathématiques",
+          "weight": 11821.0
+        },
+        {
+          "name": "biologie",
+          "weight": 6296.0
+        },
+        {
+          "name": "productique",
+          "weight": 52.0
+        },
+        {
+          "name": "chimie",
+          "weight": 5187.0
+        },
+        {
+          "name": "ensemble",
+          "weight": 12169.0
+        },
+        {
+          "name": "musique",
+          "weight": 20841.0
+        },
+        {
+          "name": "télévision",
+          "weight": 5791.0
+        },
+        {
+          "name": "géologie",
+          "weight": 3648.0
+        },
+        {
+          "name": "informatique",
+          "weight": 5324.0
+        },
+        {
+          "name": "électricité",
+          "weight": 4701.0
+        },
+        {
+          "name": "électronique",
+          "weight": 3980.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 111.0
+        },
+        {
+          "name": "ver",
+          "weight": 57.0
+        },
+        {
+          "name": "adj",
+          "weight": 34.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 41.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 30.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "fantasy",
+      "r_isa": [
+        {
+          "name": "jeu",
+          "weight": 40.0
+        },
+        {
+          "name": "genre littéraire",
+          "weight": 59.0
+        },
+        {
+          "name": "genre artistique",
+          "weight": 42.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "fantasy",
+          "weight": 379.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 54.0
+        },
+        {
+          "name": "ver",
+          "weight": 10.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 10.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 10.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 10.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 10.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "chanson",
+      "r_isa": [
+        {
+          "name": "mélodie",
+          "weight": 818.0
+        },
+        {
+          "name": "art",
+          "weight": 164.0
+        },
+        {
+          "name": "&oelig;uvre",
+          "weight": 25.0
+        },
+        {
+          "name": "texte",
+          "weight": 255.0
+        },
+        {
+          "name": "chanson",
+          "weight": 25.0
+        },
+        {
+          "name": "personne",
+          "weight": 33.0
+        },
+        {
+          "name": "lieu",
+          "weight": 122.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 30.0
+        },
+        {
+          "name": "air",
+          "weight": 226.0
+        },
+        {
+          "name": "morceau de musique",
+          "weight": 25.0
+        },
+        {
+          "name": "genre musical",
+          "weight": 29.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 35.0
+        },
+        {
+          "name": "style de musique",
+          "weight": 25.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 109.0
+        },
+        {
+          "name": "style musical",
+          "weight": 25.0
+        },
+        {
+          "name": "œuvre musicale",
+          "weight": 28.0
+        },
+        {
+          "name": "tu veux ou tu veux pas",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "chanson",
+          "weight": 5372.0
+        },
+        {
+          "name": "propos futiles",
+          "weight": 25.0
+        },
+        {
+          "name": "musique",
+          "weight": 20837.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 84.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "protestation",
+      "r_isa": [
+        {
+          "name": "processus",
+          "weight": 33.0
+        },
+        {
+          "name": "action",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "protestation",
+          "weight": 1341.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 82.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "séminaire",
+      "r_isa": [
+        {
+          "name": "événement",
+          "weight": 27.0
+        },
+        {
+          "name": "groupe",
+          "weight": 29.0
+        },
+        {
+          "name": "réunion",
+          "weight": 26.0
+        },
+        {
+          "name": "établissement",
+          "weight": 49.0
+        },
+        {
+          "name": "conférence",
+          "weight": 22.0
+        },
+        {
+          "name": "évènement",
+          "weight": 26.0
+        },
+        {
+          "name": "établissement d'enseignement",
+          "weight": 28.0
+        },
+        {
+          "name": "établissement d'enseignement supérieur",
+          "weight": 32.0
+        },
+        {
+          "name": "cours spécialisé",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "séminaire",
+          "weight": 570.0
+        },
+        {
+          "name": "religion",
+          "weight": 9929.0
+        },
+        {
+          "name": "réunion",
+          "weight": 4357.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 92.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "marketing",
+      "r_isa": [
+        {
+          "name": "technique",
+          "weight": 53.0
+        },
+        {
+          "name": "minéral",
+          "weight": 34.0
+        },
+        {
+          "name": "culture organisationnelle",
+          "weight": 70.0
+        },
+        {
+          "name": "terme de jargon",
+          "weight": 25.0
+        },
+        {
+          "name": "techniques de",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "marketing",
+          "weight": 3514.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 90.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cours",
+          "weight": 13498.0
+        },
+        {
+          "name": "durée",
+          "weight": 6492.0
+        },
+        {
+          "name": "droit",
+          "weight": 21838.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768.0
+        },
+        {
+          "name": "avenue",
+          "weight": 1618.0
+        },
+        {
+          "name": "étendue",
+          "weight": 3390.0
+        },
+        {
+          "name": "écoulement",
+          "weight": 566.0
+        },
+        {
+          "name": "cote",
+          "weight": 184.0
+        },
+        {
+          "name": "évolution",
+          "weight": 19386.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 112.0
+        },
+        {
+          "name": "ver",
+          "weight": 57.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 36.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 29.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "langue",
+      "r_isa": [
+        {
+          "name": "musculaire",
+          "weight": 31.0
+        },
+        {
+          "name": "charcuterie",
+          "weight": 47.0
+        },
+        {
+          "name": "être",
+          "weight": 15.0
+        },
+        {
+          "name": "animal",
+          "weight": 42.0
+        },
+        {
+          "name": "plat",
+          "weight": 35.0
+        },
+        {
+          "name": "idiome",
+          "weight": 2.0
+        },
+        {
+          "name": "organe",
+          "weight": 42.0
+        },
+        {
+          "name": "métazoaire",
+          "weight": 41.0
+        },
+        {
+          "name": "organisme",
+          "weight": 41.0
+        },
+        {
+          "name": "poisson",
+          "weight": 115.0
+        },
+        {
+          "name": "guèze",
+          "weight": 3.0
+        },
+        {
+          "name": "langage",
+          "weight": 52.0
+        },
+        {
+          "name": "vertébré",
+          "weight": 26.0
+        },
+        {
+          "name": "coelomate",
+          "weight": 26.0
+        },
+        {
+          "name": "gnathostome",
+          "weight": 27.0
+        },
+        {
+          "name": "être animé",
+          "weight": 29.0
+        },
+        {
+          "name": "propriété",
+          "weight": 28.0
+        },
+        {
+          "name": "aliment",
+          "weight": 29.0
+        },
+        {
+          "name": "deutérostomien",
+          "weight": 26.0
+        },
+        {
+          "name": "paramètre",
+          "weight": 28.0
+        },
+        {
+          "name": "muscle",
+          "weight": 35.0
+        },
+        {
+          "name": "forme",
+          "weight": 56.0
+        },
+        {
+          "name": "cordé",
+          "weight": 32.0
+        },
+        {
+          "name": "plie",
+          "weight": 36.0
+        },
+        {
+          "name": "animal marin",
+          "weight": 41.0
+        },
+        {
+          "name": "animal aquatique",
+          "weight": 42.0
+        },
+        {
+          "name": "partie du corps",
+          "weight": 56.0
+        },
+        {
+          "name": "poisson plat",
+          "weight": 38.0
+        },
+        {
+          "name": "préparation culinaire",
+          "weight": 32.0
+        },
+        {
+          "name": "ingrédient de cuisine",
+          "weight": 34.0
+        },
+        {
+          "name": "organe musculaire",
+          "weight": 85.0
+        },
+        {
+          "name": "recette de cuisine",
+          "weight": 40.0
+        },
+        {
+          "name": "être vivant",
+          "weight": 42.0
+        },
+        {
+          "name": "organe sensoriel",
+          "weight": 45.0
+        },
+        {
+          "name": "chordé",
+          "weight": 34.0
+        },
+        {
+          "name": "bilatérien",
+          "weight": 39.0
+        },
+        {
+          "name": "crânié",
+          "weight": 32.0
+        },
+        {
+          "name": "eumétazoaire",
+          "weight": 26.0
+        },
+        {
+          "name": "épineurien",
+          "weight": 28.0
+        },
+        {
+          "name": "crâniate",
+          "weight": 27.0
+        },
+        {
+          "name": "organisme animal",
+          "weight": 13.0
+        },
+        {
+          "name": "entité physique",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "langue",
+          "weight": 11671.0
+        },
+        {
+          "name": "glaciologie",
+          "weight": 116.0
+        },
+        {
+          "name": "gastronomie",
+          "weight": 5177.0
+        },
+        {
+          "name": "poisson",
+          "weight": 8094.0
+        },
+        {
+          "name": "langage",
+          "weight": 9467.0
+        },
+        {
+          "name": "forme",
+          "weight": 13384.0
+        },
+        {
+          "name": "organe musculaire",
+          "weight": 68.0
+        },
+        {
+          "name": "langue de terre",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 371.0
+        },
+        {
+          "name": "ver",
+          "weight": 26.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "livre",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 190.0
+        },
+        {
+          "name": "monnaie",
+          "weight": 579.0
+        },
+        {
+          "name": "ouvrage",
+          "weight": 748.0
+        },
+        {
+          "name": "étalon",
+          "weight": 27.0
+        },
+        {
+          "name": "document",
+          "weight": 120.0
+        },
+        {
+          "name": "assemblage",
+          "weight": 676.0
+        },
+        {
+          "name": "texte",
+          "weight": 695.0
+        },
+        {
+          "name": "unité",
+          "weight": 30.0
+        },
+        {
+          "name": "pièce",
+          "weight": 30.0
+        },
+        {
+          "name": "unité monétaire",
+          "weight": 25.0
+        },
+        {
+          "name": "chanson",
+          "weight": 25.0
+        },
+        {
+          "name": "chose",
+          "weight": 106.0
+        },
+        {
+          "name": "collection",
+          "weight": 108.0
+        },
+        {
+          "name": "publication",
+          "weight": 127.0
+        },
+        {
+          "name": "poids",
+          "weight": 101.0
+        },
+        {
+          "name": "écrit",
+          "weight": 23.0
+        },
+        {
+          "name": "devise",
+          "weight": 181.0
+        },
+        {
+          "name": "lieu",
+          "weight": 106.0
+        },
+        {
+          "name": "objet d'art",
+          "weight": 108.0
+        },
+        {
+          "name": "argent",
+          "weight": 468.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 116.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 108.0
+        },
+        {
+          "name": "unité de mesure",
+          "weight": 72.0
+        },
+        {
+          "name": "unité de masse",
+          "weight": 74.0
+        },
+        {
+          "name": "support d'information",
+          "weight": 31.0
+        },
+        {
+          "name": "monnaie de compte",
+          "weight": 591.0
+        },
+        {
+          "name": "oeuvre littéraire",
+          "weight": 38.0
+        },
+        {
+          "name": "oeuvre de l'esprit",
+          "weight": 683.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 25.0
+        },
+        {
+          "name": "entité physique",
+          "weight": 31.0
+        },
+        {
+          "name": "texte imprimé",
+          "weight": 707.0
+        },
+        {
+          "name": "unité de monnaie",
+          "weight": 31.0
+        },
+        {
+          "name": "objet inanimé",
+          "weight": 116.0
+        },
+        {
+          "name": "document écrit",
+          "weight": 162.0
+        },
+        {
+          "name": "une unité de mesure",
+          "weight": 25.0
+        },
+        {
+          "name": "assemblage de feuilles",
+          "weight": 783.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "livre",
+          "weight": 16795.0
+        },
+        {
+          "name": "monnaie",
+          "weight": 6388.0
+        },
+        {
+          "name": "commerce",
+          "weight": 10473.0
+        },
+        {
+          "name": "lecture",
+          "weight": 6344.0
+        },
+        {
+          "name": "diplomatie",
+          "weight": 3821.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "unité de masse",
+          "weight": 107.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 147.0
+        },
+        {
+          "name": "ver",
+          "weight": 60.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 48.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 29.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "poésie",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 65.0
+        },
+        {
+          "name": "littérature",
+          "weight": 77.0
+        },
+        {
+          "name": "écriture",
+          "weight": 106.0
+        },
+        {
+          "name": "genre littéraire",
+          "weight": 48.0
+        },
+        {
+          "name": "style littéraire",
+          "weight": 2.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "poésie",
+          "weight": 5243.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 124.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "émission",
+      "r_isa": [
+        {
+          "name": "reportage",
+          "weight": 38.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "programme",
+          "weight": 29.0
+        },
+        {
+          "name": "débat télévisé",
+          "weight": 20.0
+        },
+        {
+          "name": "programme télévisé",
+          "weight": 31.0
+        },
+        {
+          "name": "processus physique",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "émission",
+          "weight": 3908.0
+        },
+        {
+          "name": "émettre",
+          "weight": 2192.0
+        },
+        {
+          "name": "physique",
+          "weight": 7948.0
+        },
+        {
+          "name": "finances",
+          "weight": 3121.0
+        },
+        {
+          "name": "biologie",
+          "weight": 6296.0
+        },
+        {
+          "name": "médias",
+          "weight": 6953.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 107.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "jardinage",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 41.0
+        },
+        {
+          "name": "loisir",
+          "weight": 30.0
+        },
+        {
+          "name": "hobby",
+          "weight": 59.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        },
+        {
+          "name": "pratique",
+          "weight": 31.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "jardinage",
+          "weight": 688.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 86.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "exposition",
+      "r_isa": [
+        {
+          "name": "technique",
+          "weight": 34.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "galerie",
+          "weight": 68.0
+        },
+        {
+          "name": "salon",
+          "weight": 53.0
+        },
+        {
+          "name": "grandeur",
+          "weight": 26.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        },
+        {
+          "name": "degré",
+          "weight": 25.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "exposition",
+          "weight": 5671.0
+        },
+        {
+          "name": "art",
+          "weight": 12941.0
+        },
+        {
+          "name": "exposer",
+          "weight": 2057.0
+        },
+        {
+          "name": "orientation",
+          "weight": 2368.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 132.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sculptures",
+      "r_isa": [
+        {
+          "name": "oeuvres",
+          "weight": 36.0
+        },
+        {
+          "name": "choses",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sculptures",
+          "weight": 1562.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 62.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "magazine",
+      "r_isa": [
+        {
+          "name": "journal",
+          "weight": 53.0
+        },
+        {
+          "name": "document",
+          "weight": 53.0
+        },
+        {
+          "name": "publication",
+          "weight": 1.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "magazine",
+          "weight": 3447.0
+        },
+        {
+          "name": "audiovisuel",
+          "weight": 1110.0
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 74.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "gastronomie",
+      "r_isa": [
+        {
+          "name": "cuisine",
+          "weight": 38.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 33.0
+        },
+        {
+          "name": "art culinaire",
+          "weight": 32.0
+        },
+        {
+          "name": "connaissance raisonnée",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "gastronomie",
+          "weight": 5177.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 163.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "atelier",
+          "weight": 1854.0
+        },
+        {
+          "name": "garage",
+          "weight": 1388.0
+        },
+        {
+          "name": "artiste",
+          "weight": 5462.0
+        },
+        {
+          "name": "rencontre",
+          "weight": 6604.0
+        },
+        {
+          "name": "usine",
+          "weight": 3050.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 90.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "cuisine",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 57.0
+        },
+        {
+          "name": "batterie",
+          "weight": 59.0
+        },
+        {
+          "name": "loisir",
+          "weight": 53.0
+        },
+        {
+          "name": "ensemble",
+          "weight": 26.0
+        },
+        {
+          "name": "ensemble des techniques",
+          "weight": 28.0
+        },
+        {
+          "name": "pièce",
+          "weight": 69.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "endroit",
+          "weight": 29.0
+        },
+        {
+          "name": "lieu",
+          "weight": 42.0
+        },
+        {
+          "name": "salle",
+          "weight": 69.0
+        },
+        {
+          "name": "espace",
+          "weight": 28.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "portion de l'espace",
+          "weight": 28.0
+        },
+        {
+          "name": "partie de",
+          "weight": 25.0
+        },
+        {
+          "name": "partie de l'espace",
+          "weight": 26.0
+        },
+        {
+          "name": "partie de quelque chose",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cuisine",
+          "weight": 15773.0
+        },
+        {
+          "name": "personnel",
+          "weight": 5568.0
+        },
+        {
+          "name": "pièce",
+          "weight": 8144.0
+        },
+        {
+          "name": "intrigue",
+          "weight": 1018.0
+        },
+        {
+          "name": "art culinaire",
+          "weight": 1155.0
+        },
+        {
+          "name": "ustensiles",
+          "weight": 167.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 151.0
+        },
+        {
+          "name": "ver",
+          "weight": 55.0
+        },
+        {
+          "name": "number",
+          "weight": 55.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 49.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "journal",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 46.0
+        },
+        {
+          "name": "partie",
+          "weight": 30.0
+        },
+        {
+          "name": "périodique",
+          "weight": 90.0
+        },
+        {
+          "name": "information",
+          "weight": 60.0
+        },
+        {
+          "name": "document",
+          "weight": 51.0
+        },
+        {
+          "name": "texte",
+          "weight": 54.0
+        },
+        {
+          "name": "mensuel",
+          "weight": 68.0
+        },
+        {
+          "name": "média",
+          "weight": 62.0
+        },
+        {
+          "name": "lecture",
+          "weight": 68.0
+        },
+        {
+          "name": "papier",
+          "weight": 84.0
+        },
+        {
+          "name": "publication",
+          "weight": 1.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "livre",
+          "weight": 83.0
+        },
+        {
+          "name": "media",
+          "weight": 62.0
+        },
+        {
+          "name": "unité de mesure",
+          "weight": 40.0
+        },
+        {
+          "name": "voie de communication",
+          "weight": 25.0
+        },
+        {
+          "name": "presse gratuite",
+          "weight": 25.0
+        },
+        {
+          "name": "document comptable",
+          "weight": 53.0
+        },
+        {
+          "name": "infos",
+          "weight": 31.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 25.0
+        },
+        {
+          "name": "une unité de mesure",
+          "weight": 25.0
+        },
+        {
+          "name": "partie d'un système",
+          "weight": 25.0
+        },
+        {
+          "name": "texte rédigé",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "journal",
+          "weight": 8840.0
+        },
+        {
+          "name": "comptabilité",
+          "weight": 577.0
+        },
+        {
+          "name": "agriculture",
+          "weight": 9915.0
+        },
+        {
+          "name": "informatique",
+          "weight": 5324.0
+        },
+        {
+          "name": "émission",
+          "weight": 3908.0
+        },
+        {
+          "name": "publication",
+          "weight": 6145.0
+        },
+        {
+          "name": "journal intime",
+          "weight": 296.0
+        },
+        {
+          "name": "journal de bord",
+          "weight": 84.0
+        },
+        {
+          "name": "adj",
+          "weight": 50.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 206.0
+        },
+        {
+          "name": "adj",
+          "weight": 60.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "technologie",
+      "r_isa": [
+        {
+          "name": "technique",
+          "weight": 13.0
+        },
+        {
+          "name": "linguistique",
+          "weight": 13.0
+        },
+        {
+          "name": "concept",
+          "weight": 29.0
+        },
+        {
+          "name": "science",
+          "weight": 78.0
+        },
+        {
+          "name": "innovation",
+          "weight": 29.0
+        },
+        {
+          "name": "discipline",
+          "weight": 145.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "technologie",
+          "weight": 17775.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 172.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "chanson",
+      "r_isa": [
+        {
+          "name": "mélodie",
+          "weight": 818.0
+        },
+        {
+          "name": "art",
+          "weight": 164.0
+        },
+        {
+          "name": "&oelig;uvre",
+          "weight": 25.0
+        },
+        {
+          "name": "texte",
+          "weight": 255.0
+        },
+        {
+          "name": "chanson",
+          "weight": 25.0
+        },
+        {
+          "name": "personne",
+          "weight": 33.0
+        },
+        {
+          "name": "lieu",
+          "weight": 122.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 30.0
+        },
+        {
+          "name": "air",
+          "weight": 226.0
+        },
+        {
+          "name": "morceau de musique",
+          "weight": 25.0
+        },
+        {
+          "name": "genre musical",
+          "weight": 29.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 35.0
+        },
+        {
+          "name": "style de musique",
+          "weight": 25.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 109.0
+        },
+        {
+          "name": "style musical",
+          "weight": 25.0
+        },
+        {
+          "name": "œuvre musicale",
+          "weight": 28.0
+        },
+        {
+          "name": "tu veux ou tu veux pas",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "chanson",
+          "weight": 5372.0
+        },
+        {
+          "name": "propos futiles",
+          "weight": 25.0
+        },
+        {
+          "name": "musique",
+          "weight": 20837.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 84.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "liberté",
+      "r_isa": [
+        {
+          "name": "droit",
+          "weight": 72.0
+        },
+        {
+          "name": "animal",
+          "weight": 25.0
+        },
+        {
+          "name": "valeur",
+          "weight": 68.0
+        },
+        {
+          "name": "être humain",
+          "weight": 31.0
+        },
+        {
+          "name": "concept",
+          "weight": 167.0
+        },
+        {
+          "name": "humain",
+          "weight": 32.0
+        },
+        {
+          "name": "eucaryote",
+          "weight": 26.0
+        },
+        {
+          "name": "métazoaire",
+          "weight": 25.0
+        },
+        {
+          "name": "mammifère",
+          "weight": 25.0
+        },
+        {
+          "name": "organisme vivant",
+          "weight": 25.0
+        },
+        {
+          "name": "individu",
+          "weight": 27.0
+        },
+        {
+          "name": "notion",
+          "weight": 79.0
+        },
+        {
+          "name": "être vivant",
+          "weight": 34.0
+        },
+        {
+          "name": "homme",
+          "weight": 28.0
+        },
+        {
+          "name": "autonomie",
+          "weight": 70.0
+        },
+        {
+          "name": "vertébré",
+          "weight": 25.0
+        },
+        {
+          "name": "tétrapode",
+          "weight": 25.0
+        },
+        {
+          "name": "fantasme",
+          "weight": 28.0
+        },
+        {
+          "name": "gnathostome",
+          "weight": 25.0
+        },
+        {
+          "name": "être animé",
+          "weight": 37.0
+        },
+        {
+          "name": "euthérien",
+          "weight": 25.0
+        },
+        {
+          "name": "amniote",
+          "weight": 25.0
+        },
+        {
+          "name": "idéal",
+          "weight": 76.0
+        },
+        {
+          "name": "deutérostomien",
+          "weight": 26.0
+        },
+        {
+          "name": "personne",
+          "weight": 34.0
+        },
+        {
+          "name": "paramètre",
+          "weight": 28.0
+        },
+        {
+          "name": "sentiment",
+          "weight": 109.0
+        },
+        {
+          "name": "devise",
+          "weight": 68.0
+        },
+        {
+          "name": "cordé",
+          "weight": 25.0
+        },
+        {
+          "name": "terme",
+          "weight": 26.0
+        },
+        {
+          "name": "personne physique",
+          "weight": 27.0
+        },
+        {
+          "name": "personne humaine",
+          "weight": 25.0
+        },
+        {
+          "name": "organisme",
+          "weight": 25.0
+        },
+        {
+          "name": "être",
+          "weight": 26.0
+        },
+        {
+          "name": "chordé",
+          "weight": 25.0
+        },
+        {
+          "name": "bilatérien",
+          "weight": 25.0
+        },
+        {
+          "name": "crânié",
+          "weight": 25.0
+        },
+        {
+          "name": "eumétazoaire",
+          "weight": 27.0
+        },
+        {
+          "name": "épineurien",
+          "weight": 25.0
+        },
+        {
+          "name": "thérien",
+          "weight": 26.0
+        },
+        {
+          "name": "crâniate",
+          "weight": 25.0
+        },
+        {
+          "name": "synapside",
+          "weight": 25.0
+        },
+        {
+          "name": "concept philosophique",
+          "weight": 32.0
+        },
+        {
+          "name": "entité physique",
+          "weight": 26.0
+        },
+        {
+          "name": "olfactorien",
+          "weight": 25.0
+        },
+        {
+          "name": "uniconte",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "liberté",
+          "weight": 14357.0
+        },
+        {
+          "name": "possibilité",
+          "weight": 7898.0
+        },
+        {
+          "name": "juridique",
+          "weight": 3709.0
+        },
+        {
+          "name": "autorisation",
+          "weight": 1958.0
+        },
+        {
+          "name": "indépendance",
+          "weight": 5286.0
+        },
+        {
+          "name": "absence d'obligation",
+          "weight": 51.0
+        },
+        {
+          "name": "condition d'une personne",
+          "weight": 74.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 173.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "événement",
+      "r_isa": [
+        {
+          "name": "sous-ensemble",
+          "weight": 37.0
+        },
+        {
+          "name": "concept",
+          "weight": 90.0
+        },
+        {
+          "name": "performance",
+          "weight": 25.0
+        },
+        {
+          "name": "fait",
+          "weight": 180.0
+        },
+        {
+          "name": "issue",
+          "weight": 105.0
+        },
+        {
+          "name": "action",
+          "weight": 105.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 10.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 23.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "événement",
+          "weight": 9496.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 83.0
+        },
+        {
+          "name": "adj",
+          "weight": 20.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "danse",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 219.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 84.0
+        },
+        {
+          "name": "sport",
+          "weight": 148.0
+        },
+        {
+          "name": "performance",
+          "weight": 35.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 33.0
+        },
+        {
+          "name": "action",
+          "weight": 37.0
+        },
+        {
+          "name": "lieu",
+          "weight": 55.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 31.0
+        },
+        {
+          "name": "genre musical",
+          "weight": 26.0
+        },
+        {
+          "name": "spectacle vivant",
+          "weight": 13.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 34.0
+        },
+        {
+          "name": "activité artistique",
+          "weight": 26.0
+        },
+        {
+          "name": "air de musique",
+          "weight": 41.0
+        },
+        {
+          "name": "enseignement optionnel",
+          "weight": 133.0
+        },
+        {
+          "name": "style de musique",
+          "weight": 28.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "art vivant",
+          "weight": 221.0
+        },
+        {
+          "name": "style musical",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "danse",
+          "weight": 4314.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "art de mouvoir le corps",
+          "weight": 25.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "raclée",
+          "weight": 237.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 335.0
+        },
+        {
+          "name": "ver",
+          "weight": 85.0
+        },
+        {
+          "name": "number",
+          "weight": 85.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 59.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 35.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cours",
+          "weight": 13498.0
+        },
+        {
+          "name": "durée",
+          "weight": 6492.0
+        },
+        {
+          "name": "droit",
+          "weight": 21838.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768.0
+        },
+        {
+          "name": "avenue",
+          "weight": 1618.0
+        },
+        {
+          "name": "étendue",
+          "weight": 3390.0
+        },
+        {
+          "name": "écoulement",
+          "weight": 566.0
+        },
+        {
+          "name": "cote",
+          "weight": 184.0
+        },
+        {
+          "name": "évolution",
+          "weight": 19386.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 112.0
+        },
+        {
+          "name": "ver",
+          "weight": 57.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 36.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 29.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "musique",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 148.0
+        },
+        {
+          "name": "accompagnement",
+          "weight": 97.0
+        },
+        {
+          "name": "matière",
+          "weight": 68.0
+        },
+        {
+          "name": "passion",
+          "weight": 88.0
+        },
+        {
+          "name": "support",
+          "weight": 31.0
+        },
+        {
+          "name": "loisir",
+          "weight": 111.0
+        },
+        {
+          "name": "son",
+          "weight": 95.0
+        },
+        {
+          "name": "activité",
+          "weight": 88.0
+        },
+        {
+          "name": "formes",
+          "weight": 27.0
+        },
+        {
+          "name": "ensemble",
+          "weight": 30.0
+        },
+        {
+          "name": "morceau",
+          "weight": 34.0
+        },
+        {
+          "name": "texte",
+          "weight": 55.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 148.0
+        },
+        {
+          "name": "disco",
+          "weight": 206.0
+        },
+        {
+          "name": "hobby",
+          "weight": 55.0
+        },
+        {
+          "name": "théorie",
+          "weight": 36.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 164.0
+        },
+        {
+          "name": "orchestre",
+          "weight": 55.0
+        },
+        {
+          "name": "chanson",
+          "weight": 83.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "discipline",
+          "weight": 216.0
+        },
+        {
+          "name": "style",
+          "weight": 36.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 26.0
+        },
+        {
+          "name": "société",
+          "weight": 54.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 28.0
+        },
+        {
+          "name": "morceau de musique",
+          "weight": 51.0
+        },
+        {
+          "name": "genre musical",
+          "weight": 48.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 52.0
+        },
+        {
+          "name": "style de musique",
+          "weight": 143.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 35.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 160.0
+        },
+        {
+          "name": "style musical",
+          "weight": 131.0
+        },
+        {
+          "name": "yle",
+          "weight": 91.0
+        },
+        {
+          "name": "œuvre musicale",
+          "weight": 40.0
+        },
+        {
+          "name": "art et",
+          "weight": 279.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20837.0
+        },
+        {
+          "name": "notation",
+          "weight": 2881.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "art",
+          "weight": 12941.0
+        },
+        {
+          "name": "sons",
+          "weight": 3281.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "exécutants",
+          "weight": 27.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 311.0
+        },
+        {
+          "name": "ver",
+          "weight": 65.0
+        },
+        {
+          "name": "number",
+          "weight": 75.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 39.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 43.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "film",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 29.0
+        },
+        {
+          "name": "production",
+          "weight": 36.0
+        },
+        {
+          "name": "&oelig;uvre",
+          "weight": 25.0
+        },
+        {
+          "name": "support",
+          "weight": 36.0
+        },
+        {
+          "name": "bobine",
+          "weight": 87.0
+        },
+        {
+          "name": "représentation",
+          "weight": 69.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 81.0
+        },
+        {
+          "name": "récit",
+          "weight": 87.0
+        },
+        {
+          "name": "emballage",
+          "weight": 186.0
+        },
+        {
+          "name": "lieu",
+          "weight": 59.0
+        },
+        {
+          "name": "pellicule",
+          "weight": 23.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 36.0
+        },
+        {
+          "name": "histoire",
+          "weight": 89.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 136.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 269.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 118.0
+        },
+        {
+          "name": "representation",
+          "weight": 36.0
+        },
+        {
+          "name": "oeuvre audiovisuelle",
+          "weight": 115.0
+        },
+        {
+          "name": "oeuvre artistique",
+          "weight": 35.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 108.0
+        },
+        {
+          "name": "oeuvre culturelle",
+          "weight": 108.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "film",
+          "weight": 11371.0
+        },
+        {
+          "name": "couche mince",
+          "weight": 52.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 100.0
+        },
+        {
+          "name": "pellicule",
+          "weight": 329.0
+        },
+        {
+          "name": "photographie",
+          "weight": 5025.0
+        },
+        {
+          "name": "industrie du cinéma",
+          "weight": 60.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 150.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "comédie",
+      "r_isa": [
+        {
+          "name": "attitude",
+          "weight": 229.0
+        },
+        {
+          "name": "art",
+          "weight": 368.0
+        },
+        {
+          "name": "caprice",
+          "weight": 219.0
+        },
+        {
+          "name": "théâtre",
+          "weight": 378.0
+        },
+        {
+          "name": "comportement",
+          "weight": 229.0
+        },
+        {
+          "name": "fiction",
+          "weight": 220.0
+        },
+        {
+          "name": "culture",
+          "weight": 362.0
+        },
+        {
+          "name": "ouvrage",
+          "weight": 35.0
+        },
+        {
+          "name": "manière",
+          "weight": 28.0
+        },
+        {
+          "name": "film",
+          "weight": 390.0
+        },
+        {
+          "name": "système",
+          "weight": 29.0
+        },
+        {
+          "name": "concept",
+          "weight": 34.0
+        },
+        {
+          "name": "jeu",
+          "weight": 358.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 388.0
+        },
+        {
+          "name": "pièce de théâtre",
+          "weight": 420.0
+        },
+        {
+          "name": "téléfilm",
+          "weight": 378.0
+        },
+        {
+          "name": "pièce",
+          "weight": 141.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 406.0
+        },
+        {
+          "name": "roman",
+          "weight": 368.0
+        },
+        {
+          "name": "genre",
+          "weight": 173.0
+        },
+        {
+          "name": "tromperie",
+          "weight": 219.0
+        },
+        {
+          "name": "entité",
+          "weight": 26.0
+        },
+        {
+          "name": "style",
+          "weight": 221.0
+        },
+        {
+          "name": "livre",
+          "weight": 220.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 38.0
+        },
+        {
+          "name": "histoire",
+          "weight": 26.0
+        },
+        {
+          "name": "genre littéraire",
+          "weight": 239.0
+        },
+        {
+          "name": "style littéraire",
+          "weight": 233.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 169.0
+        },
+        {
+          "name": "moyen",
+          "weight": 34.0
+        },
+        {
+          "name": "oeuvre littéraire",
+          "weight": 230.0
+        },
+        {
+          "name": "ouvrage littéraire",
+          "weight": 124.0
+        },
+        {
+          "name": "genre cinématographique",
+          "weight": 10.0
+        },
+        {
+          "name": "genre théâtral",
+          "weight": 409.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 162.0
+        },
+        {
+          "name": "façon de faire",
+          "weight": 219.0
+        },
+        {
+          "name": "jeu théâtral",
+          "weight": 219.0
+        },
+        {
+          "name": "entité physique",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "comédie",
+          "weight": 3738.0
+        },
+        {
+          "name": "faux-semblant",
+          "weight": 232.0
+        },
+        {
+          "name": "cinéma",
+          "weight": 10741.0
+        },
+        {
+          "name": "théâtre",
+          "weight": 7614.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 137.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "conférence",
+      "r_isa": [
+        {
+          "name": "happening",
+          "weight": 25.0
+        },
+        {
+          "name": "événement",
+          "weight": 156.0
+        },
+        {
+          "name": "association",
+          "weight": 32.0
+        },
+        {
+          "name": "réunion",
+          "weight": 162.0
+        },
+        {
+          "name": "fruit",
+          "weight": 51.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "évènement",
+          "weight": 242.0
+        },
+        {
+          "name": "poire",
+          "weight": 27.0
+        },
+        {
+          "name": "société",
+          "weight": 36.0
+        },
+        {
+          "name": "produit végétal",
+          "weight": 54.0
+        },
+        {
+          "name": "présentation académique",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "conférence",
+          "weight": 4236.0
+        },
+        {
+          "name": "exposé public",
+          "weight": 58.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "réunion",
+          "weight": 4357.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "poire",
+          "weight": 1078.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 139.0
+        },
+        {
+          "name": "ver",
+          "weight": 58.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 53.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 30.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 29.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "médecine",
+      "r_isa": [
+        {
+          "name": "substance",
+          "weight": 56.0
+        },
+        {
+          "name": "science",
+          "weight": 98.0
+        },
+        {
+          "name": "domaine",
+          "weight": 68.0
+        },
+        {
+          "name": "médecine",
+          "weight": 30.0
+        },
+        {
+          "name": "science grecque",
+          "weight": 26.0
+        },
+        {
+          "name": "affections non inflammatoires",
+          "weight": 25.0
+        },
+        {
+          "name": "affections non inflammatoires de la vulve",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "médecine",
+          "weight": 10460.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "remède",
+          "weight": 936.0
+        },
+        {
+          "name": "science",
+          "weight": 11552.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 1000.0
+        },
+        {
+          "name": "ver",
+          "weight": 65.0
+        },
+        {
+          "name": "number",
+          "weight": 85.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 49.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 26.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "article",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 31.0
+        },
+        {
+          "name": "pièce jointe",
+          "weight": 189.0
+        },
+        {
+          "name": "mot",
+          "weight": 57.0
+        },
+        {
+          "name": "document",
+          "weight": 54.0
+        },
+        {
+          "name": "pj",
+          "weight": 26.0
+        },
+        {
+          "name": "texte",
+          "weight": 59.0
+        },
+        {
+          "name": "écrit",
+          "weight": 28.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "nature",
+          "weight": 88.0
+        },
+        {
+          "name": "catégorie lexicale",
+          "weight": 46.0
+        },
+        {
+          "name": "document joint",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "article",
+          "weight": 12588.0
+        },
+        {
+          "name": "botanique",
+          "weight": 4092.0
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385.0
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727.0
+        },
+        {
+          "name": "mycologie",
+          "weight": 282.0
+        },
+        {
+          "name": "loi",
+          "weight": 17508.0
+        },
+        {
+          "name": "magasin",
+          "weight": 4138.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 117.0
+        },
+        {
+          "name": "ver",
+          "weight": 65.0
+        },
+        {
+          "name": "number",
+          "weight": 65.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 37.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 26.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sport",
+      "r_isa": [
+        {
+          "name": "passion",
+          "weight": 75.0
+        },
+        {
+          "name": "élément",
+          "weight": 29.0
+        },
+        {
+          "name": "loisir",
+          "weight": 80.0
+        },
+        {
+          "name": "culture physique",
+          "weight": 25.0
+        },
+        {
+          "name": "jeu",
+          "weight": 72.0
+        },
+        {
+          "name": "activité",
+          "weight": 86.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 79.0
+        },
+        {
+          "name": "hobby",
+          "weight": 64.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 53.0
+        },
+        {
+          "name": "passe-temps",
+          "weight": 72.0
+        },
+        {
+          "name": "discipline",
+          "weight": 69.0
+        },
+        {
+          "name": "plante",
+          "weight": 25.0
+        },
+        {
+          "name": "exercice physique",
+          "weight": 35.0
+        },
+        {
+          "name": "activité physique",
+          "weight": 25.0
+        },
+        {
+          "name": "entraînement physique",
+          "weight": 25.0
+        },
+        {
+          "name": "dépense physique",
+          "weight": 25.0
+        },
+        {
+          "name": "élément important",
+          "weight": 29.0
+        },
+        {
+          "name": "activité populaire",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sport",
+          "weight": 8679.0
+        },
+        {
+          "name": "décontracté",
+          "weight": 212.0
+        },
+        {
+          "name": "activité physique",
+          "weight": 1222.0
+        },
+        {
+          "name": "agitation",
+          "weight": 493.0
+        },
+        {
+          "name": "fair-play",
+          "weight": 295.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 210.0
+        },
+        {
+          "name": "adj",
+          "weight": 63.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "podcast",
+      "r_isa": [
+        {
+          "name": "contenu audio",
+          "weight": 78.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "podcast",
+          "weight": 342.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 42.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "philosophie",
+      "r_isa": [
+        {
+          "name": "activité",
+          "weight": 34.0
+        },
+        {
+          "name": "épreuve",
+          "weight": 29.0
+        },
+        {
+          "name": "science",
+          "weight": 29.0
+        },
+        {
+          "name": "démarche",
+          "weight": 26.0
+        },
+        {
+          "name": "doctrine",
+          "weight": 30.0
+        },
+        {
+          "name": "discipline",
+          "weight": 41.0
+        },
+        {
+          "name": "discipline des sciences humaines",
+          "weight": 71.0
+        },
+        {
+          "name": "quête de sagesse",
+          "weight": 30.0
+        },
+        {
+          "name": "domaine culturel",
+          "weight": 26.0
+        },
+        {
+          "name": "réflexion intellectuelle",
+          "weight": 27.0
+        },
+        {
+          "name": "discipline intellectuelle",
+          "weight": 33.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "philosophie",
+          "weight": 6964.0
+        },
+        {
+          "name": "imprimerie",
+          "weight": 550.0
+        },
+        {
+          "name": "état d'esprit",
+          "weight": 309.0
+        },
+        {
+          "name": "fondements",
+          "weight": 1693.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "discipline scolaire",
+          "weight": 95.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "système de pensée",
+          "weight": 43.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 156.0
+        },
+        {
+          "name": "ver",
+          "weight": 58.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 53.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 29.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 28.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "atelier",
+          "weight": 1854.0
+        },
+        {
+          "name": "garage",
+          "weight": 1388.0
+        },
+        {
+          "name": "artiste",
+          "weight": 5462.0
+        },
+        {
+          "name": "rencontre",
+          "weight": 6604.0
+        },
+        {
+          "name": "usine",
+          "weight": 3050.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 90.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "peinture",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 30.0
+        },
+        {
+          "name": "décoration",
+          "weight": 19.0
+        },
+        {
+          "name": "art",
+          "weight": 26.0
+        },
+        {
+          "name": "substance",
+          "weight": 35.0
+        },
+        {
+          "name": "description",
+          "weight": 35.0
+        },
+        {
+          "name": "représentation",
+          "weight": 28.0
+        },
+        {
+          "name": "hobby",
+          "weight": 58.0
+        },
+        {
+          "name": "tableau",
+          "weight": 74.0
+        },
+        {
+          "name": "architecture",
+          "weight": 55.0
+        },
+        {
+          "name": "exposition",
+          "weight": 55.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        },
+        {
+          "name": "passe-temps",
+          "weight": 14.0
+        },
+        {
+          "name": "lieu",
+          "weight": 59.0
+        },
+        {
+          "name": "objet d'art",
+          "weight": 16.0
+        },
+        {
+          "name": "forme",
+          "weight": 10.0
+        },
+        {
+          "name": "libellé",
+          "weight": 15.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 58.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 51.0
+        },
+        {
+          "name": "street art",
+          "weight": 17.0
+        },
+        {
+          "name": "art grec",
+          "weight": 26.0
+        },
+        {
+          "name": "expression artistique",
+          "weight": 30.0
+        },
+        {
+          "name": "substances",
+          "weight": 20.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "art visuel",
+          "weight": 29.0
+        },
+        {
+          "name": "forme artistique",
+          "weight": 10.0
+        },
+        {
+          "name": "forme d'art visuel",
+          "weight": 35.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "peinture",
+          "weight": 6523.0
+        },
+        {
+          "name": "substance pigmentée",
+          "weight": 52.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "art",
+          "weight": 12941.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "tableau",
+          "weight": 4994.0
+        },
+        {
+          "name": "description",
+          "weight": 3974.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 110.0
+        },
+        {
+          "name": "ver",
+          "weight": 56.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 32.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 26.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "chanson",
+      "r_isa": [
+        {
+          "name": "mélodie",
+          "weight": 818.0
+        },
+        {
+          "name": "art",
+          "weight": 164.0
+        },
+        {
+          "name": "&oelig;uvre",
+          "weight": 25.0
+        },
+        {
+          "name": "texte",
+          "weight": 255.0
+        },
+        {
+          "name": "chanson",
+          "weight": 25.0
+        },
+        {
+          "name": "personne",
+          "weight": 33.0
+        },
+        {
+          "name": "lieu",
+          "weight": 122.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 30.0
+        },
+        {
+          "name": "air",
+          "weight": 226.0
+        },
+        {
+          "name": "morceau de musique",
+          "weight": 25.0
+        },
+        {
+          "name": "genre musical",
+          "weight": 29.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 35.0
+        },
+        {
+          "name": "style de musique",
+          "weight": 25.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 109.0
+        },
+        {
+          "name": "style musical",
+          "weight": 25.0
+        },
+        {
+          "name": "œuvre musicale",
+          "weight": 28.0
+        },
+        {
+          "name": "tu veux ou tu veux pas",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "chanson",
+          "weight": 5372.0
+        },
+        {
+          "name": "propos futiles",
+          "weight": 25.0
+        },
+        {
+          "name": "musique",
+          "weight": 20837.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 84.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "paix",
+      "r_isa": [
+        {
+          "name": "concept",
+          "weight": 30.0
+        },
+        {
+          "name": "calme",
+          "weight": 55.0
+        },
+        {
+          "name": "état",
+          "weight": 28.0
+        },
+        {
+          "name": "concept abstrait",
+          "weight": 39.0
+        },
+        {
+          "name": "événement positif",
+          "weight": 31.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "paix",
+          "weight": 10041.0
+        },
+        {
+          "name": "taisez-vous",
+          "weight": 54.0
+        },
+        {
+          "name": "entente",
+          "weight": 2011.0
+        },
+        {
+          "name": "guerre",
+          "weight": 19607.0
+        },
+        {
+          "name": "sérénité",
+          "weight": 1590.0
+        },
+        {
+          "name": "calme",
+          "weight": 4746.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 90.0
+        },
+        {
+          "name": "int",
+          "weight": 53.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cours",
+          "weight": 13498.0
+        },
+        {
+          "name": "durée",
+          "weight": 6492.0
+        },
+        {
+          "name": "droit",
+          "weight": 21838.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768.0
+        },
+        {
+          "name": "avenue",
+          "weight": 1618.0
+        },
+        {
+          "name": "étendue",
+          "weight": 3390.0
+        },
+        {
+          "name": "écoulement",
+          "weight": 566.0
+        },
+        {
+          "name": "cote",
+          "weight": 184.0
+        },
+        {
+          "name": "évolution",
+          "weight": 19386.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 112.0
+        },
+        {
+          "name": "ver",
+          "weight": 57.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 36.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 29.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "photographie",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 61.0
+        },
+        {
+          "name": "processus",
+          "weight": 22.0
+        },
+        {
+          "name": "pièce jointe",
+          "weight": 189.0
+        },
+        {
+          "name": "technique",
+          "weight": 43.0
+        },
+        {
+          "name": "pj",
+          "weight": 25.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 25.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "art visuel",
+          "weight": 64.0
+        },
+        {
+          "name": "document joint",
+          "weight": 26.0
+        },
+        {
+          "name": "image",
+          "weight": 25.0
+        },
+        {
+          "name": "forme d'art visuel",
+          "weight": 36.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "photographie",
+          "weight": 5025.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "art",
+          "weight": 12941.0
+        },
+        {
+          "name": "processus",
+          "weight": 9657.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "image",
+          "weight": 10064.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 169.0
+        },
+        {
+          "name": "ver",
+          "weight": 59.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 31.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 28.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "livre",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 190.0
+        },
+        {
+          "name": "monnaie",
+          "weight": 579.0
+        },
+        {
+          "name": "ouvrage",
+          "weight": 748.0
+        },
+        {
+          "name": "étalon",
+          "weight": 27.0
+        },
+        {
+          "name": "document",
+          "weight": 120.0
+        },
+        {
+          "name": "assemblage",
+          "weight": 676.0
+        },
+        {
+          "name": "texte",
+          "weight": 695.0
+        },
+        {
+          "name": "unité",
+          "weight": 30.0
+        },
+        {
+          "name": "pièce",
+          "weight": 30.0
+        },
+        {
+          "name": "unité monétaire",
+          "weight": 25.0
+        },
+        {
+          "name": "chanson",
+          "weight": 25.0
+        },
+        {
+          "name": "chose",
+          "weight": 106.0
+        },
+        {
+          "name": "collection",
+          "weight": 108.0
+        },
+        {
+          "name": "publication",
+          "weight": 127.0
+        },
+        {
+          "name": "poids",
+          "weight": 101.0
+        },
+        {
+          "name": "écrit",
+          "weight": 23.0
+        },
+        {
+          "name": "devise",
+          "weight": 181.0
+        },
+        {
+          "name": "lieu",
+          "weight": 106.0
+        },
+        {
+          "name": "objet d'art",
+          "weight": 108.0
+        },
+        {
+          "name": "argent",
+          "weight": 468.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 116.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 108.0
+        },
+        {
+          "name": "unité de mesure",
+          "weight": 72.0
+        },
+        {
+          "name": "unité de masse",
+          "weight": 74.0
+        },
+        {
+          "name": "support d'information",
+          "weight": 31.0
+        },
+        {
+          "name": "monnaie de compte",
+          "weight": 591.0
+        },
+        {
+          "name": "oeuvre littéraire",
+          "weight": 38.0
+        },
+        {
+          "name": "oeuvre de l'esprit",
+          "weight": 683.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 25.0
+        },
+        {
+          "name": "entité physique",
+          "weight": 31.0
+        },
+        {
+          "name": "texte imprimé",
+          "weight": 707.0
+        },
+        {
+          "name": "unité de monnaie",
+          "weight": 31.0
+        },
+        {
+          "name": "objet inanimé",
+          "weight": 116.0
+        },
+        {
+          "name": "document écrit",
+          "weight": 162.0
+        },
+        {
+          "name": "une unité de mesure",
+          "weight": 25.0
+        },
+        {
+          "name": "assemblage de feuilles",
+          "weight": 783.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "livre",
+          "weight": 16795.0
+        },
+        {
+          "name": "monnaie",
+          "weight": 6388.0
+        },
+        {
+          "name": "commerce",
+          "weight": 10473.0
+        },
+        {
+          "name": "lecture",
+          "weight": 6344.0
+        },
+        {
+          "name": "diplomatie",
+          "weight": 3821.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "unité de masse",
+          "weight": 107.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 147.0
+        },
+        {
+          "name": "ver",
+          "weight": 60.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 48.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 29.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "cuisine",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 57.0
+        },
+        {
+          "name": "batterie",
+          "weight": 59.0
+        },
+        {
+          "name": "loisir",
+          "weight": 53.0
+        },
+        {
+          "name": "ensemble",
+          "weight": 26.0
+        },
+        {
+          "name": "ensemble des techniques",
+          "weight": 28.0
+        },
+        {
+          "name": "pièce",
+          "weight": 69.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "endroit",
+          "weight": 29.0
+        },
+        {
+          "name": "lieu",
+          "weight": 42.0
+        },
+        {
+          "name": "salle",
+          "weight": 69.0
+        },
+        {
+          "name": "espace",
+          "weight": 28.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "portion de l'espace",
+          "weight": 28.0
+        },
+        {
+          "name": "partie de",
+          "weight": 25.0
+        },
+        {
+          "name": "partie de l'espace",
+          "weight": 26.0
+        },
+        {
+          "name": "partie de quelque chose",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cuisine",
+          "weight": 15773.0
+        },
+        {
+          "name": "personnel",
+          "weight": 5568.0
+        },
+        {
+          "name": "pièce",
+          "weight": 8144.0
+        },
+        {
+          "name": "intrigue",
+          "weight": 1018.0
+        },
+        {
+          "name": "art culinaire",
+          "weight": 1155.0
+        },
+        {
+          "name": "ustensiles",
+          "weight": 167.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 151.0
+        },
+        {
+          "name": "ver",
+          "weight": 55.0
+        },
+        {
+          "name": "number",
+          "weight": 55.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 49.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 34.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "émission",
+      "r_isa": [
+        {
+          "name": "reportage",
+          "weight": 38.0
+        },
+        {
+          "name": "action",
+          "weight": 33.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "programme",
+          "weight": 29.0
+        },
+        {
+          "name": "débat télévisé",
+          "weight": 20.0
+        },
+        {
+          "name": "programme télévisé",
+          "weight": 31.0
+        },
+        {
+          "name": "processus physique",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "émission",
+          "weight": 3908.0
+        },
+        {
+          "name": "émettre",
+          "weight": 2192.0
+        },
+        {
+          "name": "physique",
+          "weight": 7948.0
+        },
+        {
+          "name": "finances",
+          "weight": 3121.0
+        },
+        {
+          "name": "biologie",
+          "weight": 6296.0
+        },
+        {
+          "name": "médias",
+          "weight": 6953.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 107.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "mode",
+      "r_isa": [
+        {
+          "name": "américanisme",
+          "weight": 24.0
+        },
+        {
+          "name": "vague",
+          "weight": 55.0
+        },
+        {
+          "name": "phénomène",
+          "weight": 25.0
+        },
+        {
+          "name": "stylisme",
+          "weight": 16.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "style",
+          "weight": 13.0
+        },
+        {
+          "name": "trait grammatical",
+          "weight": 19.0
+        },
+        {
+          "name": "phénomène social",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "mode",
+          "weight": 7290.0
+        },
+        {
+          "name": "statistiques",
+          "weight": 5546.0
+        },
+        {
+          "name": "onde",
+          "weight": 2455.0
+        },
+        {
+          "name": "manière",
+          "weight": 9978.0
+        },
+        {
+          "name": "vogue",
+          "weight": 132.0
+        },
+        {
+          "name": "physique",
+          "weight": 7948.0
+        },
+        {
+          "name": "grammaire",
+          "weight": 5727.0
+        },
+        {
+          "name": "méthode",
+          "weight": 8650.0
+        },
+        {
+          "name": "musique",
+          "weight": 20837.0
+        },
+        {
+          "name": "astrologie",
+          "weight": 852.0
+        },
+        {
+          "name": "habillement",
+          "weight": 773.0
+        },
+        {
+          "name": "informatique",
+          "weight": 5324.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "adj",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 273.0
+        },
+        {
+          "name": "adj",
+          "weight": 54.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "exposition",
+      "r_isa": [
+        {
+          "name": "technique",
+          "weight": 34.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "galerie",
+          "weight": 68.0
+        },
+        {
+          "name": "salon",
+          "weight": 53.0
+        },
+        {
+          "name": "grandeur",
+          "weight": 26.0
+        },
+        {
+          "name": "action",
+          "weight": 25.0
+        },
+        {
+          "name": "degré",
+          "weight": 25.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "exposition",
+          "weight": 5671.0
+        },
+        {
+          "name": "art",
+          "weight": 12941.0
+        },
+        {
+          "name": "exposer",
+          "weight": 2057.0
+        },
+        {
+          "name": "orientation",
+          "weight": 2368.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 132.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "design",
+      "r_isa": [
+        {
+          "name": "activité",
+          "weight": 32.0
+        },
+        {
+          "name": "lieu",
+          "weight": 46.0
+        },
+        {
+          "name": "création",
+          "weight": 48.0
+        },
+        {
+          "name": "activité de création",
+          "weight": 25.0
+        },
+        {
+          "name": "création d'un projet",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 86.0
+        },
+        {
+          "name": "adj",
+          "weight": 54.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "magazine",
+      "r_isa": [
+        {
+          "name": "journal",
+          "weight": 53.0
+        },
+        {
+          "name": "document",
+          "weight": 53.0
+        },
+        {
+          "name": "publication",
+          "weight": 1.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "magazine",
+          "weight": 3447.0
+        },
+        {
+          "name": "audiovisuel",
+          "weight": 1110.0
+        },
+        {
+          "name": "presse écrite",
+          "weight": 385.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 74.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "voyage",
+      "r_isa": [
+        {
+          "name": "déplacement",
+          "weight": 13.0
+        },
+        {
+          "name": "aventure",
+          "weight": 13.0
+        },
+        {
+          "name": "loisir",
+          "weight": 13.0
+        },
+        {
+          "name": "activité",
+          "weight": 29.0
+        },
+        {
+          "name": "exploration",
+          "weight": 32.0
+        },
+        {
+          "name": "fantasme",
+          "weight": 28.0
+        },
+        {
+          "name": "action",
+          "weight": 30.0
+        },
+        {
+          "name": "passe-temps",
+          "weight": 69.0
+        },
+        {
+          "name": "lieu",
+          "weight": 51.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "déplacement dans l'espace",
+          "weight": 34.0
+        },
+        {
+          "name": "événement positif",
+          "weight": 31.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "voyage",
+          "weight": 9744.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "déplacement",
+          "weight": 5858.0
+        },
+        {
+          "name": "tourisme",
+          "weight": 6329.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 132.0
+        },
+        {
+          "name": "ver",
+          "weight": 56.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 28.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 27.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "atelier",
+          "weight": 1854.0
+        },
+        {
+          "name": "garage",
+          "weight": 1388.0
+        },
+        {
+          "name": "artiste",
+          "weight": 5462.0
+        },
+        {
+          "name": "rencontre",
+          "weight": 6604.0
+        },
+        {
+          "name": "usine",
+          "weight": 3050.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 90.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "sculpture",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 35.0
+        },
+        {
+          "name": "art",
+          "weight": 55.0
+        },
+        {
+          "name": "ouvrage",
+          "weight": 25.0
+        },
+        {
+          "name": "représentation",
+          "weight": 26.0
+        },
+        {
+          "name": "architecture",
+          "weight": 86.0
+        },
+        {
+          "name": "action",
+          "weight": 26.0
+        },
+        {
+          "name": "objet d'art",
+          "weight": 16.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 27.0
+        },
+        {
+          "name": "art plastique",
+          "weight": 30.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 93.0
+        },
+        {
+          "name": "art grec",
+          "weight": 26.0
+        },
+        {
+          "name": "activité artistique",
+          "weight": 59.0
+        },
+        {
+          "name": "création artistique",
+          "weight": 25.0
+        },
+        {
+          "name": "entité physique",
+          "weight": 25.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 28.0
+        },
+        {
+          "name": "oevre",
+          "weight": 25.0
+        },
+        {
+          "name": "objet inanimé",
+          "weight": 10.0
+        },
+        {
+          "name": "forme d'art",
+          "weight": 31.0
+        },
+        {
+          "name": "art tridimensionnel",
+          "weight": 33.0
+        },
+        {
+          "name": "objet artistique",
+          "weight": 25.0
+        },
+        {
+          "name": "création esthétique",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "sculpture",
+          "weight": 3175.0
+        },
+        {
+          "name": "art",
+          "weight": 12941.0
+        },
+        {
+          "name": "objet",
+          "weight": 8719.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 89.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "journal",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 46.0
+        },
+        {
+          "name": "partie",
+          "weight": 30.0
+        },
+        {
+          "name": "périodique",
+          "weight": 90.0
+        },
+        {
+          "name": "information",
+          "weight": 60.0
+        },
+        {
+          "name": "document",
+          "weight": 51.0
+        },
+        {
+          "name": "texte",
+          "weight": 54.0
+        },
+        {
+          "name": "mensuel",
+          "weight": 68.0
+        },
+        {
+          "name": "média",
+          "weight": 62.0
+        },
+        {
+          "name": "lecture",
+          "weight": 68.0
+        },
+        {
+          "name": "papier",
+          "weight": 84.0
+        },
+        {
+          "name": "publication",
+          "weight": 1.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "livre",
+          "weight": 83.0
+        },
+        {
+          "name": "media",
+          "weight": 62.0
+        },
+        {
+          "name": "unité de mesure",
+          "weight": 40.0
+        },
+        {
+          "name": "voie de communication",
+          "weight": 25.0
+        },
+        {
+          "name": "presse gratuite",
+          "weight": 25.0
+        },
+        {
+          "name": "document comptable",
+          "weight": 53.0
+        },
+        {
+          "name": "infos",
+          "weight": 31.0
+        },
+        {
+          "name": "publication périodique",
+          "weight": 25.0
+        },
+        {
+          "name": "une unité de mesure",
+          "weight": 25.0
+        },
+        {
+          "name": "partie d'un système",
+          "weight": 25.0
+        },
+        {
+          "name": "texte rédigé",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "journal",
+          "weight": 8840.0
+        },
+        {
+          "name": "comptabilité",
+          "weight": 577.0
+        },
+        {
+          "name": "agriculture",
+          "weight": 9915.0
+        },
+        {
+          "name": "informatique",
+          "weight": 5324.0
+        },
+        {
+          "name": "émission",
+          "weight": 3908.0
+        },
+        {
+          "name": "publication",
+          "weight": 6145.0
+        },
+        {
+          "name": "journal intime",
+          "weight": 296.0
+        },
+        {
+          "name": "journal de bord",
+          "weight": 84.0
+        },
+        {
+          "name": "adj",
+          "weight": 50.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 206.0
+        },
+        {
+          "name": "adj",
+          "weight": 60.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "culture",
+      "r_isa": [
+        {
+          "name": "film",
+          "weight": 27.0
+        },
+        {
+          "name": "savoir",
+          "weight": 836.0
+        },
+        {
+          "name": "pièce de théâtre",
+          "weight": 27.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 35.0
+        },
+        {
+          "name": "domaine",
+          "weight": 85.0
+        },
+        {
+          "name": "éducation",
+          "weight": 69.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 834.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu",
+          "weight": 53.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 27.0
+        },
+        {
+          "name": "éducation nationale",
+          "weight": 30.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 31.0
+        },
+        {
+          "name": "ouvrage littéraire",
+          "weight": 28.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 32.0
+        },
+        {
+          "name": "technique de mesure biomédicale",
+          "weight": 35.0
+        },
+        {
+          "name": "ensemble de connaissances",
+          "weight": 35.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "culture",
+          "weight": 39518.0
+        },
+        {
+          "name": "biologie",
+          "weight": 6294.0
+        },
+        {
+          "name": "agriculture",
+          "weight": 9915.0
+        },
+        {
+          "name": "éducation",
+          "weight": 29298.0
+        },
+        {
+          "name": "connaissance",
+          "weight": 14947.0
+        },
+        {
+          "name": "société",
+          "weight": 26895.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "secteur institutionnel",
+          "weight": 50.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 297.0
+        },
+        {
+          "name": "ver",
+          "weight": 34.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 43.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 35.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 35.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "séminaire",
+      "r_isa": [
+        {
+          "name": "événement",
+          "weight": 27.0
+        },
+        {
+          "name": "groupe",
+          "weight": 29.0
+        },
+        {
+          "name": "réunion",
+          "weight": 26.0
+        },
+        {
+          "name": "établissement",
+          "weight": 49.0
+        },
+        {
+          "name": "conférence",
+          "weight": 22.0
+        },
+        {
+          "name": "évènement",
+          "weight": 26.0
+        },
+        {
+          "name": "établissement d'enseignement",
+          "weight": 28.0
+        },
+        {
+          "name": "établissement d'enseignement supérieur",
+          "weight": 32.0
+        },
+        {
+          "name": "cours spécialisé",
+          "weight": 30.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "séminaire",
+          "weight": 570.0
+        },
+        {
+          "name": "religion",
+          "weight": 9929.0
+        },
+        {
+          "name": "réunion",
+          "weight": 4357.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 92.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "psychologie",
+      "r_isa": [
+        {
+          "name": "étude",
+          "weight": 319.0
+        },
+        {
+          "name": "science",
+          "weight": 323.0
+        },
+        {
+          "name": "science humaine",
+          "weight": 16.0
+        },
+        {
+          "name": "spécialité médicale",
+          "weight": 44.0
+        },
+        {
+          "name": "discipline scientifique",
+          "weight": 25.0
+        },
+        {
+          "name": "étude des faits",
+          "weight": 34.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "psychologie",
+          "weight": 4980.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 297.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "cours",
+      "r_isa": [
+        {
+          "name": "mouvement",
+          "weight": 35.0
+        },
+        {
+          "name": "boulevard",
+          "weight": 30.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 85.0
+        },
+        {
+          "name": "action",
+          "weight": 27.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "odonyme",
+          "weight": 26.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "cours",
+          "weight": 13498.0
+        },
+        {
+          "name": "durée",
+          "weight": 6492.0
+        },
+        {
+          "name": "droit",
+          "weight": 21838.0
+        },
+        {
+          "name": "mouvement",
+          "weight": 14539.0
+        },
+        {
+          "name": "enseignement",
+          "weight": 5768.0
+        },
+        {
+          "name": "avenue",
+          "weight": 1618.0
+        },
+        {
+          "name": "étendue",
+          "weight": 3390.0
+        },
+        {
+          "name": "écoulement",
+          "weight": 566.0
+        },
+        {
+          "name": "cote",
+          "weight": 184.0
+        },
+        {
+          "name": "évolution",
+          "weight": 19386.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "en vigueur",
+          "weight": 399.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 112.0
+        },
+        {
+          "name": "ver",
+          "weight": 57.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 36.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 29.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "danse contemporaine",
+      "r_isa": [
+        {
+          "name": "danse",
+          "weight": 118.0
+        },
+        {
+          "name": "sport",
+          "weight": 112.0
+        },
+        {
+          "name": "spectacle expérimental",
+          "weight": 32.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "danse contemporaine",
+          "weight": 128.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 45.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "film",
+      "r_isa": [
+        {
+          "name": "objet",
+          "weight": 29.0
+        },
+        {
+          "name": "production",
+          "weight": 36.0
+        },
+        {
+          "name": "&oelig;uvre",
+          "weight": 25.0
+        },
+        {
+          "name": "support",
+          "weight": 36.0
+        },
+        {
+          "name": "bobine",
+          "weight": 87.0
+        },
+        {
+          "name": "représentation",
+          "weight": 69.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 81.0
+        },
+        {
+          "name": "récit",
+          "weight": 87.0
+        },
+        {
+          "name": "emballage",
+          "weight": 186.0
+        },
+        {
+          "name": "lieu",
+          "weight": 59.0
+        },
+        {
+          "name": "pellicule",
+          "weight": 23.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 36.0
+        },
+        {
+          "name": "histoire",
+          "weight": 89.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 136.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 269.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 118.0
+        },
+        {
+          "name": "representation",
+          "weight": 36.0
+        },
+        {
+          "name": "oeuvre audiovisuelle",
+          "weight": 115.0
+        },
+        {
+          "name": "oeuvre artistique",
+          "weight": 35.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 108.0
+        },
+        {
+          "name": "oeuvre culturelle",
+          "weight": 108.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "film",
+          "weight": 11371.0
+        },
+        {
+          "name": "couche mince",
+          "weight": 52.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 100.0
+        },
+        {
+          "name": "pellicule",
+          "weight": 329.0
+        },
+        {
+          "name": "photographie",
+          "weight": 5025.0
+        },
+        {
+          "name": "industrie du cinéma",
+          "weight": 60.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 150.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "drame",
+      "r_isa": [
+        {
+          "name": "théâtre",
+          "weight": 53.0
+        },
+        {
+          "name": "film",
+          "weight": 51.0
+        },
+        {
+          "name": "pièce de théâtre",
+          "weight": 72.0
+        },
+        {
+          "name": "pièce",
+          "weight": 52.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 27.0
+        },
+        {
+          "name": "évènement",
+          "weight": 26.0
+        },
+        {
+          "name": "oeuvre cinématographique",
+          "weight": 45.0
+        },
+        {
+          "name": "oeuvre littéraire",
+          "weight": 26.0
+        },
+        {
+          "name": "ouvrage littéraire",
+          "weight": 28.0
+        },
+        {
+          "name": "genre cinématographique",
+          "weight": 25.0
+        },
+        {
+          "name": "genre théâtral",
+          "weight": 26.0
+        },
+        {
+          "name": "oeuvre de fiction",
+          "weight": 44.0
+        },
+        {
+          "name": "oeuvre du cinéma",
+          "weight": 27.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "drame",
+          "weight": 4205.0
+        },
+        {
+          "name": "genre théâtral",
+          "weight": 4.0
+        },
+        {
+          "name": "catastrophe",
+          "weight": 3630.0
+        },
+        {
+          "name": "cinéma",
+          "weight": 10741.0
+        },
+        {
+          "name": "théâtre",
+          "weight": 7614.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 166.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    }
+  },
+  {
+    "prep": "DE",
+    "rel_type": "r_topic",
+    "det": false,
+    "termA": {
+      "name": "atelier",
+      "r_isa": [
+        {
+          "name": "local",
+          "weight": 26.0
+        },
+        {
+          "name": "événement",
+          "weight": 26.0
+        },
+        {
+          "name": "lieu de travail",
+          "weight": 55.0
+        },
+        {
+          "name": "lieu",
+          "weight": 54.0
+        },
+        {
+          "name": "évènement",
+          "weight": 25.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "atelier",
+          "weight": 1854.0
+        },
+        {
+          "name": "garage",
+          "weight": 1388.0
+        },
+        {
+          "name": "artiste",
+          "weight": 5462.0
+        },
+        {
+          "name": "rencontre",
+          "weight": 6604.0
+        },
+        {
+          "name": "usine",
+          "weight": 3050.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 90.0
+        },
+        {
+          "name": "number",
+          "weight": 45.0
+        }
+      ]
+    },
+    "termB": {
+      "name": "musique",
+      "r_isa": [
+        {
+          "name": "art",
+          "weight": 148.0
+        },
+        {
+          "name": "accompagnement",
+          "weight": 97.0
+        },
+        {
+          "name": "matière",
+          "weight": 68.0
+        },
+        {
+          "name": "passion",
+          "weight": 88.0
+        },
+        {
+          "name": "support",
+          "weight": 31.0
+        },
+        {
+          "name": "loisir",
+          "weight": 111.0
+        },
+        {
+          "name": "son",
+          "weight": 95.0
+        },
+        {
+          "name": "activité",
+          "weight": 88.0
+        },
+        {
+          "name": "formes",
+          "weight": 27.0
+        },
+        {
+          "name": "ensemble",
+          "weight": 30.0
+        },
+        {
+          "name": "morceau",
+          "weight": 34.0
+        },
+        {
+          "name": "texte",
+          "weight": 55.0
+        },
+        {
+          "name": "spectacle",
+          "weight": 148.0
+        },
+        {
+          "name": "disco",
+          "weight": 206.0
+        },
+        {
+          "name": "hobby",
+          "weight": 55.0
+        },
+        {
+          "name": "théorie",
+          "weight": 36.0
+        },
+        {
+          "name": "divertissement",
+          "weight": 164.0
+        },
+        {
+          "name": "orchestre",
+          "weight": 55.0
+        },
+        {
+          "name": "chanson",
+          "weight": 83.0
+        },
+        {
+          "name": "lieu",
+          "weight": 52.0
+        },
+        {
+          "name": "discipline",
+          "weight": 216.0
+        },
+        {
+          "name": "style",
+          "weight": 36.0
+        },
+        {
+          "name": "oeuvre",
+          "weight": 26.0
+        },
+        {
+          "name": "société",
+          "weight": 54.0
+        },
+        {
+          "name": "oeuvre d'art",
+          "weight": 28.0
+        },
+        {
+          "name": "morceau de musique",
+          "weight": 51.0
+        },
+        {
+          "name": "genre musical",
+          "weight": 48.0
+        },
+        {
+          "name": "genre de musique",
+          "weight": 52.0
+        },
+        {
+          "name": "style de musique",
+          "weight": 143.0
+        },
+        {
+          "name": "oeuvre musicale",
+          "weight": 35.0
+        },
+        {
+          "name": "activité de loisir",
+          "weight": 160.0
+        },
+        {
+          "name": "style musical",
+          "weight": 131.0
+        },
+        {
+          "name": "yle",
+          "weight": 91.0
+        },
+        {
+          "name": "œuvre musicale",
+          "weight": 40.0
+        },
+        {
+          "name": "art et",
+          "weight": 279.0
+        }
+      ],
+      "r_raff_sem": [
+        {
+          "name": "musique",
+          "weight": 20837.0
+        },
+        {
+          "name": "notation",
+          "weight": 2881.0
+        },
+        {
+          "name": "ver",
+          "weight": 50.0
+        },
+        {
+          "name": "art",
+          "weight": 12941.0
+        },
+        {
+          "name": "sons",
+          "weight": 3281.0
+        },
+        {
+          "name": "nom",
+          "weight": 50.0
+        },
+        {
+          "name": "exécutants",
+          "weight": 27.0
+        }
+      ],
+      "r_pos": [
+        {
+          "name": "nom",
+          "weight": 311.0
+        },
+        {
+          "name": "ver",
+          "weight": 65.0
+        },
+        {
+          "name": "number",
+          "weight": 75.0
+        },
+        {
+          "name": "verbaltime",
+          "weight": 45.0
+        },
+        {
+          "name": "verbalmode",
+          "weight": 39.0
+        },
+        {
+          "name": "verbalpers",
+          "weight": 43.0
+        },
+        {
+          "name": "verbalnumber",
+          "weight": 34.0
+        }
+      ]
+    }
+  }
+]

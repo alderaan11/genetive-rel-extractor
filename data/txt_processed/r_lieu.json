@@ -1,0 +1,1447 @@
+[
+  {
+    "termA": {
+      "name": "tour",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pise",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "muraille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "chine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "carnaval",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "rio",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "colisée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "rome",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fjords",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "norvège",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "statue",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "new york",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "opéra",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sydney",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "montagne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "kilimandjaro",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "chutes",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "niagara",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "palais",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "versailles",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "lac",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "baïkal",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "volcan",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "hawaï",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pont",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lisbonne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "îles",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "galápagos",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DES",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "glacier",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "patagonie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "marché",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "marrakech",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tour",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "londres",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cathédrale",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "moscou",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "plage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bali",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "temple",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "kyoto",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "canyon",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "colorado",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "château",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bavière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "souk",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "dubaï",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pont",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "san francisco",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mont",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fuji",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ruines",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pétra",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "delta",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "mékong",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "grottes",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "cappadoce",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "parc",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "yellowstone",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "île",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "santorin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "vallée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "napa",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "forêt",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "schwarzwald",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "plage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "copacabana",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tour",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "dubaï",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "lac",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "côme",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fjord",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "milford",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "palais",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bangkok",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "désert",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "gobi",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "îles",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "phi phi",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cathédrale",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "barcelone",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "montagne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "alpes",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DES",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "plage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "miami",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "temple",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bali",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "rivière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "nil",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "château",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "loire",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "île",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pâques",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "parc",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "serengeti",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pont",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "brooklyn",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "forêt",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "congo",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "marché",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "istanbul",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mont",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "everest",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": true
+  },
+  {
+    "termA": {
+      "name": "lac",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "genève",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "ruines",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "machu picchu",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "désert",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "namib",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "temple",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lhassa",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "plage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bora bora",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cathédrale",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "florence",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fjord",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "geiranger",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "palais",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "vienne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "îles",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "maldives",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DES",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "montagne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "caucase",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "parc",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "yosemite",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "temple",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "borobudur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "plage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "phuket",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tour",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tokyo",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "désert",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "mojave",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "lac",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "titisee",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cathédrale",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "prague",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fjord",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "trolltunga",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "palais",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pékin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "île",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "capri",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "montagne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pyrénées",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DES",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "rivière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "danube",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "château",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "prague",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "parc",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "kruger",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "temple",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "siem reap",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "plage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "zanzibar",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tour",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "séoul",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "désert",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "kalahari",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "lac",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lucerne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cathédrale",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lisbonne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "fjord",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sogne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "palais",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "jaipur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "île",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "hawaï",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_lieu",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "montagne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tibet",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DU",
+    "rel_type": "r_lieu",
+    "det": false
+  }
+]

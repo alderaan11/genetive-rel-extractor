@@ -1,0 +1,1464 @@
+[
+  {
+    "termA": {
+      "name": "grain",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sable",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "heure",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "travail",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pincée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sel",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "morceau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pain",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sucre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tasse",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "thé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "verre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "vin",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "kilomètre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "route",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tranche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fromage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "poignée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "noix",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "feuille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "papier",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "touffe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "cheveux",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "jour",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "repos",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "seconde",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "silence",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mètre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tissu",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "once",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "beurre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "bouchée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "gâteau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "grain",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "riz",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillerée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "miel",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tonne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "charbon",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "centimètre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "neige",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "poussière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "farine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tranche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "viande",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "poignée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sable",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "année",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "travail",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "goutte",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pluie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "morceau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bois",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "soupe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "verre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "lait",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "kilogramme",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fruits",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "litre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "jus",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "feuille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "salade",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mois",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "vacances",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "seconde",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "réflexion",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mètre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "corde",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "once",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "chocolat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "filet",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "vinaigre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "bouchée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "chocolat",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "grain",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "poivre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillerée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "confiture",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tonne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pierre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "centimètre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tissu",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "poussière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "craie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gobelet",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "café",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tranche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pain",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "poignée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "terre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "goutte",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sueur",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "morceau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "tissu",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "farine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "kilogramme",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "légumes",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "litre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "bière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pincée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "poivre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "feuille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "menthe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "touffe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "laine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mois",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "repos",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mètre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fil",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "once",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fromage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "filet",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "citron",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "bouchée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "fromage",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "grain",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "café",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillerée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "crème",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tonne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sable",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "centimètre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pluie",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "poussière",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "pollen",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "gobelet",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "thé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tranche",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "citron",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "poignée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "gravier",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "année",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "service",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "goutte",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sang",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "morceau",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "charbon",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillère",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sel",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "verre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "jus",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "kilogramme",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "viande",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "litre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "soupe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "pincée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "curry",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "feuille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "thé",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "touffe",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "paille",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mois",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "formation",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "seconde",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "repos",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "mètre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "ruban",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "once",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sucre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "bouchée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "viande",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "grain",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sel",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "cuillerée",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "sirop",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "tonne",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "gravier",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  },
+  {
+    "termA": {
+      "name": "centimètre",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "termB": {
+      "name": "laine",
+      "r_isa": [],
+      "r_raff_sem": [],
+      "r_pos": []
+    },
+    "prep": "DE",
+    "rel_type": "r_quantificateur",
+    "det": false
+  }
+]

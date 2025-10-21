@@ -1,0 +1,1787 @@
+{
+  "original_file": "data2/data/txt/r_social_tie.txt",
+  "data": {
+    "Avocat D'une femme battue ": {
+      "termA": {
+        "name": "avocat",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "une",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "D'",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chef DU groupe ": {
+      "termA": {
+        "name": "chef",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "groupe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DU patient ": {
+      "termA": {
+        "name": "médecin",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "patient",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enseignant DES élèves ": {
+      "termA": {
+        "name": "enseignant",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "élèves",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parent D'un enfant ": {
+      "termA": {
+        "name": "parent",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "un",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "D'",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ami DE l'ami ": {
+      "termA": {
+        "name": "ami",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "ami",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Patron DE l'employé ": {
+      "termA": {
+        "name": "patron",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "employé",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Capitaine DE l'équipe ": {
+      "termA": {
+        "name": "capitaine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "équipe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Avocat DU prévenu ": {
+      "termA": {
+        "name": "avocat",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "prévenu",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mentor DU stagiaire ": {
+      "termA": {
+        "name": "mentor",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "stagiaire",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Infirmier DU malade ": {
+      "termA": {
+        "name": "infirmier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "malade",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Leader DU mouvement ": {
+      "termA": {
+        "name": "leader",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "mouvement",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Frère DE la sœur ": {
+      "termA": {
+        "name": "frère",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "sœur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Mère DU bébé ": {
+      "termA": {
+        "name": "mère",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "bébé",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Coach DES athlètes ": {
+      "termA": {
+        "name": "coach",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "athlètes",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Directeur DE l'entreprise ": {
+      "termA": {
+        "name": "directeur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "entreprise",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Avocat DE l'accusé ": {
+      "termA": {
+        "name": "avocat",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "accusé",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Conseiller DU client ": {
+      "termA": {
+        "name": "conseiller",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "client",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Juge DE l'audience ": {
+      "termA": {
+        "name": "juge",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "audience",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Capitaine DU navire ": {
+      "termA": {
+        "name": "capitaine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "navire",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Professeur DES étudiants ": {
+      "termA": {
+        "name": "professeur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "étudiants",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Manager DU projet ": {
+      "termA": {
+        "name": "manager",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "projet",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tuteur DU mineur ": {
+      "termA": {
+        "name": "tuteur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "mineur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Époux DE l'épouse ": {
+      "termA": {
+        "name": "époux",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "épouse",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Guide DU touriste ": {
+      "termA": {
+        "name": "guide",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "touriste",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DE famille ": {
+      "termA": {
+        "name": "médecin",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "famille",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Prêtre DE la paroisse ": {
+      "termA": {
+        "name": "prêtre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "paroisse",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Ami DU voisin ": {
+      "termA": {
+        "name": "ami",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "voisin",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Superviseur DES ouvriers ": {
+      "termA": {
+        "name": "superviseur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "ouvriers",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Entraîneur DU joueur ": {
+      "termA": {
+        "name": "entraîneur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "joueur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Président DU comité ": {
+      "termA": {
+        "name": "président",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "comité",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Avocat DU plaignant ": {
+      "termA": {
+        "name": "avocat",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "plaignant",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mentor DE l'apprenti ": {
+      "termA": {
+        "name": "mentor",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "apprenti",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Infirmière DU patient ": {
+      "termA": {
+        "name": "infirmière",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "patient",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Leader DE l'équipe ": {
+      "termA": {
+        "name": "leader",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "équipe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Sœur DU frère ": {
+      "termA": {
+        "name": "sœur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "frère",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Père DE l'enfant ": {
+      "termA": {
+        "name": "père",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "enfant",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Coach DU coureur ": {
+      "termA": {
+        "name": "coach",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "coureur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Directeur DU département ": {
+      "termA": {
+        "name": "directeur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "département",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Avocat DE la victime ": {
+      "termA": {
+        "name": "avocat",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "victime",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Conseiller DU président ": {
+      "termA": {
+        "name": "conseiller",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "président",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Juge DU tribunal ": {
+      "termA": {
+        "name": "juge",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "tribunal",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Capitaine DE l'avion ": {
+      "termA": {
+        "name": "capitaine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "avion",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Professeur DE l'école ": {
+      "termA": {
+        "name": "professeur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "école",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Manager DE l'équipe ": {
+      "termA": {
+        "name": "manager",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "équipe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Tuteur DE l'étudiant ": {
+      "termA": {
+        "name": "tuteur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "étudiant",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Épouse DU mari ": {
+      "termA": {
+        "name": "épouse",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "mari",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Guide DES randonneurs ": {
+      "termA": {
+        "name": "guide",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "randonneurs",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DU village ": {
+      "termA": {
+        "name": "médecin",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "village",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Prêtre DU diocèse ": {
+      "termA": {
+        "name": "prêtre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "diocèse",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ami DE l'ami d'enfance ": {
+      "termA": {
+        "name": "ami",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "enfance",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "D'",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Superviseur DU chantier ": {
+      "termA": {
+        "name": "superviseur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "chantier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Entraîneur DE l'équipe ": {
+      "termA": {
+        "name": "entraîneur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "équipe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Président DE l'association ": {
+      "termA": {
+        "name": "président",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "association",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Avocat DU justiciable ": {
+      "termA": {
+        "name": "avocat",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "justiciable",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mentor DU jeune ": {
+      "termA": {
+        "name": "mentor",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "jeune",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Infirmier DE l'hôpital ": {
+      "termA": {
+        "name": "infirmier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "hôpital",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Leader DU parti ": {
+      "termA": {
+        "name": "leader",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "parti",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Frère DU cadet ": {
+      "termA": {
+        "name": "frère",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cadet",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mère DE l'adolescent ": {
+      "termA": {
+        "name": "mère",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "adolescent",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Coach DU gymnaste ": {
+      "termA": {
+        "name": "coach",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "gymnaste",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Directeur DE l'école ": {
+      "termA": {
+        "name": "directeur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "école",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Avocat DE l'entreprise ": {
+      "termA": {
+        "name": "avocat",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "entreprise",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Conseiller DU maire ": {
+      "termA": {
+        "name": "conseiller",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "maire",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Juge DE la cour ": {
+      "termA": {
+        "name": "juge",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cour",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Capitaine DU bateau ": {
+      "termA": {
+        "name": "capitaine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "bateau",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Professeur DE l'université ": {
+      "termA": {
+        "name": "professeur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "université",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Manager DU magasin ": {
+      "termA": {
+        "name": "manager",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "magasin",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tuteur DU lycéen ": {
+      "termA": {
+        "name": "tuteur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "lycéen",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Époux DE la femme ": {
+      "termA": {
+        "name": "époux",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "femme",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Guide DU groupe ": {
+      "termA": {
+        "name": "guide",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "groupe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DE l'enfant ": {
+      "termA": {
+        "name": "médecin",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "enfant",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Prêtre DE l'église ": {
+      "termA": {
+        "name": "prêtre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "église",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Ami DU collègue ": {
+      "termA": {
+        "name": "ami",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "collègue",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Superviseur DE l'atelier ": {
+      "termA": {
+        "name": "superviseur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "atelier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Entraîneur DU boxeur ": {
+      "termA": {
+        "name": "entraîneur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "boxeur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Président DU conseil ": {
+      "termA": {
+        "name": "président",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "conseil",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Avocat DU citoyen ": {
+      "termA": {
+        "name": "avocat",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "citoyen",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mentor DU novice ": {
+      "termA": {
+        "name": "mentor",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "novice",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Infirmière DE la clinique ": {
+      "termA": {
+        "name": "infirmière",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "clinique",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Leader DU projet ": {
+      "termA": {
+        "name": "leader",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "projet",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sœur DE l'aînée ": {
+      "termA": {
+        "name": "sœur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "aînée",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Père DU bébé ": {
+      "termA": {
+        "name": "père",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "bébé",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Coach DE l'équipe ": {
+      "termA": {
+        "name": "coach",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "équipe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Directeur DU musée ": {
+      "termA": {
+        "name": "directeur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "musée",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Avocat DU client ": {
+      "termA": {
+        "name": "avocat",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "client",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conseiller DE l'étudiant ": {
+      "termA": {
+        "name": "conseiller",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "étudiant",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Juge DU procès ": {
+      "termA": {
+        "name": "juge",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "procès",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Capitaine DE l'escouade ": {
+      "termA": {
+        "name": "capitaine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "escouade",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Professeur DU collège ": {
+      "termA": {
+        "name": "professeur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "collège",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Manager DE la boutique ": {
+      "termA": {
+        "name": "manager",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "boutique",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Tuteur DE l'apprenant ": {
+      "termA": {
+        "name": "tuteur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "apprenant",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Épouse DU conjoint ": {
+      "termA": {
+        "name": "épouse",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "conjoint",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Guide DES visiteurs ": {
+      "termA": {
+        "name": "guide",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "visiteurs",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DE l'adulte ": {
+      "termA": {
+        "name": "médecin",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "adulte",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Prêtre DU monastère ": {
+      "termA": {
+        "name": "prêtre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "monastère",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ami DU camarade ": {
+      "termA": {
+        "name": "ami",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "camarade",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Superviseur DE l'équipe ": {
+      "termA": {
+        "name": "superviseur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "équipe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Entraîneur DU nageur ": {
+      "termA": {
+        "name": "entraîneur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "nageur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_social_tie",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}
