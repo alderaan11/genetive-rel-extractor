@@ -85,14 +85,28 @@ def explore(term: str, top: int = 11):
     else:
         typer.echo(f"Cache déjà présent : {cache_path}")
 
-def fetch_vocabulary_by_id(vocab_path: Path, output_dir: Path, id_relation: int, delay: float = 0.5):
-    with open(vocab_path, "r", encoding="utf-8") as f:
-        vocabulary = json.load(f)
+@app.command()
+def create_vocabulary(json_corpus: Path, output_dir: Path):
+    vocabulary = set()
 
-    output_file = output_dir / f"{id_relation}.json"
+    for json_file in json_corpus.rglob("*.json"):
+        with open(json_file, "r", encoding="utf-8") as f:
+            file_data = json.load(f)
 
-    for word in vocabulary:
-        pass
+        parsed_data = {
+            key: RelationInstance(**value)
+            for key, value in  file_data["data"].items()
+        }
+
+        corpus = Corpus(original_file=json_file, data=parsed_data)
+
+        for rel in corpus.data.values():
+            vocabulary.update({rel.termA.name, rel.termB.name})
+
+    print(len(vocabulary))
+    output_file = output_dir  / "vocabulary.json"
+    with open(output_file, "w", encoding="utf-8") as f:
+        json.dump(sorted(vocabulary), f, indent=2, ensure_ascii=False)
 
 
 if __name__ == "__main__":
