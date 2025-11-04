@@ -1,7 +1,7 @@
 from pathlib import Path
 import json
 import typer
-from src2.base import TermInfo, RelationInstance, Prep, Corpus, Article
+from src2.models import TermInfo, RelationInstance, Prep, Corpus, Article
 from typing import List, Dict, Any
 import re
 app = typer.Typer()
@@ -17,7 +17,7 @@ PREP_MAP = {
     "D'un": Prep.D,
 }
 
-ARTICLES = {'le', 'la', 'les', "l'"}
+ARTICLES = {'le', 'la', 'les', "l'", "un", "une"}
 
 @app.command()
 def parse_line(line: str) -> Dict[str, Any]:

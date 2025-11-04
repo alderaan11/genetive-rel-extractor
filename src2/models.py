@@ -14,6 +14,8 @@ class Article(str, Enum):
     LE = "LE"
     LES = "LES" 
     L = "L'"
+    UN = "UN"
+    UNE = "UNE"
 
 class TermInfo(BaseModel):
     name: str
