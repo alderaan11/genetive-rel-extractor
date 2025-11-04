@@ -37,3 +37,13 @@ class Corpus(BaseModel):
     original_file: Optional[Path] = None
     data: Dict[str, RelationInstance] = Field(default_factory=dict)
 
+
+class Node(BaseModel):
+    id_node: int
+    node1: int
+    node2: int 
+    weight: float
+
+class ApiCall(BaseModel):
+    id_relation: int
+    relation_nodes: Dict[str, List[Node]]

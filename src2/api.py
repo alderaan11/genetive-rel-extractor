@@ -3,7 +3,8 @@ import json
 from pathlib import Path
 from typing import List, Optional
 import typer
-from src2.models import TermInfo, RelationInstance, Corpus
+from tqdm import tqdm
+from src2.models import TermInfo, RelationInstance, Corpus, Node, ApiCall
 
 app = typer.Typer()
 
@@ -52,47 +53,60 @@ def get_relations_from_name(term: str):
         return None
 
 
+
 @app.command()
-def explore(term: str, top: int = 11):
-    with open("data2/relations.json") as f:
+def explore(term: str, id_relation: int, output_dir=Path):
+    with open("data2/utils/relations.json") as f:
         rel_list = json.load(f)
 
-    cache_path = Path(f"data2/cache/{term}.json")
+    output_dir.mkdir(parents=True, exist_ok=True)
+    relation_file = output_dir / f"infos_by_name_{id_relation}.json"
+
+    if relation_file.exists():
+        with open(relation_file, "r", encoding="utf-8") as f:
+            apicall_data = json.load(f)
+            api_call = ApiCall(**apicall_data)
+
+    else: api_call = ApiCall(id_relation=id_relation, relation_nodes={})
+
+    if term in api_call.relation_nodes:
+        print(api_call.relation_nodes[term])
+        return
 
     sign = get_infos_by_name(term)
     print(f"SIGN : {sign}")
 
-    if not cache_path.exists():
-        signature = get_relations_from_name(term)
-        if not signature:
-            typer.echo("Aucune relation trouvée.")
-            raise typer.Exit()
+    result = get_relations_from_name(term)
 
-        sorted_signature = sorted(signature, key=lambda x: x["w"], reverse=True)
+    if not result:
+        typer.echo("Aucune relation trouvée.")
+        return
 
-        results = []
-        for item in sorted_signature[:top]:
-            name_b = get_infos_by_id(item["node2"])
-            if name_b and not name_b.startswith("_") and not name_b.startswith(":"):
-                rel_name = get_relation_name(rel_list, item["type"])
-                results.append((name_b, rel_name))
+    sorted_result = sorted(result, key=lambda x: x["w"], reverse=True)
+    filtered_result = [x for x in sorted_result if x["type"] == id_relation]
+    
+    if not filtered_result: 
+        print("Error while printing")
+        return 
 
-        for name_b, rel_name in results:    
-            typer.echo(f"{term} --[{rel_name}]--> {name_b}")
+    print("\n")
+    print(filtered_result)
+    nodes = [Node(id_node=item["id"],node1=item["node1"], node2=item["node2"], weight=item["w"]) for item in filtered_result]
 
-        with open(cache_path, "w+", encoding="utf-8") as f:
-            json.dump(sorted_signature, f, ensure_ascii=False, indent=2)
-    else:
-        typer.echo(f"Cache déjà présent : {cache_path}")
+    api_call.relation_nodes[term] = nodes
 
+    with open(relation_file, "w", encoding="utf-8") as f:
+        f.write(api_call.model_dump_json(indent=2))
+
+    
+@app.command()
 def fetch_vocabulary_by_id(vocab_path: Path, output_dir: Path, id_relation: int, delay: float = 0.5):
     with open(vocab_path, "r", encoding="utf-8") as f:
         vocabulary = json.load(f)
 
-    output_file = output_dir / f"{id_relation}.json"
+    for word in tqdm(vocabulary):
+        explore(word, id_relation, output_dir)
 
-    for word in vocabulary:
-        pass
 
 
 if __name__ == "__main__":

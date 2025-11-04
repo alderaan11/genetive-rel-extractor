@@ -53,7 +53,7 @@ def get_relations_from_name(term: str):
 
 
 @app.command()
-def explore(term: str, top: int = 11):
+def explore(term: str, id_relation: int):
     with open("data2/relations.json") as f:
         rel_list = json.load(f)
 
@@ -63,15 +63,16 @@ def explore(term: str, top: int = 11):
     print(f"SIGN : {sign}")
 
     if not cache_path.exists():
-        signature = get_relations_from_name(term)
+        result = get_relations_from_name(term)
         if not signature:
             typer.echo("Aucune relation trouvée.")
             raise typer.Exit()
 
-        sorted_signature = sorted(signature, key=lambda x: x["w"], reverse=True)
-
+        sorted_result = sorted(result, key=lambda x: x["w"], reverse=True)
+        filtered_result = [x for x in sorted_result if x["type"] == id_relation]
+        
         results = []
-        for item in sorted_signature[:top]:
+        for item in filtered_relation:
             name_b = get_infos_by_id(item["node2"])
             if name_b and not name_b.startswith("_") and not name_b.startswith(":"):
                 rel_name = get_relation_name(rel_list, item["type"])
