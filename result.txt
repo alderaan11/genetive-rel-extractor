@@ -1,0 +1,26 @@
+Rapport de classification :
+                     precision    recall  f1-score   support
+
+           r_depict       0.81      0.71      0.76        24
+     r_has_causatif       0.65      0.89      0.76        19
+   r_has_property-1       0.67      0.70      0.68        20
+             r_holo       0.56      0.74      0.64        19
+             r_lieu       0.43      0.30      0.35        20
+     r_lieu_origine       0.59      0.65      0.62        20
+    r_objet_matiere       0.65      0.65      0.65        20
+              r_own       0.88      0.70      0.78        20
+  r_processus_agent       0.82      0.70      0.76        20
+ r_processus_instru       0.59      0.68      0.63        19
+r_processus_patient       0.64      0.74      0.68        19
+       r_product_of       0.68      0.75      0.71        20
+   r_quantificateur       0.47      0.40      0.43        20
+       r_social_tie       0.80      0.60      0.69        20
+            r_topic       0.90      0.90      0.90        10
+
+           accuracy                           0.67       290
+          macro avg       0.68      0.67      0.67       290
+       weighted avg       0.67      0.67      0.66       290
+
+
+Modèle sauvegardé : genitif_model.pkl
+anaismackow@MacBook-Air-de-Anais genetive-rel-extractor % 
