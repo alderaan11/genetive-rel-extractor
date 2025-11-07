@@ -9,12 +9,95 @@ from sklearn.metrics import classification_report
 from tqdm import tqdm
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+from src2.models import RelationInstance, Article, Prep, TermInfo, RelProto
 from src2.core.data import load_json_corpus
 from src2.core.similarity import weighted_jaccard, get_jdm_relations
 from src2.core.features import build_encoders, encode_syntax
+from typing import List, Dict
+import statistics
 
 app = typer.Typer(help="Entraîne un arbre de décision avec explicabilité pour les relations génitives")
+
+
+
+def create_rules_for_genitive_relation(
+    rel_proto: List[RelProto],
+    rel2: RelationInstance,
+    traits_list: List[int],
+    cache_dir: Path
+) -> List[RelProto]:
+    rel2_a, rel2_b = {}, {}
+
+    # Récupération des relations JDM
+    for trait in traits_list:
+        rel2_a.update(get_jdm_relations(rel2.termA.name, trait, cache_dir))
+        rel2_b.update(get_jdm_relations(rel2.termB.name, trait, cache_dir))
+
+    # ✅ ici on itère directement sur la liste
+    for rel in rel_proto:
+        simA = weighted_jaccard(rel.nodes_a, rel2_a)
+        simB = weighted_jaccard(rel.nodes_b, rel2_b)
+        score_similarity = (simA + simB) / 2
+
+        if score_similarity > 0.5:
+            rel.nodes_a.update({
+                key: statistics.mean([rel.nodes_a[key], rel2_a[key]]) if key in rel2_a else rel.nodes_a[key]
+                for key in rel.nodes_a
+            })
+            rel.nodes_a.update({key: rel2_a[key] for key in rel2_a if key not in rel.nodes_a})
+
+            rel.nodes_b.update({
+                key: statistics.mean([rel.nodes_b[key], rel2_b[key]]) if key in rel2_b else rel.nodes_b[key]
+                for key in rel.nodes_b
+            })
+            rel.nodes_b.update({key: rel2_b[key] for key in rel2_b if key not in rel.nodes_b})
+
+            rel.fusion_number += 1
+            return rel_proto
+
+    # ✅ Si aucun prototype ne correspond
+    rel_proto.append(
+        RelProto(
+            termA=rel2.termA.name,
+            termB=rel2.termB.name,
+            nodes_a=rel2_a,
+            nodes_b=rel2_b,
+            fusion_number=0
+        )
+    )
+    return rel_proto
+
+
+@app.command()
+def debug():
+    cache_dir = Path("./data2/cache")
+    corpus_file = Path("./data2/json_corpus/r_depict.json")
+
+    with open(corpus_file, "r", encoding="utf-8") as f:
+        relations = load_json_corpus(corpus_file)
+        label = corpus_file.stem
+
+    # ✅ crée une vraie liste vide
+    proto_rel: List[RelProto] = []
+
+    traits_list = [1, 6]
+
+    for rel in tqdm(relations, desc=f"Comparaison"):
+        if not proto_rel:
+            proto_rel.append(
+                RelProto(
+                    termA=rel.termA.name,
+                    termB=rel.termB.name,
+                    nodes_a=get_jdm_relations(rel.termA.name, traits_list[0], cache_dir),
+                    nodes_b=get_jdm_relations(rel.termB.name, traits_list[0], cache_dir),
+                    fusion_number=0
+                )
+            )
+        else:
+            proto_rel = create_rules_for_genitive_relation(proto_rel, rel, traits_list, cache_dir)
+
+    print([rel.fusion_number for rel in proto_rel])
+
 
 
 @app.command()

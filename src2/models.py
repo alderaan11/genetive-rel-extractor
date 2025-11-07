@@ -32,6 +32,12 @@ class RelationInstance(BaseModel):
     is_det: bool
     determinant: Optional[Article] = None  
 
+class RelProto(BaseModel):
+    termA: str
+    termB: str
+    nodes_a: Dict[int, float]
+    nodes_b: Dict[int, float]
+    fusion_number: int
 
 class Corpus(BaseModel):
     original_file: Optional[Path] = None
