@@ -47,3 +47,44 @@ r_processus_patient       0.67      0.74      0.70        19
            accuracy                           0.63       290
           macro avg       0.64      0.63      0.63       290
        weighted avg       0.63      0.63      0.62       290
+
+
+
+with signes weighted jaccard:
+
+Rapport de classification :
+                     precision    recall  f1-score   support
+
+           r_depict       0.72      0.75      0.73        24
+     r_has_causatif       0.68      0.89      0.77        19
+   r_has_property-1       0.81      0.65      0.72        20
+             r_holo       0.48      0.68      0.57        19
+             r_lieu       0.44      0.35      0.39        20
+     r_lieu_origine       0.56      0.75      0.64        20
+    r_objet_matiere       0.45      0.50      0.48        20
+              r_own       0.68      0.65      0.67        20
+  r_processus_agent       0.80      0.60      0.69        20
+ r_processus_instru       0.76      0.68      0.72        19
+r_processus_patient       0.67      0.74      0.70        19
+       r_product_of       0.57      0.60      0.59        20
+   r_quantificateur       0.47      0.35      0.40        20
+       r_social_tie       0.60      0.45      0.51        20
+            r_topic       0.89      0.80      0.84        10
+
+           accuracy                           0.62       290
+          macro avg       0.64      0.63      0.63       290
+       weighted avg       0.63      0.62      0.62       290
+
+Modèle sauvegardé : genitif_tree_model.pkl
+
+Importance des features :
+  simA                 : 0.3923
+  simB                 : 0.3606
+  prep_DU              : 0.0536
+  art_UN               : 0.0487
+  is_det               : 0.0442
+  prep_DE              : 0.0287
+  art_LA               : 0.0235
+  prep_D'              : 0.0181
+  art_UNE              : 0.0141
+  prep_DES             : 0.0111

@@ -33,6 +33,7 @@ class RelationInstance(BaseModel):
     determinant: Optional[Article] = None  
 
 class RelProto(BaseModel):
+    gen_type: str
     termA: str
     termB: str
     nodes_a: Dict[int, float]

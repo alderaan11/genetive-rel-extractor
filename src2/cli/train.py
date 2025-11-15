@@ -1,4 +1,3 @@
-# src/cli/train.py
 import typer
 import numpy as np
 import joblib
@@ -11,7 +10,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from src2.models import RelationInstance, Article, Prep, TermInfo, RelProto
 from src2.core.data import load_json_corpus
-from src2.core.similarity import weighted_jaccard, get_jdm_relations
+from src2.core.similarity import weighted_jaccard, get_jdm_relations, signed_weighted_jaccard
 from src2.core.features import build_encoders, encode_syntax
 from typing import List, Dict
 import statistics
@@ -35,8 +34,8 @@ def create_rules_for_genitive_relation(
 
     # ✅ ici on itère directement sur la liste
     for rel in rel_proto:
-        simA = weighted_jaccard(rel.nodes_a, rel2_a)
-        simB = weighted_jaccard(rel.nodes_b, rel2_b)
+        simA = signed_weighted_jaccard(rel.nodes_a, rel2_a)
+        simB = signed_weighted_jaccard(rel.nodes_b, rel2_b)
         score_similarity = (simA + simB) / 2
 
         if score_similarity > 0.5:
