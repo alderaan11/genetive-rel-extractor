@@ -1,0 +1,100 @@
+Fatigue DE l'effort | r_has_property-1  
+Rougeur DU visage | r_has_property-1  
+Douceur DE la peau | r_has_property-1  
+Chaleur DU soleil | r_has_property-1  
+Fraîcheur DE l'eau | r_has_property-1  
+Dureté DE la pierre | r_has_property-1  
+Clarté DU ciel | r_has_property-1  
+Lourdeur DU sac | r_has_property-1  
+Brillance DE l'étoile | r_has_property-1  
+Rugosité DU bois | r_has_property-1  
+Éclat DU diamant | r_has_property-1  
+Froid DE la glace | r_has_property-1  
+Légèreté DE la plume | r_has_property-1  
+Densité DU brouillard | r_has_property-1  
+Parfum DE la fleur | r_has_property-1  
+Rigidité DU métal | r_has_property-1  
+Douceur DU velours | r_has_property-1  
+Épaisseur DU mur | r_has_property-1  
+Transparence DU verre | r_has_property-1  
+Acidité DU citron | r_has_property-1  
+Chaleur DE la flamme | r_has_property-1  
+Fluidité DE l'eau | r_has_property-1  
+Solidité DU roc | r_has_property-1  
+Éclat DU soleil | r_has_property-1  
+Fragilité DE la porcelaine | r_has_property-1  
+Suavité DU miel | r_has_property-1  
+Amertume DU café | r_has_property-1  
+Épaisseur DE la forêt | r_has_property-1  
+Clarté DE l'eau | r_has_property-1  
+Poids DU rocher | r_has_property-1  
+Douceur DE la brise | r_has_property-1  
+Dureté DU diamant | r_has_property-1  
+Fraîcheur DU vent | r_has_property-1  
+Éclat DE la lune | r_has_property-1  
+Rugosité DE l'écorce | r_has_property-1  
+Chaleur DU désert | r_has_property-1  
+Transparence DE l'air | r_has_property-1  
+Parfum DU jasmin | r_has_property-1  
+Rigidité DE la planche | r_has_property-1  
+Légereté DU nuage | r_has_property-1  
+Densité DE la foule | r_has_property-1  
+Acidité DU vinaigre | r_has_property-1  
+Brillance DU métal | r_has_property-1  
+Froid DE la neige | r_has_property-1  
+Fluidité DU ruisseau | r_has_property-1  
+Solidité DU béton | r_has_property-1  
+Éclat DES étoiles | r_has_property-1  
+Fragilité DU verre | r_has_property-1  
+Suavité DU parfum | r_has_property-1  
+Amertume DE l'orange | r_has_property-1  
+Épaisseur DU tapis | r_has_property-1  
+Clarté DU cristal | r_has_property-1  
+Poids DU plomb | r_has_property-1  
+Douceur DE la soie | r_has_property-1  
+Dureté DE l'acier | r_has_property-1  
+Fraîcheur DE la menthe | r_has_property-1  
+Éclat DU miroir | r_has_property-1  
+Rugosité DU sable | r_has_property-1  
+Chaleur DU radiateur | r_has_property-1  
+Transparence DE la vitre | r_has_property-1  
+Parfum DE la lavande | r_has_property-1  
+Rigidité DU plastique | r_has_property-1  
+Légereté DE l'air | r_has_property-1  
+Densité DU bois | r_has_property-1  
+Acidité DE la pomme | r_has_property-1  
+Brillance DE l'or | r_has_property-1  
+Froid DU métal | r_has_property-1  
+Fluidité DU sirop | r_has_property-1  
+Solidité DE la brique | r_has_property-1  
+Éclat DU chrome | r_has_property-1  
+Fragilité DE la feuille | r_has_property-1  
+Suavité DU lait | r_has_property-1  
+Amertume DU thé | r_has_property-1  
+Épaisseur DE la laine | r_has_property-1  
+Clarté DE la source | r_has_property-1  
+Poids DE la pierre | r_has_property-1  
+Douceur DU coton | r_has_property-1  
+Dureté DU granit | r_has_property-1  
+Fraîcheur DE l'ombre | r_has_property-1  
+Éclat DU joyau | r_has_property-1  
+Rugosité DE la toile | r_has_property-1  
+Chaleur DE l'été | r_has_property-1  
+Transparence DU film | r_has_property-1  
+Parfum DE l'orange | r_has_property-1  
+Rigidité DU fer | r_has_property-1  
+Légereté DE la mousse | r_has_property-1  
+Densité DE la fumée | r_has_property-1  
+Acidité DU yaourt | r_has_property-1  
+Brillance DU cuivre | r_has_property-1  
+Froid DE l'hiver | r_has_property-1  
+Fluidité DE l'huile | r_has_property-1  
+Solidité DU chêne | r_has_property-1  
+Éclat DU quartz | r_has_property-1  
+Fragilité DU cristal | r_has_property-1  
+Suavité DU nectar | r_has_property-1  
+Amertume DE l'olive | r_has_property-1  
+Épaisseur DU brouillard | r_has_property-1  
+Clarté DU diamant | r_has_property-1  
+Poids DU marbre | r_has_property-1  
+Douceur DE la laine | r_has_property-1

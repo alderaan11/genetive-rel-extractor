@@ -1,0 +1,99 @@
+Cuillère DE bois | r_objet>matiere  
+Trône DE fer | r_objet>matiere  
+Table D'acier | r_objet>matiere  
+Bague D'or | r_objet>matiere  
+Vase DE verre | r_objet>matiere  
+Statue DE marbre | r_objet>matiere  
+Chaise DE plastique | r_objet>matiere  
+Épée D'acier | r_objet>matiere  
+Bol DE céramique | r_objet>matiere  
+Collier D'argent | r_objet>matiere  
+Armoire DE chêne | r_objet>matiere  
+Bouteille DE verre | r_objet>matiere  
+Cadenas DE fer | r_objet>matiere  
+Cloche DE bronze | r_objet>matiere  
+Miroir D'argent | r_objet>matiere  
+Lampe DE cuivre | r_objet>matiere  
+Boîte DE carton | r_objet>matiere  
+Tasse DE porcelaine | r_objet>matiere  
+Couteau D'acier | r_objet>matiere  
+Bracelet D'or | r_objet>matiere  
+Plancher DE bois | r_objet>matiere  
+Mur DE pierre | r_objet>matiere  
+Pendentif DE jade | r_objet>matiere  
+Assiette DE faïence | r_objet>matiere  
+Toit DE tuile | r_objet>matiere  
+Stylo DE plastique | r_objet>matiere  
+Bâton DE bois | r_objet>matiere  
+Anneau DE fer | r_objet>matiere  
+Sculpture DE granit | r_objet>matiere  
+Verre DE cristal | r_objet>matiere  
+Étagère DE pin | r_objet>matiere  
+Médaille D'or | r_objet>matiere  
+Clou DE fer | r_objet>matiere  
+Horloge DE bronze | r_objet>matiere  
+Cadre DE bois | r_objet>matiere  
+Bague DE diamant | r_objet>matiere  
+Plaque DE métal | r_objet>matiere  
+Ceinture DE cuir | r_objet>matiere  
+Porte DE chêne | r_objet>matiere  
+Vase DE terre | r_objet>matiere  
+Bague D'émeraude | r_objet>matiere  
+Banc DE bois | r_objet>matiere  
+Chaîne D'or | r_objet>matiere  
+Fenêtre DE verre | r_objet>matiere  
+Statue DE bronze | r_objet>matiere  
+Stylet DE métal | r_objet>matiere  
+Tapis DE laine | r_objet>matiere  
+Écuelle DE terre | r_objet>matiere  
+Lustre DE cristal | r_objet>matiere  
+Clé DE fer | r_objet>matiere  
+Bureau DE chêne | r_objet>matiere  
+Bâche DE plastique | r_objet>matiere  
+Médallion D'argent | r_objet>matiere  
+Poutre DE bois | r_objet>matiere  
+Vitrage DE verre | r_objet>matiere  
+Boucle DE cuivre | r_objet>matiere  
+Coffre DE cèdre | r_objet>matiere  
+Rideau DE soie | r_objet>matiere  
+Broche D'or | r_objet>matiere  
+Mur DE brique | r_objet>matiere  
+Poterie DE glaise | r_objet>matiere  
+Chaise DE rotin | r_objet>matiere  
+Canne DE bambou | r_objet>matiere  
+Plafond DE plâtre | r_objet>matiere  
+Bracelet DE perles | r_objet>matiere  
+Écran DE verre | r_objet>matiere  
+Lanterne DE fer | r_objet>matiere  
+Tabouret DE bois | r_objet>matiere  
+Collier DE jade | r_objet>matiere  
+Vase DE porcelaine | r_objet>matiere  
+Clôture DE métal | r_objet>matiere  
+Tenture DE lin | r_objet>matiere  
+Épingle D'acier | r_objet>matiere  
+Banc DE pierre | r_objet>matiere  
+Chope DE grès | r_objet>matiere  
+Cadre D'argent | r_objet>matiere  
+Sol DE marbre | r_objet>matiere  
+Bougie DE cire | r_objet>matiere  
+Sangle DE cuir | r_objet>matiere  
+Statue DE calcaire | r_objet>matiere  
+Lampe DE céramique | r_objet>matiere  
+Chaîne DE fer | r_objet>matiere  
+Boîte DE bois | r_objet>matiere  
+Miroir DE bronze | r_objet>matiere  
+Assiette DE verre | r_objet>matiere  
+Poutre D'acier | r_objet>matiere  
+Bague DE saphir | r_objet>matiere  
+Parquet DE chêne | r_objet>matiere  
+Rideau DE velours | r_objet>matiere  
+Épée DE bronze | r_objet>matiere  
+Bol DE bois | r_objet>matiere  
+Médaille DE cuivre | r_objet>matiere  
+Mur DE béton | r_objet>matiere  
+Vase D'argile | r_objet>matiere  
+Chaise DE fer | r_objet>matiere  
+Collier DE corail | r_objet>matiere  
+Table DE granite | r_objet>matiere  
+Cloche D'acier | r_objet>matiere  
+Cadenas DE bronze | r_objet>matiere
