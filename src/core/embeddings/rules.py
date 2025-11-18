@@ -71,8 +71,8 @@ def create_rules_for_genitive_relation(
 def generate_rules(
     corpus_dir: Path = typer.Option(..., "--corpus-dir", help="Dossier des corpus JSON"),
     cache_dir: Path = typer.Option(..., "--cache-dir", help="Cache JDM"),
-    output_dir: Path = typer.Option("./data2/rules", "--output-dir", help="Où sauvegarder les règles"),
-    traits: List[int] = typer.Option([1, 6], "--traits", help="IDs des relations JDM à utiliser"),
+    output_dir: Path = typer.Option("./data/rules/rules_636", "--output-dir", help="Où sauvegarder les règles"),
+    traits: List[int] = typer.Option([6, 36], "--traits", help="IDs des relations JDM à utiliser"),
 ):
     """Génère un ensemble de règles (RelProto) pour chaque type génitif."""
     output_dir.mkdir(parents=True, exist_ok=True)

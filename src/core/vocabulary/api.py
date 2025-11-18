@@ -56,7 +56,7 @@ def get_relations_from_name(term: str):
 
 @app.command()
 def explore(term: str, id_relation: int, output_dir=Path):
-    with open("data2/utils/relations.json") as f:
+    with open("data/utils/relations.json") as f:
         rel_list = json.load(f)
 
     output_dir.mkdir(parents=True, exist_ok=True)

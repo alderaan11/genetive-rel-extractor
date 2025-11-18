@@ -47,6 +47,9 @@ def build_embedding_for_relation(
 
     relsA = [get_jdm_relations(rel.termA.name, rid, cache_dir) for rid in jdm_rel_ids]
     relsB = [get_jdm_relations(rel.termB.name, rid, cache_dir) for rid in jdm_rel_ids]
+    print(relsA)
+    print("\n")
+    print(relsB)
 
     sims = []
     for rule in all_rules:
@@ -85,7 +88,7 @@ def infer(
         jdm_rel_ids = model_data["jdm_rel_ids"]
     else:
         typer.echo("Modèle ancien format → usage jdm_rel_ids = [6]")
-        jdm_rel_ids = [1, 6]
+        jdm_rel_ids = [6, 36]
 
     typer.echo(f"Modèle prêt ({len(classes)} classes)")
     typer.echo("Format attendu : <termeA> <prep> <termeB>")
@@ -104,6 +107,7 @@ def infer(
             continue
 
         termA, prep, termB = parts[0], parts[1], parts[2]
+        print(termA, prep, termB)
 
         try:
             vec = build_embedding_for_relation(
@@ -116,7 +120,7 @@ def infer(
             y_pred = clf.predict(vec)[0]
             y_proba = clf.predict_proba(vec)[0]
 
-            top_idx = np.argsort(y_proba)[::-1][:14]
+            top_idx = np.argsort(y_proba)[::-1][:15]
 
             typer.echo("\nPrédiction :\n")
             for i in top_idx:
