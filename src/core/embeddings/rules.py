@@ -42,14 +42,26 @@ def create_rules_for_genitive_relation(
         simB = signed_weighted_jaccard(rel.nodes_b, rel2_b)
         score = (simA + simB) / 2
 
+        # if score > threshold:
+        #     # Fusion pondérée des traits
+        #     for d, new_d in [(rel.nodes_a, rel2_a), (rel.nodes_b, rel2_b)]:
+        #         for key, val in new_d.items():
+        #             if key in d:
+        #                 #d[key] = statistics.mean([d[key], val])
+
+        #             else:
+        #                 d[key] = val
+        #     rel.fusion_number += 1
+        #     return rel_proto
         if score > threshold:
-            # Fusion pondérée des traits
+     # Fusion pondérée des traits
             for d, new_d in [(rel.nodes_a, rel2_a), (rel.nodes_b, rel2_b)]:
                 for key, val in new_d.items():
                     if key in d:
-                        d[key] = statistics.mean([d[key], val])
+                        d[key] = d[key] + val   # <-- somme au lieu de moyenne
                     else:
                         d[key] = val
+
             rel.fusion_number += 1
             return rel_proto
 
@@ -71,7 +83,7 @@ def create_rules_for_genitive_relation(
 def generate_rules(
     corpus_dir: Path = typer.Option(..., "--corpus-dir", help="Dossier des corpus JSON"),
     cache_dir: Path = typer.Option(..., "--cache-dir", help="Cache JDM"),
-    output_dir: Path = typer.Option("./data/rules/rules_636", "--output-dir", help="Où sauvegarder les règles"),
+    output_dir: Path = typer.Option("./data/rules/rules_636bis", "--output-dir", help="Où sauvegarder les règles"),
     traits: List[int] = typer.Option([6, 36], "--traits", help="IDs des relations JDM à utiliser"),
 ):
     """Génère un ensemble de règles (RelProto) pour chaque type génitif."""

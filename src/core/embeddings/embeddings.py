@@ -49,7 +49,7 @@ def generate_embeddings(
     corpus_dir: Path = typer.Option(..., "--corpus-dir"),
     rules_dir: Path = typer.Option(..., "--rules-dir"),
     cache_dir: Path = typer.Option(..., "--cache-dir"),
-    output_dir: Path = typer.Option("./data/embeddings/embeddings_636", "--output-dir"),
+    output_dir: Path = typer.Option("./data/embeddings/embeddings_636bis", "--output-dir"),
     jdm_rel_ids: List[int] = typer.Option([6, 36], "--jdm-rel", help="Liste d'IDs de relations JDM"),
 ):
     output_dir.mkdir(parents=True, exist_ok=True)
