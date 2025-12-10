@@ -26,7 +26,6 @@ def load_features_from_dir(features_dir: Path):
 
 def load_rules_counts(rules_dir: Path) -> Dict[str, int]:
     counts = {}
-    # TRI ALPHABÉTIQUE STRICT
     for rule_file in sorted(rules_dir.glob("*_rules.json"), key=lambda p: p.name):
         label = rule_file.stem.replace("_rules", "")
         with open(rule_file, "r", encoding="utf-8") as f:

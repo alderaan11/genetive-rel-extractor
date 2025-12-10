@@ -18,7 +18,6 @@ def load_embeddings_from_dir(features_dir: Path):
     for feat_file in features_dir.glob("*_features.json"):
         with open(feat_file, "r", encoding="utf-8") as f:
             data = json.load(f)
-
         X_all.extend(data["X"])
         y_all.extend(data["y"])
 
@@ -28,7 +27,6 @@ def load_embeddings_from_dir(features_dir: Path):
 
     X = np.array(X_all)
     y = np.array(y_all)
-
     # Reconstruction des noms des features
     # sims pour chaque type de règle
     feature_names = list(rule_labels)
@@ -44,13 +42,15 @@ def load_embeddings_from_dir(features_dir: Path):
 
     return X, y, rule_labels, feature_names
 
+
+
 @app.command("generate-embeddings")
 def generate_embeddings(
     corpus_dir: Path = typer.Option(..., "--corpus-dir"),
     rules_dir: Path = typer.Option(..., "--rules-dir"),
     cache_dir: Path = typer.Option(..., "--cache-dir"),
-    output_dir: Path = typer.Option("./data/embeddings/embeddings_636bis", "--output-dir"),
-    jdm_rel_ids: List[int] = typer.Option([6, 36], "--jdm-rel", help="Liste d'IDs de relations JDM"),
+    output_dir: Path = typer.Option(..., "--output-dir"),
+    jdm_rel_ids: List[int] = typer.Option([1, 6], "--jdm-rel", help="Liste d'IDs de relations JDM"),
 ):
     output_dir.mkdir(parents=True, exist_ok=True)
     prep_enc, art_enc = build_encoders()

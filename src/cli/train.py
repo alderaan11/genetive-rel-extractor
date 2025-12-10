@@ -137,9 +137,9 @@ def train_optuna(
             max_depth=4
         )
         subprocess.run(["dot", "-Tpng", str(dot_path), "-o", str(png_path)])
-        typer.echo(f"🌳 Arbre exporté : {png_path}")
+        typer.echo(f"Arbre exporté : {png_path}")
     except Exception as e:
-        typer.echo(f"⚠️ Export arbre impossible : {e}")
+        typer.echo(f" Export arbre impossible : {e}")
 
 @app.command("train")
 def train_model(
@@ -154,7 +154,10 @@ def train_model(
     typer.echo(f"Chargement des features depuis : {embeddings_dir}")
 
     X, y, rule_labels, feature_names = load_embeddings_from_dir(embeddings_dir)
-
+    print(X)
+    print(y)
+    print(rule_labels)
+    print(feature_names)
     # Split dataset
     X_train, X_test, y_train, y_test = train_test_split(
         X, y, test_size=test_size, random_state=42, stratify=y

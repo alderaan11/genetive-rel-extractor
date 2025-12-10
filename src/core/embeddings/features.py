@@ -99,7 +99,6 @@ def signed_weighted_jaccard(d1: Dict[int, float], d2: Dict[int, float],
 
     if total == 0:
         return 0.0
-
     return (j_pos * w_pos - j_neg * w_neg) / total
 
 

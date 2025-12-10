@@ -24,12 +24,12 @@ def build_feature_vector_from_input(
     termB: str,
     rules_dir: Path,
     cache_dir: Path,
+    features_dir: Path,
     jdm_rel_id: int = 6
 ) -> np.ndarray:
     """
     Reproduit EXACTEMENT la construction des vecteurs utilisée durant generate-features.
     """
-    features_dir = Path("./data2/features")
 
     # 1) On charge rule_ids depuis n'importe quel fichier features
     any_feat = next(features_dir.glob("*_features.json"))
@@ -37,7 +37,7 @@ def build_feature_vector_from_input(
         feat_data = json.load(f)
 
     rule_ids = feat_data["rule_ids"]  # même ordre que pour le training
-
+    print(rule_ids)
     # 2) Encodeurs syntaxiques
     prep_enc, art_enc = build_encoders()
 
@@ -57,26 +57,44 @@ def build_feature_vector_from_input(
 
     sims = []
 
-    # 5) Similarités avec toutes les règles individuelles
-    for rid in rule_ids:
-        gen_type, idx_str = rid.rsplit("_", 1)
-        idx = int(idx_str)
+    # # 5) Similarités avec toutes les règles individuelles
+    # for rid in rule_ids:
+    #     gen_type, idx_str = rid.rsplit("_", 1)
+    #     idx = int(idx_str)
 
-        rule_file = rules_dir / f"{gen_type}_rules.json"
+    #     rule_file = rules_dir / f"{gen_type}_rules.json"
+    #     with open(rule_file, "r", encoding="utf-8") as f:
+    #         rules_json = json.load(f)
+
+    #     rule = RelProto(**rules_json[idx])
+    #     simA = signed_weighted_jaccard(rel_a, rule.nodes_a)
+    #     simB = signed_weighted_jaccard(rel_b, rule.nodes_b)
+    #     sims.append((simA + simB) / 2)
+    all_rules: List[RelProto] = []
+
+    for rule_file in sorted(rules_dir.glob("*_rules.json")):
         with open(rule_file, "r", encoding="utf-8") as f:
-            rules_json = json.load(f)
+            data = json.load(f)
+        all_rules.extend(RelProto(**r) for r in data)
 
-        rule = RelProto(**rules_json[idx])
+        typer.echo(f"{len(all_rules)} règles globales chargées")
 
+
+        # Similarités pour TOUTES les règles et TOUTES les relations JDM
+    sims = []
+    for rule in all_rules:
         simA = signed_weighted_jaccard(rel_a, rule.nodes_a)
         simB = signed_weighted_jaccard(rel_b, rule.nodes_b)
         sims.append((simA + simB) / 2)
 
-    # 6) Ajout syntaxe
-    syntax_vec = encode_syntax(rel, prep_enc, art_enc)
 
+
+    syntax_vec = encode_syntax(rel, prep_enc, art_enc)
+    print(syntax_vec)
+    
     # 7) vecteur final shape (1, n_features)
     vec = np.concatenate([sims, syntax_vec]).reshape(1, -1)
+    print(vec)
     return vec
 
 @app.command()
@@ -84,12 +102,13 @@ def infer(
     model_path: Path = typer.Option(..., "--model"),
     rules_dir: Path = typer.Option(..., "--rules-dir"),
     cache_dir: Path = typer.Option(..., "--cache-dir"),
+    features_dir: Path = typer.Option(..., "--features-dir"),
 ):
     """
     Lance une prédiction interactive :
       Ex:  > poème de poète
     """
-    typer.echo("🔮 Chargement du modèle...")
+    typer.echo("Chargement du modèle...")
     model_data = joblib.load(model_path)
     clf = model_data["model"]
     classes = model_data["classes"]
@@ -121,22 +140,23 @@ def infer(
                 termA=termA,
                 prep=prep,
                 termB=termB,
-                rules_dir= Path("./data2/rules"),
+                rules_dir= rules_dir,
                 cache_dir=cache_dir,
+                features_dir=features_dir
             )
 
             y_pred = clf.predict(X_new)[0]
             y_proba = clf.predict_proba(X_new)[0]
-
+            print(y_proba)
             top_idx = np.argsort(y_proba)[::-1][:3]
-            typer.echo("\n🎯 Prédiction :")
+            typer.echo("\nPrédiction :")
             for i in top_idx:
                 typer.echo(f"  {classes[i]:<25} → {y_proba[i]*100:5.2f}%")
 
-            print()  # ligne vide
+            print()  
 
         except Exception as e:
-            typer.echo(f"❌ Erreur durant l'inférence : {e}")
+            typer.echo(f"Erreur durant l'inférence : {e}")
 
 
 

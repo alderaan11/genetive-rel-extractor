@@ -70,6 +70,7 @@ def infer(
     model_path: Path = typer.Option(..., "--model"),
     rules_dir: Path = typer.Option(..., "--rules-dir"),
     cache_dir: Path = typer.Option(..., "--cache-dir"),
+    features_dir: Path = typer.Option(..., "--features-dir")
 ):
     """
     Inférence interactive :
@@ -114,7 +115,8 @@ def infer(
                 termA, prep, termB,
                 all_rules=all_rules,
                 jdm_rel_ids=jdm_rel_ids,
-                cache_dir=cache_dir
+                cache_dir=cache_dir,
+                all_features=features_dir
             )
 
             y_pred = clf.predict(vec)[0]

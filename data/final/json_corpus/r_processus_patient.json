@@ -1,0 +1,1769 @@
+{
+  "original_file": "data/txt/r_processus_patient.txt",
+  "data": {
+    "Travail DU bois ": {
+      "termA": {
+        "name": "travail",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "bois",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ouverture DE la porte ": {
+      "termA": {
+        "name": "ouverture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "porte",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Peinture DE la toile ": {
+      "termA": {
+        "name": "peinture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "toile",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Taille DE la pierre ": {
+      "termA": {
+        "name": "taille",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "pierre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Nettoyage DU sol ": {
+      "termA": {
+        "name": "nettoyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "sol",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Découpe DE la viande ": {
+      "termA": {
+        "name": "découpe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "viande",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Cuisson DU pain ": {
+      "termA": {
+        "name": "cuisson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "pain",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Polissage DU métal ": {
+      "termA": {
+        "name": "polissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "métal",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tissage DU tissu ": {
+      "termA": {
+        "name": "tissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "tissu",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gravure DU verre ": {
+      "termA": {
+        "name": "gravure",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "verre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Réparation DE la voiture ": {
+      "termA": {
+        "name": "réparation",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "voiture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Lavage DES vêtements ": {
+      "termA": {
+        "name": "lavage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "vêtements",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sculpture DE l'argile ": {
+      "termA": {
+        "name": "sculpture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "argile",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Écriture DU manuscrit ": {
+      "termA": {
+        "name": "écriture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "manuscrit",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Construction DU mur ": {
+      "termA": {
+        "name": "construction",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "mur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plantation DES arbres ": {
+      "termA": {
+        "name": "plantation",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "arbres",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Récolte DU blé ": {
+      "termA": {
+        "name": "récolte",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "blé",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Forage DU puits ": {
+      "termA": {
+        "name": "forage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "puits",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Montage DU meuble ": {
+      "termA": {
+        "name": "montage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "meuble",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Teinture DU tissu ": {
+      "termA": {
+        "name": "teinture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "tissu",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Nettoyage DES vitres ": {
+      "termA": {
+        "name": "nettoyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "vitres",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Broyage DU grain ": {
+      "termA": {
+        "name": "broyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "grain",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fusion DU métal ": {
+      "termA": {
+        "name": "fusion",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "métal",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Décoration DE la salle ": {
+      "termA": {
+        "name": "décoration",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "salle",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Pliage DU papier ": {
+      "termA": {
+        "name": "pliage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "papier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tournage DU bois ": {
+      "termA": {
+        "name": "tournage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "bois",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Perçage DE la planche ": {
+      "termA": {
+        "name": "perçage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "planche",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Cuisson DES légumes ": {
+      "termA": {
+        "name": "cuisson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "légumes",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Modelage DE la pâte ": {
+      "termA": {
+        "name": "modelage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "pâte",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Vernissage DU tableau ": {
+      "termA": {
+        "name": "vernissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "tableau",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Aiguisage DU couteau ": {
+      "termA": {
+        "name": "aiguisage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "couteau",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couture DU vêtement ": {
+      "termA": {
+        "name": "couture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "vêtement",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Élagage DES branches ": {
+      "termA": {
+        "name": "élagage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "branches",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Frappe DE la pièce ": {
+      "termA": {
+        "name": "frappe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "pièce",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Lissage DU cuir ": {
+      "termA": {
+        "name": "lissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cuir",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gravure DE la plaque ": {
+      "termA": {
+        "name": "gravure",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "plaque",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Peinture DU mur ": {
+      "termA": {
+        "name": "peinture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "mur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tressage DES cheveux ": {
+      "termA": {
+        "name": "tressage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cheveux",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Découpe DU tissu ": {
+      "termA": {
+        "name": "découpe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "tissu",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Polissage DE la pierre ": {
+      "termA": {
+        "name": "polissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "pierre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Nettoyage DU tapis ": {
+      "termA": {
+        "name": "nettoyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "tapis",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Réparation DU moteur ": {
+      "termA": {
+        "name": "réparation",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "moteur",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuisson DE la viande ": {
+      "termA": {
+        "name": "cuisson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "viande",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Taille DU buisson ": {
+      "termA": {
+        "name": "taille",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "buisson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Impression DU livre ": {
+      "termA": {
+        "name": "impression",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "livre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Construction DE la maison ": {
+      "termA": {
+        "name": "construction",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "maison",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Récolte DES fruits ": {
+      "termA": {
+        "name": "récolte",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "fruits",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Forage DE la roche ": {
+      "termA": {
+        "name": "forage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "roche",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Montage DE l'étagère ": {
+      "termA": {
+        "name": "montage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "étagère",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Teinture DU cuir ": {
+      "termA": {
+        "name": "teinture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cuir",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Nettoyage DE l'écran ": {
+      "termA": {
+        "name": "nettoyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "écran",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Broyage DES épices ": {
+      "termA": {
+        "name": "broyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "épices",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fusion DU verre ": {
+      "termA": {
+        "name": "fusion",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "verre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Décoration DU gâteau ": {
+      "termA": {
+        "name": "décoration",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "gâteau",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pliage DE la feuille ": {
+      "termA": {
+        "name": "pliage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "feuille",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Tournage DE l'argile ": {
+      "termA": {
+        "name": "tournage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "argile",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Perçage DU métal ": {
+      "termA": {
+        "name": "perçage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "métal",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuisson DU poisson ": {
+      "termA": {
+        "name": "cuisson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "poisson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Modelage DU plâtre ": {
+      "termA": {
+        "name": "modelage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "plâtre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vernissage DU bois ": {
+      "termA": {
+        "name": "vernissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "bois",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Aiguisage DE la lame ": {
+      "termA": {
+        "name": "aiguisage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "lame",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Couture DE la robe ": {
+      "termA": {
+        "name": "couture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "robe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Élagage DE l'arbre ": {
+      "termA": {
+        "name": "élagage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "arbre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Frappe DU métal ": {
+      "termA": {
+        "name": "frappe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "métal",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lissage DE la surface ": {
+      "termA": {
+        "name": "lissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "surface",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Gravure DU bois ": {
+      "termA": {
+        "name": "gravure",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "bois",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Peinture DE la chaise ": {
+      "termA": {
+        "name": "peinture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "chaise",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Tressage DU panier ": {
+      "termA": {
+        "name": "tressage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "panier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Découpe DU papier ": {
+      "termA": {
+        "name": "découpe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "papier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Polissage DU bijou ": {
+      "termA": {
+        "name": "polissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "bijou",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Nettoyage DE la table ": {
+      "termA": {
+        "name": "nettoyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "table",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Réparation DU vélo ": {
+      "termA": {
+        "name": "réparation",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "vélo",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuisson DE la pâte ": {
+      "termA": {
+        "name": "cuisson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "pâte",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Taille DE la vigne ": {
+      "termA": {
+        "name": "taille",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "vigne",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Impression DE l'affiche ": {
+      "termA": {
+        "name": "impression",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "affiche",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Construction DU pont ": {
+      "termA": {
+        "name": "construction",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "pont",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Récolte DU maïs ": {
+      "termA": {
+        "name": "récolte",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "maïs",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Forage DU terrain ": {
+      "termA": {
+        "name": "forage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "terrain",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Montage DU cadre ": {
+      "termA": {
+        "name": "montage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cadre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Teinture DE la laine ": {
+      "termA": {
+        "name": "teinture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "laine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Nettoyage DU miroir ": {
+      "termA": {
+        "name": "nettoyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "miroir",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Broyage DU café ": {
+      "termA": {
+        "name": "broyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "café",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fusion DE l'acier ": {
+      "termA": {
+        "name": "fusion",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "acier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Décoration DE la maison ": {
+      "termA": {
+        "name": "décoration",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "maison",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Pliage DU carton ": {
+      "termA": {
+        "name": "pliage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "carton",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tournage DU métal ": {
+      "termA": {
+        "name": "tournage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "métal",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Perçage DE la pierre ": {
+      "termA": {
+        "name": "perçage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "pierre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Cuisson DU riz ": {
+      "termA": {
+        "name": "cuisson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "riz",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Modelage DE la cire ": {
+      "termA": {
+        "name": "modelage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cire",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Vernissage DE la table ": {
+      "termA": {
+        "name": "vernissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "table",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Aiguisage DES ciseaux ": {
+      "termA": {
+        "name": "aiguisage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "ciseaux",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couture DU sac ": {
+      "termA": {
+        "name": "couture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "sac",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Élagage DES haies ": {
+      "termA": {
+        "name": "élagage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "haies",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DES",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Frappe DU fer ": {
+      "termA": {
+        "name": "frappe",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "fer",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lissage DU bois ": {
+      "termA": {
+        "name": "lissage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "bois",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DU",
+      "relation_type": "r_processus_patient",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gravure DE la pierre ": {
+      "termA": {
+        "name": "gravure",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "pierre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Peinture DE la clôture ": {
+      "termA": {
+        "name": "peinture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "clôture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Tressage DE la corde ": {
+      "termA": {
+        "name": "tressage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "corde",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_processus_patient",
+      "is_det": true,
+      "determinant": "LA"
+    }
+  }
+}
