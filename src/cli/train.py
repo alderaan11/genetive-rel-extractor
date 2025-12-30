@@ -179,8 +179,9 @@ def train_model(
         plot_top_features(clf.feature_importances_, feature_names, top_k=33)
         y_score = clf.predict_proba(X_test)
         plot_roc_curve(y_test, y_score, clf.classes_)
-
-    model_file = Path(f"rf_{datetime.datetime.now():%Y-%m-%d_%H-%M-%S}.pkl")
+    models_dir = Path("models/")
+    models_dir.mkdir(parents=True)
+    model_file = Path(models_dir / f"rf_{datetime.datetime.now():%Y-%m-%d_%H-%M-%S}.pkl")
     save_model(clf, model_file, rule_labels, X.shape[1])
     typer.echo(f"\nModèle sauvegardé → {model_file}")
 

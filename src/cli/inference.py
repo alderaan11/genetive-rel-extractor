@@ -1,3 +1,4 @@
+from typing import List
 import typer
 import joblib
 import numpy as np
@@ -29,7 +30,7 @@ def build_feature_vector_from_input(
     """
     Reproduit EXACTEMENT la construction des vecteurs utilisée durant generate-features.
     """
-    features_dir = Path("./data2/features")
+    features_dir = Path("./data/features/features_16")
 
     # 1) On charge rule_ids depuis n'importe quel fichier features
     any_feat = next(features_dir.glob("*_features.json"))
@@ -54,20 +55,31 @@ def build_feature_vector_from_input(
     # 4) Relations JDM
     rel_a = get_jdm_relations(termA, jdm_rel_id, cache_dir)
     rel_b = get_jdm_relations(termB, jdm_rel_id, cache_dir)
-
+    
     sims = []
 
-    # 5) Similarités avec toutes les règles individuelles
-    for rid in rule_ids:
-        gen_type, idx_str = rid.rsplit("_", 1)
-        idx = int(idx_str)
+    # # 5) Similarités avec toutes les règles individuelles
+    # for rid in rule_ids:
+    #     gen_type, idx_str = rid.rsplit("_", 1)
+    #     idx = int(idx_str)
 
-        rule_file = rules_dir / f"{gen_type}_rules.json"
+    #     rule_file = rules_dir / f"{gen_type}_rules.json"
+    #     with open(rule_file, "r", encoding="utf-8") as f:
+    #         rules_json = json.load(f)
+
+    #     rule = RelProto(**rules_json[idx])
+
+
+
+    all_rules: List[RelProto] = []
+    for rule_file in sorted(rules_dir.glob("*_rules.json")):
         with open(rule_file, "r", encoding="utf-8") as f:
-            rules_json = json.load(f)
+            data = json.load(f)
+            print(data)
+        all_rules.extend(RelProto(**r) for r in data)
 
-        rule = RelProto(**rules_json[idx])
-
+    print(len(all_rules))
+    for rule in all_rules:
         simA = signed_weighted_jaccard(rel_a, rule.nodes_a)
         simB = signed_weighted_jaccard(rel_b, rule.nodes_b)
         sims.append((simA + simB) / 2)
