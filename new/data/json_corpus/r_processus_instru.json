@@ -1,0 +1,1157 @@
+{
+  "original_file": "data/txt_sample/r_processus_instru.txt",
+  "data": {
+    "Clé D'ouverture ": {
+      "termA": {
+        "name": "Clé"
+      },
+      "termB": {
+        "name": "ouverture"
+      },
+      "prep": "D'",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clé DE la porte ": {
+      "termA": {
+        "name": "Clé"
+      },
+      "termB": {
+        "name": "porte"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Pinceau DE peinture ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "peinture"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Marteau DE frappe ": {
+      "termA": {
+        "name": "Marteau"
+      },
+      "termB": {
+        "name": "frappe"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couteau DE coupe ": {
+      "termA": {
+        "name": "Couteau"
+      },
+      "termB": {
+        "name": "coupe"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pelle DE creusement ": {
+      "termA": {
+        "name": "Pelle"
+      },
+      "termB": {
+        "name": "creusement"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Aiguille DE couture ": {
+      "termA": {
+        "name": "Aiguille"
+      },
+      "termB": {
+        "name": "couture"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tournevis DE vissage ": {
+      "termA": {
+        "name": "Tournevis"
+      },
+      "termB": {
+        "name": "vissage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pince DE serrage ": {
+      "termA": {
+        "name": "Pince"
+      },
+      "termB": {
+        "name": "serrage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Scie DE découpe ": {
+      "termA": {
+        "name": "Scie"
+      },
+      "termB": {
+        "name": "découpe"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brosse DE nettoyage ": {
+      "termA": {
+        "name": "Brosse"
+      },
+      "termB": {
+        "name": "nettoyage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ciseau DE sculpture ": {
+      "termA": {
+        "name": "Ciseau"
+      },
+      "termB": {
+        "name": "sculpture"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Stylo D'écriture ": {
+      "termA": {
+        "name": "Stylo"
+      },
+      "termB": {
+        "name": "écriture"
+      },
+      "prep": "D'",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Râteau DE ramassage ": {
+      "termA": {
+        "name": "Râteau"
+      },
+      "termB": {
+        "name": "ramassage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Hache DE coupe ": {
+      "termA": {
+        "name": "Hache"
+      },
+      "termB": {
+        "name": "coupe"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Foret DE perçage ": {
+      "termA": {
+        "name": "Foret"
+      },
+      "termB": {
+        "name": "perçage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillère DE mélange ": {
+      "termA": {
+        "name": "Cuillère"
+      },
+      "termB": {
+        "name": "mélange"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fouet DE battage ": {
+      "termA": {
+        "name": "Fouet"
+      },
+      "termB": {
+        "name": "battage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rouleau DE peinture ": {
+      "termA": {
+        "name": "Rouleau"
+      },
+      "termB": {
+        "name": "peinture"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Balai DE balayage ": {
+      "termA": {
+        "name": "Balai"
+      },
+      "termB": {
+        "name": "balayage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clé DE serrage ": {
+      "termA": {
+        "name": "Clé"
+      },
+      "termB": {
+        "name": "serrage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Burin DE gravure ": {
+      "termA": {
+        "name": "Burin"
+      },
+      "termB": {
+        "name": "gravure"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Truelle DE maçonnerie ": {
+      "termA": {
+        "name": "Truelle"
+      },
+      "termB": {
+        "name": "maçonnerie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ciseaux DE coupe ": {
+      "termA": {
+        "name": "Ciseaux"
+      },
+      "termB": {
+        "name": "coupe"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Spatule DE cuisine ": {
+      "termA": {
+        "name": "Spatule"
+      },
+      "termB": {
+        "name": "cuisine"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pinceau DE vernissage ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "vernissage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Marteau DE forgeage ": {
+      "termA": {
+        "name": "Marteau"
+      },
+      "termB": {
+        "name": "forgeage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couteau DE sculpture ": {
+      "termA": {
+        "name": "Couteau"
+      },
+      "termB": {
+        "name": "sculpture"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pelle DE jardinage ": {
+      "termA": {
+        "name": "Pelle"
+      },
+      "termB": {
+        "name": "jardinage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Aiguille DE tricot ": {
+      "termA": {
+        "name": "Aiguille"
+      },
+      "termB": {
+        "name": "tricot"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tournevis DE montage ": {
+      "termA": {
+        "name": "Tournevis"
+      },
+      "termB": {
+        "name": "montage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pince DE modelage ": {
+      "termA": {
+        "name": "Pince"
+      },
+      "termB": {
+        "name": "modelage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Scie DE sciage ": {
+      "termA": {
+        "name": "Scie"
+      },
+      "termB": {
+        "name": "sciage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brosse DE polissage ": {
+      "termA": {
+        "name": "Brosse"
+      },
+      "termB": {
+        "name": "polissage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ciseau DE taille ": {
+      "termA": {
+        "name": "Ciseau"
+      },
+      "termB": {
+        "name": "taille"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Stylo DE dessin ": {
+      "termA": {
+        "name": "Stylo"
+      },
+      "termB": {
+        "name": "dessin"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Râteau DE nivellement ": {
+      "termA": {
+        "name": "Râteau"
+      },
+      "termB": {
+        "name": "nivellement"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Hache DE fendage ": {
+      "termA": {
+        "name": "Hache"
+      },
+      "termB": {
+        "name": "fendage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Foret DE forage ": {
+      "termA": {
+        "name": "Foret"
+      },
+      "termB": {
+        "name": "forage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillère DE service ": {
+      "termA": {
+        "name": "Cuillère"
+      },
+      "termB": {
+        "name": "service"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fouet DE cuisine ": {
+      "termA": {
+        "name": "Fouet"
+      },
+      "termB": {
+        "name": "cuisine"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rouleau DE pâtisserie ": {
+      "termA": {
+        "name": "Rouleau"
+      },
+      "termB": {
+        "name": "pâtisserie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Balai DE nettoyage ": {
+      "termA": {
+        "name": "Balai"
+      },
+      "termB": {
+        "name": "nettoyage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clé DE réglage ": {
+      "termA": {
+        "name": "Clé"
+      },
+      "termB": {
+        "name": "réglage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Burin DE sculpture ": {
+      "termA": {
+        "name": "Burin"
+      },
+      "termB": {
+        "name": "sculpture"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Truelle DE bétonnage ": {
+      "termA": {
+        "name": "Truelle"
+      },
+      "termB": {
+        "name": "bétonnage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ciseaux DE couture ": {
+      "termA": {
+        "name": "Ciseaux"
+      },
+      "termB": {
+        "name": "couture"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Spatule DE maçonnerie ": {
+      "termA": {
+        "name": "Spatule"
+      },
+      "termB": {
+        "name": "maçonnerie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pinceau DE laquage ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "laquage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Marteau DE clouage ": {
+      "termA": {
+        "name": "Marteau"
+      },
+      "termB": {
+        "name": "clouage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couteau DE découpe ": {
+      "termA": {
+        "name": "Couteau"
+      },
+      "termB": {
+        "name": "découpe"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pelle DE terrassement ": {
+      "termA": {
+        "name": "Pelle"
+      },
+      "termB": {
+        "name": "terrassement"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Aiguille DE broderie ": {
+      "termA": {
+        "name": "Aiguille"
+      },
+      "termB": {
+        "name": "broderie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tournevis DE démontage ": {
+      "termA": {
+        "name": "Tournevis"
+      },
+      "termB": {
+        "name": "démontage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pince DE préhension ": {
+      "termA": {
+        "name": "Pince"
+      },
+      "termB": {
+        "name": "préhension"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Scie DE taille ": {
+      "termA": {
+        "name": "Scie"
+      },
+      "termB": {
+        "name": "taille"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brosse DE dépoussiérage ": {
+      "termA": {
+        "name": "Brosse"
+      },
+      "termB": {
+        "name": "dépoussiérage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ciseau DE gravure ": {
+      "termA": {
+        "name": "Ciseau"
+      },
+      "termB": {
+        "name": "gravure"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Stylo DE calligraphie ": {
+      "termA": {
+        "name": "Stylo"
+      },
+      "termB": {
+        "name": "calligraphie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Râteau DE jardinage ": {
+      "termA": {
+        "name": "Râteau"
+      },
+      "termB": {
+        "name": "jardinage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Hache DE bûcheron ": {
+      "termA": {
+        "name": "Hache"
+      },
+      "termB": {
+        "name": "bûcheron"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillère DE dégustation ": {
+      "termA": {
+        "name": "Cuillère"
+      },
+      "termB": {
+        "name": "dégustation"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fouet DE mélange ": {
+      "termA": {
+        "name": "Fouet"
+      },
+      "termB": {
+        "name": "mélange"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rouleau DE lissage ": {
+      "termA": {
+        "name": "Rouleau"
+      },
+      "termB": {
+        "name": "lissage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Balai DE ramassage ": {
+      "termA": {
+        "name": "Balai"
+      },
+      "termB": {
+        "name": "ramassage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clé D'ajustement ": {
+      "termA": {
+        "name": "Clé"
+      },
+      "termB": {
+        "name": "ajustement"
+      },
+      "prep": "D'",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Burin DE taille ": {
+      "termA": {
+        "name": "Burin"
+      },
+      "termB": {
+        "name": "taille"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Truelle DE plâtrage ": {
+      "termA": {
+        "name": "Truelle"
+      },
+      "termB": {
+        "name": "plâtrage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ciseaux DE papier ": {
+      "termA": {
+        "name": "Ciseaux"
+      },
+      "termB": {
+        "name": "papier"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Spatule DE peinture ": {
+      "termA": {
+        "name": "Spatule"
+      },
+      "termB": {
+        "name": "peinture"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pinceau DE retouche ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "retouche"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Marteau DE martelage ": {
+      "termA": {
+        "name": "Marteau"
+      },
+      "termB": {
+        "name": "martelage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couteau DE boucherie ": {
+      "termA": {
+        "name": "Couteau"
+      },
+      "termB": {
+        "name": "boucherie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pelle DE déneigement ": {
+      "termA": {
+        "name": "Pelle"
+      },
+      "termB": {
+        "name": "déneigement"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Aiguille DE tapisserie ": {
+      "termA": {
+        "name": "Aiguille"
+      },
+      "termB": {
+        "name": "tapisserie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tournevis DE précision ": {
+      "termA": {
+        "name": "Tournevis"
+      },
+      "termB": {
+        "name": "précision"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pince DE découpe ": {
+      "termA": {
+        "name": "Pince"
+      },
+      "termB": {
+        "name": "découpe"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Scie DE menuiserie ": {
+      "termA": {
+        "name": "Scie"
+      },
+      "termB": {
+        "name": "menuiserie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brosse DE lissage ": {
+      "termA": {
+        "name": "Brosse"
+      },
+      "termB": {
+        "name": "lissage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ciseau DE modelage ": {
+      "termA": {
+        "name": "Ciseau"
+      },
+      "termB": {
+        "name": "modelage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Stylo DE marquage ": {
+      "termA": {
+        "name": "Stylo"
+      },
+      "termB": {
+        "name": "marquage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Hache DE défrichage ": {
+      "termA": {
+        "name": "Hache"
+      },
+      "termB": {
+        "name": "défrichage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Foret DE maçonnerie ": {
+      "termA": {
+        "name": "Foret"
+      },
+      "termB": {
+        "name": "maçonnerie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillère DE mesure ": {
+      "termA": {
+        "name": "Cuillère"
+      },
+      "termB": {
+        "name": "mesure"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fouet DE pâtisserie ": {
+      "termA": {
+        "name": "Fouet"
+      },
+      "termB": {
+        "name": "pâtisserie"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rouleau DE pressage ": {
+      "termA": {
+        "name": "Rouleau"
+      },
+      "termB": {
+        "name": "pressage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Balai DE lavage ": {
+      "termA": {
+        "name": "Balai"
+      },
+      "termB": {
+        "name": "lavage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clé DE boulonnage ": {
+      "termA": {
+        "name": "Clé"
+      },
+      "termB": {
+        "name": "boulonnage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Burin DE découpe ": {
+      "termA": {
+        "name": "Burin"
+      },
+      "termB": {
+        "name": "découpe"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Truelle DE jardinage ": {
+      "termA": {
+        "name": "Truelle"
+      },
+      "termB": {
+        "name": "jardinage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ciseaux DE tailleur ": {
+      "termA": {
+        "name": "Ciseaux"
+      },
+      "termB": {
+        "name": "tailleur"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Spatule DE glaçage ": {
+      "termA": {
+        "name": "Spatule"
+      },
+      "termB": {
+        "name": "glaçage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pinceau DE maquillage ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "maquillage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Marteau DE façonnage ": {
+      "termA": {
+        "name": "Marteau"
+      },
+      "termB": {
+        "name": "façonnage"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couteau DE gravure ": {
+      "termA": {
+        "name": "Couteau"
+      },
+      "termB": {
+        "name": "gravure"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pelle DE sable ": {
+      "termA": {
+        "name": "Pelle"
+      },
+      "termB": {
+        "name": "sable"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus>instru-1",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

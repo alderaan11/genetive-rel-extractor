@@ -18,4 +18,5 @@ dependencies = [
     "tqdm>=4.67.1",
     "seaborn>=0.13.2",
     "optuna>=4.6.0",
+    "loguru>=0.7.3",
 ]

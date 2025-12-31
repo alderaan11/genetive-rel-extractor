@@ -1,0 +1,941 @@
+{
+  "original_file": "data2/data/txt/r_topic.txt",
+  "data": {
+    "Restaurant DE sushis ": {
+      "termA": {
+        "name": "restaurant",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "sushis",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Reportage D'enquête ": {
+      "termA": {
+        "name": "reportage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "enquête",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "D'",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Livre DE science-fiction ": {
+      "termA": {
+        "name": "livre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "science",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Film D'aventure ": {
+      "termA": {
+        "name": "film",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "aventure",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "D'",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Émission DE cuisine ": {
+      "termA": {
+        "name": "émission",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cuisine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Article DE politique ": {
+      "termA": {
+        "name": "article",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "politique",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Magazine DE mode ": {
+      "termA": {
+        "name": "magazine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "mode",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cours DE mathématiques ": {
+      "termA": {
+        "name": "cours",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "mathématiques",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Exposition DE peinture ": {
+      "termA": {
+        "name": "exposition",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "peinture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Spectacle DE danse ": {
+      "termA": {
+        "name": "spectacle",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "danse",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Blog DE voyage ": {
+      "termA": {
+        "name": "blog",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "voyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Atelier DE poterie ": {
+      "termA": {
+        "name": "atelier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "poterie",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Journal DE sport ": {
+      "termA": {
+        "name": "journal",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "sport",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chanson D'amour ": {
+      "termA": {
+        "name": "chanson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "amour",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "D'",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Événement DE charité ": {
+      "termA": {
+        "name": "événement",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "charité",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cours DE yoga ": {
+      "termA": {
+        "name": "cours",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "yoga",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Film DE science ": {
+      "termA": {
+        "name": "film",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "science",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conférence DE technologie ": {
+      "termA": {
+        "name": "conférence",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "technologie",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Article DE culture ": {
+      "termA": {
+        "name": "article",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "culture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Podcast DE littérature ": {
+      "termA": {
+        "name": "podcast",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "littérature",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Documentaire DE guerre ": {
+      "termA": {
+        "name": "documentaire",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "guerre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Atelier D'écriture ": {
+      "termA": {
+        "name": "atelier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "écriture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "D'",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Série DE fantasy ": {
+      "termA": {
+        "name": "série",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "fantasy",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chanson DE protestation ": {
+      "termA": {
+        "name": "chanson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "protestation",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Séminaire DE marketing ": {
+      "termA": {
+        "name": "séminaire",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "marketing",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cours DE langue ": {
+      "termA": {
+        "name": "cours",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "langue",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Livre DE poésie ": {
+      "termA": {
+        "name": "livre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "poésie",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Émission DE jardinage ": {
+      "termA": {
+        "name": "émission",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "jardinage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Exposition DE sculptures ": {
+      "termA": {
+        "name": "exposition",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "sculptures",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Magazine DE gastronomie ": {
+      "termA": {
+        "name": "magazine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "gastronomie",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Atelier DE cuisine ": {
+      "termA": {
+        "name": "atelier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cuisine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Journal DE technologie ": {
+      "termA": {
+        "name": "journal",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "technologie",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chanson DE liberté ": {
+      "termA": {
+        "name": "chanson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "liberté",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Événement DE danse ": {
+      "termA": {
+        "name": "événement",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "danse",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cours DE musique ": {
+      "termA": {
+        "name": "cours",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "musique",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Film DE comédie ": {
+      "termA": {
+        "name": "film",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "comédie",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conférence DE médecine ": {
+      "termA": {
+        "name": "conférence",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "médecine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Article DE sport ": {
+      "termA": {
+        "name": "article",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "sport",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Podcast DE philosophie ": {
+      "termA": {
+        "name": "podcast",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "philosophie",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Atelier DE peinture ": {
+      "termA": {
+        "name": "atelier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "peinture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chanson DE paix ": {
+      "termA": {
+        "name": "chanson",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "paix",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cours DE photographie ": {
+      "termA": {
+        "name": "cours",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "photographie",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Livre DE cuisine ": {
+      "termA": {
+        "name": "livre",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "cuisine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Émission DE mode ": {
+      "termA": {
+        "name": "émission",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "mode",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Exposition DE design ": {
+      "termA": {
+        "name": "exposition",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "design",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Magazine DE voyage ": {
+      "termA": {
+        "name": "magazine",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "voyage",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Atelier DE sculpture ": {
+      "termA": {
+        "name": "atelier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "sculpture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Journal DE culture ": {
+      "termA": {
+        "name": "journal",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "culture",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Séminaire DE psychologie ": {
+      "termA": {
+        "name": "séminaire",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "psychologie",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cours DE danse contemporaine ": {
+      "termA": {
+        "name": "cours",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "danse",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Film DE drame ": {
+      "termA": {
+        "name": "film",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "drame",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    },
+    "Atelier DE musique ": {
+      "termA": {
+        "name": "atelier",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "termB": {
+        "name": "musique",
+        "r_isa": [],
+        "r_raff_sem": [],
+        "r_pos": []
+      },
+      "prep": "DE",
+      "relation_type": "r_topic",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

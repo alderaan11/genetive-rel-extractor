@@ -1,0 +1,1433 @@
+{
+  "original_file": "data/txt_sample/r_depict.txt",
+  "data": {
+    "Peinture D'un paysage ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "paysage"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Statue D'un lion ": {
+      "termA": {
+        "name": "Statue"
+      },
+      "termB": {
+        "name": "lion"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Dessin D'une fleur ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "fleur"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Photographie D'une montagne ": {
+      "termA": {
+        "name": "Photographie"
+      },
+      "termB": {
+        "name": "montagne"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Sculpture D'un cheval ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "cheval"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Affiche D'un film ": {
+      "termA": {
+        "name": "Affiche"
+      },
+      "termB": {
+        "name": "film"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Gravure D'un bateau ": {
+      "termA": {
+        "name": "Gravure"
+      },
+      "termB": {
+        "name": "bateau"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Portrait D'une femme ": {
+      "termA": {
+        "name": "Portrait"
+      },
+      "termB": {
+        "name": "femme"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Croquis D'un arbre ": {
+      "termA": {
+        "name": "Croquis"
+      },
+      "termB": {
+        "name": "arbre"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Illustration D'un oiseau ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "oiseau"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Fresque D'une bataille ": {
+      "termA": {
+        "name": "Fresque"
+      },
+      "termB": {
+        "name": "bataille"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Toile D'un coucher de soleil ": {
+      "termA": {
+        "name": "Toile"
+      },
+      "termB": {
+        "name": "coucher"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Aquarelle D'une rivière ": {
+      "termA": {
+        "name": "Aquarelle"
+      },
+      "termB": {
+        "name": "rivière"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Mosaïque D'un poisson ": {
+      "termA": {
+        "name": "Mosaïque"
+      },
+      "termB": {
+        "name": "poisson"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Esquisse D'un visage ": {
+      "termA": {
+        "name": "Esquisse"
+      },
+      "termB": {
+        "name": "visage"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Tableau D'une forêt ": {
+      "termA": {
+        "name": "Tableau"
+      },
+      "termB": {
+        "name": "forêt"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Image D'un château ": {
+      "termA": {
+        "name": "Image"
+      },
+      "termB": {
+        "name": "château"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Gravure D'une ville ": {
+      "termA": {
+        "name": "Gravure"
+      },
+      "termB": {
+        "name": "ville"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Peinture D'un océan ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "océan"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Sculpture D'un ange ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "ange"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Dessin D'un chat ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "chat"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Photographie D'un désert ": {
+      "termA": {
+        "name": "Photographie"
+      },
+      "termB": {
+        "name": "désert"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Affiche D'un concert ": {
+      "termA": {
+        "name": "Affiche"
+      },
+      "termB": {
+        "name": "concert"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Portrait D'un enfant ": {
+      "termA": {
+        "name": "Portrait"
+      },
+      "termB": {
+        "name": "enfant"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Croquis D'une maison ": {
+      "termA": {
+        "name": "Croquis"
+      },
+      "termB": {
+        "name": "maison"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Illustration D'un dragon ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "dragon"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Fresque D'un marché ": {
+      "termA": {
+        "name": "Fresque"
+      },
+      "termB": {
+        "name": "marché"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Toile D'une prairie ": {
+      "termA": {
+        "name": "Toile"
+      },
+      "termB": {
+        "name": "prairie"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Aquarelle D'un lac ": {
+      "termA": {
+        "name": "Aquarelle"
+      },
+      "termB": {
+        "name": "lac"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Mosaïque D'une étoile ": {
+      "termA": {
+        "name": "Mosaïque"
+      },
+      "termB": {
+        "name": "étoile"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Esquisse D'un pont ": {
+      "termA": {
+        "name": "Esquisse"
+      },
+      "termB": {
+        "name": "pont"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Tableau D'un village ": {
+      "termA": {
+        "name": "Tableau"
+      },
+      "termB": {
+        "name": "village"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Image D'une cascade ": {
+      "termA": {
+        "name": "Image"
+      },
+      "termB": {
+        "name": "cascade"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Gravure D'un temple ": {
+      "termA": {
+        "name": "Gravure"
+      },
+      "termB": {
+        "name": "temple"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Peinture D'un volcan ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "volcan"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Sculpture D'un aigle ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "aigle"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Dessin D'un chien ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "chien"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Photographie D'une plage ": {
+      "termA": {
+        "name": "Photographie"
+      },
+      "termB": {
+        "name": "plage"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Affiche D'une pièce de théâtre ": {
+      "termA": {
+        "name": "Affiche"
+      },
+      "termB": {
+        "name": "pièce"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Portrait D'un homme ": {
+      "termA": {
+        "name": "Portrait"
+      },
+      "termB": {
+        "name": "homme"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Croquis D'une église ": {
+      "termA": {
+        "name": "Croquis"
+      },
+      "termB": {
+        "name": "église"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Illustration D'une fée ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "fée"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Fresque D'un jardin ": {
+      "termA": {
+        "name": "Fresque"
+      },
+      "termB": {
+        "name": "jardin"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Toile D'un horizon ": {
+      "termA": {
+        "name": "Toile"
+      },
+      "termB": {
+        "name": "horizon"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Aquarelle D'une île ": {
+      "termA": {
+        "name": "Aquarelle"
+      },
+      "termB": {
+        "name": "île"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Mosaïque D'un arbre ": {
+      "termA": {
+        "name": "Mosaïque"
+      },
+      "termB": {
+        "name": "arbre"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Esquisse D'une tour ": {
+      "termA": {
+        "name": "Esquisse"
+      },
+      "termB": {
+        "name": "tour"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Tableau D'une plaine ": {
+      "termA": {
+        "name": "Tableau"
+      },
+      "termB": {
+        "name": "plaine"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Image D'un glacier ": {
+      "termA": {
+        "name": "Image"
+      },
+      "termB": {
+        "name": "glacier"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Gravure D'un palais ": {
+      "termA": {
+        "name": "Gravure"
+      },
+      "termB": {
+        "name": "palais"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Peinture D'un ciel étoilé ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "ciel"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Sculpture D'un ours ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "ours"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Dessin D'une rose ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "rose"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Photographie D'une forêt ": {
+      "termA": {
+        "name": "Photographie"
+      },
+      "termB": {
+        "name": "forêt"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Affiche D'un festival ": {
+      "termA": {
+        "name": "Affiche"
+      },
+      "termB": {
+        "name": "festival"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Portrait D'un couple ": {
+      "termA": {
+        "name": "Portrait"
+      },
+      "termB": {
+        "name": "couple"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Croquis D'un port ": {
+      "termA": {
+        "name": "Croquis"
+      },
+      "termB": {
+        "name": "port"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Illustration D'un tigre ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "tigre"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Fresque D'un carnaval ": {
+      "termA": {
+        "name": "Fresque"
+      },
+      "termB": {
+        "name": "carnaval"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Toile D'une vallée ": {
+      "termA": {
+        "name": "Toile"
+      },
+      "termB": {
+        "name": "vallée"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Aquarelle D'un ruisseau ": {
+      "termA": {
+        "name": "Aquarelle"
+      },
+      "termB": {
+        "name": "ruisseau"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Mosaïque D'un soleil ": {
+      "termA": {
+        "name": "Mosaïque"
+      },
+      "termB": {
+        "name": "soleil"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Esquisse D'un bateau ": {
+      "termA": {
+        "name": "Esquisse"
+      },
+      "termB": {
+        "name": "bateau"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Tableau D'un champ ": {
+      "termA": {
+        "name": "Tableau"
+      },
+      "termB": {
+        "name": "champ"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Image D'une falaise ": {
+      "termA": {
+        "name": "Image"
+      },
+      "termB": {
+        "name": "falaise"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Gravure D'une cathédrale ": {
+      "termA": {
+        "name": "Gravure"
+      },
+      "termB": {
+        "name": "cathédrale"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Peinture D'un lac gelé ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "lac"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Sculpture D'un cerf ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "cerf"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Dessin D'un papillon ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "papillon"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Photographie D'un canyon ": {
+      "termA": {
+        "name": "Photographie"
+      },
+      "termB": {
+        "name": "canyon"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Affiche D'une exposition ": {
+      "termA": {
+        "name": "Affiche"
+      },
+      "termB": {
+        "name": "exposition"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Portrait D'une famille ": {
+      "termA": {
+        "name": "Portrait"
+      },
+      "termB": {
+        "name": "famille"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Croquis D'un moulin ": {
+      "termA": {
+        "name": "Croquis"
+      },
+      "termB": {
+        "name": "moulin"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Illustration D'un loup ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "loup"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Fresque D'un port ": {
+      "termA": {
+        "name": "Fresque"
+      },
+      "termB": {
+        "name": "port"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Toile D'une mer ": {
+      "termA": {
+        "name": "Toile"
+      },
+      "termB": {
+        "name": "mer"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Aquarelle D'un nuage ": {
+      "termA": {
+        "name": "Aquarelle"
+      },
+      "termB": {
+        "name": "nuage"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Mosaïque D'une lune ": {
+      "termA": {
+        "name": "Mosaïque"
+      },
+      "termB": {
+        "name": "lune"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Esquisse D'une statue ": {
+      "termA": {
+        "name": "Esquisse"
+      },
+      "termB": {
+        "name": "statue"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Tableau D'un verger ": {
+      "termA": {
+        "name": "Tableau"
+      },
+      "termB": {
+        "name": "verger"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Image D'un volcan ": {
+      "termA": {
+        "name": "Image"
+      },
+      "termB": {
+        "name": "volcan"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Gravure D'un phare ": {
+      "termA": {
+        "name": "Gravure"
+      },
+      "termB": {
+        "name": "phare"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Peinture D'une aurore ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "aurore"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Sculpture D'un éléphant ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "éléphant"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Dessin D'une tulipe ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "tulipe"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Photographie D'un lac ": {
+      "termA": {
+        "name": "Photographie"
+      },
+      "termB": {
+        "name": "lac"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Affiche D'un événement ": {
+      "termA": {
+        "name": "Affiche"
+      },
+      "termB": {
+        "name": "événement"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Portrait D'un vieillard ": {
+      "termA": {
+        "name": "Portrait"
+      },
+      "termB": {
+        "name": "vieillard"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Croquis D'un château ": {
+      "termA": {
+        "name": "Croquis"
+      },
+      "termB": {
+        "name": "château"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Illustration D'un renard ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "renard"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Fresque D'un village ": {
+      "termA": {
+        "name": "Fresque"
+      },
+      "termB": {
+        "name": "village"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Toile D'un désert ": {
+      "termA": {
+        "name": "Toile"
+      },
+      "termB": {
+        "name": "désert"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Aquarelle D'une montagne ": {
+      "termA": {
+        "name": "Aquarelle"
+      },
+      "termB": {
+        "name": "montagne"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Mosaïque D'un oiseau ": {
+      "termA": {
+        "name": "Mosaïque"
+      },
+      "termB": {
+        "name": "oiseau"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Esquisse D'un arbre ": {
+      "termA": {
+        "name": "Esquisse"
+      },
+      "termB": {
+        "name": "arbre"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Tableau D'une plage ": {
+      "termA": {
+        "name": "Tableau"
+      },
+      "termB": {
+        "name": "plage"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Image D'un coucher de soleil ": {
+      "termA": {
+        "name": "Image"
+      },
+      "termB": {
+        "name": "coucher"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Gravure D'une fontaine ": {
+      "termA": {
+        "name": "Gravure"
+      },
+      "termB": {
+        "name": "fontaine"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict  \n",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Peinture D'un arc-en-ciel ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "arc"
+      },
+      "prep": "D'",
+      "relation_type": " r_depict\n",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Affiche DE concert ": {
+      "termA": {
+        "name": "Affiche"
+      },
+      "termB": {
+        "name": "concert"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Croquis DE maison ": {
+      "termA": {
+        "name": "Croquis"
+      },
+      "termB": {
+        "name": "maison"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Maquette DE voiture ": {
+      "termA": {
+        "name": "Maquette"
+      },
+      "termB": {
+        "name": "voiture"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Schéma DE moteur ": {
+      "termA": {
+        "name": "Schéma"
+      },
+      "termB": {
+        "name": "moteur"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plan DE ville ": {
+      "termA": {
+        "name": "Plan"
+      },
+      "termB": {
+        "name": "ville"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Icône DE logiciel ": {
+      "termA": {
+        "name": "Icône"
+      },
+      "termB": {
+        "name": "logiciel"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Logo DE marque ": {
+      "termA": {
+        "name": "Logo"
+      },
+      "termB": {
+        "name": "marque"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gravure DE pièce ": {
+      "termA": {
+        "name": "Gravure"
+      },
+      "termB": {
+        "name": "pièce"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Illustration DE conte ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "conte"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Esquisse DE costume ": {
+      "termA": {
+        "name": "Esquisse"
+      },
+      "termB": {
+        "name": "costume"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bande dessinée DE héros ": {
+      "termA": {
+        "name": "Bande"
+      },
+      "termB": {
+        "name": "héros"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Affiche DE exposition ": {
+      "termA": {
+        "name": "Affiche"
+      },
+      "termB": {
+        "name": "exposition"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Photographie DE rue ": {
+      "termA": {
+        "name": "Photographie"
+      },
+      "termB": {
+        "name": "rue"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Carte DE pays ": {
+      "termA": {
+        "name": "Carte"
+      },
+      "termB": {
+        "name": "pays"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mosaïque DE poisson ": {
+      "termA": {
+        "name": "Mosaïque"
+      },
+      "termB": {
+        "name": "poisson"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Croquis DE meuble ": {
+      "termA": {
+        "name": "Croquis"
+      },
+      "termB": {
+        "name": "meuble"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Illustration DE scène ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "scène"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fresque DE village ": {
+      "termA": {
+        "name": "Fresque"
+      },
+      "termB": {
+        "name": "village"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Affiche DE campagne ": {
+      "termA": {
+        "name": "Affiche"
+      },
+      "termB": {
+        "name": "campagne"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Logo DE équipe ": {
+      "termA": {
+        "name": "Logo"
+      },
+      "termB": {
+        "name": "équipe"
+      },
+      "prep": "DE",
+      "relation_type": " r_depict\n",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

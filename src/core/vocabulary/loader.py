@@ -1,16 +1,19 @@
 from pathlib import Path
 import json
 import typer
-from src.core.models.base_models import TermInfo, RelationInstance, Prep, Corpus, Article
+from src.core.schemas import TermInfo, RelationInstance, Prep, Corpus, Article
 from typing import List, Dict, Any
 import re
 app = typer.Typer()
 
 PREP_MAP = {
     "DE": Prep.DE,
+    "DE la": Prep.DE,
+    "DE l'": Prep.DE,
     "DU": Prep.DU,
     "DES": Prep.DES,
     "D'": Prep.D,
+    "D '": Prep.D,
     "D": Prep.D,
     "Dun": Prep.D,
     "D'une": Prep.D,

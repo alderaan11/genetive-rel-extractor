@@ -19,9 +19,9 @@ class Article(str, Enum):
 
 class TermInfo(BaseModel):
     name: str
-    r_isa: Optional[List[Dict[str, Any]]] = Field(default_factory=list)
-    r_raff_sem: Optional[List[Dict[str, Any]]] = Field(default_factory=list)
-    r_pos: Optional[List[Dict[str, Any]]] = Field(default_factory=list)
+    # r_isa: Optional[List[Dict[str, Any]]] = Field(default_factory=list)
+    # r_raff_sem: Optional[List[Dict[str, Any]]] = Field(default_factory=list)
+    # r_pos: Optional[List[Dict[str, Any]]] = Field(default_factory=list)
 
 
 class RelationInstance(BaseModel):

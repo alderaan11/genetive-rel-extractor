@@ -1,0 +1,1193 @@
+{
+  "original_file": "data/txt_sample/r_objet_matiere.txt",
+  "data": {
+    "Cuillère DE bois ": {
+      "termA": {
+        "name": "Cuillère"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Trône DE fer ": {
+      "termA": {
+        "name": "Trône"
+      },
+      "termB": {
+        "name": "fer"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Table D'acier ": {
+      "termA": {
+        "name": "Table"
+      },
+      "termB": {
+        "name": "acier"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bague D'or ": {
+      "termA": {
+        "name": "Bague"
+      },
+      "termB": {
+        "name": "or"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vase DE verre ": {
+      "termA": {
+        "name": "Vase"
+      },
+      "termB": {
+        "name": "verre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Statue DE marbre ": {
+      "termA": {
+        "name": "Statue"
+      },
+      "termB": {
+        "name": "marbre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaise DE plastique ": {
+      "termA": {
+        "name": "Chaise"
+      },
+      "termB": {
+        "name": "plastique"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épée D'acier ": {
+      "termA": {
+        "name": "Épée"
+      },
+      "termB": {
+        "name": "acier"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bol DE céramique ": {
+      "termA": {
+        "name": "Bol"
+      },
+      "termB": {
+        "name": "céramique"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Collier D'argent ": {
+      "termA": {
+        "name": "Collier"
+      },
+      "termB": {
+        "name": "argent"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Armoire DE chêne ": {
+      "termA": {
+        "name": "Armoire"
+      },
+      "termB": {
+        "name": "chêne"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bouteille DE verre ": {
+      "termA": {
+        "name": "Bouteille"
+      },
+      "termB": {
+        "name": "verre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cadenas DE fer ": {
+      "termA": {
+        "name": "Cadenas"
+      },
+      "termB": {
+        "name": "fer"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cloche DE bronze ": {
+      "termA": {
+        "name": "Cloche"
+      },
+      "termB": {
+        "name": "bronze"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Miroir D'argent ": {
+      "termA": {
+        "name": "Miroir"
+      },
+      "termB": {
+        "name": "argent"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lampe DE cuivre ": {
+      "termA": {
+        "name": "Lampe"
+      },
+      "termB": {
+        "name": "cuivre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Boîte DE carton ": {
+      "termA": {
+        "name": "Boîte"
+      },
+      "termB": {
+        "name": "carton"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tasse DE porcelaine ": {
+      "termA": {
+        "name": "Tasse"
+      },
+      "termB": {
+        "name": "porcelaine"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couteau D'acier ": {
+      "termA": {
+        "name": "Couteau"
+      },
+      "termB": {
+        "name": "acier"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bracelet D'or ": {
+      "termA": {
+        "name": "Bracelet"
+      },
+      "termB": {
+        "name": "or"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plancher DE bois ": {
+      "termA": {
+        "name": "Plancher"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mur DE pierre ": {
+      "termA": {
+        "name": "Mur"
+      },
+      "termB": {
+        "name": "pierre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pendentif DE jade ": {
+      "termA": {
+        "name": "Pendentif"
+      },
+      "termB": {
+        "name": "jade"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Assiette DE faïence ": {
+      "termA": {
+        "name": "Assiette"
+      },
+      "termB": {
+        "name": "faïence"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Toit DE tuile ": {
+      "termA": {
+        "name": "Toit"
+      },
+      "termB": {
+        "name": "tuile"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Stylo DE plastique ": {
+      "termA": {
+        "name": "Stylo"
+      },
+      "termB": {
+        "name": "plastique"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bâton DE bois ": {
+      "termA": {
+        "name": "Bâton"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Anneau DE fer ": {
+      "termA": {
+        "name": "Anneau"
+      },
+      "termB": {
+        "name": "fer"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sculpture DE granit ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "granit"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Verre DE cristal ": {
+      "termA": {
+        "name": "Verre"
+      },
+      "termB": {
+        "name": "cristal"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Étagère DE pin ": {
+      "termA": {
+        "name": "Étagère"
+      },
+      "termB": {
+        "name": "pin"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médaille D'or ": {
+      "termA": {
+        "name": "Médaille"
+      },
+      "termB": {
+        "name": "or"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clou DE fer ": {
+      "termA": {
+        "name": "Clou"
+      },
+      "termB": {
+        "name": "fer"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Horloge DE bronze ": {
+      "termA": {
+        "name": "Horloge"
+      },
+      "termB": {
+        "name": "bronze"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cadre DE bois ": {
+      "termA": {
+        "name": "Cadre"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bague DE diamant ": {
+      "termA": {
+        "name": "Bague"
+      },
+      "termB": {
+        "name": "diamant"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plaque DE métal ": {
+      "termA": {
+        "name": "Plaque"
+      },
+      "termB": {
+        "name": "métal"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ceinture DE cuir ": {
+      "termA": {
+        "name": "Ceinture"
+      },
+      "termB": {
+        "name": "cuir"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Porte DE chêne ": {
+      "termA": {
+        "name": "Porte"
+      },
+      "termB": {
+        "name": "chêne"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vase DE terre ": {
+      "termA": {
+        "name": "Vase"
+      },
+      "termB": {
+        "name": "terre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bague D'émeraude ": {
+      "termA": {
+        "name": "Bague"
+      },
+      "termB": {
+        "name": "émeraude"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Banc DE bois ": {
+      "termA": {
+        "name": "Banc"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaîne D'or ": {
+      "termA": {
+        "name": "Chaîne"
+      },
+      "termB": {
+        "name": "or"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fenêtre DE verre ": {
+      "termA": {
+        "name": "Fenêtre"
+      },
+      "termB": {
+        "name": "verre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Statue DE bronze ": {
+      "termA": {
+        "name": "Statue"
+      },
+      "termB": {
+        "name": "bronze"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Stylet DE métal ": {
+      "termA": {
+        "name": "Stylet"
+      },
+      "termB": {
+        "name": "métal"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tapis DE laine ": {
+      "termA": {
+        "name": "Tapis"
+      },
+      "termB": {
+        "name": "laine"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écuelle DE terre ": {
+      "termA": {
+        "name": "Écuelle"
+      },
+      "termB": {
+        "name": "terre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lustre DE cristal ": {
+      "termA": {
+        "name": "Lustre"
+      },
+      "termB": {
+        "name": "cristal"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clé DE fer ": {
+      "termA": {
+        "name": "Clé"
+      },
+      "termB": {
+        "name": "fer"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bureau DE chêne ": {
+      "termA": {
+        "name": "Bureau"
+      },
+      "termB": {
+        "name": "chêne"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bâche DE plastique ": {
+      "termA": {
+        "name": "Bâche"
+      },
+      "termB": {
+        "name": "plastique"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médallion D'argent ": {
+      "termA": {
+        "name": "Médallion"
+      },
+      "termB": {
+        "name": "argent"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poutre DE bois ": {
+      "termA": {
+        "name": "Poutre"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vitrage DE verre ": {
+      "termA": {
+        "name": "Vitrage"
+      },
+      "termB": {
+        "name": "verre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Boucle DE cuivre ": {
+      "termA": {
+        "name": "Boucle"
+      },
+      "termB": {
+        "name": "cuivre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Coffre DE cèdre ": {
+      "termA": {
+        "name": "Coffre"
+      },
+      "termB": {
+        "name": "cèdre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rideau DE soie ": {
+      "termA": {
+        "name": "Rideau"
+      },
+      "termB": {
+        "name": "soie"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Broche D'or ": {
+      "termA": {
+        "name": "Broche"
+      },
+      "termB": {
+        "name": "or"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mur DE brique ": {
+      "termA": {
+        "name": "Mur"
+      },
+      "termB": {
+        "name": "brique"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poterie DE glaise ": {
+      "termA": {
+        "name": "Poterie"
+      },
+      "termB": {
+        "name": "glaise"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaise DE rotin ": {
+      "termA": {
+        "name": "Chaise"
+      },
+      "termB": {
+        "name": "rotin"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Canne DE bambou ": {
+      "termA": {
+        "name": "Canne"
+      },
+      "termB": {
+        "name": "bambou"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plafond DE plâtre ": {
+      "termA": {
+        "name": "Plafond"
+      },
+      "termB": {
+        "name": "plâtre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bracelet DE perles ": {
+      "termA": {
+        "name": "Bracelet"
+      },
+      "termB": {
+        "name": "perles"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écran DE verre ": {
+      "termA": {
+        "name": "Écran"
+      },
+      "termB": {
+        "name": "verre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lanterne DE fer ": {
+      "termA": {
+        "name": "Lanterne"
+      },
+      "termB": {
+        "name": "fer"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tabouret DE bois ": {
+      "termA": {
+        "name": "Tabouret"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Collier DE jade ": {
+      "termA": {
+        "name": "Collier"
+      },
+      "termB": {
+        "name": "jade"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vase DE porcelaine ": {
+      "termA": {
+        "name": "Vase"
+      },
+      "termB": {
+        "name": "porcelaine"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clôture DE métal ": {
+      "termA": {
+        "name": "Clôture"
+      },
+      "termB": {
+        "name": "métal"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tenture DE lin ": {
+      "termA": {
+        "name": "Tenture"
+      },
+      "termB": {
+        "name": "lin"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épingle D'acier ": {
+      "termA": {
+        "name": "Épingle"
+      },
+      "termB": {
+        "name": "acier"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Banc DE pierre ": {
+      "termA": {
+        "name": "Banc"
+      },
+      "termB": {
+        "name": "pierre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chope DE grès ": {
+      "termA": {
+        "name": "Chope"
+      },
+      "termB": {
+        "name": "grès"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cadre D'argent ": {
+      "termA": {
+        "name": "Cadre"
+      },
+      "termB": {
+        "name": "argent"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sol DE marbre ": {
+      "termA": {
+        "name": "Sol"
+      },
+      "termB": {
+        "name": "marbre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bougie DE cire ": {
+      "termA": {
+        "name": "Bougie"
+      },
+      "termB": {
+        "name": "cire"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sangle DE cuir ": {
+      "termA": {
+        "name": "Sangle"
+      },
+      "termB": {
+        "name": "cuir"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Statue DE calcaire ": {
+      "termA": {
+        "name": "Statue"
+      },
+      "termB": {
+        "name": "calcaire"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lampe DE céramique ": {
+      "termA": {
+        "name": "Lampe"
+      },
+      "termB": {
+        "name": "céramique"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaîne DE fer ": {
+      "termA": {
+        "name": "Chaîne"
+      },
+      "termB": {
+        "name": "fer"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Boîte DE bois ": {
+      "termA": {
+        "name": "Boîte"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Miroir DE bronze ": {
+      "termA": {
+        "name": "Miroir"
+      },
+      "termB": {
+        "name": "bronze"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Assiette DE verre ": {
+      "termA": {
+        "name": "Assiette"
+      },
+      "termB": {
+        "name": "verre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poutre D'acier ": {
+      "termA": {
+        "name": "Poutre"
+      },
+      "termB": {
+        "name": "acier"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bague DE saphir ": {
+      "termA": {
+        "name": "Bague"
+      },
+      "termB": {
+        "name": "saphir"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parquet DE chêne ": {
+      "termA": {
+        "name": "Parquet"
+      },
+      "termB": {
+        "name": "chêne"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rideau DE velours ": {
+      "termA": {
+        "name": "Rideau"
+      },
+      "termB": {
+        "name": "velours"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épée DE bronze ": {
+      "termA": {
+        "name": "Épée"
+      },
+      "termB": {
+        "name": "bronze"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bol DE bois ": {
+      "termA": {
+        "name": "Bol"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médaille DE cuivre ": {
+      "termA": {
+        "name": "Médaille"
+      },
+      "termB": {
+        "name": "cuivre"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mur DE béton ": {
+      "termA": {
+        "name": "Mur"
+      },
+      "termB": {
+        "name": "béton"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vase D'argile ": {
+      "termA": {
+        "name": "Vase"
+      },
+      "termB": {
+        "name": "argile"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaise DE fer ": {
+      "termA": {
+        "name": "Chaise"
+      },
+      "termB": {
+        "name": "fer"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Collier DE corail ": {
+      "termA": {
+        "name": "Collier"
+      },
+      "termB": {
+        "name": "corail"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Table DE granite ": {
+      "termA": {
+        "name": "Table"
+      },
+      "termB": {
+        "name": "granite"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cloche D'acier ": {
+      "termA": {
+        "name": "Cloche"
+      },
+      "termB": {
+        "name": "acier"
+      },
+      "prep": "D'",
+      "relation_type": " r_objet>matiere  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cadenas DE bronze ": {
+      "termA": {
+        "name": "Cadenas"
+      },
+      "termB": {
+        "name": "bronze"
+      },
+      "prep": "DE",
+      "relation_type": " r_objet>matiere",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

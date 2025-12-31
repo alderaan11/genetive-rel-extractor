@@ -1,0 +1,1193 @@
+{
+  "original_file": "data/txt_sample/r_own.txt",
+  "data": {
+    "Fusil DU soldat ": {
+      "termA": {
+        "name": "Fusil"
+      },
+      "termB": {
+        "name": "soldat"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vélo DU cycliste ": {
+      "termA": {
+        "name": "Vélo"
+      },
+      "termB": {
+        "name": "cycliste"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Livre DE l'étudiant ": {
+      "termA": {
+        "name": "Livre"
+      },
+      "termB": {
+        "name": "étudiant"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Pinceau DE l'artiste ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "artiste"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Sac DE l'écolier ": {
+      "termA": {
+        "name": "Sac"
+      },
+      "termB": {
+        "name": "écolier"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Camion DU chauffeur ": {
+      "termA": {
+        "name": "Camion"
+      },
+      "termB": {
+        "name": "chauffeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Guitare DU musicien ": {
+      "termA": {
+        "name": "Guitare"
+      },
+      "termB": {
+        "name": "musicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Téléphone DU cadre ": {
+      "termA": {
+        "name": "Téléphone"
+      },
+      "termB": {
+        "name": "cadre"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couteau DU chef ": {
+      "termA": {
+        "name": "Couteau"
+      },
+      "termB": {
+        "name": "chef"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bateau DU pêcheur ": {
+      "termA": {
+        "name": "Bateau"
+      },
+      "termB": {
+        "name": "pêcheur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ordinateur DU programmeur ": {
+      "termA": {
+        "name": "Ordinateur"
+      },
+      "termB": {
+        "name": "programmeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Balai DE la sorcière ": {
+      "termA": {
+        "name": "Balai"
+      },
+      "termB": {
+        "name": "sorcière"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Balle DU joueur ": {
+      "termA": {
+        "name": "Balle"
+      },
+      "termB": {
+        "name": "joueur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Appareil DU photographe ": {
+      "termA": {
+        "name": "Appareil"
+      },
+      "termB": {
+        "name": "photographe"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chapeau DU magicien ": {
+      "termA": {
+        "name": "Chapeau"
+      },
+      "termB": {
+        "name": "magicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Valise DU voyageur ": {
+      "termA": {
+        "name": "Valise"
+      },
+      "termB": {
+        "name": "voyageur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plume DE l'écrivain ": {
+      "termA": {
+        "name": "Plume"
+      },
+      "termB": {
+        "name": "écrivain"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Cheval DU cavalier ": {
+      "termA": {
+        "name": "Cheval"
+      },
+      "termB": {
+        "name": "cavalier"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Microscope DU scientifique ": {
+      "termA": {
+        "name": "Microscope"
+      },
+      "termB": {
+        "name": "scientifique"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Baguette DU chef d'orchestre ": {
+      "termA": {
+        "name": "Baguette"
+      },
+      "termB": {
+        "name": "chef"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poussette DE la mère ": {
+      "termA": {
+        "name": "Poussette"
+      },
+      "termB": {
+        "name": "mère"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Canne DU vieillard ": {
+      "termA": {
+        "name": "Canne"
+      },
+      "termB": {
+        "name": "vieillard"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épée DU chevalier ": {
+      "termA": {
+        "name": "Épée"
+      },
+      "termB": {
+        "name": "chevalier"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sacoche DU facteur ": {
+      "termA": {
+        "name": "Sacoche"
+      },
+      "termB": {
+        "name": "facteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Planche DU surfeur ": {
+      "termA": {
+        "name": "Planche"
+      },
+      "termB": {
+        "name": "surfeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Raquette DU tennisman ": {
+      "termA": {
+        "name": "Raquette"
+      },
+      "termB": {
+        "name": "tennisman"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clavier DU pianiste ": {
+      "termA": {
+        "name": "Clavier"
+      },
+      "termB": {
+        "name": "pianiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Carnet DU journaliste ": {
+      "termA": {
+        "name": "Carnet"
+      },
+      "termB": {
+        "name": "journaliste"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Stéthoscope DU médecin ": {
+      "termA": {
+        "name": "Stéthoscope"
+      },
+      "termB": {
+        "name": "médecin"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bâton DU randonneur ": {
+      "termA": {
+        "name": "Bâton"
+      },
+      "termB": {
+        "name": "randonneur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Trousse DE l'infirmière ": {
+      "termA": {
+        "name": "Trousse"
+      },
+      "termB": {
+        "name": "infirmière"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Marteau DU forgeron ": {
+      "termA": {
+        "name": "Marteau"
+      },
+      "termB": {
+        "name": "forgeron"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pinceau DU maquilleur ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "maquilleur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Voiture DU pilote ": {
+      "termA": {
+        "name": "Voiture"
+      },
+      "termB": {
+        "name": "pilote"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaise DU professeur ": {
+      "termA": {
+        "name": "Chaise"
+      },
+      "termB": {
+        "name": "professeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Palette DU peintre ": {
+      "termA": {
+        "name": "Palette"
+      },
+      "termB": {
+        "name": "peintre"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sac DU randonneur ": {
+      "termA": {
+        "name": "Sac"
+      },
+      "termB": {
+        "name": "randonneur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Filet DU pêcheur ": {
+      "termA": {
+        "name": "Filet"
+      },
+      "termB": {
+        "name": "pêcheur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Téléscope DE l'astronome ": {
+      "termA": {
+        "name": "Téléscope"
+      },
+      "termB": {
+        "name": "astronome"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Casque DU motard ": {
+      "termA": {
+        "name": "Casque"
+      },
+      "termB": {
+        "name": "motard"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Arc DU chasseur ": {
+      "termA": {
+        "name": "Arc"
+      },
+      "termB": {
+        "name": "chasseur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Baguette DE la fée ": {
+      "termA": {
+        "name": "Baguette"
+      },
+      "termB": {
+        "name": "fée"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Balle DU basketteur ": {
+      "termA": {
+        "name": "Balle"
+      },
+      "termB": {
+        "name": "basketteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Costume DU danseur ": {
+      "termA": {
+        "name": "Costume"
+      },
+      "termB": {
+        "name": "danseur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Caméra DU cinéaste ": {
+      "termA": {
+        "name": "Caméra"
+      },
+      "termB": {
+        "name": "cinéaste"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Corde DU grimpeur ": {
+      "termA": {
+        "name": "Corde"
+      },
+      "termB": {
+        "name": "grimpeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Livre DU bibliothécaire ": {
+      "termA": {
+        "name": "Livre"
+      },
+      "termB": {
+        "name": "bibliothécaire"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Outil DU mécanicien ": {
+      "termA": {
+        "name": "Outil"
+      },
+      "termB": {
+        "name": "mécanicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sac DE la couturière ": {
+      "termA": {
+        "name": "Sac"
+      },
+      "termB": {
+        "name": "couturière"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Canne DU pêcheur ": {
+      "termA": {
+        "name": "Canne"
+      },
+      "termB": {
+        "name": "pêcheur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poussette DU père ": {
+      "termA": {
+        "name": "Poussette"
+      },
+      "termB": {
+        "name": "père"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écharpe DE l'hivernant ": {
+      "termA": {
+        "name": "Écharpe"
+      },
+      "termB": {
+        "name": "hivernant"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Gant DU boxeur ": {
+      "termA": {
+        "name": "Gant"
+      },
+      "termB": {
+        "name": "boxeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Carte DU navigateur ": {
+      "termA": {
+        "name": "Carte"
+      },
+      "termB": {
+        "name": "navigateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chisel DU sculpteur ": {
+      "termA": {
+        "name": "Chisel"
+      },
+      "termB": {
+        "name": "sculpteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Truelle DU maçon ": {
+      "termA": {
+        "name": "Truelle"
+      },
+      "termB": {
+        "name": "maçon"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parapluie DU passant ": {
+      "termA": {
+        "name": "Parapluie"
+      },
+      "termB": {
+        "name": "passant"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sacoche DU médecin ": {
+      "termA": {
+        "name": "Sacoche"
+      },
+      "termB": {
+        "name": "médecin"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Flûte DU musicien ": {
+      "termA": {
+        "name": "Flûte"
+      },
+      "termB": {
+        "name": "musicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Planche DU skateur ": {
+      "termA": {
+        "name": "Planche"
+      },
+      "termB": {
+        "name": "skateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Montre DU coureur ": {
+      "termA": {
+        "name": "Montre"
+      },
+      "termB": {
+        "name": "coureur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lunettes DE l'opticien ": {
+      "termA": {
+        "name": "Lunettes"
+      },
+      "termB": {
+        "name": "opticien"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Trousse DU maquilleur ": {
+      "termA": {
+        "name": "Trousse"
+      },
+      "termB": {
+        "name": "maquilleur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sac DE l'aventurier ": {
+      "termA": {
+        "name": "Sac"
+      },
+      "termB": {
+        "name": "aventurier"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Baton DU guide ": {
+      "termA": {
+        "name": "Baton"
+      },
+      "termB": {
+        "name": "guide"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Casque DU pompier ": {
+      "termA": {
+        "name": "Casque"
+      },
+      "termB": {
+        "name": "pompier"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bague DE la mariée ": {
+      "termA": {
+        "name": "Bague"
+      },
+      "termB": {
+        "name": "mariée"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Carnet DU dessinateur ": {
+      "termA": {
+        "name": "Carnet"
+      },
+      "termB": {
+        "name": "dessinateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaussures DU coureur ": {
+      "termA": {
+        "name": "Chaussures"
+      },
+      "termB": {
+        "name": "coureur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épée DU samouraï ": {
+      "termA": {
+        "name": "Épée"
+      },
+      "termB": {
+        "name": "samouraï"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sac DU campeur ": {
+      "termA": {
+        "name": "Sac"
+      },
+      "termB": {
+        "name": "campeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couteau DU boucher ": {
+      "termA": {
+        "name": "Couteau"
+      },
+      "termB": {
+        "name": "boucher"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Appareil DU dentiste ": {
+      "termA": {
+        "name": "Appareil"
+      },
+      "termB": {
+        "name": "dentiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bâton DU skieur ": {
+      "termA": {
+        "name": "Bâton"
+      },
+      "termB": {
+        "name": "skieur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Filet DU gardien ": {
+      "termA": {
+        "name": "Filet"
+      },
+      "termB": {
+        "name": "gardien"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pinceau DU décorateur ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "décorateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tapis DU yogi ": {
+      "termA": {
+        "name": "Tapis"
+      },
+      "termB": {
+        "name": "yogi"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Camion DU déménageur ": {
+      "termA": {
+        "name": "Camion"
+      },
+      "termB": {
+        "name": "déménageur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaise DU directeur ": {
+      "termA": {
+        "name": "Chaise"
+      },
+      "termB": {
+        "name": "directeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sacoche DU livreur ": {
+      "termA": {
+        "name": "Sacoche"
+      },
+      "termB": {
+        "name": "livreur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Violon DU violoniste ": {
+      "termA": {
+        "name": "Violon"
+      },
+      "termB": {
+        "name": "violoniste"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Planche DU menuisier ": {
+      "termA": {
+        "name": "Planche"
+      },
+      "termB": {
+        "name": "menuisier"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Caméra DU reporter ": {
+      "termA": {
+        "name": "Caméra"
+      },
+      "termB": {
+        "name": "reporter"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sac DU jardinier ": {
+      "termA": {
+        "name": "Sac"
+      },
+      "termB": {
+        "name": "jardinier"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Casque DU cycliste ": {
+      "termA": {
+        "name": "Casque"
+      },
+      "termB": {
+        "name": "cycliste"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Balle DU golfeur ": {
+      "termA": {
+        "name": "Balle"
+      },
+      "termB": {
+        "name": "golfeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pinceau DU calligraphe ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "calligraphe"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Corde DU marin ": {
+      "termA": {
+        "name": "Corde"
+      },
+      "termB": {
+        "name": "marin"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Livre DU chercheur ": {
+      "termA": {
+        "name": "Livre"
+      },
+      "termB": {
+        "name": "chercheur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Outil DU bricoleur ": {
+      "termA": {
+        "name": "Outil"
+      },
+      "termB": {
+        "name": "bricoleur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sac DE l'étudiante ": {
+      "termA": {
+        "name": "Sac"
+      },
+      "termB": {
+        "name": "étudiante"
+      },
+      "prep": "DE",
+      "relation_type": " r_own-1  \n",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Baton DU chef ": {
+      "termA": {
+        "name": "Baton"
+      },
+      "termB": {
+        "name": "chef"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Raquette DU badminton ": {
+      "termA": {
+        "name": "Raquette"
+      },
+      "termB": {
+        "name": "badminton"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Trousse DU coiffeur ": {
+      "termA": {
+        "name": "Trousse"
+      },
+      "termB": {
+        "name": "coiffeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Palette DU cuisinier ": {
+      "termA": {
+        "name": "Palette"
+      },
+      "termB": {
+        "name": "cuisinier"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Planche DU charpentier ": {
+      "termA": {
+        "name": "Planche"
+      },
+      "termB": {
+        "name": "charpentier"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Caméra DU vidéaste ": {
+      "termA": {
+        "name": "Caméra"
+      },
+      "termB": {
+        "name": "vidéaste"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sac DU voyageur ": {
+      "termA": {
+        "name": "Sac"
+      },
+      "termB": {
+        "name": "voyageur"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1  \n",
+      "is_det": false,
+      "determinant": null
+    },
+    "Baguette DU sorcier ": {
+      "termA": {
+        "name": "Baguette"
+      },
+      "termB": {
+        "name": "sorcier"
+      },
+      "prep": "DU",
+      "relation_type": " r_own-1",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}
