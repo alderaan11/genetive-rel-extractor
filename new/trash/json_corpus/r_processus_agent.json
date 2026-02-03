@@ -1,0 +1,1181 @@
+{
+  "original_file": "../data/txt_sample/r_processus_agent.txt",
+  "data": {
+    "Travail DE l'ouvrier ": {
+      "termA": {
+        "name": "Travail"
+      },
+      "termB": {
+        "name": "ouvrier"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Cours DU professeur ": {
+      "termA": {
+        "name": "Cours"
+      },
+      "termB": {
+        "name": "professeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chant DU rossignol ": {
+      "termA": {
+        "name": "Chant"
+      },
+      "termB": {
+        "name": "rossignol"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Peinture DE l'artiste ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "artiste"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Écriture DU poète ": {
+      "termA": {
+        "name": "Écriture"
+      },
+      "termB": {
+        "name": "poète"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Danse DE la ballerine ": {
+      "termA": {
+        "name": "Danse"
+      },
+      "termB": {
+        "name": "ballerine"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Cuisine DU chef ": {
+      "termA": {
+        "name": "Cuisine"
+      },
+      "termB": {
+        "name": "chef"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sculpture DU sculpteur ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "sculpteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Musique DU compositeur ": {
+      "termA": {
+        "name": "Musique"
+      },
+      "termB": {
+        "name": "compositeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enseignement DU maître ": {
+      "termA": {
+        "name": "Enseignement"
+      },
+      "termB": {
+        "name": "maître"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conduite DU chauffeur ": {
+      "termA": {
+        "name": "Conduite"
+      },
+      "termB": {
+        "name": "chauffeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Recherche DU scientifique ": {
+      "termA": {
+        "name": "Recherche"
+      },
+      "termB": {
+        "name": "scientifique"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chantier DU maçon ": {
+      "termA": {
+        "name": "Chantier"
+      },
+      "termB": {
+        "name": "maçon"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Dessin DU graphiste ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "graphiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Programmation DU développeur ": {
+      "termA": {
+        "name": "Programmation"
+      },
+      "termB": {
+        "name": "développeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chant DE l'opéra ": {
+      "termA": {
+        "name": "Chant"
+      },
+      "termB": {
+        "name": "opéra"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Couture DE la couturière ": {
+      "termA": {
+        "name": "Couture"
+      },
+      "termB": {
+        "name": "couturière"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Jardinage DU paysagiste ": {
+      "termA": {
+        "name": "Jardinage"
+      },
+      "termB": {
+        "name": "paysagiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Entraînement DU coach ": {
+      "termA": {
+        "name": "Entraînement"
+      },
+      "termB": {
+        "name": "coach"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Photographie DU photographe ": {
+      "termA": {
+        "name": "Photographie"
+      },
+      "termB": {
+        "name": "photographe"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écriture D'un romancier ": {
+      "termA": {
+        "name": "Écriture"
+      },
+      "termB": {
+        "name": "romancier"
+      },
+      "prep": "D'",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Performance DE l'acteur ": {
+      "termA": {
+        "name": "Performance"
+      },
+      "termB": {
+        "name": "acteur"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Gestion DU manager ": {
+      "termA": {
+        "name": "Gestion"
+      },
+      "termB": {
+        "name": "manager"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Analyse DU chercheur ": {
+      "termA": {
+        "name": "Analyse"
+      },
+      "termB": {
+        "name": "chercheur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Construction DU bâtisseur ": {
+      "termA": {
+        "name": "Construction"
+      },
+      "termB": {
+        "name": "bâtisseur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Composition DU musicien ": {
+      "termA": {
+        "name": "Composition"
+      },
+      "termB": {
+        "name": "musicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enregistrement DU technicien ": {
+      "termA": {
+        "name": "Enregistrement"
+      },
+      "termB": {
+        "name": "technicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lecture DU narrateur ": {
+      "termA": {
+        "name": "Lecture"
+      },
+      "termB": {
+        "name": "narrateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Direction DU chef d'orchestre ": {
+      "termA": {
+        "name": "Direction"
+      },
+      "termB": {
+        "name": "chef"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Création DU designer ": {
+      "termA": {
+        "name": "Création"
+      },
+      "termB": {
+        "name": "designer"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Étude DU biologiste ": {
+      "termA": {
+        "name": "Étude"
+      },
+      "termB": {
+        "name": "biologiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Traduction DU traducteur ": {
+      "termA": {
+        "name": "Traduction"
+      },
+      "termB": {
+        "name": "traducteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Réparation DU mécanicien ": {
+      "termA": {
+        "name": "Réparation"
+      },
+      "termB": {
+        "name": "mécanicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enseignement DE l'éducateur ": {
+      "termA": {
+        "name": "Enseignement"
+      },
+      "termB": {
+        "name": "éducateur"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Performance DU danseur ": {
+      "termA": {
+        "name": "Performance"
+      },
+      "termB": {
+        "name": "danseur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écriture DU scénariste ": {
+      "termA": {
+        "name": "Écriture"
+      },
+      "termB": {
+        "name": "scénariste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Décoration DE l'architecte d'intérieur ": {
+      "termA": {
+        "name": "Décoration"
+      },
+      "termB": {
+        "name": "architecte"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Exploration DU géographe ": {
+      "termA": {
+        "name": "Exploration"
+      },
+      "termB": {
+        "name": "géographe"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enquête DU détective ": {
+      "termA": {
+        "name": "Enquête"
+      },
+      "termB": {
+        "name": "détective"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Soin DU médecin ": {
+      "termA": {
+        "name": "Soin"
+      },
+      "termB": {
+        "name": "médecin"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conseil DU consultant ": {
+      "termA": {
+        "name": "Conseil"
+      },
+      "termB": {
+        "name": "consultant"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fabrication DU forgeron ": {
+      "termA": {
+        "name": "Fabrication"
+      },
+      "termB": {
+        "name": "forgeron"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conception DU ingénieur ": {
+      "termA": {
+        "name": "Conception"
+      },
+      "termB": {
+        "name": "ingénieur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Présentation DU conférencier ": {
+      "termA": {
+        "name": "Présentation"
+      },
+      "termB": {
+        "name": "conférencier"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Navigation DU marin ": {
+      "termA": {
+        "name": "Navigation"
+      },
+      "termB": {
+        "name": "marin"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Peinture DU décorateur ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "décorateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Entraînement DU sportif ": {
+      "termA": {
+        "name": "Entraînement"
+      },
+      "termB": {
+        "name": "sportif"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Organisation DU planificateur ": {
+      "termA": {
+        "name": "Organisation"
+      },
+      "termB": {
+        "name": "planificateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Illustration DU dessinateur ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "dessinateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Interprétation DU comédien ": {
+      "termA": {
+        "name": "Interprétation"
+      },
+      "termB": {
+        "name": "comédien"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Recherche DU historien ": {
+      "termA": {
+        "name": "Recherche"
+      },
+      "termB": {
+        "name": "historien"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Composition DE l'auteur ": {
+      "termA": {
+        "name": "Composition"
+      },
+      "termB": {
+        "name": "auteur"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Pilotage DU pilote ": {
+      "termA": {
+        "name": "Pilotage"
+      },
+      "termB": {
+        "name": "pilote"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tissage DE la tisserande ": {
+      "termA": {
+        "name": "Tissage"
+      },
+      "termB": {
+        "name": "tisserande"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Enseignement DU formateur ": {
+      "termA": {
+        "name": "Enseignement"
+      },
+      "termB": {
+        "name": "formateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Analyse DU statisticien ": {
+      "termA": {
+        "name": "Analyse"
+      },
+      "termB": {
+        "name": "statisticien"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Élevage DU fermier ": {
+      "termA": {
+        "name": "Élevage"
+      },
+      "termB": {
+        "name": "fermier"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conception DU styliste ": {
+      "termA": {
+        "name": "Conception"
+      },
+      "termB": {
+        "name": "styliste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Direction DU metteur en scène ": {
+      "termA": {
+        "name": "Direction"
+      },
+      "termB": {
+        "name": "metteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chant DU choriste ": {
+      "termA": {
+        "name": "Chant"
+      },
+      "termB": {
+        "name": "choriste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Création DU céramiste ": {
+      "termA": {
+        "name": "Création"
+      },
+      "termB": {
+        "name": "céramiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enregistrement DU producteur ": {
+      "termA": {
+        "name": "Enregistrement"
+      },
+      "termB": {
+        "name": "producteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Étude DU mathématicien ": {
+      "termA": {
+        "name": "Étude"
+      },
+      "termB": {
+        "name": "mathématicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Soin DE l'infirmier ": {
+      "termA": {
+        "name": "Soin"
+      },
+      "termB": {
+        "name": "infirmier"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Enquête DU journaliste ": {
+      "termA": {
+        "name": "Enquête"
+      },
+      "termB": {
+        "name": "journaliste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fabrication DU menuisier ": {
+      "termA": {
+        "name": "Fabrication"
+      },
+      "termB": {
+        "name": "menuisier"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gestion DU comptable ": {
+      "termA": {
+        "name": "Gestion"
+      },
+      "termB": {
+        "name": "comptable"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Exploration DU botaniste ": {
+      "termA": {
+        "name": "Exploration"
+      },
+      "termB": {
+        "name": "botaniste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écriture DU chroniqueur ": {
+      "termA": {
+        "name": "Écriture"
+      },
+      "termB": {
+        "name": "chroniqueur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Performance DU jongleur ": {
+      "termA": {
+        "name": "Performance"
+      },
+      "termB": {
+        "name": "jongleur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Recherche DU physicien ": {
+      "termA": {
+        "name": "Recherche"
+      },
+      "termB": {
+        "name": "physicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuisine DU pâtissier ": {
+      "termA": {
+        "name": "Cuisine"
+      },
+      "termB": {
+        "name": "pâtissier"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sculpture DE l'artisan ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "artisan"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Traduction DE l'interprète ": {
+      "termA": {
+        "name": "Traduction"
+      },
+      "termB": {
+        "name": "interprète"
+      },
+      "prep": "DE",
+      "relation_type": " r_processus_agent",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Conduite DU pilote automobile ": {
+      "termA": {
+        "name": "Conduite"
+      },
+      "termB": {
+        "name": "pilote"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Création DU joaillier ": {
+      "termA": {
+        "name": "Création"
+      },
+      "termB": {
+        "name": "joaillier"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enseignement DU tuteur ": {
+      "termA": {
+        "name": "Enseignement"
+      },
+      "termB": {
+        "name": "tuteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Analyse DU sociologue ": {
+      "termA": {
+        "name": "Analyse"
+      },
+      "termB": {
+        "name": "sociologue"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Construction DU charpentier ": {
+      "termA": {
+        "name": "Construction"
+      },
+      "termB": {
+        "name": "charpentier"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Composition DU parolier ": {
+      "termA": {
+        "name": "Composition"
+      },
+      "termB": {
+        "name": "parolier"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Navigation DU capitaine ": {
+      "termA": {
+        "name": "Navigation"
+      },
+      "termB": {
+        "name": "capitaine"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Peinture DU muraliste ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "muraliste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Entraînement DU dresseur ": {
+      "termA": {
+        "name": "Entraînement"
+      },
+      "termB": {
+        "name": "dresseur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Organisation DU coordinateur ": {
+      "termA": {
+        "name": "Organisation"
+      },
+      "termB": {
+        "name": "coordinateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Illustration DU caricaturiste ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "caricaturiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Interprétation DU musicien ": {
+      "termA": {
+        "name": "Interprétation"
+      },
+      "termB": {
+        "name": "musicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Recherche DU archéologue ": {
+      "termA": {
+        "name": "Recherche"
+      },
+      "termB": {
+        "name": "archéologue"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Soin DU vétérinaire ": {
+      "termA": {
+        "name": "Soin"
+      },
+      "termB": {
+        "name": "vétérinaire"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conseil DU conseiller ": {
+      "termA": {
+        "name": "Conseil"
+      },
+      "termB": {
+        "name": "conseiller"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fabrication DU potier ": {
+      "termA": {
+        "name": "Fabrication"
+      },
+      "termB": {
+        "name": "potier"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conception DU architecte ": {
+      "termA": {
+        "name": "Conception"
+      },
+      "termB": {
+        "name": "architecte"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Présentation DU animateur ": {
+      "termA": {
+        "name": "Présentation"
+      },
+      "termB": {
+        "name": "animateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Danse DU chorégraphe ": {
+      "termA": {
+        "name": "Danse"
+      },
+      "termB": {
+        "name": "chorégraphe"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écriture DU dramaturge ": {
+      "termA": {
+        "name": "Écriture"
+      },
+      "termB": {
+        "name": "dramaturge"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Décoration DU fleuriste ": {
+      "termA": {
+        "name": "Décoration"
+      },
+      "termB": {
+        "name": "fleuriste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Exploration DU explorateur ": {
+      "termA": {
+        "name": "Exploration"
+      },
+      "termB": {
+        "name": "explorateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enquête DU policier ": {
+      "termA": {
+        "name": "Enquête"
+      },
+      "termB": {
+        "name": "policier"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chant DU soliste ": {
+      "termA": {
+        "name": "Chant"
+      },
+      "termB": {
+        "name": "soliste"
+      },
+      "prep": "DU",
+      "relation_type": " r_processus_agent",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

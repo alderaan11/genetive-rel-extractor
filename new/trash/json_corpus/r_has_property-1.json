@@ -1,0 +1,1205 @@
+{
+  "original_file": "../data/txt_sample/r_has_property-1.txt",
+  "data": {
+    "Fatigue DE l'effort ": {
+      "termA": {
+        "name": "Fatigue"
+      },
+      "termB": {
+        "name": "effort"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Rougeur DU visage ": {
+      "termA": {
+        "name": "Rougeur"
+      },
+      "termB": {
+        "name": "visage"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Douceur DE la peau ": {
+      "termA": {
+        "name": "Douceur"
+      },
+      "termB": {
+        "name": "peau"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Chaleur DU soleil ": {
+      "termA": {
+        "name": "Chaleur"
+      },
+      "termB": {
+        "name": "soleil"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fraîcheur DE l'eau ": {
+      "termA": {
+        "name": "Fraîcheur"
+      },
+      "termB": {
+        "name": "eau"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Dureté DE la pierre ": {
+      "termA": {
+        "name": "Dureté"
+      },
+      "termB": {
+        "name": "pierre"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Clarté DU ciel ": {
+      "termA": {
+        "name": "Clarté"
+      },
+      "termB": {
+        "name": "ciel"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lourdeur DU sac ": {
+      "termA": {
+        "name": "Lourdeur"
+      },
+      "termB": {
+        "name": "sac"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brillance DE l'étoile ": {
+      "termA": {
+        "name": "Brillance"
+      },
+      "termB": {
+        "name": "étoile"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Rugosité DU bois ": {
+      "termA": {
+        "name": "Rugosité"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éclat DU diamant ": {
+      "termA": {
+        "name": "Éclat"
+      },
+      "termB": {
+        "name": "diamant"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Froid DE la glace ": {
+      "termA": {
+        "name": "Froid"
+      },
+      "termB": {
+        "name": "glace"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Légèreté DE la plume ": {
+      "termA": {
+        "name": "Légèreté"
+      },
+      "termB": {
+        "name": "plume"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Densité DU brouillard ": {
+      "termA": {
+        "name": "Densité"
+      },
+      "termB": {
+        "name": "brouillard"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parfum DE la fleur ": {
+      "termA": {
+        "name": "Parfum"
+      },
+      "termB": {
+        "name": "fleur"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Rigidité DU métal ": {
+      "termA": {
+        "name": "Rigidité"
+      },
+      "termB": {
+        "name": "métal"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Douceur DU velours ": {
+      "termA": {
+        "name": "Douceur"
+      },
+      "termB": {
+        "name": "velours"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épaisseur DU mur ": {
+      "termA": {
+        "name": "Épaisseur"
+      },
+      "termB": {
+        "name": "mur"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Transparence DU verre ": {
+      "termA": {
+        "name": "Transparence"
+      },
+      "termB": {
+        "name": "verre"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Acidité DU citron ": {
+      "termA": {
+        "name": "Acidité"
+      },
+      "termB": {
+        "name": "citron"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaleur DE la flamme ": {
+      "termA": {
+        "name": "Chaleur"
+      },
+      "termB": {
+        "name": "flamme"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Fluidité DE l'eau ": {
+      "termA": {
+        "name": "Fluidité"
+      },
+      "termB": {
+        "name": "eau"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Solidité DU roc ": {
+      "termA": {
+        "name": "Solidité"
+      },
+      "termB": {
+        "name": "roc"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éclat DU soleil ": {
+      "termA": {
+        "name": "Éclat"
+      },
+      "termB": {
+        "name": "soleil"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fragilité DE la porcelaine ": {
+      "termA": {
+        "name": "Fragilité"
+      },
+      "termB": {
+        "name": "porcelaine"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Suavité DU miel ": {
+      "termA": {
+        "name": "Suavité"
+      },
+      "termB": {
+        "name": "miel"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Amertume DU café ": {
+      "termA": {
+        "name": "Amertume"
+      },
+      "termB": {
+        "name": "café"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épaisseur DE la forêt ": {
+      "termA": {
+        "name": "Épaisseur"
+      },
+      "termB": {
+        "name": "forêt"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Clarté DE l'eau ": {
+      "termA": {
+        "name": "Clarté"
+      },
+      "termB": {
+        "name": "eau"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Poids DU rocher ": {
+      "termA": {
+        "name": "Poids"
+      },
+      "termB": {
+        "name": "rocher"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Douceur DE la brise ": {
+      "termA": {
+        "name": "Douceur"
+      },
+      "termB": {
+        "name": "brise"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Dureté DU diamant ": {
+      "termA": {
+        "name": "Dureté"
+      },
+      "termB": {
+        "name": "diamant"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fraîcheur DU vent ": {
+      "termA": {
+        "name": "Fraîcheur"
+      },
+      "termB": {
+        "name": "vent"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éclat DE la lune ": {
+      "termA": {
+        "name": "Éclat"
+      },
+      "termB": {
+        "name": "lune"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Rugosité DE l'écorce ": {
+      "termA": {
+        "name": "Rugosité"
+      },
+      "termB": {
+        "name": "écorce"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Chaleur DU désert ": {
+      "termA": {
+        "name": "Chaleur"
+      },
+      "termB": {
+        "name": "désert"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Transparence DE l'air ": {
+      "termA": {
+        "name": "Transparence"
+      },
+      "termB": {
+        "name": "air"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Parfum DU jasmin ": {
+      "termA": {
+        "name": "Parfum"
+      },
+      "termB": {
+        "name": "jasmin"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rigidité DE la planche ": {
+      "termA": {
+        "name": "Rigidité"
+      },
+      "termB": {
+        "name": "planche"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Légereté DU nuage ": {
+      "termA": {
+        "name": "Légereté"
+      },
+      "termB": {
+        "name": "nuage"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Densité DE la foule ": {
+      "termA": {
+        "name": "Densité"
+      },
+      "termB": {
+        "name": "foule"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Acidité DU vinaigre ": {
+      "termA": {
+        "name": "Acidité"
+      },
+      "termB": {
+        "name": "vinaigre"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brillance DU métal ": {
+      "termA": {
+        "name": "Brillance"
+      },
+      "termB": {
+        "name": "métal"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Froid DE la neige ": {
+      "termA": {
+        "name": "Froid"
+      },
+      "termB": {
+        "name": "neige"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Fluidité DU ruisseau ": {
+      "termA": {
+        "name": "Fluidité"
+      },
+      "termB": {
+        "name": "ruisseau"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Solidité DU béton ": {
+      "termA": {
+        "name": "Solidité"
+      },
+      "termB": {
+        "name": "béton"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éclat DES étoiles ": {
+      "termA": {
+        "name": "Éclat"
+      },
+      "termB": {
+        "name": "étoiles"
+      },
+      "prep": "DES",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fragilité DU verre ": {
+      "termA": {
+        "name": "Fragilité"
+      },
+      "termB": {
+        "name": "verre"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Suavité DU parfum ": {
+      "termA": {
+        "name": "Suavité"
+      },
+      "termB": {
+        "name": "parfum"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Amertume DE l'orange ": {
+      "termA": {
+        "name": "Amertume"
+      },
+      "termB": {
+        "name": "orange"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Épaisseur DU tapis ": {
+      "termA": {
+        "name": "Épaisseur"
+      },
+      "termB": {
+        "name": "tapis"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clarté DU cristal ": {
+      "termA": {
+        "name": "Clarté"
+      },
+      "termB": {
+        "name": "cristal"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poids DU plomb ": {
+      "termA": {
+        "name": "Poids"
+      },
+      "termB": {
+        "name": "plomb"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Douceur DE la soie ": {
+      "termA": {
+        "name": "Douceur"
+      },
+      "termB": {
+        "name": "soie"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Dureté DE l'acier ": {
+      "termA": {
+        "name": "Dureté"
+      },
+      "termB": {
+        "name": "acier"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Fraîcheur DE la menthe ": {
+      "termA": {
+        "name": "Fraîcheur"
+      },
+      "termB": {
+        "name": "menthe"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Éclat DU miroir ": {
+      "termA": {
+        "name": "Éclat"
+      },
+      "termB": {
+        "name": "miroir"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rugosité DU sable ": {
+      "termA": {
+        "name": "Rugosité"
+      },
+      "termB": {
+        "name": "sable"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaleur DU radiateur ": {
+      "termA": {
+        "name": "Chaleur"
+      },
+      "termB": {
+        "name": "radiateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Transparence DE la vitre ": {
+      "termA": {
+        "name": "Transparence"
+      },
+      "termB": {
+        "name": "vitre"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Parfum DE la lavande ": {
+      "termA": {
+        "name": "Parfum"
+      },
+      "termB": {
+        "name": "lavande"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Rigidité DU plastique ": {
+      "termA": {
+        "name": "Rigidité"
+      },
+      "termB": {
+        "name": "plastique"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Légereté DE l'air ": {
+      "termA": {
+        "name": "Légereté"
+      },
+      "termB": {
+        "name": "air"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Densité DU bois ": {
+      "termA": {
+        "name": "Densité"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Acidité DE la pomme ": {
+      "termA": {
+        "name": "Acidité"
+      },
+      "termB": {
+        "name": "pomme"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Brillance DE l'or ": {
+      "termA": {
+        "name": "Brillance"
+      },
+      "termB": {
+        "name": "or"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Froid DU métal ": {
+      "termA": {
+        "name": "Froid"
+      },
+      "termB": {
+        "name": "métal"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fluidité DU sirop ": {
+      "termA": {
+        "name": "Fluidité"
+      },
+      "termB": {
+        "name": "sirop"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Solidité DE la brique ": {
+      "termA": {
+        "name": "Solidité"
+      },
+      "termB": {
+        "name": "brique"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Éclat DU chrome ": {
+      "termA": {
+        "name": "Éclat"
+      },
+      "termB": {
+        "name": "chrome"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fragilité DE la feuille ": {
+      "termA": {
+        "name": "Fragilité"
+      },
+      "termB": {
+        "name": "feuille"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Suavité DU lait ": {
+      "termA": {
+        "name": "Suavité"
+      },
+      "termB": {
+        "name": "lait"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Amertume DU thé ": {
+      "termA": {
+        "name": "Amertume"
+      },
+      "termB": {
+        "name": "thé"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épaisseur DE la laine ": {
+      "termA": {
+        "name": "Épaisseur"
+      },
+      "termB": {
+        "name": "laine"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Clarté DE la source ": {
+      "termA": {
+        "name": "Clarté"
+      },
+      "termB": {
+        "name": "source"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Poids DE la pierre ": {
+      "termA": {
+        "name": "Poids"
+      },
+      "termB": {
+        "name": "pierre"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Douceur DU coton ": {
+      "termA": {
+        "name": "Douceur"
+      },
+      "termB": {
+        "name": "coton"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Dureté DU granit ": {
+      "termA": {
+        "name": "Dureté"
+      },
+      "termB": {
+        "name": "granit"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fraîcheur DE l'ombre ": {
+      "termA": {
+        "name": "Fraîcheur"
+      },
+      "termB": {
+        "name": "ombre"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Éclat DU joyau ": {
+      "termA": {
+        "name": "Éclat"
+      },
+      "termB": {
+        "name": "joyau"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rugosité DE la toile ": {
+      "termA": {
+        "name": "Rugosité"
+      },
+      "termB": {
+        "name": "toile"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Chaleur DE l'été ": {
+      "termA": {
+        "name": "Chaleur"
+      },
+      "termB": {
+        "name": "été"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Transparence DU film ": {
+      "termA": {
+        "name": "Transparence"
+      },
+      "termB": {
+        "name": "film"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parfum DE l'orange ": {
+      "termA": {
+        "name": "Parfum"
+      },
+      "termB": {
+        "name": "orange"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Rigidité DU fer ": {
+      "termA": {
+        "name": "Rigidité"
+      },
+      "termB": {
+        "name": "fer"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Légereté DE la mousse ": {
+      "termA": {
+        "name": "Légereté"
+      },
+      "termB": {
+        "name": "mousse"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Densité DE la fumée ": {
+      "termA": {
+        "name": "Densité"
+      },
+      "termB": {
+        "name": "fumée"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Acidité DU yaourt ": {
+      "termA": {
+        "name": "Acidité"
+      },
+      "termB": {
+        "name": "yaourt"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brillance DU cuivre ": {
+      "termA": {
+        "name": "Brillance"
+      },
+      "termB": {
+        "name": "cuivre"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Froid DE l'hiver ": {
+      "termA": {
+        "name": "Froid"
+      },
+      "termB": {
+        "name": "hiver"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Fluidité DE l'huile ": {
+      "termA": {
+        "name": "Fluidité"
+      },
+      "termB": {
+        "name": "huile"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Solidité DU chêne ": {
+      "termA": {
+        "name": "Solidité"
+      },
+      "termB": {
+        "name": "chêne"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éclat DU quartz ": {
+      "termA": {
+        "name": "Éclat"
+      },
+      "termB": {
+        "name": "quartz"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fragilité DU cristal ": {
+      "termA": {
+        "name": "Fragilité"
+      },
+      "termB": {
+        "name": "cristal"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Suavité DU nectar ": {
+      "termA": {
+        "name": "Suavité"
+      },
+      "termB": {
+        "name": "nectar"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Amertume DE l'olive ": {
+      "termA": {
+        "name": "Amertume"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Épaisseur DU brouillard ": {
+      "termA": {
+        "name": "Épaisseur"
+      },
+      "termB": {
+        "name": "brouillard"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clarté DU diamant ": {
+      "termA": {
+        "name": "Clarté"
+      },
+      "termB": {
+        "name": "diamant"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poids DU marbre ": {
+      "termA": {
+        "name": "Poids"
+      },
+      "termB": {
+        "name": "marbre"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_property-1",
+      "is_det": false,
+      "determinant": null
+    },
+    "Douceur DE la laine ": {
+      "termA": {
+        "name": "Douceur"
+      },
+      "termB": {
+        "name": "laine"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_property-1",
+      "is_det": true,
+      "determinant": "LA"
+    }
+  }
+}

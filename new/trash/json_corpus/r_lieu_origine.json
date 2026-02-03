@@ -1,0 +1,1205 @@
+{
+  "original_file": "../data/txt_sample/r_lieu_origine.txt",
+  "data": {
+    "Vin DE France ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "France"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café DU Brésil ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Brésil"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage DE Suisse ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Suisse"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé DE Chine ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Chine"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière D'Allemagne ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "Allemagne"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz DU Japon ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Japon"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive D'Italie ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao DE Côte d'Ivoire ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Côte"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes DU Costa Rica ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Costa"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges D'Espagne ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Espagne"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin DU Chili ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "Chili"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé DU Sri Lanka ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Sri"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café DE Colombie ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Colombie"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage DU Royaume-Uni ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Royaume"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière DE Belgique ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "Belgique"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz DE Thaïlande ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Thaïlande"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive DE Grèce ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao DU Ghana ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Ghana"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes D'Équateur ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Équateur"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges DU Maroc ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Maroc"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin D'Australie ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "Australie"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé D'Inde ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Inde"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café DU Vietnam ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Vietnam"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage DE Hollande ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Hollande"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière DU Mexique ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "Mexique"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz DU Vietnam ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Vietnam"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive D'Espagne ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao D'Indonésie ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Indonésie"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes DES Philippines ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Philippines"
+      },
+      "prep": "DES",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges DE Floride ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Floride"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin DE Californie ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "Californie"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé DU Kenya ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Kenya"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café D'Éthiopie ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Éthiopie"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage D'Italie ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Italie"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière D'Irlande ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "Irlande"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz D'Inde ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Inde"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive DE Tunisie ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao DU Cameroun ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Cameroun"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes DU Guatemala ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Guatemala"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges D'Afrique du Sud ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Afrique"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin D'Argentine ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "Argentine"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé D'Argentine ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Argentine"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café DU Guatemala ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Guatemala"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage DE Grèce ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Grèce"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière DE République Tchèque ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "République"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz DE Chine ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Chine"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive DU Portugal ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao DE Pérou ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Pérou"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes D'Inde ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Inde"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges DU Brésil ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Brésil"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin DU Portugal ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "Portugal"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé DE Turquie ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Turquie"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café DU Honduras ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Honduras"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage DU Danemark ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Danemark"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière DU Canada ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "Canada"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz DU Pakistan ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Pakistan"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive DE Turquie ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao DU Nigeria ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Nigeria"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes DU Mexique ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Mexique"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges D'Israël ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Israël"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin DE Nouvelle-Zélande ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "Nouvelle"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé DU Malawi ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Malawi"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café DU Kenya ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Kenya"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage DE Norvège ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Norvège"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière D'Angleterre ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "Angleterre"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz DU Bangladesh ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Bangladesh"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive D'Australie ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao DE Madagascar ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Madagascar"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes DU Panama ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Panama"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges DE Californie ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Californie"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin D'Afrique du Sud ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "Afrique"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé D'Iran ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Iran"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café DU Pérou ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Pérou"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage DE Suède ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Suède"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière DU Japon ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "Japon"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz D'Égypte ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Égypte"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive DE Syrie ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao DU Brésil ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Brésil"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes D'Honduras ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Honduras"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges DU Mexique ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Mexique"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin DU Liban ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "Liban"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé DU Népal ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Népal"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café D'Indonésie ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Indonésie"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage D'Espagne ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Espagne"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière DE Pologne ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "Pologne"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz DU Cambodge ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Cambodge"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive DU Liban ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao D'Équateur ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Équateur"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes DU Brésil ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Brésil"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges D'Australie ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Australie"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin DE Hongrie ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "Hongrie"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Thé DU Rwanda ": {
+      "termA": {
+        "name": "Thé"
+      },
+      "termB": {
+        "name": "Rwanda"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Café DU Nicaragua ": {
+      "termA": {
+        "name": "Café"
+      },
+      "termB": {
+        "name": "Nicaragua"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fromage DE Finlande ": {
+      "termA": {
+        "name": "Fromage"
+      },
+      "termB": {
+        "name": "Finlande"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bière DE Russie ": {
+      "termA": {
+        "name": "Bière"
+      },
+      "termB": {
+        "name": "Russie"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Riz DU Myanmar ": {
+      "termA": {
+        "name": "Riz"
+      },
+      "termB": {
+        "name": "Myanmar"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Huile D'olive D'Argentine ": {
+      "termA": {
+        "name": "Huile"
+      },
+      "termB": {
+        "name": "olive"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cacao DU Venezuela ": {
+      "termA": {
+        "name": "Cacao"
+      },
+      "termB": {
+        "name": "Venezuela"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bananes DU Nicaragua ": {
+      "termA": {
+        "name": "Bananes"
+      },
+      "termB": {
+        "name": "Nicaragua"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oranges DE Turquie ": {
+      "termA": {
+        "name": "Oranges"
+      },
+      "termB": {
+        "name": "Turquie"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu>origine",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

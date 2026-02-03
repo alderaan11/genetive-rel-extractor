@@ -1,0 +1,1157 @@
+{
+  "original_file": "../data/txt_sample/r_has_causatif.txt",
+  "data": {
+    "Épuisé DE stress ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "stress"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Trempé DE pluie ": {
+      "termA": {
+        "name": "Trempé"
+      },
+      "termB": {
+        "name": "pluie"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Malade DE froid ": {
+      "termA": {
+        "name": "Malade"
+      },
+      "termB": {
+        "name": "froid"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Étourdi DE chaleur ": {
+      "termA": {
+        "name": "Étourdi"
+      },
+      "termB": {
+        "name": "chaleur"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Affaibli DE faim ": {
+      "termA": {
+        "name": "Affaibli"
+      },
+      "termB": {
+        "name": "faim"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Blessé DE chute ": {
+      "termA": {
+        "name": "Blessé"
+      },
+      "termB": {
+        "name": "chute"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enroué DE cris ": {
+      "termA": {
+        "name": "Enroué"
+      },
+      "termB": {
+        "name": "cris"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Aveuglé DE lumière ": {
+      "termA": {
+        "name": "Aveuglé"
+      },
+      "termB": {
+        "name": "lumière"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DE travail ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "travail"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gelé DE vent ": {
+      "termA": {
+        "name": "Gelé"
+      },
+      "termB": {
+        "name": "vent"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DU surmenage ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "surmenage"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couvert DE boue ": {
+      "termA": {
+        "name": "Couvert"
+      },
+      "termB": {
+        "name": "boue"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ébloui DU soleil ": {
+      "termA": {
+        "name": "Ébloui"
+      },
+      "termB": {
+        "name": "soleil"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éreinté DE fatigue ": {
+      "termA": {
+        "name": "Éreinté"
+      },
+      "termB": {
+        "name": "fatigue"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tremblant D'émotion ": {
+      "termA": {
+        "name": "Tremblant"
+      },
+      "termB": {
+        "name": "émotion"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écorché DE ronces ": {
+      "termA": {
+        "name": "Écorché"
+      },
+      "termB": {
+        "name": "ronces"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé D'efforts ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "efforts"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Glacé DE peur ": {
+      "termA": {
+        "name": "Glacé"
+      },
+      "termB": {
+        "name": "peur"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brûlé DU feu ": {
+      "termA": {
+        "name": "Brûlé"
+      },
+      "termB": {
+        "name": "feu"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Émerveillé DE beauté ": {
+      "termA": {
+        "name": "Émerveillé"
+      },
+      "termB": {
+        "name": "beauté"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Souillé DE peinture ": {
+      "termA": {
+        "name": "Souillé"
+      },
+      "termB": {
+        "name": "peinture"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Étourdi D'altitude ": {
+      "termA": {
+        "name": "Étourdi"
+      },
+      "termB": {
+        "name": "altitude"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Étouffé DE fumée ": {
+      "termA": {
+        "name": "Étouffé"
+      },
+      "termB": {
+        "name": "fumée"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Affamé DE privation ": {
+      "termA": {
+        "name": "Affamé"
+      },
+      "termB": {
+        "name": "privation"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DE course ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "course"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enroué DU chant ": {
+      "termA": {
+        "name": "Enroué"
+      },
+      "termB": {
+        "name": "chant"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ébloui D'éclat ": {
+      "termA": {
+        "name": "Ébloui"
+      },
+      "termB": {
+        "name": "éclat"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Trempé D'eau ": {
+      "termA": {
+        "name": "Trempé"
+      },
+      "termB": {
+        "name": "eau"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gelé DU froid ": {
+      "termA": {
+        "name": "Gelé"
+      },
+      "termB": {
+        "name": "froid"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DE chaleur ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "chaleur"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Blessé D'accident ": {
+      "termA": {
+        "name": "Blessé"
+      },
+      "termB": {
+        "name": "accident"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ému DE joie ": {
+      "termA": {
+        "name": "Ému"
+      },
+      "termB": {
+        "name": "joie"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DU voyage ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "voyage"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Criblé DE dettes ": {
+      "termA": {
+        "name": "Criblé"
+      },
+      "termB": {
+        "name": "dettes"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éreinté DE labeur ": {
+      "termA": {
+        "name": "Éreinté"
+      },
+      "termB": {
+        "name": "labeur"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Aveuglé DU flash ": {
+      "termA": {
+        "name": "Aveuglé"
+      },
+      "termB": {
+        "name": "flash"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tremblant DE froid ": {
+      "termA": {
+        "name": "Tremblant"
+      },
+      "termB": {
+        "name": "froid"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé D'insomnie ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "insomnie"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Étourdi DE vertige ": {
+      "termA": {
+        "name": "Étourdi"
+      },
+      "termB": {
+        "name": "vertige"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écorché DU frottement ": {
+      "termA": {
+        "name": "Écorché"
+      },
+      "termB": {
+        "name": "frottement"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Malade DE fièvre ": {
+      "termA": {
+        "name": "Malade"
+      },
+      "termB": {
+        "name": "fièvre"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DE jeûne ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "jeûne"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Glacé D'effroi ": {
+      "termA": {
+        "name": "Glacé"
+      },
+      "termB": {
+        "name": "effroi"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Souillé D'huile ": {
+      "termA": {
+        "name": "Souillé"
+      },
+      "termB": {
+        "name": "huile"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ébloui DE splendeur ": {
+      "termA": {
+        "name": "Ébloui"
+      },
+      "termB": {
+        "name": "splendeur"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DU combat ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "combat"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Trempé DE sueur ": {
+      "termA": {
+        "name": "Trempé"
+      },
+      "termB": {
+        "name": "sueur"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gelé DE glace ": {
+      "termA": {
+        "name": "Gelé"
+      },
+      "termB": {
+        "name": "glace"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éreinté DE marche ": {
+      "termA": {
+        "name": "Éreinté"
+      },
+      "termB": {
+        "name": "marche"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Blessé DE coup ": {
+      "termA": {
+        "name": "Blessé"
+      },
+      "termB": {
+        "name": "coup"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ému D'émotion ": {
+      "termA": {
+        "name": "Ému"
+      },
+      "termB": {
+        "name": "émotion"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DE tension ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "tension"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couvert DE poussière ": {
+      "termA": {
+        "name": "Couvert"
+      },
+      "termB": {
+        "name": "poussière"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ébloui DU projecteur ": {
+      "termA": {
+        "name": "Ébloui"
+      },
+      "termB": {
+        "name": "projecteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tremblant DE colère ": {
+      "termA": {
+        "name": "Tremblant"
+      },
+      "termB": {
+        "name": "colère"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écorché DE griffures ": {
+      "termA": {
+        "name": "Écorché"
+      },
+      "termB": {
+        "name": "griffures"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Malade D'angoisse ": {
+      "termA": {
+        "name": "Malade"
+      },
+      "termB": {
+        "name": "angoisse"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DU marathon ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "marathon"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Glacé DE terreur ": {
+      "termA": {
+        "name": "Glacé"
+      },
+      "termB": {
+        "name": "terreur"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Souillé DE graisse ": {
+      "termA": {
+        "name": "Souillé"
+      },
+      "termB": {
+        "name": "graisse"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ébloui DE couleurs ": {
+      "termA": {
+        "name": "Ébloui"
+      },
+      "termB": {
+        "name": "couleurs"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DE douleur ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "douleur"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Trempé D'averse ": {
+      "termA": {
+        "name": "Trempé"
+      },
+      "termB": {
+        "name": "averse"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gelé D'hiver ": {
+      "termA": {
+        "name": "Gelé"
+      },
+      "termB": {
+        "name": "hiver"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éreinté DE sport ": {
+      "termA": {
+        "name": "Éreinté"
+      },
+      "termB": {
+        "name": "sport"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Blessé D'éraflure ": {
+      "termA": {
+        "name": "Blessé"
+      },
+      "termB": {
+        "name": "éraflure"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ému DE tristesse ": {
+      "termA": {
+        "name": "Ému"
+      },
+      "termB": {
+        "name": "tristesse"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DU stress ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "stress"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couvert DE sable ": {
+      "termA": {
+        "name": "Couvert"
+      },
+      "termB": {
+        "name": "sable"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ébloui D'étincelles ": {
+      "termA": {
+        "name": "Ébloui"
+      },
+      "termB": {
+        "name": "étincelles"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tremblant D'excitation ": {
+      "termA": {
+        "name": "Tremblant"
+      },
+      "termB": {
+        "name": "excitation"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écorché DE pierres ": {
+      "termA": {
+        "name": "Écorché"
+      },
+      "termB": {
+        "name": "pierres"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Malade DE surmenage ": {
+      "termA": {
+        "name": "Malade"
+      },
+      "termB": {
+        "name": "surmenage"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé D'attente ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "attente"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Glacé DE frissons ": {
+      "termA": {
+        "name": "Glacé"
+      },
+      "termB": {
+        "name": "frissons"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Souillé DE terre ": {
+      "termA": {
+        "name": "Souillé"
+      },
+      "termB": {
+        "name": "terre"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ébloui DE reflets ": {
+      "termA": {
+        "name": "Ébloui"
+      },
+      "termB": {
+        "name": "reflets"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DE cris ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "cris"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Trempé DE vagues ": {
+      "termA": {
+        "name": "Trempé"
+      },
+      "termB": {
+        "name": "vagues"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gelé DE neige ": {
+      "termA": {
+        "name": "Gelé"
+      },
+      "termB": {
+        "name": "neige"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Éreinté D'effort ": {
+      "termA": {
+        "name": "Éreinté"
+      },
+      "termB": {
+        "name": "effort"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Blessé DE brûlure ": {
+      "termA": {
+        "name": "Blessé"
+      },
+      "termB": {
+        "name": "brûlure"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ému DE nostalgie ": {
+      "termA": {
+        "name": "Ému"
+      },
+      "termB": {
+        "name": "nostalgie"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couvert DE suie ": {
+      "termA": {
+        "name": "Couvert"
+      },
+      "termB": {
+        "name": "suie"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ébloui DU néon ": {
+      "termA": {
+        "name": "Ébloui"
+      },
+      "termB": {
+        "name": "néon"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tremblant DE fièvre ": {
+      "termA": {
+        "name": "Tremblant"
+      },
+      "termB": {
+        "name": "fièvre"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écorché DE branches ": {
+      "termA": {
+        "name": "Écorché"
+      },
+      "termB": {
+        "name": "branches"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Malade D'épuisement ": {
+      "termA": {
+        "name": "Malade"
+      },
+      "termB": {
+        "name": "épuisement"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DU labeur ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "labeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Glacé DE solitude ": {
+      "termA": {
+        "name": "Glacé"
+      },
+      "termB": {
+        "name": "solitude"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Souillé DE cendres ": {
+      "termA": {
+        "name": "Souillé"
+      },
+      "termB": {
+        "name": "cendres"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ébloui DE clarté ": {
+      "termA": {
+        "name": "Ébloui"
+      },
+      "termB": {
+        "name": "clarté"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatifù",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épuisé DE danse ": {
+      "termA": {
+        "name": "Épuisé"
+      },
+      "termB": {
+        "name": "danse"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Trempé DE rosée ": {
+      "termA": {
+        "name": "Trempé"
+      },
+      "termB": {
+        "name": "rosée"
+      },
+      "prep": "DE",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gelé D'humidité ": {
+      "termA": {
+        "name": "Gelé"
+      },
+      "termB": {
+        "name": "humidité"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    },
+    "Blessé D'impact ": {
+      "termA": {
+        "name": "Blessé"
+      },
+      "termB": {
+        "name": "impact"
+      },
+      "prep": "D'",
+      "relation_type": " r_has_causatif",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

@@ -1,0 +1,1181 @@
+{
+  "original_file": "../data/txt_sample/r_product_of.txt",
+  "data": {
+    "Portrait DE Van Gogh ": {
+      "termA": {
+        "name": "Portrait"
+      },
+      "termB": {
+        "name": "Van"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gâteau DU pâtissier ": {
+      "termA": {
+        "name": "Gâteau"
+      },
+      "termB": {
+        "name": "pâtissier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Livre DE l'écrivain ": {
+      "termA": {
+        "name": "Livre"
+      },
+      "termB": {
+        "name": "écrivain"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Chanson DU compositeur ": {
+      "termA": {
+        "name": "Chanson"
+      },
+      "termB": {
+        "name": "compositeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sculpture DE l'artiste ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "artiste"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Film DU cinéaste ": {
+      "termA": {
+        "name": "Film"
+      },
+      "termB": {
+        "name": "cinéaste"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Robe DE la couturière ": {
+      "termA": {
+        "name": "Robe"
+      },
+      "termB": {
+        "name": "couturière"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Table DU menuisier ": {
+      "termA": {
+        "name": "Table"
+      },
+      "termB": {
+        "name": "menuisier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bijou DU joaillier ": {
+      "termA": {
+        "name": "Bijou"
+      },
+      "termB": {
+        "name": "joaillier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poème DU poète ": {
+      "termA": {
+        "name": "Poème"
+      },
+      "termB": {
+        "name": "poète"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Peinture DE Picasso ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "Picasso"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pain DU boulanger ": {
+      "termA": {
+        "name": "Pain"
+      },
+      "termB": {
+        "name": "boulanger"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Logiciel DU programmeur ": {
+      "termA": {
+        "name": "Logiciel"
+      },
+      "termB": {
+        "name": "programmeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Céramique DU potier ": {
+      "termA": {
+        "name": "Céramique"
+      },
+      "termB": {
+        "name": "potier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Meuble DU ébéniste ": {
+      "termA": {
+        "name": "Meuble"
+      },
+      "termB": {
+        "name": "ébéniste"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Symphonie DU musicien ": {
+      "termA": {
+        "name": "Symphonie"
+      },
+      "termB": {
+        "name": "musicien"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Roman DE l'auteur ": {
+      "termA": {
+        "name": "Roman"
+      },
+      "termB": {
+        "name": "auteur"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Dessin DU graphiste ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "graphiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parfum DU parfumeur ": {
+      "termA": {
+        "name": "Parfum"
+      },
+      "termB": {
+        "name": "parfumeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vêtement DU styliste ": {
+      "termA": {
+        "name": "Vêtement"
+      },
+      "termB": {
+        "name": "styliste"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Statue DU sculpteur ": {
+      "termA": {
+        "name": "Statue"
+      },
+      "termB": {
+        "name": "sculpteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Application DU développeur ": {
+      "termA": {
+        "name": "Application"
+      },
+      "termB": {
+        "name": "développeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tissu DE la tisserande ": {
+      "termA": {
+        "name": "Tissu"
+      },
+      "termB": {
+        "name": "tisserande"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Recette DU chef ": {
+      "termA": {
+        "name": "Recette"
+      },
+      "termB": {
+        "name": "chef"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tableau DE Monet ": {
+      "termA": {
+        "name": "Tableau"
+      },
+      "termB": {
+        "name": "Monet"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaise DU designer ": {
+      "termA": {
+        "name": "Chaise"
+      },
+      "termB": {
+        "name": "designer"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Film DU réalisateur ": {
+      "termA": {
+        "name": "Film"
+      },
+      "termB": {
+        "name": "réalisateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Broderie DE l'artisan ": {
+      "termA": {
+        "name": "Broderie"
+      },
+      "termB": {
+        "name": "artisan"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Vin DU vigneron ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "vigneron"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chanson DE l'auteur-compositeur ": {
+      "termA": {
+        "name": "Chanson"
+      },
+      "termB": {
+        "name": "auteur"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Bague DU bijoutier ": {
+      "termA": {
+        "name": "Bague"
+      },
+      "termB": {
+        "name": "bijoutier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gâteau DE la pâtissière ": {
+      "termA": {
+        "name": "Gâteau"
+      },
+      "termB": {
+        "name": "pâtissière"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Poème DE Baudelaire ": {
+      "termA": {
+        "name": "Poème"
+      },
+      "termB": {
+        "name": "Baudelaire"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Meuble DU charpentier ": {
+      "termA": {
+        "name": "Meuble"
+      },
+      "termB": {
+        "name": "charpentier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Illustration DU dessinateur ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "dessinateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parfum DU créateur ": {
+      "termA": {
+        "name": "Parfum"
+      },
+      "termB": {
+        "name": "créateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Robe DU couturier ": {
+      "termA": {
+        "name": "Robe"
+      },
+      "termB": {
+        "name": "couturier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sculpture DE Rodin ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "Rodin"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Logiciel DE l'ingénieur ": {
+      "termA": {
+        "name": "Logiciel"
+      },
+      "termB": {
+        "name": "ingénieur"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Céramique DE l'artisan ": {
+      "termA": {
+        "name": "Céramique"
+      },
+      "termB": {
+        "name": "artisan"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Symphonie DE Beethoven ": {
+      "termA": {
+        "name": "Symphonie"
+      },
+      "termB": {
+        "name": "Beethoven"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Roman DU romancier ": {
+      "termA": {
+        "name": "Roman"
+      },
+      "termB": {
+        "name": "romancier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Dessin DU caricaturiste ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "caricaturiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin DU producteur ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "producteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tissu DU tisserand ": {
+      "termA": {
+        "name": "Tissu"
+      },
+      "termB": {
+        "name": "tisserand"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Recette DU cuisinier ": {
+      "termA": {
+        "name": "Recette"
+      },
+      "termB": {
+        "name": "cuisinier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Peinture DE Renoir ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "Renoir"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaise DU fabricant ": {
+      "termA": {
+        "name": "Chaise"
+      },
+      "termB": {
+        "name": "fabricant"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Film DU producteur ": {
+      "termA": {
+        "name": "Film"
+      },
+      "termB": {
+        "name": "producteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Broderie DE la brodeuse ": {
+      "termA": {
+        "name": "Broderie"
+      },
+      "termB": {
+        "name": "brodeuse"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Bague DE l'orfèvre ": {
+      "termA": {
+        "name": "Bague"
+      },
+      "termB": {
+        "name": "orfèvre"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Gâteau DU confiseur ": {
+      "termA": {
+        "name": "Gâteau"
+      },
+      "termB": {
+        "name": "confiseur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poème DU versificateur ": {
+      "termA": {
+        "name": "Poème"
+      },
+      "termB": {
+        "name": "versificateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Meuble DU menuisier ": {
+      "termA": {
+        "name": "Meuble"
+      },
+      "termB": {
+        "name": "menuisier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Illustration DE l'artiste ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "artiste"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Parfum DU chimiste ": {
+      "termA": {
+        "name": "Parfum"
+      },
+      "termB": {
+        "name": "chimiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vêtement DU tailleur ": {
+      "termA": {
+        "name": "Vêtement"
+      },
+      "termB": {
+        "name": "tailleur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Statue DE l'artisan ": {
+      "termA": {
+        "name": "Statue"
+      },
+      "termB": {
+        "name": "artisan"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Application DU codeur ": {
+      "termA": {
+        "name": "Application"
+      },
+      "termB": {
+        "name": "codeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tissu DE l'artisane ": {
+      "termA": {
+        "name": "Tissu"
+      },
+      "termB": {
+        "name": "artisane"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Recette DE la cuisinière ": {
+      "termA": {
+        "name": "Recette"
+      },
+      "termB": {
+        "name": "cuisinière"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Tableau DE Cézanne ": {
+      "termA": {
+        "name": "Tableau"
+      },
+      "termB": {
+        "name": "Cézanne"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaise DE l'artisan ": {
+      "termA": {
+        "name": "Chaise"
+      },
+      "termB": {
+        "name": "artisan"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Film DU metteur en scène ": {
+      "termA": {
+        "name": "Film"
+      },
+      "termB": {
+        "name": "metteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Broderie DU couturier ": {
+      "termA": {
+        "name": "Broderie"
+      },
+      "termB": {
+        "name": "couturier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin DU viticulteur ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "viticulteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chanson DU parolier ": {
+      "termA": {
+        "name": "Chanson"
+      },
+      "termB": {
+        "name": "parolier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bague DU créateur ": {
+      "termA": {
+        "name": "Bague"
+      },
+      "termB": {
+        "name": "créateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gâteau DU boulanger ": {
+      "termA": {
+        "name": "Gâteau"
+      },
+      "termB": {
+        "name": "boulanger"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poème DE Verlaine ": {
+      "termA": {
+        "name": "Poème"
+      },
+      "termB": {
+        "name": "Verlaine"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Meuble DU créateur ": {
+      "termA": {
+        "name": "Meuble"
+      },
+      "termB": {
+        "name": "créateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Illustration DU peintre ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "peintre"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parfum DU maître parfumeur ": {
+      "termA": {
+        "name": "Parfum"
+      },
+      "termB": {
+        "name": "maître"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Robe DE la modiste ": {
+      "termA": {
+        "name": "Robe"
+      },
+      "termB": {
+        "name": "modiste"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Sculpture DE Michel-Ange ": {
+      "termA": {
+        "name": "Sculpture"
+      },
+      "termB": {
+        "name": "Michel"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Logiciel DU concepteur ": {
+      "termA": {
+        "name": "Logiciel"
+      },
+      "termB": {
+        "name": "concepteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Céramique DU céramiste ": {
+      "termA": {
+        "name": "Céramique"
+      },
+      "termB": {
+        "name": "céramiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Symphonie DU compositeur ": {
+      "termA": {
+        "name": "Symphonie"
+      },
+      "termB": {
+        "name": "compositeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Roman DE l'écrivaine ": {
+      "termA": {
+        "name": "Roman"
+      },
+      "termB": {
+        "name": "écrivaine"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Dessin DU portraitiste ": {
+      "termA": {
+        "name": "Dessin"
+      },
+      "termB": {
+        "name": "portraitiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vin DE l'œnologue ": {
+      "termA": {
+        "name": "Vin"
+      },
+      "termB": {
+        "name": "œnologue"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Tissu DU fabricant ": {
+      "termA": {
+        "name": "Tissu"
+      },
+      "termB": {
+        "name": "fabricant"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Recette DU gastronome ": {
+      "termA": {
+        "name": "Recette"
+      },
+      "termB": {
+        "name": "gastronome"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Peinture DE Degas ": {
+      "termA": {
+        "name": "Peinture"
+      },
+      "termB": {
+        "name": "Degas"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chaise DU tapissier ": {
+      "termA": {
+        "name": "Chaise"
+      },
+      "termB": {
+        "name": "tapissier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Film DU scénariste ": {
+      "termA": {
+        "name": "Film"
+      },
+      "termB": {
+        "name": "scénariste"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Broderie DE l'ouvrière ": {
+      "termA": {
+        "name": "Broderie"
+      },
+      "termB": {
+        "name": "ouvrière"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Bague DU joaillier ": {
+      "termA": {
+        "name": "Bague"
+      },
+      "termB": {
+        "name": "joaillier"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gâteau DE l'artisan ": {
+      "termA": {
+        "name": "Gâteau"
+      },
+      "termB": {
+        "name": "artisan"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Poème DU littérateur ": {
+      "termA": {
+        "name": "Poème"
+      },
+      "termB": {
+        "name": "littérateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Meuble DU constructeur ": {
+      "termA": {
+        "name": "Meuble"
+      },
+      "termB": {
+        "name": "constructeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Illustration DU graveur ": {
+      "termA": {
+        "name": "Illustration"
+      },
+      "termB": {
+        "name": "graveur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parfum DU formulateur ": {
+      "termA": {
+        "name": "Parfum"
+      },
+      "termB": {
+        "name": "formulateur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vêtement DU confectionneur ": {
+      "termA": {
+        "name": "Vêtement"
+      },
+      "termB": {
+        "name": "confectionneur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Statue DU modeleur ": {
+      "termA": {
+        "name": "Statue"
+      },
+      "termB": {
+        "name": "modeleur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Application DU programmeur ": {
+      "termA": {
+        "name": "Application"
+      },
+      "termB": {
+        "name": "programmeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tissu DE la fileuse ": {
+      "termA": {
+        "name": "Tissu"
+      },
+      "termB": {
+        "name": "fileuse"
+      },
+      "prep": "DE",
+      "relation_type": " r_product_of",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Recette DU traiteur ": {
+      "termA": {
+        "name": "Recette"
+      },
+      "termB": {
+        "name": "traiteur"
+      },
+      "prep": "DU",
+      "relation_type": " r_product_of",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

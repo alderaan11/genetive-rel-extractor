@@ -1,0 +1,1193 @@
+{
+  "original_file": "../data/txt_sample/r_lieu.txt",
+  "data": {
+    "Tour DE Pise ": {
+      "termA": {
+        "name": "Tour"
+      },
+      "termB": {
+        "name": "Pise"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sahara D'Algérie ": {
+      "termA": {
+        "name": "Sahara"
+      },
+      "termB": {
+        "name": "Algérie"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pyramides D'Égypte ": {
+      "termA": {
+        "name": "Pyramides"
+      },
+      "termB": {
+        "name": "Égypte"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Muraille DE Chine ": {
+      "termA": {
+        "name": "Muraille"
+      },
+      "termB": {
+        "name": "Chine"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Carnaval DE Rio ": {
+      "termA": {
+        "name": "Carnaval"
+      },
+      "termB": {
+        "name": "Rio"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Canals D'Amsterdam ": {
+      "termA": {
+        "name": "Canals"
+      },
+      "termB": {
+        "name": "Amsterdam"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Temple D'Angkor ": {
+      "termA": {
+        "name": "Temple"
+      },
+      "termB": {
+        "name": "Angkor"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Colisée DE Rome ": {
+      "termA": {
+        "name": "Colisée"
+      },
+      "termB": {
+        "name": "Rome"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Taj Mahal D'Inde ": {
+      "termA": {
+        "name": "Taj"
+      },
+      "termB": {
+        "name": "Inde"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fjords DE Norvège ": {
+      "termA": {
+        "name": "Fjords"
+      },
+      "termB": {
+        "name": "Norvège"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Machu Picchu DU Pérou ": {
+      "termA": {
+        "name": "Machu"
+      },
+      "termB": {
+        "name": "Pérou"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Statue DE New York ": {
+      "termA": {
+        "name": "Statue"
+      },
+      "termB": {
+        "name": "New"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Opéra DE Sydney ": {
+      "termA": {
+        "name": "Opéra"
+      },
+      "termB": {
+        "name": "Sydney"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Montagne DU Kilimandjaro ": {
+      "termA": {
+        "name": "Montagne"
+      },
+      "termB": {
+        "name": "Kilimandjaro"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chutes DU Niagara ": {
+      "termA": {
+        "name": "Chutes"
+      },
+      "termB": {
+        "name": "Niagara"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Forêt D'Amazonie ": {
+      "termA": {
+        "name": "Forêt"
+      },
+      "termB": {
+        "name": "Amazonie"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Désert D'Atacama ": {
+      "termA": {
+        "name": "Désert"
+      },
+      "termB": {
+        "name": "Atacama"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Palais DE Versailles ": {
+      "termA": {
+        "name": "Palais"
+      },
+      "termB": {
+        "name": "Versailles"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Acropole D'Athènes ": {
+      "termA": {
+        "name": "Acropole"
+      },
+      "termB": {
+        "name": "Athènes"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lac DU Baïkal ": {
+      "termA": {
+        "name": "Lac"
+      },
+      "termB": {
+        "name": "Baïkal"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Volcan DE Hawaï ": {
+      "termA": {
+        "name": "Volcan"
+      },
+      "termB": {
+        "name": "Hawaï"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pont DE Lisbonne ": {
+      "termA": {
+        "name": "Pont"
+      },
+      "termB": {
+        "name": "Lisbonne"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Îles DES Galápagos ": {
+      "termA": {
+        "name": "Îles"
+      },
+      "termB": {
+        "name": "Galápagos"
+      },
+      "prep": "DES",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Glacier DE Patagonie ": {
+      "termA": {
+        "name": "Glacier"
+      },
+      "termB": {
+        "name": "Patagonie"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Marché DE Marrakech ": {
+      "termA": {
+        "name": "Marché"
+      },
+      "termB": {
+        "name": "Marrakech"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tour DE Londres ": {
+      "termA": {
+        "name": "Tour"
+      },
+      "termB": {
+        "name": "Londres"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cathédrale DE Moscou ": {
+      "termA": {
+        "name": "Cathédrale"
+      },
+      "termB": {
+        "name": "Moscou"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plage DE Bali ": {
+      "termA": {
+        "name": "Plage"
+      },
+      "termB": {
+        "name": "Bali"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Temple DE Kyoto ": {
+      "termA": {
+        "name": "Temple"
+      },
+      "termB": {
+        "name": "Kyoto"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Canyon DU Colorado ": {
+      "termA": {
+        "name": "Canyon"
+      },
+      "termB": {
+        "name": "Colorado"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Château DE Bavière ": {
+      "termA": {
+        "name": "Château"
+      },
+      "termB": {
+        "name": "Bavière"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Falaise D'Irlande ": {
+      "termA": {
+        "name": "Falaise"
+      },
+      "termB": {
+        "name": "Irlande"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Souk DE Dubaï ": {
+      "termA": {
+        "name": "Souk"
+      },
+      "termB": {
+        "name": "Dubaï"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pont DE San Francisco ": {
+      "termA": {
+        "name": "Pont"
+      },
+      "termB": {
+        "name": "San"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mont DU Fuji ": {
+      "termA": {
+        "name": "Mont"
+      },
+      "termB": {
+        "name": "Fuji"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ruines DE Pétra ": {
+      "termA": {
+        "name": "Ruines"
+      },
+      "termB": {
+        "name": "Pétra"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Delta DU Mékong ": {
+      "termA": {
+        "name": "Delta"
+      },
+      "termB": {
+        "name": "Mékong"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Grottes DE Cappadoce ": {
+      "termA": {
+        "name": "Grottes"
+      },
+      "termB": {
+        "name": "Cappadoce"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parc DE Yellowstone ": {
+      "termA": {
+        "name": "Parc"
+      },
+      "termB": {
+        "name": "Yellowstone"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Temple D'Égypte ": {
+      "termA": {
+        "name": "Temple"
+      },
+      "termB": {
+        "name": "Égypte"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Île DE Santorin ": {
+      "termA": {
+        "name": "Île"
+      },
+      "termB": {
+        "name": "Santorin"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vallée DE Napa ": {
+      "termA": {
+        "name": "Vallée"
+      },
+      "termB": {
+        "name": "Napa"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Forêt DE Schwarzwald ": {
+      "termA": {
+        "name": "Forêt"
+      },
+      "termB": {
+        "name": "Schwarzwald"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plage DE Copacabana ": {
+      "termA": {
+        "name": "Plage"
+      },
+      "termB": {
+        "name": "Copacabana"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tour DE Dubaï ": {
+      "termA": {
+        "name": "Tour"
+      },
+      "termB": {
+        "name": "Dubaï"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lac DE Côme ": {
+      "termA": {
+        "name": "Lac"
+      },
+      "termB": {
+        "name": "Côme"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Volcan D'Etna ": {
+      "termA": {
+        "name": "Volcan"
+      },
+      "termB": {
+        "name": "Etna"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fjord DE Milford ": {
+      "termA": {
+        "name": "Fjord"
+      },
+      "termB": {
+        "name": "Milford"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Palais DE Bangkok ": {
+      "termA": {
+        "name": "Palais"
+      },
+      "termB": {
+        "name": "Bangkok"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Désert DE Gobi ": {
+      "termA": {
+        "name": "Désert"
+      },
+      "termB": {
+        "name": "Gobi"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Îles DE Phi Phi ": {
+      "termA": {
+        "name": "Îles"
+      },
+      "termB": {
+        "name": "Phi"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cathédrale DE Barcelone ": {
+      "termA": {
+        "name": "Cathédrale"
+      },
+      "termB": {
+        "name": "Barcelone"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Montagne DES Alpes ": {
+      "termA": {
+        "name": "Montagne"
+      },
+      "termB": {
+        "name": "Alpes"
+      },
+      "prep": "DES",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plage DE Miami ": {
+      "termA": {
+        "name": "Plage"
+      },
+      "termB": {
+        "name": "Miami"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Temple DE Bali ": {
+      "termA": {
+        "name": "Temple"
+      },
+      "termB": {
+        "name": "Bali"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rivière DU Nil ": {
+      "termA": {
+        "name": "Rivière"
+      },
+      "termB": {
+        "name": "Nil"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Château DE Loire ": {
+      "termA": {
+        "name": "Château"
+      },
+      "termB": {
+        "name": "Loire"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Île DE Pâques ": {
+      "termA": {
+        "name": "Île"
+      },
+      "termB": {
+        "name": "Pâques"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parc DE Serengeti ": {
+      "termA": {
+        "name": "Parc"
+      },
+      "termB": {
+        "name": "Serengeti"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pont DE Brooklyn ": {
+      "termA": {
+        "name": "Pont"
+      },
+      "termB": {
+        "name": "Brooklyn"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Forêt DU Congo ": {
+      "termA": {
+        "name": "Forêt"
+      },
+      "termB": {
+        "name": "Congo"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Marché DE Istanbul ": {
+      "termA": {
+        "name": "Marché"
+      },
+      "termB": {
+        "name": "Istanbul"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mont DE l'Everest ": {
+      "termA": {
+        "name": "Mont"
+      },
+      "termB": {
+        "name": "Everest"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Lac DE Genève ": {
+      "termA": {
+        "name": "Lac"
+      },
+      "termB": {
+        "name": "Genève"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ruines DE Machu Picchu ": {
+      "termA": {
+        "name": "Ruines"
+      },
+      "termB": {
+        "name": "Machu"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Désert DU Namib ": {
+      "termA": {
+        "name": "Désert"
+      },
+      "termB": {
+        "name": "Namib"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Temple DE Lhassa ": {
+      "termA": {
+        "name": "Temple"
+      },
+      "termB": {
+        "name": "Lhassa"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plage DE Bora Bora ": {
+      "termA": {
+        "name": "Plage"
+      },
+      "termB": {
+        "name": "Bora"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cathédrale DE Florence ": {
+      "termA": {
+        "name": "Cathédrale"
+      },
+      "termB": {
+        "name": "Florence"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fjord DE Geiranger ": {
+      "termA": {
+        "name": "Fjord"
+      },
+      "termB": {
+        "name": "Geiranger"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Palais DE Vienne ": {
+      "termA": {
+        "name": "Palais"
+      },
+      "termB": {
+        "name": "Vienne"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Îles DES Maldives ": {
+      "termA": {
+        "name": "Îles"
+      },
+      "termB": {
+        "name": "Maldives"
+      },
+      "prep": "DES",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Montagne DU Caucase ": {
+      "termA": {
+        "name": "Montagne"
+      },
+      "termB": {
+        "name": "Caucase"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rivière D'Amazonie ": {
+      "termA": {
+        "name": "Rivière"
+      },
+      "termB": {
+        "name": "Amazonie"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Château D'Écosse ": {
+      "termA": {
+        "name": "Château"
+      },
+      "termB": {
+        "name": "Écosse"
+      },
+      "prep": "D'",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parc DE Yosemite ": {
+      "termA": {
+        "name": "Parc"
+      },
+      "termB": {
+        "name": "Yosemite"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Temple DE Borobudur ": {
+      "termA": {
+        "name": "Temple"
+      },
+      "termB": {
+        "name": "Borobudur"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plage DE Phuket ": {
+      "termA": {
+        "name": "Plage"
+      },
+      "termB": {
+        "name": "Phuket"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tour DE Tokyo ": {
+      "termA": {
+        "name": "Tour"
+      },
+      "termB": {
+        "name": "Tokyo"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Désert DE Mojave ": {
+      "termA": {
+        "name": "Désert"
+      },
+      "termB": {
+        "name": "Mojave"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lac DU Titisee ": {
+      "termA": {
+        "name": "Lac"
+      },
+      "termB": {
+        "name": "Titisee"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cathédrale DE Prague ": {
+      "termA": {
+        "name": "Cathédrale"
+      },
+      "termB": {
+        "name": "Prague"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fjord DE Trolltunga ": {
+      "termA": {
+        "name": "Fjord"
+      },
+      "termB": {
+        "name": "Trolltunga"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Palais DE Pékin ": {
+      "termA": {
+        "name": "Palais"
+      },
+      "termB": {
+        "name": "Pékin"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Île DE Capri ": {
+      "termA": {
+        "name": "Île"
+      },
+      "termB": {
+        "name": "Capri"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Montagne DES Pyrénées ": {
+      "termA": {
+        "name": "Montagne"
+      },
+      "termB": {
+        "name": "Pyrénées"
+      },
+      "prep": "DES",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rivière DU Danube ": {
+      "termA": {
+        "name": "Rivière"
+      },
+      "termB": {
+        "name": "Danube"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Château DE Prague ": {
+      "termA": {
+        "name": "Château"
+      },
+      "termB": {
+        "name": "Prague"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parc DU Kruger ": {
+      "termA": {
+        "name": "Parc"
+      },
+      "termB": {
+        "name": "Kruger"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Temple DE Siem Reap ": {
+      "termA": {
+        "name": "Temple"
+      },
+      "termB": {
+        "name": "Siem"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plage DE Zanzibar ": {
+      "termA": {
+        "name": "Plage"
+      },
+      "termB": {
+        "name": "Zanzibar"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tour DE Séoul ": {
+      "termA": {
+        "name": "Tour"
+      },
+      "termB": {
+        "name": "Séoul"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Désert DU Kalahari ": {
+      "termA": {
+        "name": "Désert"
+      },
+      "termB": {
+        "name": "Kalahari"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lac DE Lucerne ": {
+      "termA": {
+        "name": "Lac"
+      },
+      "termB": {
+        "name": "Lucerne"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cathédrale DE Lisbonne ": {
+      "termA": {
+        "name": "Cathédrale"
+      },
+      "termB": {
+        "name": "Lisbonne"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fjord DE Sogne ": {
+      "termA": {
+        "name": "Fjord"
+      },
+      "termB": {
+        "name": "Sogne"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Palais DE Jaipur ": {
+      "termA": {
+        "name": "Palais"
+      },
+      "termB": {
+        "name": "Jaipur"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Île DE Hawaï ": {
+      "termA": {
+        "name": "Île"
+      },
+      "termB": {
+        "name": "Hawaï"
+      },
+      "prep": "DE",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    },
+    "Montagne DU Tibet ": {
+      "termA": {
+        "name": "Montagne"
+      },
+      "termB": {
+        "name": "Tibet"
+      },
+      "prep": "DU",
+      "relation_type": " r_lieu",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

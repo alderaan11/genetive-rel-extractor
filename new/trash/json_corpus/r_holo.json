@@ -1,0 +1,1169 @@
+{
+  "original_file": "../data/txt_sample/r_holo.txt",
+  "data": {
+    "Coque DU bateau ": {
+      "termA": {
+        "name": "Coque"
+      },
+      "termB": {
+        "name": "bateau"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écaille DU poisson ": {
+      "termA": {
+        "name": "Écaille"
+      },
+      "termB": {
+        "name": "poisson"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Roue DU vélo ": {
+      "termA": {
+        "name": "Roue"
+      },
+      "termB": {
+        "name": "vélo"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Page DU livre ": {
+      "termA": {
+        "name": "Page"
+      },
+      "termB": {
+        "name": "livre"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Branche D'arbre ": {
+      "termA": {
+        "name": "Branche"
+      },
+      "termB": {
+        "name": "arbre"
+      },
+      "prep": "D'",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Aile D'avion ": {
+      "termA": {
+        "name": "Aile"
+      },
+      "termB": {
+        "name": "avion"
+      },
+      "prep": "D'",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tête DU corps ": {
+      "termA": {
+        "name": "Tête"
+      },
+      "termB": {
+        "name": "corps"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fenêtre DU maison ": {
+      "termA": {
+        "name": "Fenêtre"
+      },
+      "termB": {
+        "name": "maison"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Feuille DE plante ": {
+      "termA": {
+        "name": "Feuille"
+      },
+      "termB": {
+        "name": "plante"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clé DU clavier ": {
+      "termA": {
+        "name": "Clé"
+      },
+      "termB": {
+        "name": "clavier"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pneu DU voiture ": {
+      "termA": {
+        "name": "Pneu"
+      },
+      "termB": {
+        "name": "voiture"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Touche DU piano ": {
+      "termA": {
+        "name": "Touche"
+      },
+      "termB": {
+        "name": "piano"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cheveu DE tête ": {
+      "termA": {
+        "name": "Cheveu"
+      },
+      "termB": {
+        "name": "tête"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Dalle DU sol ": {
+      "termA": {
+        "name": "Dalle"
+      },
+      "termB": {
+        "name": "sol"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vis DU meuble ": {
+      "termA": {
+        "name": "Vis"
+      },
+      "termB": {
+        "name": "meuble"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Corde DE guitare ": {
+      "termA": {
+        "name": "Corde"
+      },
+      "termB": {
+        "name": "guitare"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Plume D'oiseau ": {
+      "termA": {
+        "name": "Plume"
+      },
+      "termB": {
+        "name": "oiseau"
+      },
+      "prep": "D'",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Croc DU serpent ": {
+      "termA": {
+        "name": "Croc"
+      },
+      "termB": {
+        "name": "serpent"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Épine DU cactus ": {
+      "termA": {
+        "name": "Épine"
+      },
+      "termB": {
+        "name": "cactus"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écorce D'arbre ": {
+      "termA": {
+        "name": "Écorce"
+      },
+      "termB": {
+        "name": "arbre"
+      },
+      "prep": "D'",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Racine DE plante ": {
+      "termA": {
+        "name": "Racine"
+      },
+      "termB": {
+        "name": "plante"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Graine DU fruit ": {
+      "termA": {
+        "name": "Graine"
+      },
+      "termB": {
+        "name": "fruit"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Peau DU corps ": {
+      "termA": {
+        "name": "Peau"
+      },
+      "termB": {
+        "name": "corps"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Os DU squelette ": {
+      "termA": {
+        "name": "Os"
+      },
+      "termB": {
+        "name": "squelette"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Muscle DU bras ": {
+      "termA": {
+        "name": "Muscle"
+      },
+      "termB": {
+        "name": "bras"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Veine DU sang ": {
+      "termA": {
+        "name": "Veine"
+      },
+      "termB": {
+        "name": "sang"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Nerf DU système ": {
+      "termA": {
+        "name": "Nerf"
+      },
+      "termB": {
+        "name": "système"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cellule DU tissu ": {
+      "termA": {
+        "name": "Cellule"
+      },
+      "termB": {
+        "name": "tissu"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Atome DE molécule ": {
+      "termA": {
+        "name": "Atome"
+      },
+      "termB": {
+        "name": "molécule"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Proton DU noyau ": {
+      "termA": {
+        "name": "Proton"
+      },
+      "termB": {
+        "name": "noyau"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Électron DE atome ": {
+      "termA": {
+        "name": "Électron"
+      },
+      "termB": {
+        "name": "atome"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rouage DE machine ": {
+      "termA": {
+        "name": "Rouage"
+      },
+      "termB": {
+        "name": "machine"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vis DE moteur ": {
+      "termA": {
+        "name": "Vis"
+      },
+      "termB": {
+        "name": "moteur"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Batterie DU téléphone ": {
+      "termA": {
+        "name": "Batterie"
+      },
+      "termB": {
+        "name": "téléphone"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Écran D'ordinateur ": {
+      "termA": {
+        "name": "Écran"
+      },
+      "termB": {
+        "name": "ordinateur"
+      },
+      "prep": "D'",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Touche DU clavier ": {
+      "termA": {
+        "name": "Touche"
+      },
+      "termB": {
+        "name": "clavier"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fil DU câble ": {
+      "termA": {
+        "name": "Fil"
+      },
+      "termB": {
+        "name": "câble"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ampoule DE lampe ": {
+      "termA": {
+        "name": "Ampoule"
+      },
+      "termB": {
+        "name": "lampe"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Prise DU mur ": {
+      "termA": {
+        "name": "Prise"
+      },
+      "termB": {
+        "name": "mur"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brique DU mur ": {
+      "termA": {
+        "name": "Brique"
+      },
+      "termB": {
+        "name": "mur"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tuile DU toit ": {
+      "termA": {
+        "name": "Tuile"
+      },
+      "termB": {
+        "name": "toit"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Porte DE maison ": {
+      "termA": {
+        "name": "Porte"
+      },
+      "termB": {
+        "name": "maison"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Fenêtre D'immeuble ": {
+      "termA": {
+        "name": "Fenêtre"
+      },
+      "termB": {
+        "name": "immeuble"
+      },
+      "prep": "D'",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Escalier DU bâtiment ": {
+      "termA": {
+        "name": "Escalier"
+      },
+      "termB": {
+        "name": "bâtiment"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ascenseur DE tour ": {
+      "termA": {
+        "name": "Ascenseur"
+      },
+      "termB": {
+        "name": "tour"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chambre DU hôtel ": {
+      "termA": {
+        "name": "Chambre"
+      },
+      "termB": {
+        "name": "hôtel"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lit DE chambre ": {
+      "termA": {
+        "name": "Lit"
+      },
+      "termB": {
+        "name": "chambre"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Oreiller DU lit ": {
+      "termA": {
+        "name": "Oreiller"
+      },
+      "termB": {
+        "name": "lit"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Drap DE lit ": {
+      "termA": {
+        "name": "Drap"
+      },
+      "termB": {
+        "name": "lit"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Matelas DU sommier ": {
+      "termA": {
+        "name": "Matelas"
+      },
+      "termB": {
+        "name": "sommier"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Roue DE chaise ": {
+      "termA": {
+        "name": "Roue"
+      },
+      "termB": {
+        "name": "chaise"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Dossier DU siège ": {
+      "termA": {
+        "name": "Dossier"
+      },
+      "termB": {
+        "name": "siège"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Accoudoir DE fauteuil ": {
+      "termA": {
+        "name": "Accoudoir"
+      },
+      "termB": {
+        "name": "fauteuil"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tiroir DU bureau ": {
+      "termA": {
+        "name": "Tiroir"
+      },
+      "termB": {
+        "name": "bureau"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Étage DE bibliothèque ": {
+      "termA": {
+        "name": "Étage"
+      },
+      "termB": {
+        "name": "bibliothèque"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rayon DE étagère ": {
+      "termA": {
+        "name": "Rayon"
+      },
+      "termB": {
+        "name": "étagère"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Livre DE bibliothèque ": {
+      "termA": {
+        "name": "Livre"
+      },
+      "termB": {
+        "name": "bibliothèque"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chapitre DU livre ": {
+      "termA": {
+        "name": "Chapitre"
+      },
+      "termB": {
+        "name": "livre"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mot DE phrase ": {
+      "termA": {
+        "name": "Mot"
+      },
+      "termB": {
+        "name": "phrase"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Lettre DU mot ": {
+      "termA": {
+        "name": "Lettre"
+      },
+      "termB": {
+        "name": "mot"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Point DE phrase ": {
+      "termA": {
+        "name": "Point"
+      },
+      "termB": {
+        "name": "phrase"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Virgule DE texte ": {
+      "termA": {
+        "name": "Virgule"
+      },
+      "termB": {
+        "name": "texte"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ligne DU paragraphe ": {
+      "termA": {
+        "name": "Ligne"
+      },
+      "termB": {
+        "name": "paragraphe"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Page DE chapitre ": {
+      "termA": {
+        "name": "Page"
+      },
+      "termB": {
+        "name": "chapitre"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couverture DU livre ": {
+      "termA": {
+        "name": "Couverture"
+      },
+      "termB": {
+        "name": "livre"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Dos DE livre ": {
+      "termA": {
+        "name": "Dos"
+      },
+      "termB": {
+        "name": "livre"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Reliure DU cahier ": {
+      "termA": {
+        "name": "Reliure"
+      },
+      "termB": {
+        "name": "cahier"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Spirale DE cahier ": {
+      "termA": {
+        "name": "Spirale"
+      },
+      "termB": {
+        "name": "cahier"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Feuille DE cahier ": {
+      "termA": {
+        "name": "Feuille"
+      },
+      "termB": {
+        "name": "cahier"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Crayon DU stylo ": {
+      "termA": {
+        "name": "Crayon"
+      },
+      "termB": {
+        "name": "stylo"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Encre DE stylo ": {
+      "termA": {
+        "name": "Encre"
+      },
+      "termB": {
+        "name": "stylo"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mine DU crayon ": {
+      "termA": {
+        "name": "Mine"
+      },
+      "termB": {
+        "name": "crayon"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gomme DE crayon ": {
+      "termA": {
+        "name": "Gomme"
+      },
+      "termB": {
+        "name": "crayon"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Brosse DE pinceau ": {
+      "termA": {
+        "name": "Brosse"
+      },
+      "termB": {
+        "name": "pinceau"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poil DU pinceau ": {
+      "termA": {
+        "name": "Poil"
+      },
+      "termB": {
+        "name": "pinceau"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Toile DE tableau ": {
+      "termA": {
+        "name": "Toile"
+      },
+      "termB": {
+        "name": "tableau"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cadre DU tableau ": {
+      "termA": {
+        "name": "Cadre"
+      },
+      "termB": {
+        "name": "tableau"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Couleur DE peinture ": {
+      "termA": {
+        "name": "Couleur"
+      },
+      "termB": {
+        "name": "peinture"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pinceau DE palette ": {
+      "termA": {
+        "name": "Pinceau"
+      },
+      "termB": {
+        "name": "palette"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tube DE peinture ": {
+      "termA": {
+        "name": "Tube"
+      },
+      "termB": {
+        "name": "peinture"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Chevalet DU artiste ": {
+      "termA": {
+        "name": "Chevalet"
+      },
+      "termB": {
+        "name": "artiste"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Statue DE musée ": {
+      "termA": {
+        "name": "Statue"
+      },
+      "termB": {
+        "name": "musée"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Œuvre D'art ": {
+      "termA": {
+        "name": "Œuvre"
+      },
+      "termB": {
+        "name": "art"
+      },
+      "prep": "D'",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Note DE musique ": {
+      "termA": {
+        "name": "Note"
+      },
+      "termB": {
+        "name": "musique"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Accord DE chanson ": {
+      "termA": {
+        "name": "Accord"
+      },
+      "termB": {
+        "name": "chanson"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Strophe DU poème ": {
+      "termA": {
+        "name": "Strophe"
+      },
+      "termB": {
+        "name": "poème"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Vers DE strophe ": {
+      "termA": {
+        "name": "Vers"
+      },
+      "termB": {
+        "name": "strophe"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Rime DU poème ": {
+      "termA": {
+        "name": "Rime"
+      },
+      "termB": {
+        "name": "poème"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mot DE vers ": {
+      "termA": {
+        "name": "Mot"
+      },
+      "termB": {
+        "name": "vers"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Syllabe DU mot ": {
+      "termA": {
+        "name": "Syllabe"
+      },
+      "termB": {
+        "name": "mot"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Son DE syllabe ": {
+      "termA": {
+        "name": "Son"
+      },
+      "termB": {
+        "name": "syllabe"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Voix DE chanteur ": {
+      "termA": {
+        "name": "Voix"
+      },
+      "termB": {
+        "name": "chanteur"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Instrument DE orchestre ": {
+      "termA": {
+        "name": "Instrument"
+      },
+      "termB": {
+        "name": "orchestre"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Violon DU quatuor ": {
+      "termA": {
+        "name": "Violon"
+      },
+      "termB": {
+        "name": "quatuor"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Corde DU violon ": {
+      "termA": {
+        "name": "Corde"
+      },
+      "termB": {
+        "name": "violon"
+      },
+      "prep": "DU",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Arche DE violon ": {
+      "termA": {
+        "name": "Arche"
+      },
+      "termB": {
+        "name": "violon"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    },
+    "Clé DE violon ": {
+      "termA": {
+        "name": "Clé"
+      },
+      "termB": {
+        "name": "violon"
+      },
+      "prep": "DE",
+      "relation_type": " r_holo",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

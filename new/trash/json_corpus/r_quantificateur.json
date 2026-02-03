@@ -1,0 +1,1193 @@
+{
+  "original_file": "../data/txt_sample/r_quantificateur.txt",
+  "data": {
+    "Brin D'herbe ": {
+      "termA": {
+        "name": "Brin"
+      },
+      "termB": {
+        "name": "herbe"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Minute D'attente ": {
+      "termA": {
+        "name": "Minute"
+      },
+      "termB": {
+        "name": "attente"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Goutte D'eau ": {
+      "termA": {
+        "name": "Goutte"
+      },
+      "termB": {
+        "name": "eau"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Grain DE sable ": {
+      "termA": {
+        "name": "Grain"
+      },
+      "termB": {
+        "name": "sable"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Heure DE travail ": {
+      "termA": {
+        "name": "Heure"
+      },
+      "termB": {
+        "name": "travail"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pincée DE sel ": {
+      "termA": {
+        "name": "Pincée"
+      },
+      "termB": {
+        "name": "sel"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Morceau DE pain ": {
+      "termA": {
+        "name": "Morceau"
+      },
+      "termB": {
+        "name": "pain"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillère DE sucre ": {
+      "termA": {
+        "name": "Cuillère"
+      },
+      "termB": {
+        "name": "sucre"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tasse DE thé ": {
+      "termA": {
+        "name": "Tasse"
+      },
+      "termB": {
+        "name": "thé"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Verre DE vin ": {
+      "termA": {
+        "name": "Verre"
+      },
+      "termB": {
+        "name": "vin"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Kilomètre DE route ": {
+      "termA": {
+        "name": "Kilomètre"
+      },
+      "termB": {
+        "name": "route"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Litre D'huile ": {
+      "termA": {
+        "name": "Litre"
+      },
+      "termB": {
+        "name": "huile"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tranche DE fromage ": {
+      "termA": {
+        "name": "Tranche"
+      },
+      "termB": {
+        "name": "fromage"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poignée DE noix ": {
+      "termA": {
+        "name": "Poignée"
+      },
+      "termB": {
+        "name": "noix"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Feuille DE papier ": {
+      "termA": {
+        "name": "Feuille"
+      },
+      "termB": {
+        "name": "papier"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Branche D'arbre ": {
+      "termA": {
+        "name": "Branche"
+      },
+      "termB": {
+        "name": "arbre"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Touffe DE cheveux ": {
+      "termA": {
+        "name": "Touffe"
+      },
+      "termB": {
+        "name": "cheveux"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Jour DE repos ": {
+      "termA": {
+        "name": "Jour"
+      },
+      "termB": {
+        "name": "repos"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Seconde DE silence ": {
+      "termA": {
+        "name": "Seconde"
+      },
+      "termB": {
+        "name": "silence"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mètre DE tissu ": {
+      "termA": {
+        "name": "Mètre"
+      },
+      "termB": {
+        "name": "tissu"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Once DE beurre ": {
+      "termA": {
+        "name": "Once"
+      },
+      "termB": {
+        "name": "beurre"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Filet D'huile ": {
+      "termA": {
+        "name": "Filet"
+      },
+      "termB": {
+        "name": "huile"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bouchée DE gâteau ": {
+      "termA": {
+        "name": "Bouchée"
+      },
+      "termB": {
+        "name": "gâteau"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Grain DE riz ": {
+      "termA": {
+        "name": "Grain"
+      },
+      "termB": {
+        "name": "riz"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillerée DE miel ": {
+      "termA": {
+        "name": "Cuillerée"
+      },
+      "termB": {
+        "name": "miel"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tonne DE charbon ": {
+      "termA": {
+        "name": "Tonne"
+      },
+      "termB": {
+        "name": "charbon"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Centimètre DE neige ": {
+      "termA": {
+        "name": "Centimètre"
+      },
+      "termB": {
+        "name": "neige"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poussière DE farine ": {
+      "termA": {
+        "name": "Poussière"
+      },
+      "termB": {
+        "name": "farine"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gobelet D'eau ": {
+      "termA": {
+        "name": "Gobelet"
+      },
+      "termB": {
+        "name": "eau"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tranche DE viande ": {
+      "termA": {
+        "name": "Tranche"
+      },
+      "termB": {
+        "name": "viande"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poignée DE sable ": {
+      "termA": {
+        "name": "Poignée"
+      },
+      "termB": {
+        "name": "sable"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Année DE travail ": {
+      "termA": {
+        "name": "Année"
+      },
+      "termB": {
+        "name": "travail"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Goutte DE pluie ": {
+      "termA": {
+        "name": "Goutte"
+      },
+      "termB": {
+        "name": "pluie"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Morceau DE bois ": {
+      "termA": {
+        "name": "Morceau"
+      },
+      "termB": {
+        "name": "bois"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillère DE soupe ": {
+      "termA": {
+        "name": "Cuillère"
+      },
+      "termB": {
+        "name": "soupe"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Verre DE lait ": {
+      "termA": {
+        "name": "Verre"
+      },
+      "termB": {
+        "name": "lait"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Kilogramme DE fruits ": {
+      "termA": {
+        "name": "Kilogramme"
+      },
+      "termB": {
+        "name": "fruits"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Litre DE jus ": {
+      "termA": {
+        "name": "Litre"
+      },
+      "termB": {
+        "name": "jus"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pincée D'épices ": {
+      "termA": {
+        "name": "Pincée"
+      },
+      "termB": {
+        "name": "épices"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Feuille DE salade ": {
+      "termA": {
+        "name": "Feuille"
+      },
+      "termB": {
+        "name": "salade"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Touffe D'herbes ": {
+      "termA": {
+        "name": "Touffe"
+      },
+      "termB": {
+        "name": "herbes"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mois DE vacances ": {
+      "termA": {
+        "name": "Mois"
+      },
+      "termB": {
+        "name": "vacances"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Seconde DE réflexion ": {
+      "termA": {
+        "name": "Seconde"
+      },
+      "termB": {
+        "name": "réflexion"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mètre DE corde ": {
+      "termA": {
+        "name": "Mètre"
+      },
+      "termB": {
+        "name": "corde"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Once DE chocolat ": {
+      "termA": {
+        "name": "Once"
+      },
+      "termB": {
+        "name": "chocolat"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Filet DE vinaigre ": {
+      "termA": {
+        "name": "Filet"
+      },
+      "termB": {
+        "name": "vinaigre"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bouchée DE chocolat ": {
+      "termA": {
+        "name": "Bouchée"
+      },
+      "termB": {
+        "name": "chocolat"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Grain DE poivre ": {
+      "termA": {
+        "name": "Grain"
+      },
+      "termB": {
+        "name": "poivre"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillerée DE confiture ": {
+      "termA": {
+        "name": "Cuillerée"
+      },
+      "termB": {
+        "name": "confiture"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tonne DE pierre ": {
+      "termA": {
+        "name": "Tonne"
+      },
+      "termB": {
+        "name": "pierre"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Centimètre DE tissu ": {
+      "termA": {
+        "name": "Centimètre"
+      },
+      "termB": {
+        "name": "tissu"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poussière DE craie ": {
+      "termA": {
+        "name": "Poussière"
+      },
+      "termB": {
+        "name": "craie"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gobelet DE café ": {
+      "termA": {
+        "name": "Gobelet"
+      },
+      "termB": {
+        "name": "café"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tranche DE pain ": {
+      "termA": {
+        "name": "Tranche"
+      },
+      "termB": {
+        "name": "pain"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poignée DE terre ": {
+      "termA": {
+        "name": "Poignée"
+      },
+      "termB": {
+        "name": "terre"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Année D'études ": {
+      "termA": {
+        "name": "Année"
+      },
+      "termB": {
+        "name": "études"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Goutte DE sueur ": {
+      "termA": {
+        "name": "Goutte"
+      },
+      "termB": {
+        "name": "sueur"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Morceau DE tissu ": {
+      "termA": {
+        "name": "Morceau"
+      },
+      "termB": {
+        "name": "tissu"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillère DE farine ": {
+      "termA": {
+        "name": "Cuillère"
+      },
+      "termB": {
+        "name": "farine"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Verre D'eau ": {
+      "termA": {
+        "name": "Verre"
+      },
+      "termB": {
+        "name": "eau"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Kilogramme DE légumes ": {
+      "termA": {
+        "name": "Kilogramme"
+      },
+      "termB": {
+        "name": "légumes"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Litre DE bière ": {
+      "termA": {
+        "name": "Litre"
+      },
+      "termB": {
+        "name": "bière"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pincée DE poivre ": {
+      "termA": {
+        "name": "Pincée"
+      },
+      "termB": {
+        "name": "poivre"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Feuille DE menthe ": {
+      "termA": {
+        "name": "Feuille"
+      },
+      "termB": {
+        "name": "menthe"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Touffe DE laine ": {
+      "termA": {
+        "name": "Touffe"
+      },
+      "termB": {
+        "name": "laine"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mois DE repos ": {
+      "termA": {
+        "name": "Mois"
+      },
+      "termB": {
+        "name": "repos"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Seconde D'hésitation ": {
+      "termA": {
+        "name": "Seconde"
+      },
+      "termB": {
+        "name": "hésitation"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mètre DE fil ": {
+      "termA": {
+        "name": "Mètre"
+      },
+      "termB": {
+        "name": "fil"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Once DE fromage ": {
+      "termA": {
+        "name": "Once"
+      },
+      "termB": {
+        "name": "fromage"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Filet DE citron ": {
+      "termA": {
+        "name": "Filet"
+      },
+      "termB": {
+        "name": "citron"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bouchée DE fromage ": {
+      "termA": {
+        "name": "Bouchée"
+      },
+      "termB": {
+        "name": "fromage"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Grain DE café ": {
+      "termA": {
+        "name": "Grain"
+      },
+      "termB": {
+        "name": "café"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillerée DE crème ": {
+      "termA": {
+        "name": "Cuillerée"
+      },
+      "termB": {
+        "name": "crème"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tonne DE sable ": {
+      "termA": {
+        "name": "Tonne"
+      },
+      "termB": {
+        "name": "sable"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Centimètre DE pluie ": {
+      "termA": {
+        "name": "Centimètre"
+      },
+      "termB": {
+        "name": "pluie"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poussière DE pollen ": {
+      "termA": {
+        "name": "Poussière"
+      },
+      "termB": {
+        "name": "pollen"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Gobelet DE thé ": {
+      "termA": {
+        "name": "Gobelet"
+      },
+      "termB": {
+        "name": "thé"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tranche DE citron ": {
+      "termA": {
+        "name": "Tranche"
+      },
+      "termB": {
+        "name": "citron"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Poignée DE gravier ": {
+      "termA": {
+        "name": "Poignée"
+      },
+      "termB": {
+        "name": "gravier"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Année DE service ": {
+      "termA": {
+        "name": "Année"
+      },
+      "termB": {
+        "name": "service"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Goutte DE sang ": {
+      "termA": {
+        "name": "Goutte"
+      },
+      "termB": {
+        "name": "sang"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Morceau DE charbon ": {
+      "termA": {
+        "name": "Morceau"
+      },
+      "termB": {
+        "name": "charbon"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillère DE sel ": {
+      "termA": {
+        "name": "Cuillère"
+      },
+      "termB": {
+        "name": "sel"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Verre DE jus ": {
+      "termA": {
+        "name": "Verre"
+      },
+      "termB": {
+        "name": "jus"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Kilogramme DE viande ": {
+      "termA": {
+        "name": "Kilogramme"
+      },
+      "termB": {
+        "name": "viande"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Litre DE soupe ": {
+      "termA": {
+        "name": "Litre"
+      },
+      "termB": {
+        "name": "soupe"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Pincée DE curry ": {
+      "termA": {
+        "name": "Pincée"
+      },
+      "termB": {
+        "name": "curry"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Feuille DE thé ": {
+      "termA": {
+        "name": "Feuille"
+      },
+      "termB": {
+        "name": "thé"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Touffe DE paille ": {
+      "termA": {
+        "name": "Touffe"
+      },
+      "termB": {
+        "name": "paille"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mois DE formation ": {
+      "termA": {
+        "name": "Mois"
+      },
+      "termB": {
+        "name": "formation"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Seconde DE repos ": {
+      "termA": {
+        "name": "Seconde"
+      },
+      "termB": {
+        "name": "repos"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mètre DE ruban ": {
+      "termA": {
+        "name": "Mètre"
+      },
+      "termB": {
+        "name": "ruban"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Once DE sucre ": {
+      "termA": {
+        "name": "Once"
+      },
+      "termB": {
+        "name": "sucre"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Filet D'eau ": {
+      "termA": {
+        "name": "Filet"
+      },
+      "termB": {
+        "name": "eau"
+      },
+      "prep": "D'",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Bouchée DE viande ": {
+      "termA": {
+        "name": "Bouchée"
+      },
+      "termB": {
+        "name": "viande"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Grain DE sel ": {
+      "termA": {
+        "name": "Grain"
+      },
+      "termB": {
+        "name": "sel"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Cuillerée DE sirop ": {
+      "termA": {
+        "name": "Cuillerée"
+      },
+      "termB": {
+        "name": "sirop"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tonne DE gravier ": {
+      "termA": {
+        "name": "Tonne"
+      },
+      "termB": {
+        "name": "gravier"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    },
+    "Centimètre DE laine ": {
+      "termA": {
+        "name": "Centimètre"
+      },
+      "termB": {
+        "name": "laine"
+      },
+      "prep": "DE",
+      "relation_type": " r_quantificateur",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}

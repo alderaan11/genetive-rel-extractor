@@ -1,0 +1,1193 @@
+{
+  "original_file": "../data/txt_sample/r_social_tie.txt",
+  "data": {
+    "Avocat D'une femme battue ": {
+      "termA": {
+        "name": "Avocat"
+      },
+      "termB": {
+        "name": "femme"
+      },
+      "prep": "D'",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "UNE"
+    },
+    "Chef DU groupe ": {
+      "termA": {
+        "name": "Chef"
+      },
+      "termB": {
+        "name": "groupe"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DU patient ": {
+      "termA": {
+        "name": "Médecin"
+      },
+      "termB": {
+        "name": "patient"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Enseignant DES élèves ": {
+      "termA": {
+        "name": "Enseignant"
+      },
+      "termB": {
+        "name": "élèves"
+      },
+      "prep": "DES",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Parent D'un enfant ": {
+      "termA": {
+        "name": "Parent"
+      },
+      "termB": {
+        "name": "enfant"
+      },
+      "prep": "D'",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "UN"
+    },
+    "Ami DE l'ami ": {
+      "termA": {
+        "name": "Ami"
+      },
+      "termB": {
+        "name": "ami"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Patron DE l'employé ": {
+      "termA": {
+        "name": "Patron"
+      },
+      "termB": {
+        "name": "employé"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Capitaine DE l'équipe ": {
+      "termA": {
+        "name": "Capitaine"
+      },
+      "termB": {
+        "name": "équipe"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Avocat DU prévenu ": {
+      "termA": {
+        "name": "Avocat"
+      },
+      "termB": {
+        "name": "prévenu"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mentor DU stagiaire ": {
+      "termA": {
+        "name": "Mentor"
+      },
+      "termB": {
+        "name": "stagiaire"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Infirmier DU malade ": {
+      "termA": {
+        "name": "Infirmier"
+      },
+      "termB": {
+        "name": "malade"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Leader DU mouvement ": {
+      "termA": {
+        "name": "Leader"
+      },
+      "termB": {
+        "name": "mouvement"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Frère DE la sœur ": {
+      "termA": {
+        "name": "Frère"
+      },
+      "termB": {
+        "name": "sœur"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Mère DU bébé ": {
+      "termA": {
+        "name": "Mère"
+      },
+      "termB": {
+        "name": "bébé"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Coach DES athlètes ": {
+      "termA": {
+        "name": "Coach"
+      },
+      "termB": {
+        "name": "athlètes"
+      },
+      "prep": "DES",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Directeur DE l'entreprise ": {
+      "termA": {
+        "name": "Directeur"
+      },
+      "termB": {
+        "name": "entreprise"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Avocat DE l'accusé ": {
+      "termA": {
+        "name": "Avocat"
+      },
+      "termB": {
+        "name": "accusé"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Conseiller DU client ": {
+      "termA": {
+        "name": "Conseiller"
+      },
+      "termB": {
+        "name": "client"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Juge DE l'audience ": {
+      "termA": {
+        "name": "Juge"
+      },
+      "termB": {
+        "name": "audience"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Capitaine DU navire ": {
+      "termA": {
+        "name": "Capitaine"
+      },
+      "termB": {
+        "name": "navire"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Professeur DES étudiants ": {
+      "termA": {
+        "name": "Professeur"
+      },
+      "termB": {
+        "name": "étudiants"
+      },
+      "prep": "DES",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Manager DU projet ": {
+      "termA": {
+        "name": "Manager"
+      },
+      "termB": {
+        "name": "projet"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tuteur DU mineur ": {
+      "termA": {
+        "name": "Tuteur"
+      },
+      "termB": {
+        "name": "mineur"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Époux DE l'épouse ": {
+      "termA": {
+        "name": "Époux"
+      },
+      "termB": {
+        "name": "épouse"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Guide DU touriste ": {
+      "termA": {
+        "name": "Guide"
+      },
+      "termB": {
+        "name": "touriste"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DE famille ": {
+      "termA": {
+        "name": "Médecin"
+      },
+      "termB": {
+        "name": "famille"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Prêtre DE la paroisse ": {
+      "termA": {
+        "name": "Prêtre"
+      },
+      "termB": {
+        "name": "paroisse"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Ami DU voisin ": {
+      "termA": {
+        "name": "Ami"
+      },
+      "termB": {
+        "name": "voisin"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Superviseur DES ouvriers ": {
+      "termA": {
+        "name": "Superviseur"
+      },
+      "termB": {
+        "name": "ouvriers"
+      },
+      "prep": "DES",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Entraîneur DU joueur ": {
+      "termA": {
+        "name": "Entraîneur"
+      },
+      "termB": {
+        "name": "joueur"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Président DU comité ": {
+      "termA": {
+        "name": "Président"
+      },
+      "termB": {
+        "name": "comité"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Avocat DU plaignant ": {
+      "termA": {
+        "name": "Avocat"
+      },
+      "termB": {
+        "name": "plaignant"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mentor DE l'apprenti ": {
+      "termA": {
+        "name": "Mentor"
+      },
+      "termB": {
+        "name": "apprenti"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Infirmière DU patient ": {
+      "termA": {
+        "name": "Infirmière"
+      },
+      "termB": {
+        "name": "patient"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Leader DE l'équipe ": {
+      "termA": {
+        "name": "Leader"
+      },
+      "termB": {
+        "name": "équipe"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Sœur DU frère ": {
+      "termA": {
+        "name": "Sœur"
+      },
+      "termB": {
+        "name": "frère"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Père DE l'enfant ": {
+      "termA": {
+        "name": "Père"
+      },
+      "termB": {
+        "name": "enfant"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Coach DU coureur ": {
+      "termA": {
+        "name": "Coach"
+      },
+      "termB": {
+        "name": "coureur"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Directeur DU département ": {
+      "termA": {
+        "name": "Directeur"
+      },
+      "termB": {
+        "name": "département"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Avocat DE la victime ": {
+      "termA": {
+        "name": "Avocat"
+      },
+      "termB": {
+        "name": "victime"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Conseiller DU président ": {
+      "termA": {
+        "name": "Conseiller"
+      },
+      "termB": {
+        "name": "président"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Juge DU tribunal ": {
+      "termA": {
+        "name": "Juge"
+      },
+      "termB": {
+        "name": "tribunal"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Capitaine DE l'avion ": {
+      "termA": {
+        "name": "Capitaine"
+      },
+      "termB": {
+        "name": "avion"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Professeur DE l'école ": {
+      "termA": {
+        "name": "Professeur"
+      },
+      "termB": {
+        "name": "école"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Manager DE l'équipe ": {
+      "termA": {
+        "name": "Manager"
+      },
+      "termB": {
+        "name": "équipe"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Tuteur DE l'étudiant ": {
+      "termA": {
+        "name": "Tuteur"
+      },
+      "termB": {
+        "name": "étudiant"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Épouse DU mari ": {
+      "termA": {
+        "name": "Épouse"
+      },
+      "termB": {
+        "name": "mari"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Guide DES randonneurs ": {
+      "termA": {
+        "name": "Guide"
+      },
+      "termB": {
+        "name": "randonneurs"
+      },
+      "prep": "DES",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DU village ": {
+      "termA": {
+        "name": "Médecin"
+      },
+      "termB": {
+        "name": "village"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Prêtre DU diocèse ": {
+      "termA": {
+        "name": "Prêtre"
+      },
+      "termB": {
+        "name": "diocèse"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ami DE l'ami d'enfance ": {
+      "termA": {
+        "name": "Ami"
+      },
+      "termB": {
+        "name": "ami"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Superviseur DU chantier ": {
+      "termA": {
+        "name": "Superviseur"
+      },
+      "termB": {
+        "name": "chantier"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Entraîneur DE l'équipe ": {
+      "termA": {
+        "name": "Entraîneur"
+      },
+      "termB": {
+        "name": "équipe"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Président DE l'association ": {
+      "termA": {
+        "name": "Président"
+      },
+      "termB": {
+        "name": "association"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Avocat DU justiciable ": {
+      "termA": {
+        "name": "Avocat"
+      },
+      "termB": {
+        "name": "justiciable"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mentor DU jeune ": {
+      "termA": {
+        "name": "Mentor"
+      },
+      "termB": {
+        "name": "jeune"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Infirmier DE l'hôpital ": {
+      "termA": {
+        "name": "Infirmier"
+      },
+      "termB": {
+        "name": "hôpital"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Leader DU parti ": {
+      "termA": {
+        "name": "Leader"
+      },
+      "termB": {
+        "name": "parti"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Frère DU cadet ": {
+      "termA": {
+        "name": "Frère"
+      },
+      "termB": {
+        "name": "cadet"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mère DE l'adolescent ": {
+      "termA": {
+        "name": "Mère"
+      },
+      "termB": {
+        "name": "adolescent"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Coach DU gymnaste ": {
+      "termA": {
+        "name": "Coach"
+      },
+      "termB": {
+        "name": "gymnaste"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Directeur DE l'école ": {
+      "termA": {
+        "name": "Directeur"
+      },
+      "termB": {
+        "name": "école"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Avocat DE l'entreprise ": {
+      "termA": {
+        "name": "Avocat"
+      },
+      "termB": {
+        "name": "entreprise"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Conseiller DU maire ": {
+      "termA": {
+        "name": "Conseiller"
+      },
+      "termB": {
+        "name": "maire"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Juge DE la cour ": {
+      "termA": {
+        "name": "Juge"
+      },
+      "termB": {
+        "name": "cour"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Capitaine DU bateau ": {
+      "termA": {
+        "name": "Capitaine"
+      },
+      "termB": {
+        "name": "bateau"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Professeur DE l'université ": {
+      "termA": {
+        "name": "Professeur"
+      },
+      "termB": {
+        "name": "université"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Manager DU magasin ": {
+      "termA": {
+        "name": "Manager"
+      },
+      "termB": {
+        "name": "magasin"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Tuteur DU lycéen ": {
+      "termA": {
+        "name": "Tuteur"
+      },
+      "termB": {
+        "name": "lycéen"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Époux DE la femme ": {
+      "termA": {
+        "name": "Époux"
+      },
+      "termB": {
+        "name": "femme"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Guide DU groupe ": {
+      "termA": {
+        "name": "Guide"
+      },
+      "termB": {
+        "name": "groupe"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DE l'enfant ": {
+      "termA": {
+        "name": "Médecin"
+      },
+      "termB": {
+        "name": "enfant"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Prêtre DE l'église ": {
+      "termA": {
+        "name": "Prêtre"
+      },
+      "termB": {
+        "name": "église"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Ami DU collègue ": {
+      "termA": {
+        "name": "Ami"
+      },
+      "termB": {
+        "name": "collègue"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Superviseur DE l'atelier ": {
+      "termA": {
+        "name": "Superviseur"
+      },
+      "termB": {
+        "name": "atelier"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Entraîneur DU boxeur ": {
+      "termA": {
+        "name": "Entraîneur"
+      },
+      "termB": {
+        "name": "boxeur"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Président DU conseil ": {
+      "termA": {
+        "name": "Président"
+      },
+      "termB": {
+        "name": "conseil"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Avocat DU citoyen ": {
+      "termA": {
+        "name": "Avocat"
+      },
+      "termB": {
+        "name": "citoyen"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Mentor DU novice ": {
+      "termA": {
+        "name": "Mentor"
+      },
+      "termB": {
+        "name": "novice"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Infirmière DE la clinique ": {
+      "termA": {
+        "name": "Infirmière"
+      },
+      "termB": {
+        "name": "clinique"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Leader DU projet ": {
+      "termA": {
+        "name": "Leader"
+      },
+      "termB": {
+        "name": "projet"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Sœur DE l'aînée ": {
+      "termA": {
+        "name": "Sœur"
+      },
+      "termB": {
+        "name": "aînée"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Père DU bébé ": {
+      "termA": {
+        "name": "Père"
+      },
+      "termB": {
+        "name": "bébé"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Coach DE l'équipe ": {
+      "termA": {
+        "name": "Coach"
+      },
+      "termB": {
+        "name": "équipe"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Directeur DU musée ": {
+      "termA": {
+        "name": "Directeur"
+      },
+      "termB": {
+        "name": "musée"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Avocat DU client ": {
+      "termA": {
+        "name": "Avocat"
+      },
+      "termB": {
+        "name": "client"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Conseiller DE l'étudiant ": {
+      "termA": {
+        "name": "Conseiller"
+      },
+      "termB": {
+        "name": "étudiant"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Juge DU procès ": {
+      "termA": {
+        "name": "Juge"
+      },
+      "termB": {
+        "name": "procès"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Capitaine DE l'escouade ": {
+      "termA": {
+        "name": "Capitaine"
+      },
+      "termB": {
+        "name": "escouade"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Professeur DU collège ": {
+      "termA": {
+        "name": "Professeur"
+      },
+      "termB": {
+        "name": "collège"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Manager DE la boutique ": {
+      "termA": {
+        "name": "Manager"
+      },
+      "termB": {
+        "name": "boutique"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "LA"
+    },
+    "Tuteur DE l'apprenant ": {
+      "termA": {
+        "name": "Tuteur"
+      },
+      "termB": {
+        "name": "apprenant"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Épouse DU conjoint ": {
+      "termA": {
+        "name": "Épouse"
+      },
+      "termB": {
+        "name": "conjoint"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Guide DES visiteurs ": {
+      "termA": {
+        "name": "Guide"
+      },
+      "termB": {
+        "name": "visiteurs"
+      },
+      "prep": "DES",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Médecin DE l'adulte ": {
+      "termA": {
+        "name": "Médecin"
+      },
+      "termB": {
+        "name": "adulte"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Prêtre DU monastère ": {
+      "termA": {
+        "name": "Prêtre"
+      },
+      "termB": {
+        "name": "monastère"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Ami DU camarade ": {
+      "termA": {
+        "name": "Ami"
+      },
+      "termB": {
+        "name": "camarade"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    },
+    "Superviseur DE l'équipe ": {
+      "termA": {
+        "name": "Superviseur"
+      },
+      "termB": {
+        "name": "équipe"
+      },
+      "prep": "DE",
+      "relation_type": " r_social_tie",
+      "is_det": true,
+      "determinant": "L'"
+    },
+    "Entraîneur DU nageur ": {
+      "termA": {
+        "name": "Entraîneur"
+      },
+      "termB": {
+        "name": "nageur"
+      },
+      "prep": "DU",
+      "relation_type": " r_social_tie",
+      "is_det": false,
+      "determinant": null
+    }
+  }
+}
